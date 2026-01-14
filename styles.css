@@ -463,4 +463,16 @@ body{
   margin-left: auto;
   margin-right: auto;
 }
+.card--withThumb{
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 12px;
+  align-items: stretch;
+}
+.card__thumb{
+  border-radius: 14px;
+  background-size: cover;
+  background-position: center;
+  border: 1px solid rgba(255,255,255,0.08);
+}
 
