@@ -1,1 +1,82 @@
+<!-- =========================================================
+  IriLine Collective — ARTICLE PAGE
+  Loads article by id using /api/article?id=...
+========================================================= -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IriLine Collective — Story</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
 
+<body>
+  <header class="nav">
+    <div class="nav__brand">
+      <a class="nav__brandLink" href="index.html">
+        <span class="nav__logo">IriLine</span>
+        <span class="nav__sub">Collective</span>
+      </a>
+    </div>
+    <nav class="nav__links">
+      <a href="index.html#latest">Latest</a>
+      <a href="index.html#real">Real</a>
+      <a href="index.html#meme">Memes</a>
+    </nav>
+  </header>
+
+  <main class="article">
+    <div class="article__meta">
+      <span class="pill" id="aType">REAL</span>
+      <span class="pill pill--muted" id="aCategory">WORLD</span>
+      <span class="article__date" id="aDate"></span>
+    </div>
+
+    <h1 class="article__title" id="aTitle">Loading…</h1>
+    <p class="article__dek" id="aDek"></p>
+
+    <div class="article__byline">
+      By <strong id="aAuthor"></strong>
+      <span class="dot">•</span>
+      <a id="aSource" href="#" target="_blank" rel="noopener">Source link</a>
+    </div>
+
+    <article class="article__body" id="aBody"></article>
+
+    <div class="article__back">
+      <a class="btn btn--ghost" href="index.html">← Back to home</a>
+    </div>
+  </main>
+
+  <script>
+    async function loadArticle() {
+      const params = new URLSearchParams(location.search);
+      const id = params.get("id");
+      if (!id) return;
+
+      const res = await fetch(`/api/article?id=${encodeURIComponent(id)}`);
+      if (!res.ok) {
+        document.getElementById("aTitle").textContent = "Article not found.";
+        return;
+      }
+      const a = await res.json();
+
+      document.getElementById("aType").textContent = a.type || "REAL";
+      document.getElementById("aCategory").textContent = a.category || "GENERAL";
+      document.getElementById("aDate").textContent = a.date || "";
+      document.getElementById("aTitle").textContent = a.title || "";
+      document.getElementById("aDek").textContent = a.dek || "";
+      document.getElementById("aAuthor").textContent = a.author || "IriLine Desk";
+
+      const src = document.getElementById("aSource");
+      src.href = a.sourceLink || "#";
+
+      // Preserve line breaks in body
+      const body = (a.body || "").split("\n").map(p => `<p>${p}</p>`).join("");
+      document.getElementById("aBody").innerHTML = body;
+    }
+    loadArticle();
+  </script>
+</body>
+</html>
