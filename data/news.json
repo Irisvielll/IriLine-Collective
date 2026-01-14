@@ -1,1 +1,31 @@
+{
+  "articles": [
+    {
+      "id": "hero_001",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Markets steady as investors watch central bank signals",
+      "dek": "Key sectors drift upward while analysts weigh upcoming policy statements.",
+      "body": "Full article text goes here...\n\nAdd paragraphs as needed. Keep it clean and readable.",
+      "author": "IriLine Desk",
+      "date": "2026-01-14",
+      "hero": true,
+      "image": "",
+      "sourceLink": "https://example.com"
+    },
+    {
+      "id": "meme_101",
+      "type": "MEME",
+      "category": "INTERNET",
+      "title": "Local toaster achieves sentience, demands better bread",
+      "dek": "Sources confirm it now refuses to toast anything below ‘artisan’.",
+      "body": "Witnesses say the toaster beeped twice in disapproval.\n\nExperts call it 'deeply relatable.'",
+      "author": "Meme Bureau",
+      "date": "2026-01-14",
+      "hero": false,
+      "image": "",
+      "sourceLink": "https://example.com"
+    }
+  ]
+}
 
