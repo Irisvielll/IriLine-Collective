@@ -1,1 +1,153 @@
+<!-- =========================================================
+  IriLine Collective — INDEX
+  MAIN SCREEN:
+  - Big hero headline + context + link button
+  - Constantly shifting ticker (readable pace)
+  - Right banner ads (slow shift)
+  - Scroll lower: more news + previous news
+========================================================= -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IriLine Collective — News & Memes</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <!-- =======================
+    TOP NAV
+  ======================== -->
+  <header class="nav">
+    <div class="nav__brand">
+      <span class="nav__logo">IriLine</span>
+      <span class="nav__sub">Collective</span>
+    </div>
+
+    <nav class="nav__links">
+      <a href="#latest">Latest</a>
+      <a href="#real">Real</a>
+      <a href="#meme">Memes</a>
+      <a href="#archive">Archive</a>
+    </nav>
+  </header>
+
+  <!-- =======================
+    TICKER (CONSTANTLY SHIFTS)
+    - JS fills items
+    - CSS animation scrolls left
+  ======================== -->
+  <section class="ticker" aria-label="Breaking ticker">
+    <div class="ticker__label">LIVE</div>
+    <div class="ticker__viewport">
+      <div id="tickerTrack" class="ticker__track">
+        <!-- ticker items injected by app.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- =======================
+    HERO + RIGHT ADS LAYOUT
+  ======================== -->
+  <main class="layout">
+    <!-- =======================
+      LEFT: HERO FEATURE
+      BIG TEXT + CONTEXT + LINK
+    ======================== -->
+    <section class="hero" id="hero">
+      <div class="hero__overlay"></div>
+
+      <div class="hero__content">
+        <!-- Label like the sample (category tag) -->
+        <div class="hero__kicker" id="heroCategory">DIVINITY</div>
+
+        <!-- Big headline -->
+        <h1 class="hero__title" id="heroTitle">
+          THE GODS ARE SILENT. RIVELLION BLEEDS. NEW POWERS STIR.
+        </h1>
+
+        <!-- Small context -->
+        <p class="hero__dek" id="heroDek">
+          Built by the team who brought you… (placeholder). This is where your context goes.
+        </p>
+
+        <!-- Link button -->
+        <a class="btn" id="heroLink" href="article.html?id=hero_001">
+          READ STORY
+        </a>
+      </div>
+    </section>
+
+    <!-- =======================
+      RIGHT: ADS (SHIFT SLOWLY)
+      - Top: Ad1–Ad3
+      - Lower: "Rental homes" Ad4–Ad6
+    ======================== -->
+    <aside class="ads">
+      <div class="ads__block">
+        <div class="ads__title">Sponsored</div>
+        <div class="adCard" id="adTop">
+          <!-- injected by app.js -->
+        </div>
+      </div>
+
+      <div class="ads__block ads__block--rentals">
+        <div class="ads__title">Rental homes</div>
+        <div class="adCard" id="adRentals">
+          <!-- injected by app.js -->
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <!-- =======================
+    LOWER SECTIONS (SCROLL)
+    More news + previous news
+    Click cards -> article.html?id=...
+  ======================== -->
+  <section class="section" id="latest">
+    <div class="section__head">
+      <h2>Latest</h2>
+      <p>Fresh drops from reality and the meme dimension.</p>
+    </div>
+    <div class="grid" id="latestGrid"></div>
+  </section>
+
+  <section class="section" id="real">
+    <div class="section__head">
+      <h2>Real News</h2>
+      <p>Serious updates. Clean summaries.</p>
+    </div>
+    <div class="grid" id="realGrid"></div>
+  </section>
+
+  <section class="section" id="meme">
+    <div class="section__head">
+      <h2>Meme News</h2>
+      <p>Satire, chaos, and headlines that shouldn’t exist.</p>
+    </div>
+    <div class="grid" id="memeGrid"></div>
+  </section>
+
+  <section class="section" id="archive">
+    <div class="section__head">
+      <h2>Archive</h2>
+      <p>Older stories load as you scroll.</p>
+    </div>
+    <div class="grid" id="archiveGrid"></div>
+
+    <div class="loadMoreWrap">
+      <button class="btn btn--ghost" id="loadMoreBtn">Load more</button>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div>© <span id="year"></span> IriLine Collective</div>
+    <div class="footer__muted">British Racing Green • Warm Cream • Jet Black</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
 
