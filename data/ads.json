@@ -1,1 +1,13 @@
+{
+  "topAds": [
+    { "title": "Ad 1: Tailored Watches", "text": "Minimal. Classic. Unapologetic.", "link": "#" },
+    { "title": "Ad 2: Coffee Membership", "text": "Premium beans, zero drama.", "link": "#" },
+    { "title": "Ad 3: Leather Notebook", "text": "Write like you mean it.", "link": "#" }
+  ],
+  "rentalAds": [
+    { "title": "Ad 4: Studio in the City", "text": "Walkable. Quiet. Classy.", "link": "#" },
+    { "title": "Ad 5: Suburban Home", "text": "Green yard. Strong Wi-Fi.", "link": "#" },
+    { "title": "Ad 6: Loft Rental", "text": "High ceilings. Higher standards.", "link": "#" }
+  ]
+}
 
