@@ -1,1 +1,22 @@
+{
+  "latest": {
+    "rss": [
+      "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "https://www.reutersagency.com/feed/?best-topics=world&post_type=best"
+    ]
+  },
+  "sports": {
+    "rss": [
+      "https://www.espn.com/espn/rss/news"
+    ],
+    "keywords_injury": ["injury", "out", "ruled out", "ACL", "hamstring", "fracture"]
+  },
+  "meme": {
+    "rss": [
+      "https://www.reddit.com/r/nottheonion/.rss",
+      "https://www.reddit.com/r/WeirdNews/.rss"
+    ],
+    "caption_max_words": 6
+  }
+}
 
