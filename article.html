@@ -49,34 +49,40 @@
     </div>
   </main>
 
-  <script>
-    async function loadArticle() {
-      const params = new URLSearchParams(location.search);
-      const id = params.get("id");
-      if (!id) return;
+ <script>
+  async function loadAll() {
+    const live = await (await fetch("data/live.json", {cache:"no-store"})).json();
+    const arch = await (await fetch("data/archive.json", {cache:"no-store"})).json();
+    const all = (live.items || []).concat(arch.items || []);
+    return all;
+  }
 
-      const res = await fetch(`/api/article?id=${encodeURIComponent(id)}`);
-      if (!res.ok) {
-        document.getElementById("aTitle").textContent = "Article not found.";
-        return;
-      }
-      const a = await res.json();
+  async function loadArticle() {
+    const params = new URLSearchParams(location.search);
+    const id = params.get("id");
+    if (!id) return;
 
-      document.getElementById("aType").textContent = a.type || "REAL";
-      document.getElementById("aCategory").textContent = a.category || "GENERAL";
-      document.getElementById("aDate").textContent = a.date || "";
-      document.getElementById("aTitle").textContent = a.title || "";
-      document.getElementById("aDek").textContent = a.dek || "";
-      document.getElementById("aAuthor").textContent = a.author || "IriLine Desk";
+    const all = await loadAll();
+    const a = all.find(x => x.id === id);
 
-      const src = document.getElementById("aSource");
-      src.href = a.sourceLink || "#";
-
-      // Preserve line breaks in body
-      const body = (a.body || "").split("\n").map(p => `<p>${p}</p>`).join("");
-      document.getElementById("aBody").innerHTML = body;
+    if (!a) {
+      document.getElementById("aTitle").textContent = "Article not found.";
+      return;
     }
-    loadArticle();
-  </script>
-</body>
-</html>
+
+    document.getElementById("aType").textContent = a.type || "REAL";
+    document.getElementById("aCategory").textContent = a.category || a.sectionLabel || "GENERAL";
+    document.getElementById("aDate").textContent = a.publishedAt || "";
+    document.getElementById("aTitle").textContent = a.title || "";
+    document.getElementById("aDek").textContent = a.dek || "";
+    document.getElementById("aAuthor").textContent = a.author || "IriLine Desk";
+
+    const src = document.getElementById("aSource");
+    src.href = a.sourceUrl || "#";
+
+    const body = (a.body || "").split("\n").map(p => `<p>${p}</p>`).join("");
+    document.getElementById("aBody").innerHTML = body;
+  }
+
+  loadArticle().catch(console.error);
+</script>
