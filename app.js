@@ -62,7 +62,13 @@ function fadeSwapHero(nextItem) {
 
 function buildCard(item) {
   const card = document.createElement("div");
-  card.className = "card";
+  card.className = "card card--withThumb";
+
+  const thumb = document.createElement("div");
+  thumb.className = "card__thumb";
+  thumb.style.backgroundImage = `url("${item.image || ""}")`;
+
+  const right = document.createElement("div");
 
   const meta = document.createElement("div");
   meta.className = "card__meta";
@@ -90,9 +96,12 @@ function buildCard(item) {
   link.href = `article.html?id=${encodeURIComponent(item.id)}`;
   link.textContent = "Open story →";
 
-  card.append(meta, title, dek, link);
+  right.append(meta, title, dek, link);
+
+  card.append(thumb, right);
   return card;
 }
+
 
 function fillGrid(gridId, items) {
   const grid = document.getElementById(gridId);
