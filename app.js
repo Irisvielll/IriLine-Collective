@@ -15,7 +15,191 @@ function el(tag, className, html) {
   if (html !== undefined) x.innerHTML = html;
   return x;
 }
+// ==============================
+// DATA SOURCES (GitHub Pages)
+// ==============================
+const LIVE_URL = "data/live.json";
+const ARCHIVE_URL = "data/archive.json";
 
+// Rotation settings
+const HERO_ROTATE_MS = 9000;   // readable pace
+const HERO_FADE_MS = 450;
+
+// Keep hero rotating between these sections
+const HERO_SOURCES = ["LATEST", "SPORTS", "MEME"];
+
+// ==============================
+// Helpers
+// ==============================
+function qs(id) { return document.getElementById(id); }
+
+function safeText(x) { return (x ?? "").toString(); }
+
+function setHero(item) {
+  // You already have these IDs in index.html
+  qs("heroCategory").textContent = safeText(item.sectionLabel || item.category || item.type || "FEATURE");
+  qs("heroTitle").textContent = safeText(item.title);
+  qs("heroDek").textContent = safeText(item.dek);
+  qs("heroLink").href = `article.html?id=${encodeURIComponent(item.id)}`;
+
+  // Optional: set a background image per hero story if your CSS supports it
+  // Example: set CSS variable used by .hero background
+  if (item.image) {
+    qs("hero").style.backgroundImage =
+      `linear-gradient(90deg, rgba(15,15,15,0.86) 0%, rgba(15,15,15,0.52) 55%, rgba(15,15,15,0.20) 100%), url("${item.image}")`;
+  }
+}
+
+function fadeSwapHero(nextItem) {
+  const hero = qs("hero");
+  hero.style.transition = `opacity ${HERO_FADE_MS}ms ease`;
+  hero.style.opacity = "0";
+  setTimeout(() => {
+    setHero(nextItem);
+    hero.style.opacity = "1";
+  }, HERO_FADE_MS);
+}
+
+function buildCard(item) {
+  const card = document.createElement("div");
+  card.className = "card";
+
+  const meta = document.createElement("div");
+  meta.className = "card__meta";
+
+  const typePill = document.createElement("span");
+  typePill.className = "pill " + (item.type === "MEME" ? "pill--meme" : "");
+  typePill.textContent = item.type;
+
+  const catPill = document.createElement("span");
+  catPill.className = "pill pill--muted";
+  catPill.textContent = item.category || item.sectionLabel || "GENERAL";
+
+  meta.append(typePill, catPill);
+
+  const title = document.createElement("h3");
+  title.className = "card__title";
+  title.textContent = item.title;
+
+  const dek = document.createElement("p");
+  dek.className = "card__dek";
+  dek.textContent = item.dek;
+
+  const link = document.createElement("a");
+  link.className = "card__link";
+  link.href = `article.html?id=${encodeURIComponent(item.id)}`;
+  link.textContent = "Open story →";
+
+  card.append(meta, title, dek, link);
+  return card;
+}
+
+function fillGrid(gridId, items) {
+  const grid = document.getElementById(gridId);
+  if (!grid) return;
+  grid.innerHTML = "";
+  items.forEach(i => grid.appendChild(buildCard(i)));
+}
+
+function fillTicker(items) {
+  const track = document.getElementById("tickerTrack");
+  if (!track) return;
+  track.innerHTML = "";
+
+  // duplicate list for continuous scroll
+  const doubled = items.concat(items);
+
+  doubled.forEach(item => {
+    const node = document.createElement("div");
+    node.className = "ticker__item";
+
+    const pill = document.createElement("span");
+    pill.className = "ticker__pill";
+    pill.textContent = `${item.type} • ${item.category || item.sectionLabel || "GENERAL"}`;
+
+    const a = document.createElement("a");
+    a.className = "ticker__link";
+    a.href = `article.html?id=${encodeURIComponent(item.id)}`;
+    a.textContent = item.title;
+
+    node.append(pill, a);
+    track.appendChild(node);
+  });
+}
+
+// ==============================
+// Main init
+// ==============================
+let liveData = null;
+let heroPool = [];
+let heroIndex = 0;
+let heroTimer = null;
+
+async function loadJSON(url) {
+  const r = await fetch(url, { cache: "no-store" });
+  if (!r.ok) throw new Error(`Failed: ${url}`);
+  return await r.json();
+}
+
+function pickHeroPool(items) {
+  const bySection = {};
+  HERO_SOURCES.forEach(s => (bySection[s] = []));
+
+  items.forEach(it => {
+    if (bySection[it.section]) bySection[it.section].push(it);
+  });
+
+  // pick up to 2 from each section, newest first
+  const pool = [];
+  HERO_SOURCES.forEach(s => {
+    bySection[s]
+      .sort((a,b) => (b.publishedAt || "").localeCompare(a.publishedAt || ""))
+      .slice(0, 2)
+      .forEach(x => pool.push(x));
+  });
+
+  return pool.length ? pool : items.slice(0, 5);
+}
+
+function startHeroRotation() {
+  if (heroTimer) clearInterval(heroTimer);
+  heroTimer = setInterval(() => {
+    if (!heroPool.length) return;
+    heroIndex = (heroIndex + 1) % heroPool.length;
+    fadeSwapHero(heroPool[heroIndex]);
+  }, HERO_ROTATE_MS);
+}
+
+async function init() {
+  // Load live + archive
+  liveData = await loadJSON(LIVE_URL);
+  const items = liveData.items || [];
+
+  // Fill hero & ticker
+  heroPool = pickHeroPool(items);
+  heroIndex = 0;
+  setHero(heroPool[heroIndex]);
+  startHeroRotation();
+
+  // Ticker uses top 10 newest
+  fillTicker(items.slice(0, 10));
+
+  // Fill sections (you can rename Not-So-Serious News label in HTML)
+  fillGrid("latestGrid", items.filter(x => x.section === "LATEST").slice(0, 9));
+  fillGrid("realGrid", items.filter(x => x.section === "LATEST").slice(0, 9));
+  fillGrid("memeGrid", items.filter(x => x.section === "MEME").slice(0, 9));
+
+  // Archive
+  const archive = await loadJSON(ARCHIVE_URL);
+  fillGrid("archiveGrid", (archive.items || []).slice(0, 12));
+
+  // Year
+  const y = document.getElementById("year");
+  if (y) y.textContent = String(new Date().getFullYear());
+}
+
+init().catch(err => console.error(err));
+}
 function makeCard(a) {
   const card = el("div", "card");
 
