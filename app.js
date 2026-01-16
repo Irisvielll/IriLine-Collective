@@ -65,13 +65,17 @@ function setHero(item) {
 
 function fadeSwapHero(nextItem) {
   const hero = qs("hero");
-  hero.style.transition = `opacity ${HERO_FADE_MS}ms ease`;
+
+  hero.style.transform = "scale(1.015)";
   hero.style.opacity = "0";
+
   setTimeout(() => {
     setHero(nextItem);
     hero.style.opacity = "1";
+    hero.style.transform = "scale(1)";
   }, HERO_FADE_MS);
 }
+
 // =====================================================================================================================================================================================================================
 function buildCard(item) {
   const card = document.createElement("div");
