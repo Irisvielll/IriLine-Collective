@@ -216,7 +216,7 @@ function startHeroRotation() {
 }
 
 async function init() {
-  // Load live + archive
+  // Load live + archive==========================================================================================================================
   liveData = await loadJSON(LIVE_URL);
   const items = liveData.items || [];
 
@@ -402,4 +402,26 @@ async function init() {
 }
 
 init();
+function setupTabs(items) {
+  const tabs = document.querySelectorAll(".tab");
+  const grid = document.getElementById("latestGrid");
+
+  tabs.forEach(tab => {
+    tab.addEventListener("click", () => {
+      tabs.forEach(t => t.classList.remove("active"));
+      tab.classList.add("active");
+
+      const section = tab.dataset.section;
+      const filtered = items.filter(i => i.section === section);
+
+      grid.style.opacity = "0";
+      setTimeout(() => {
+        grid.innerHTML = "";
+        filtered.slice(0, 9).forEach(i => grid.appendChild(buildCard(i)));
+        grid.style.opacity = "1";
+      }, 180);
+    });
+  });
+}
+setupTabs(items);
 
