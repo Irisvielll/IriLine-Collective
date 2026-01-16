@@ -482,3 +482,28 @@ body{
   border-color: #8B1E1E;
   letter-spacing: 1px;
 }
+.section__tabs{
+  display: flex;
+  gap: 12px;
+}
+
+.tab{
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.15);
+  padding: 8px 14px;
+  border-radius: 999px;
+  color: inherit;
+  font-weight: 800;
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.tab.active{
+  background: var(--green);
+  color: var(--cream);
+  opacity: 1;
+}
+
+.grid{
+  transition: opacity 180ms ease;
+}
