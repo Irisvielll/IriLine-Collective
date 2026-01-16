@@ -31,6 +31,19 @@ const HERO_SOURCES = ["LATEST", "SPORTS", "MEME"];
 // ==============================
 // Helpers
 // ==============================
+function timeAgo(iso) {
+  if (!iso) return "";
+  const now = new Date();
+  const then = new Date(iso);
+  const diff = Math.floor((now - then) / 1000);
+
+  if (diff < 60) return "Just now";
+  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+  return `${Math.floor(diff / 86400)}d ago`;
+}
+
+
 function qs(id) { return document.getElementById(id); }
 
 function safeText(x) { return (x ?? "").toString(); }
@@ -59,7 +72,7 @@ function fadeSwapHero(nextItem) {
     hero.style.opacity = "1";
   }, HERO_FADE_MS);
 }
-
+// =====================================================================================================================================================================================================================
 function buildCard(item) {
   const card = document.createElement("div");
   card.className = "card card--withThumb";
@@ -73,6 +86,18 @@ function buildCard(item) {
   const meta = document.createElement("div");
   meta.className = "card__meta";
 
+  const isBreaking =
+  item.publishedAt &&
+  (Date.now() - new Date(item.publishedAt)) < 30 * 60 * 1000;
+
+
+  if (isBreaking) {
+  const breaking = document.createElement("span");
+  breaking.className = "pill pill--breaking";
+  breaking.textContent = "BREAKING";
+  meta.appendChild(breaking);
+}
+
   const typePill = document.createElement("span");
   typePill.className = "pill " + (item.type === "MEME" ? "pill--meme" : "");
   typePill.textContent = item.type;
@@ -82,6 +107,17 @@ function buildCard(item) {
   catPill.textContent = item.category || item.sectionLabel || "GENERAL";
 
   meta.append(typePill, catPill);
+
+  const time = document.createElement("span");
+time.className = "card__time";
+time.textContent = timeAgo(item.publishedAt);
+meta.appendChild(time);
+.card__time{
+  margin-left: auto;
+  font-size: 11px;
+  opacity: 0.65;
+  font-weight: 700;
+}
 
   const title = document.createElement("h3");
   title.className = "card__title";
