@@ -150,8 +150,10 @@ body{
   border-radius: var(--radius);
   overflow:hidden;
   box-shadow: var(--shadow);
+   will-change: transform, opacity;
+  transition: opacity 450ms ease;
 
-  /* Background image look similar to sample (dark, cinematic) */
+  /* Background image look similar to sample (dark, cinematic)============================================================================================================================================== */
   background:
     linear-gradient(90deg, rgba(15,15,15,0.86) 0%, rgba(15,15,15,0.52) 55%, rgba(15,15,15,0.20) 100%),
     url("https://images.unsplash.com/photo-1520975958225-6b0b3c6f0f61?auto=format&fit=crop&w=1600&q=70");
