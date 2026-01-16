@@ -406,6 +406,7 @@ async function init() {
 }
 
 init();
+// Tab switch function
 function setupTabs(items) {
   const tabs = document.querySelectorAll(".tab");
   const grid = document.getElementById("latestGrid");
@@ -418,14 +419,15 @@ function setupTabs(items) {
       const section = tab.dataset.section;
       const filtered = items.filter(i => i.section === section);
 
-      grid.style.opacity = "0";
+      grid.style.opacity = "0";  // fade out current grid
       setTimeout(() => {
         grid.innerHTML = "";
         filtered.slice(0, 9).forEach(i => grid.appendChild(buildCard(i)));
-        grid.style.opacity = "1";
-      }, 180);
+        grid.style.opacity = "1";  // fade back in
+      }, 180);  // Small delay to allow opacity change
     });
   });
 }
+
 setupTabs(items);
 
