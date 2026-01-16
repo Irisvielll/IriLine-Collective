@@ -476,3 +476,9 @@ body{
   border: 1px solid rgba(255,255,255,0.08);
 }
 
+.pill--breaking{
+  background: #8B1E1E;
+  color: #fff;
+  border-color: #8B1E1E;
+  letter-spacing: 1px;
+}
