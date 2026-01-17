@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-17T20:54:35+00:00",
+  "generatedAt": "2026-01-17T21:19:14+00:00",
   "items": [
     {
       "id": "latest_8382590583",
@@ -17,6 +17,20 @@
     },
     {
       "id": "latest_3687699589",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US judge restricts ICE response to Minneapolis protesters",
+      "dek": "The legal order comes ahead of planned weekend protests and counter protests in the city amid ongoing immigration enforcement actions.",
+      "body": "US judge restricts ICE response to Minneapolis protesters\n\nSummary:\nThe legal order comes ahead of planned weekend protests and counter protests in the city amid ongoing immigration enforcement actions.\n\nRead the original source for full context.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-17T20:27:19+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgprwlplqwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "latest_8294036179",
       "section": "LATEST",
       "sectionLabel": "Latest",
       "type": "REAL",
@@ -422,6 +436,20 @@
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     },
     {
+      "id": "meme_3518394392",
+      "section": "MEME",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "RFK Jr. Orders Study on Cellphone Radiation as FDA Drops Assurance That Phones Are Not Dangerous",
+      "dek": "&#32; submitted by &#32; /u/StemCellPirate [link]",
+      "body": "RFK Jr. Orders Study on Cellphone Radiation as FDA Drops Assurance That Phones Are Not Dangerous\n\nContext: &#32; submitted by &#32; /u/StemCellPirate [link] &#32; [comments]",
+      "author": "Meme Bureau",
+      "publishedAt": "2026-01-17T17:16:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qfix5x/rfk_jr_orders_study_on_cellphone_radiation_as_fda/",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
       "id": "latest_4291627698",
       "section": "LATEST",
       "sectionLabel": "Latest",
@@ -478,6 +506,34 @@
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     },
     {
+      "id": "sports_5997641054",
+      "section": "SPORTS",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "INJURY",
+      "title": "Fiorentina's U.S. owner Commisso dies at 76",
+      "dek": "Rocco Commisso, the outspoken owner of Italian soccer club Fiorentina and chairman of New York-based Mediacom Communications, has died. He was 76.",
+      "body": "Fiorentina's U.S. owner Commisso dies at 76\n\nSummary:\nRocco Commisso, the outspoken owner of Italian soccer club Fiorentina and chairman of New York-based Mediacom Communications, has died. He was 76.\n\nRead the original source for full context.",
+      "author": "IriLine Sports",
+      "publishedAt": "2026-01-17T15:52:57+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47640147/rocco-commisso-fiorentina-owner-mediacom-chairman-dies-76",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "sports_8752275673",
+      "section": "SPORTS",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "INJURY",
+      "title": "🏈 Inside Mike Tomlin's decision to walk away",
+      "dek": "'It was dead silent' when the coach stunned the Steelers' locker room. Here's what we know about what's next.",
+      "body": "🏈 Inside Mike Tomlin's decision to walk away\n\nSummary:\n'It was dead silent' when the coach stunned the Steelers' locker room. Here's what we know about what's next.\n\nRead the original source for full context.",
+      "author": "IriLine Sports",
+      "publishedAt": "2026-01-17T15:52:57+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47622479/inside-pittsburgh-steelers-coach-mike-tomlin-decision-walk-away-step-last-game",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
       "id": "sports_7538949810",
       "section": "SPORTS",
       "sectionLabel": "Sports",
@@ -503,62 +559,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-17T15:35:41+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47622479/inside-pittsburgh-steelers-coach-mike-tomlin-decision-walk-away-step-last-game",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_1424165136",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Fiorentina's U.S. owner Commisso dies at 76",
-      "dek": "Rocco Commisso, the outspoken owner of Italian soccer club Fiorentina and chairman of New York-based Mediacom Communications, has died. He was 76.",
-      "body": "Fiorentina's U.S. owner Commisso dies at 76\n\nSummary:\nRocco Commisso, the outspoken owner of Italian soccer club Fiorentina and chairman of New York-based Mediacom Communications, has died. He was 76.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-17T15:35:41+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47640147/rocco-commisso-fiorentina-owner-mediacom-chairman-dies-76",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_2266525742",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "🏈 Inside Mike Tomlin's decision to walk away",
-      "dek": "'It was dead silent' when the coach stunned the Steelers' locker room. Here's what we know about what's next.",
-      "body": "🏈 Inside Mike Tomlin's decision to walk away\n\nSummary:\n'It was dead silent' when the coach stunned the Steelers' locker room. Here's what we know about what's next.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-17T15:35:41+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47622479/inside-pittsburgh-steelers-coach-mike-tomlin-decision-walk-away-step-last-game",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_3471740779",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US starts selling Venezuelan oil and will manage the profits",
-      "dek": "&#32; submitted by &#32; /u/rarer_ [link]",
-      "body": "US starts selling Venezuelan oil and will manage the profits\n\nContext: &#32; submitted by &#32; /u/rarer_ [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-17T15:28:52+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qfg3a2/us_starts_selling_venezuelan_oil_and_will_manage/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_2099964578",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US starts selling Venezuelan oil and will manage the profits",
-      "dek": "&#32; submitted by &#32; /u/rarer_ [link]",
-      "body": "US starts selling Venezuelan oil and will manage the profits\n\nContext: &#32; submitted by &#32; /u/rarer_ [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-17T15:28:52+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qfg3a2/us_starts_selling_venezuelan_oil_and_will_manage/",
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
