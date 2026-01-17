@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-17T09:41:45+00:00",
+  "generatedAt": "2026-01-17T09:52:52+00:00",
   "items": [
     {
       "id": "latest_2232328351",
@@ -17,6 +17,20 @@
     },
     {
       "id": "latest_9851439491",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Police deny claims Uganda opposition leader abducted by helicopter",
+      "dek": "Uganda's president is cruising to victory with most of the votes counted as his main rival Bobi Wine decries \"fake results\".",
+      "body": "Police deny claims Uganda opposition leader abducted by helicopter\n\nSummary:\nUganda's president is cruising to victory with most of the votes counted as his main rival Bobi Wine decries \"fake results\".\n\nRead the original source for full context.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-17T09:10:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20z3nx4xwqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "latest_2258443527",
       "section": "LATEST",
       "sectionLabel": "Latest",
       "type": "REAL",
@@ -157,6 +171,20 @@
     },
     {
       "id": "meme_3281307327",
+      "section": "MEME",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Gary, Indiana pitches three sites for new Chicago Bears stadium",
+      "dek": "&#32; submitted by &#32; /u/Firecracker048 [link]",
+      "body": "Gary, Indiana pitches three sites for new Chicago Bears stadium\n\nContext: &#32; submitted by &#32; /u/Firecracker048 [link] &#32; [comments]",
+      "author": "Meme Bureau",
+      "publishedAt": "2026-01-17T05:33:57+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qf4uar/gary_indiana_pitches_three_sites_for_new_chicago/",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "meme_1373528152",
       "section": "MEME",
       "sectionLabel": "Not-So-Serious",
       "type": "MEME",
@@ -394,6 +422,20 @@
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     },
     {
+      "id": "meme_7141331925",
+      "section": "MEME",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Skeletal remains that washed up on Washington beach identified as Oregon mayor who vanished 20 years ago",
+      "dek": "&#32; submitted by &#32; /u/Third_Harmonic [link]",
+      "body": "Skeletal remains that washed up on Washington beach identified as Oregon mayor who vanished 20 years ago\n\nContext: &#32; submitted by &#32; /u/Third_Harmonic [link] &#32; [comments]",
+      "author": "Meme Bureau",
+      "publishedAt": "2026-01-17T03:28:15+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qf26nr/skeletal_remains_that_washed_up_on_washington/",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
       "id": "meme_1799958589",
       "section": "MEME",
       "sectionLabel": "Not-So-Serious",
@@ -517,48 +559,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-17T01:01:06+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/47635724/jordan-kyrou-scores-shootout-blues-snap-lightning-streak-11",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_2047965630",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Seahawks HC 'really optimistic' QB Darnold plays",
-      "dek": "Seahawks coach Mike Macdonald said Friday that he's \"really optimistic\" Sam Darnold will play Saturday against the 49ers despite a new oblique injury.",
-      "body": "Seahawks HC 'really optimistic' QB Darnold plays\n\nSummary:\nSeahawks coach Mike Macdonald said Friday that he's \"really optimistic\" Sam Darnold will play Saturday against the 49ers despite a new oblique injury.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-17T01:01:06+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47633795/mike-macdonald-optimistic-qb-sam-darnold-oblique-plays-vs-49ers",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_1000383436",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Blues halt Lightning's run on Kyrou's shootout goal",
-      "dek": "Jordan Kyrou scored the only goal in a shootout, and the St. Louis Blues beat Tampa Bay 3-2 to snap the Lightning's franchise-record-tying 11-game win streak.",
-      "body": "Blues halt Lightning's run on Kyrou's shootout goal\n\nSummary:\nJordan Kyrou scored the only goal in a shootout, and the St. Louis Blues beat Tampa Bay 3-2 to snap the Lightning's franchise-record-tying 11-game win streak.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-17T01:01:06+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47635724/jordan-kyrou-scores-shootout-blues-snap-lightning-streak-11",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_6345836882",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Seahawks HC 'really optimistic' QB Darnold plays",
-      "dek": "Seahawks coach Mike Macdonald said Friday that he's \"really optimistic\" Sam Darnold will play Saturday against the 49ers despite a new oblique injury.",
-      "body": "Seahawks HC 'really optimistic' QB Darnold plays\n\nSummary:\nSeahawks coach Mike Macdonald said Friday that he's \"really optimistic\" Sam Darnold will play Saturday against the 49ers despite a new oblique injury.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-17T01:01:06+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47633795/mike-macdonald-optimistic-qb-sam-darnold-oblique-plays-vs-49ers",
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
