@@ -1,6 +1,34 @@
 {
-  "generatedAt": "2026-01-17T06:57:51+00:00",
+  "generatedAt": "2026-01-17T07:26:24+00:00",
   "items": [
+    {
+      "id": "latest_2317912222",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "dek": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
+      "body": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE\n\nSummary:\nIt comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.\n\nRead the original source for full context.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-17T07:22:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "latest_7861315560",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Armed group robs Pokémon store in New York City",
+      "dek": "Multiple hooded and masked people ransacked Pokémon merchandise and smashed glass card displays at the Manhattan shop.",
+      "body": "Watch: Armed group robs Pokémon store in New York City\n\nSummary:\nMultiple hooded and masked people ransacked Pokémon merchandise and smashed glass card displays at the Manhattan shop.\n\nRead the original source for full context.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-17T06:48:57+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cy09vjjx8glo?at_medium=RSS&at_campaign=rss",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
     {
       "id": "latest_9612274675",
       "section": "LATEST",
@@ -156,6 +184,20 @@
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     },
     {
+      "id": "meme_7723037808",
+      "section": "MEME",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Skeletal remains that washed up on Washington beach identified as Oregon mayor who vanished 20 years ago",
+      "dek": "&#32; submitted by &#32; /u/Third_Harmonic [link]",
+      "body": "Skeletal remains that washed up on Washington beach identified as Oregon mayor who vanished 20 years ago\n\nContext: &#32; submitted by &#32; /u/Third_Harmonic [link] &#32; [comments]",
+      "author": "Meme Bureau",
+      "publishedAt": "2026-01-17T03:28:15+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qf26nr/skeletal_remains_that_washed_up_on_washington/",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
       "id": "meme_1799958589",
       "section": "MEME",
       "sectionLabel": "Not-So-Serious",
@@ -297,6 +339,34 @@
     },
     {
       "id": "sports_1000383436",
+      "section": "SPORTS",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "INJURY",
+      "title": "Blues halt Lightning's run on Kyrou's shootout goal",
+      "dek": "Jordan Kyrou scored the only goal in a shootout, and the St. Louis Blues beat Tampa Bay 3-2 to snap the Lightning's franchise-record-tying 11-game win streak.",
+      "body": "Blues halt Lightning's run on Kyrou's shootout goal\n\nSummary:\nJordan Kyrou scored the only goal in a shootout, and the St. Louis Blues beat Tampa Bay 3-2 to snap the Lightning's franchise-record-tying 11-game win streak.\n\nRead the original source for full context.",
+      "author": "IriLine Sports",
+      "publishedAt": "2026-01-17T01:01:06+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47635724/jordan-kyrou-scores-shootout-blues-snap-lightning-streak-11",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "sports_6345836882",
+      "section": "SPORTS",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "INJURY",
+      "title": "Seahawks HC 'really optimistic' QB Darnold plays",
+      "dek": "Seahawks coach Mike Macdonald said Friday that he's \"really optimistic\" Sam Darnold will play Saturday against the 49ers despite a new oblique injury.",
+      "body": "Seahawks HC 'really optimistic' QB Darnold plays\n\nSummary:\nSeahawks coach Mike Macdonald said Friday that he's \"really optimistic\" Sam Darnold will play Saturday against the 49ers despite a new oblique injury.\n\nRead the original source for full context.",
+      "author": "IriLine Sports",
+      "publishedAt": "2026-01-17T01:01:06+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47633795/mike-macdonald-optimistic-qb-sam-darnold-oblique-plays-vs-49ers",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "sports_7601106391",
       "section": "SPORTS",
       "sectionLabel": "Sports",
       "type": "REAL",
@@ -489,76 +559,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-16T23:16:31+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/47633684/caps-gm-says-ovechkin-future-talk-wait-amid-playoff-push",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_5455554432",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Staring over the edge': South Carolina measles outbreak doubles within a week",
-      "dek": "&#32; submitted by &#32; /u/Superb_Trainer_2967 [link]",
-      "body": "'Staring over the edge': South Carolina measles outbreak doubles within a week\n\nContext: &#32; submitted by &#32; /u/Superb_Trainer_2967 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-16T22:53:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qeuy1e/staring_over_the_edge_south_carolina_measles/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_6931238829",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Staring over the edge': South Carolina measles outbreak doubles within a week",
-      "dek": "&#32; submitted by &#32; /u/Superb_Trainer_2967 [link]",
-      "body": "'Staring over the edge': South Carolina measles outbreak doubles within a week\n\nContext: &#32; submitted by &#32; /u/Superb_Trainer_2967 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-16T22:53:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qeuy1e/staring_over_the_edge_south_carolina_measles/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_2502913449",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Staring over the edge': South Carolina measles outbreak doubles within a week",
-      "dek": "&#32; submitted by &#32; /u/Superb_Trainer_2967 [link]",
-      "body": "'Staring over the edge': South Carolina measles outbreak doubles within a week\n\nContext: &#32; submitted by &#32; /u/Superb_Trainer_2967 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-16T22:53:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qeuy1e/staring_over_the_edge_south_carolina_measles/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_6159894637",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Staring over the edge': South Carolina measles outbreak doubles within a week",
-      "dek": "&#32; submitted by &#32; /u/Superb_Trainer_2967 [link]",
-      "body": "'Staring over the edge': South Carolina measles outbreak doubles within a week\n\nContext: &#32; submitted by &#32; /u/Superb_Trainer_2967 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-16T22:53:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qeuy1e/staring_over_the_edge_south_carolina_measles/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_601005755",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Staring over the edge': South Carolina measles outbreak doubles within a week",
-      "dek": "&#32; submitted by &#32; /u/Superb_Trainer_2967 [link]",
-      "body": "'Staring over the edge': South Carolina measles outbreak doubles within a week\n\nContext: &#32; submitted by &#32; /u/Superb_Trainer_2967 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-16T22:53:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qeuy1e/staring_over_the_edge_south_carolina_measles/",
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
