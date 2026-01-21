@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-21T07:05:39+00:00",
+  "generatedAt": "2026-01-21T07:44:16+00:00",
   "items": [
     {
       "id": "latest_2171372843",
@@ -170,7 +170,35 @@
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     },
     {
+      "id": "meme_7215280553",
+      "section": "MEME",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Women fires gun in the air because she couldn't clear it.",
+      "dek": "&#32; submitted by &#32; /u/ForSquirel [link]",
+      "body": "Women fires gun in the air because she couldn't clear it.\n\nContext: &#32; submitted by &#32; /u/ForSquirel [link] &#32; [comments]",
+      "author": "Meme Bureau",
+      "publishedAt": "2026-01-21T02:30:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qilkwb/women_fires_gun_in_the_air_because_she_couldnt/",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
       "id": "sports_3776823158",
+      "section": "SPORTS",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "INJURY",
+      "title": "NFL execs predict 2026 moves: Lamar Jackson, A.J. Brown trades coming?",
+      "dek": "We asked NFL executives to make bold predictions about this offseason and next season. Could we see two superstar trades?",
+      "body": "NFL execs predict 2026 moves: Lamar Jackson, A.J. Brown trades coming?\n\nSummary:\nWe asked NFL executives to make bold predictions about this offseason and next season. Could we see two superstar trades?\n\nRead the original source for full context.",
+      "author": "IriLine Sports",
+      "publishedAt": "2026-01-21T01:46:35+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47665433/nfl-execs-2026-moves-predict-aj-brown-bills",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "sports_7437926393",
       "section": "SPORTS",
       "sectionLabel": "Sports",
       "type": "REAL",
@@ -310,6 +338,20 @@
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     },
     {
+      "id": "meme_199683671",
+      "section": "MEME",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "B.C. driver caught speeding in car 'held together with duct tape and wishful thinking': police",
+      "dek": "&#32; submitted by &#32; /u/Disorderly_Fashion [link]",
+      "body": "B.C. driver caught speeding in car 'held together with duct tape and wishful thinking': police\n\nContext: &#32; submitted by &#32; /u/Disorderly_Fashion [link] &#32; [comments]",
+      "author": "Meme Bureau",
+      "publishedAt": "2026-01-20T23:41:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qihlyr/bc_driver_caught_speeding_in_car_held_together/",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
       "id": "sports_5887737506",
       "section": "SPORTS",
       "sectionLabel": "Sports",
@@ -366,6 +408,20 @@
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     },
     {
+      "id": "sports_134271264",
+      "section": "SPORTS",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "INJURY",
+      "title": "Dubs don't envision Butler trade despite ACL tear",
+      "dek": "Warriors GM Mike Dunleavy told reporters he has no plans to move Jimmy Butler's contract at the trade deadline, despite the veteran forward suffering a season-ending ACL tear.",
+      "body": "Dubs don't envision Butler trade despite ACL tear\n\nSummary:\nWarriors GM Mike Dunleavy told reporters he has no plans to move Jimmy Butler's contract at the trade deadline, despite the veteran forward suffering a season-ending ACL tear.\n\nRead the original source for full context.",
+      "author": "IriLine Sports",
+      "publishedAt": "2026-01-20T23:36:37+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47677694/warriors-envision-trading-butler-acl-tear",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
       "id": "sports_9693064674",
       "section": "SPORTS",
       "sectionLabel": "Sports",
@@ -409,6 +465,20 @@
     },
     {
       "id": "sports_7008949661",
+      "section": "SPORTS",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "INJURY",
+      "title": "Former Bama standout sues NCAA over eligibility",
+      "dek": "Charles Bediako, who entered the 2023 NBA draft and played in the G League, has sued the NCAA to gain reinstatement to join the Crimson Tide.",
+      "body": "Former Bama standout sues NCAA over eligibility\n\nSummary:\nCharles Bediako, who entered the 2023 NBA draft and played in the G League, has sued the NCAA to gain reinstatement to join the Crimson Tide.\n\nRead the original source for full context.",
+      "author": "IriLine Sports",
+      "publishedAt": "2026-01-20T23:36:35+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47677338/former-alabama-g-league-player-sues-ncaa-eligibility",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+    },
+    {
+      "id": "sports_7457020078",
       "section": "SPORTS",
       "sectionLabel": "Sports",
       "type": "REAL",
@@ -479,76 +549,6 @@
     },
     {
       "id": "meme_4238126628",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games",
-      "dek": "&#32; submitted by &#32; /u/Mysterious_Brush1852 [link]",
-      "body": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games\n\nContext: &#32; submitted by &#32; /u/Mysterious_Brush1852 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-20T23:00:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qigk92/nintendo_demanded_sega_to_put_marios_foot_in/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_452540374",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games",
-      "dek": "&#32; submitted by &#32; /u/Mysterious_Brush1852 [link]",
-      "body": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games\n\nContext: &#32; submitted by &#32; /u/Mysterious_Brush1852 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-20T23:00:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qigk92/nintendo_demanded_sega_to_put_marios_foot_in/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_4021600896",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games",
-      "dek": "&#32; submitted by &#32; /u/Mysterious_Brush1852 [link]",
-      "body": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games\n\nContext: &#32; submitted by &#32; /u/Mysterious_Brush1852 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-20T23:00:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qigk92/nintendo_demanded_sega_to_put_marios_foot_in/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_1193121052",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games",
-      "dek": "&#32; submitted by &#32; /u/Mysterious_Brush1852 [link]",
-      "body": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games\n\nContext: &#32; submitted by &#32; /u/Mysterious_Brush1852 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-20T23:00:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qigk92/nintendo_demanded_sega_to_put_marios_foot_in/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_3455186759",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games",
-      "dek": "&#32; submitted by &#32; /u/Mysterious_Brush1852 [link]",
-      "body": "Nintendo demanded SEGA to put Mario's foot in front of Sonic's for Mario & Sonic at the Olympic Games\n\nContext: &#32; submitted by &#32; /u/Mysterious_Brush1852 [link] &#32; [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-20T23:00:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qigk92/nintendo_demanded_sega_to_put_marios_foot_in/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_2453091354",
       "section": "MEME",
       "sectionLabel": "Not-So-Serious",
       "type": "MEME",
