@@ -225,12 +225,16 @@ async function init() {
   const items = liveData.items || [];
 
   // Fill hero & ticker
-  heroPool = pickHeroPool(items);
+  heroPool = pickHeroPool(items);  // pick hero items based on sections
   heroIndex = 0;
+  
+  // Set the first hero from the pool
   setHero(heroPool[heroIndex]);
-  startHeroRotation();
 
-  // Ticker uses top 10 newest
+  // Start the rotation
+  startHeroRotation();  // Rotation starts immediately
+
+  // Fill ticker with the top 10 newest
   fillTicker(items.slice(0, 10));
 
   // Fill sections (you can rename Not-So-Serious News label in HTML)
@@ -238,14 +242,26 @@ async function init() {
   fillGrid("realGrid", items.filter(x => x.section === "LATEST").slice(0, 9));
   fillGrid("memeGrid", items.filter(x => x.section === "MEME").slice(0, 9));
 
-  // Archive
+  // Archive grid loading
   const archive = await loadJSON(ARCHIVE_URL);
   fillGrid("archiveGrid", (archive.items || []).slice(0, 12));
 
-  // Year
+  // Set year
   const y = document.getElementById("year");
   if (y) y.textContent = String(new Date().getFullYear());
 }
+
+// Hero rotation logic:
+function startHeroRotation() {
+  if (heroTimer) clearInterval(heroTimer); // Reset previous rotation if exists
+  
+  heroTimer = setInterval(() => {
+    if (!heroPool.length) return;  // Prevent errors if pool is empty
+    heroIndex = (heroIndex + 1) % heroPool.length;  // Cycle through heroPool
+    fadeSwapHero(heroPool[heroIndex]);  // Update the hero content
+  }, 3 * 60 * 60 * 1000); // 3 hours interval (3 hours * 60 mins * 60 secs * 1000 ms)
+}
+
 
 init().catch(err => console.error(err));
 }
@@ -431,21 +447,3 @@ function setupTabs(items) {
 
 setupTabs(items);
 
-fetch("data/live.json")
-  .then(response => response.json())
-  .then(liveData => {
-    const heroItems = liveData.items.filter(i =>
-      ["LATEST", "SPORTS", "MEME"].includes(i.section)
-    );
-
-    let heroIndex = 0;
-
-    function rotateHero() {
-      const item = heroItems[heroIndex % heroItems.length];
-      renderHero(item);
-      heroIndex++;
-    }
-
-    rotateHero();
-    setInterval(rotateHero, 3 * 60 * 60 * 1000); // every 3 hours
-  });
