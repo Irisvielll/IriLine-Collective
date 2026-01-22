@@ -46,14 +46,13 @@ def summarize_safe(title: str, description: str, section: str):
     base = clean_text(description) or clean_text(title)
 
     if section == "MEME":
-        # Short caption 3–6 words, funny but not hateful
-        # Keep it simple and human-ish
-        caption = base
-        words = caption.split()
-        if len(words) > 6:
-            caption = " ".join(words[:6])
-        if len(caption.split()) < 3:
-            caption = "This should not exist"
+        # Meme section with short captions
+        caption = random.choice([
+            "Reality glitches again",
+            "Timeline officially cursed",
+            "No context required",
+            "Someone explain this",
+        ])
         return {
             "title": clean_text(title)[:120],
             "dek": caption,
@@ -61,8 +60,6 @@ def summarize_safe(title: str, description: str, section: str):
         }
 
     # “Latest” and “Sports”: concise summary
-    # 1) lead sentence
-    # 2) second sentence: detail / context
     lead = clean_text(title)
     detail = base
     if len(detail) > 220:
