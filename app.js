@@ -431,3 +431,21 @@ function setupTabs(items) {
 
 setupTabs(items);
 
+fetch("data/live.json")
+  .then(response => response.json())
+  .then(liveData => {
+    const heroItems = liveData.items.filter(i =>
+      ["LATEST", "SPORTS", "MEME"].includes(i.section)
+    );
+
+    let heroIndex = 0;
+
+    function rotateHero() {
+      const item = heroItems[heroIndex % heroItems.length];
+      renderHero(item);
+      heroIndex++;
+    }
+
+    rotateHero();
+    setInterval(rotateHero, 3 * 60 * 60 * 1000); // every 3 hours
+  });
