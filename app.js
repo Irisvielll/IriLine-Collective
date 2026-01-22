@@ -219,47 +219,85 @@ function startHeroRotation() {
   }, HERO_ROTATE_MS);
 }
 
+// Main init function
 async function init() {
   // Load live + archive==========================================================================================================================
   liveData = await loadJSON(LIVE_URL);
   const items = liveData.items || [];
 
-  // Fill hero & ticker
-  heroPool = pickHeroPool(items);  // pick hero items based on sections
+  // Pick hero items from sections: LATEST, SPORTS, MEME
+  heroPool = pickHeroPool(items);
   heroIndex = 0;
-  
+
   // Set the first hero from the pool
   setHero(heroPool[heroIndex]);
 
-  // Start the rotation
-  startHeroRotation();  // Rotation starts immediately
+  // Start the hero rotation every 3 hours
+  startHeroRotation();
 
-  // Fill ticker with the top 10 newest
+  // Ticker: fill with the top 10 newest
   fillTicker(items.slice(0, 10));
 
-  // Fill sections (you can rename Not-So-Serious News label in HTML)
+  // Fill sections: Latest, Real, Meme, etc.
   fillGrid("latestGrid", items.filter(x => x.section === "LATEST").slice(0, 9));
-  fillGrid("realGrid", items.filter(x => x.section === "LATEST").slice(0, 9));
+  fillGrid("realGrid", items.filter(x => x.section === "REAL").slice(0, 9));
   fillGrid("memeGrid", items.filter(x => x.section === "MEME").slice(0, 9));
 
   // Archive grid loading
   const archive = await loadJSON(ARCHIVE_URL);
   fillGrid("archiveGrid", (archive.items || []).slice(0, 12));
 
-  // Set year
+  // Set the year dynamically in footer
   const y = document.getElementById("year");
   if (y) y.textContent = String(new Date().getFullYear());
 }
 
-// Hero rotation logic:
+// Pick hero items from the live data
+function pickHeroPool(items) {
+  const bySection = {};
+  HERO_SOURCES.forEach(s => (bySection[s] = []));
+
+  // Group items by their section
+  items.forEach(it => {
+    if (bySection[it.section]) bySection[it.section].push(it);
+  });
+
+  // Pick up to 2 items from each section, ordered by the latest first
+  const pool = [];
+  HERO_SOURCES.forEach(s => {
+    bySection[s]
+      .sort((a, b) => (b.publishedAt || "").localeCompare(a.publishedAt || ""))
+      .slice(0, 2)
+      .forEach(x => pool.push(x));
+  });
+
+  // If there’s no valid pool, pick the top 5 items from the full list
+  return pool.length ? pool : items.slice(0, 5);
+}
+
+// Start the rotation of the hero section every 3 hours
 function startHeroRotation() {
-  if (heroTimer) clearInterval(heroTimer); // Reset previous rotation if exists
-  
+  if (heroTimer) clearInterval(heroTimer); // Clear any previous rotation timer
   heroTimer = setInterval(() => {
-    if (!heroPool.length) return;  // Prevent errors if pool is empty
-    heroIndex = (heroIndex + 1) % heroPool.length;  // Cycle through heroPool
-    fadeSwapHero(heroPool[heroIndex]);  // Update the hero content
-  }, 3 * 60 * 60 * 1000); // 3 hours interval (3 hours * 60 mins * 60 secs * 1000 ms)
+    if (!heroPool.length) return;  // Ensure there’s content in the hero pool
+    heroIndex = (heroIndex + 1) % heroPool.length;  // Increment and loop back
+    fadeSwapHero(heroPool[heroIndex]);  // Fade to the next hero
+  }, 3 * 60 * 60 * 1000); // Rotate every 3 hours (3 * 60 * 60 * 1000 ms)
+}
+
+// This function updates the hero with the new content
+function fadeSwapHero(nextItem) {
+  const hero = qs("hero");
+
+  // Animate the hero section to fade out
+  hero.style.transform = "scale(1.015)";
+  hero.style.opacity = "0";
+
+  setTimeout(() => {
+    setHero(nextItem);  // Update hero content
+    hero.style.opacity = "1";  // Fade it back in
+    hero.style.transform = "scale(1)";
+  }, HERO_FADE_MS);  // Transition duration
 }
 
 
