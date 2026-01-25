@@ -494,6 +494,9 @@ function setupTabs(items) {
     });
   });
 }
+document.getElementById("refreshNews")?.addEventListener("click", async () => {
+  await init();
+});
 
 setupTabs(items);
 
