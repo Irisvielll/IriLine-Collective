@@ -3,7 +3,8 @@ name: Update IriLine News Feeds
 on:
   schedule:
     - cron: "*/15 * * * *"   # every 15 minutes
-  workflow_dispatch: {}
+  workflow_dispatch:        # 👈 THIS enables manual runs
+
 
 permissions:
   contents: write
