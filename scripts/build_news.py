@@ -9,8 +9,6 @@ import feedparser
 from dateutil import parser as dtparser
 
 logging.basicConfig(level=logging.INFO)
-GREEN = "#0B3D2E"
-
 
 # -------------------------
 # Helpers
@@ -40,10 +38,28 @@ def make_id(prefix, url):
 
 def pick_image_stub(section: str) -> str:
     return {
-        "LATEST": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
-        "SPORTS": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
-        "MEME": "https://images.unsplash.com/photo-1520975916090-3105956dac38",
+        "LATEST": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70",
+        "SPORTS": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=70",
+        "MEME": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1600&q=70",
     }.get(section, "")
+
+def extract_rss_image(entry):
+    if "media_content" in entry:
+        media = entry.get("media_content")
+        if isinstance(media, list) and media:
+            return media[0].get("url")
+
+    if "media_thumbnail" in entry:
+        media = entry.get("media_thumbnail")
+        if isinstance(media, list) and media:
+            return media[0].get("url")
+
+    if "enclosures" in entry:
+        enc = entry.get("enclosures")
+        if isinstance(enc, list) and enc:
+            return enc[0].get("href")
+
+    return None
 
 def fetch_rss(url):
     feed = feedparser.parse(url)
@@ -64,7 +80,6 @@ def iso_to_dt(s):
     except Exception:
         return datetime.min.replace(tzinfo=timezone.utc)
 
-
 # -------------------------
 # Main builder
 # -------------------------
@@ -77,9 +92,9 @@ def build_items():
     existing_ids = {i["id"] for i in live["items"]} | {i["id"] for i in archive["items"]}
     items_new = []
 
-    # -------- LATEST --------
     cutoff = now_utc() - timedelta(hours=24)
 
+    # -------- LATEST --------
     for rss in sources.get("latest", {}).get("rss", []):
         entries = fetch_rss(rss)[:30]
         logging.info(f"[LATEST] {rss} -> {len(entries)} entries")
@@ -98,19 +113,26 @@ def build_items():
                 continue
 
             title = clean_text(e.get("title", ""))
-            desc = clean_text(e.get("summary", ""))
+            summary = clean_text(e.get("summary", ""))
+
+            img = extract_rss_image(e) or pick_image_stub("LATEST")
 
             items_new.append({
                 "id": pid,
                 "section": "LATEST",
+                "sectionLabel": "Latest",
+                "type": "REAL",
+                "category": "WORLD",
                 "title": title,
-                "body": desc,
+                "dek": summary[:160],
+                "body": summary,
+                "author": "IriLine Desk",
                 "publishedAt": t.isoformat(timespec="seconds"),
                 "sourceUrl": url,
-                "image": pick_image_stub("LATEST"),
+                "image": img,
             })
 
-    # -------- MERGE --------
+    # -------- MERGE / ARCHIVE --------
     all_live = live["items"] + items_new
     all_live.sort(key=lambda x: iso_to_dt(x.get("publishedAt", "")), reverse=True)
 
@@ -136,7 +158,6 @@ def build_items():
 
     logging.info(f"New items added: {len(items_new)}")
     logging.info(f"Live={len(still_live)} Archive={len(arch_items)}")
-
 
 if __name__ == "__main__":
     build_items()
