@@ -145,10 +145,22 @@ meta.appendChild(time);
 
 function fillGrid(gridId, items) {
   const grid = document.getElementById(gridId);
-  if (!grid) return;
+  const empty = grid.parentElement.querySelector(".empty-state");
+
   grid.innerHTML = "";
-  items.forEach(i => grid.appendChild(buildCard(i)));
+
+  if (!items || items.length === 0) {
+    empty.hidden = false;
+    return;
+  }
+
+  empty.hidden = true;
+
+  items.forEach(item => {
+    grid.appendChild(renderCard(item));
+  });
 }
+
 
 function fillTicker(items) {
   const track = document.getElementById("tickerTrack");
