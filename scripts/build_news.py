@@ -36,10 +36,13 @@ def make_id(prefix, url):
     h = abs(hash(url)) % (10**10)
     return f"{prefix}_{h}"
 
-def pick_image_stub(query: str) -> str:
-    # Static-safe default. You can upgrade to Unsplash/Pexels API later.
-    # For now, use a neutral newsroom image.
-    return "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
+def pick_image_stub(section: str, category: str = "") -> str:
+    images = {
+        "LATEST": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70",
+        "SPORTS": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=70",
+        "MEME": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1600&q=70",
+    }
+    return images.get(section, images["LATEST"])
 
 def summarize_safe(title: str, description: str, section: str):
     """
@@ -137,7 +140,8 @@ def build_items():
                 "author": "IriLine Desk",
                 "publishedAt": t.isoformat(timespec="seconds"),
                 "sourceUrl": url,
-                "image": pick_image_stub(title),
+              "image": pick_image_stub("LATEST"),
+
             })
 
     # -------------------------
@@ -192,7 +196,8 @@ def build_items():
             "author": "IriLine Sports",
             "publishedAt": t.isoformat(timespec="seconds"),
             "sourceUrl": url,
-            "image": pick_image_stub(title),
+           "image": pick_image_stub("SPORTS"),
+
         })
 
     # -------------------------
@@ -228,7 +233,8 @@ def build_items():
             "author": "Meme Bureau",
             "publishedAt": t.isoformat(timespec="seconds"),
             "sourceUrl": url,
-            "image": pick_image_stub(title),
+           "image": pick_image_stub("MEME"),
+
         })
 
     # -------------------------
