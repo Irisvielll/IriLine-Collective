@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-25T16:27:18+00:00",
+  "generatedAt": "2026-01-25T16:50:48+00:00",
   "items": [
+    {
+      "id": "latest_30b66aea2b65",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Captain of suspected Russian shadow tanker in French custody",
+      "dek": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday.",
+      "body": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-25T15:25:52+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ad/live/5bd25b00-f9fd-11f0-a24b-df29ade509fc.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_9797830045",
       "section": "LATEST",
@@ -516,15 +531,6 @@
       "publishedAt": "2026-01-25T04:19:46+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "latest_5ba2f7faf2e4",
-      "section": "LATEST",
-      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
-      "body": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\".",
-      "publishedAt": "2026-01-25T04:19:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c"
     }
   ]
 }
