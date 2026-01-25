@@ -6,6 +6,21 @@ We do NOT plagiarize.
 All summaries are original, human-readable context
 from public sources.
 """
+INTENT_IMAGE_QUERIES = {
+    "SPORTS": {
+        "nba": ["nba basketball game", "basketball arena crowd", "nba players action"],
+        "trade": ["basketball press conference", "sports interview"],
+        "default": ["basketball game action", "sports stadium crowd"]
+    },
+    "LATEST": {
+        "election": ["election polling station", "ballot voting"],
+        "war": ["military briefing room", "international news press"],
+        "default": ["world news press", "journalism newsroom"]
+    },
+    "MEME": {
+        "default": ["funny street sign", "unexpected moment", "public sign humor"]
+    }
+}
 
 import html
 import random
@@ -39,13 +54,22 @@ def extract_keywords(title: str, limit=3):
     return keywords[:limit] if keywords else ["news"]
 
 def pick_unsplash_image(section: str, seed: str, title: str):
-    keywords = extract_keywords(title)
-    query = ",".join(keywords)
+    title_l = title.lower()
+    section_map = INTENT_IMAGE_QUERIES.get(section, {})
+
+    # Topic override (NBA, election, war, etc.)
+    for keyword, queries in section_map.items():
+        if keyword != "default" and keyword in title_l:
+            query = random.choice(queries)
+            break
+    else:
+        query = random.choice(section_map.get("default", ["news"]))
 
     return {
-        "url": f"https://source.unsplash.com/1600x900/?{query}&sig={seed}",
+        "url": f"https://source.unsplash.com/1600x900/?{query.replace(' ', ',')}&sig={seed}",
         "credit": "Photo via Unsplash (free to use)"
     }
+
 
 def extract_rss_image(entry):
     if "media_content" in entry and entry["media_content"]:
