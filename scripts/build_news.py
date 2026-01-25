@@ -6,6 +6,23 @@ We do NOT plagiarize.
 All summaries are original, human-readable context
 from public sources.
 """
+
+import html
+import random
+import logging
+import hashlib
+import json, os, re
+from datetime import datetime, timezone, timedelta
+
+import feedparser
+from dateutil import parser as dtparser
+
+logging.basicConfig(level=logging.INFO)
+
+# -------------------------
+# IMAGE INTENT MAP
+# -------------------------
+
 INTENT_IMAGE_QUERIES = {
     "SPORTS": {
         "nba": ["nba basketball game", "basketball arena crowd", "nba players action"],
@@ -22,44 +39,16 @@ INTENT_IMAGE_QUERIES = {
     }
 }
 
-import html
-import random
-import logging
-import hashlib
-import json, os, re
-from datetime import datetime, timezone, timedelta
-
-import feedparser
-from dateutil import parser as dtparser
-
-logging.basicConfig(level=logging.INFO)
-
 # -------------------------
-# IMAGE KEYWORD LOGIC
+# IMAGE HELPERS
 # -------------------------
-
-def extract_keywords(title: str, limit=3):
-    """
-    Pulls meaningful keywords from a title.
-    Keeps it simple and safe.
-    """
-    stopwords = {
-        "the", "a", "an", "and", "or", "to", "of", "in",
-        "on", "for", "with", "as", "is", "are", "was"
-    }
-
-    words = re.findall(r"[a-zA-Z]{4,}", title.lower())
-    keywords = [w for w in words if w not in stopwords]
-
-    return keywords[:limit] if keywords else ["news"]
 
 def pick_unsplash_image(section: str, seed: str, title: str):
     title_l = title.lower()
     section_map = INTENT_IMAGE_QUERIES.get(section, {})
 
-    # Topic override (NBA, election, war, etc.)
-    for keyword, queries in section_map.items():
-        if keyword != "default" and keyword in title_l:
+    for key, queries in section_map.items():
+        if key != "default" and key in title_l:
             query = random.choice(queries)
             break
     else:
@@ -70,18 +59,17 @@ def pick_unsplash_image(section: str, seed: str, title: str):
         "credit": "Photo via Unsplash (free to use)"
     }
 
-
 def extract_rss_image(entry):
-    if "media_content" in entry and entry["media_content"]:
+    if entry.get("media_content"):
         return entry["media_content"][0].get("url")
-    if "media_thumbnail" in entry and entry["media_thumbnail"]:
+    if entry.get("media_thumbnail"):
         return entry["media_thumbnail"][0].get("url")
-    if "enclosures" in entry and entry["enclosures"]:
+    if entry.get("enclosures"):
         return entry["enclosures"][0].get("href")
     return None
 
 # -------------------------
-# HELPERS
+# GENERAL HELPERS
 # -------------------------
 
 def now_utc():
@@ -103,8 +91,7 @@ def clean_text(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 def make_id(prefix, url):
-    h = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
-    return f"{prefix}_{h}"
+    return f"{prefix}_{hashlib.sha1(url.encode()).hexdigest()[:12]}"
 
 def fetch_rss(url):
     feed = feedparser.parse(url)
@@ -139,13 +126,12 @@ def build_items():
 
     cutoff = now_utc() - timedelta(hours=24)
 
-    # -------- LATEST --------
     for rss in sources.get("latest", {}).get("rss", []):
         entries = fetch_rss(rss)[:30]
         logging.info(f"[LATEST] {rss} -> {len(entries)} entries")
 
         for e in entries:
-            url = e.get("link", "")
+            url = e.get("link")
             if not url:
                 continue
 
@@ -161,13 +147,11 @@ def build_items():
             summary = clean_text(e.get("summary", ""))
 
             rss_img = extract_rss_image(e)
-            if rss_img:
-                image = {
-                    "url": rss_img,
-                    "credit": "Image via original publisher"
-                }
-            else:
-                image = pick_unsplash_image("LATEST", pid, title)
+            image = (
+                {"url": rss_img, "credit": "Image via original publisher"}
+                if rss_img
+                else pick_unsplash_image("LATEST", pid, title)
+            )
 
             items_new.append({
                 "id": pid,
@@ -185,32 +169,22 @@ def build_items():
                 "imageCredit": image["credit"],
             })
 
-    # -------- MERGE / ARCHIVE --------
     all_live = live["items"] + items_new
-    all_live.sort(key=lambda x: iso_to_dt(x.get("publishedAt", "")), reverse=True)
+    all_live.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
 
-    LIVE_MAX = 40
-    still_live = all_live[:LIVE_MAX]
-    to_archive = all_live[LIVE_MAX:]
-
-    arch_items = archive["items"]
-    arch_ids = {i["id"] for i in arch_items}
-
-    for it in to_archive:
-        if it["id"] not in arch_ids:
-            arch_items.append(it)
-
-    arch_items.sort(key=lambda x: iso_to_dt(x.get("publishedAt", "")), reverse=True)
-    arch_items[:] = arch_items[:300]
+    live_out = all_live[:40]
+    archive_out = archive["items"] + all_live[40:]
+    archive_out = list({i["id"]: i for i in archive_out}.values())
+    archive_out.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
+    archive_out = archive_out[:300]
 
     save_json("data/live.json", {
         "generatedAt": now_utc().isoformat(timespec="seconds"),
-        "items": still_live
+        "items": live_out
     })
-    save_json("data/archive.json", {"items": arch_items})
+    save_json("data/archive.json", {"items": archive_out})
 
-    logging.info(f"New items added: {len(items_new)}")
-    logging.info(f"Live={len(still_live)} Archive={len(arch_items)}")
+    logging.info(f"New items: {len(items_new)} | Live: {len(live_out)} | Archive: {len(archive_out)}")
 
 if __name__ == "__main__":
     build_items()
