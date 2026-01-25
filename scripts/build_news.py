@@ -105,7 +105,8 @@ def build_items():
     # We will FILTER to last 60 minutes by default (adjustable),
     # and you can tighten later depending on feed freshness.
     # -------------------------
-    latest_cutoff = now_utc() - timedelta(minutes=60)
+    latest_cutoff = now_utc() - timedelta(hours=24)
+
 
     for rss in sources.get("latest", {}).get("rss", []):
         for e in fetch_rss(rss)[:30]:
