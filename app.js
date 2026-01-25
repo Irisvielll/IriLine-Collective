@@ -175,9 +175,14 @@ function fillGrid(id, items) {
     empty.hidden = false;
     return;
   }
+
   empty.hidden = true;
-  items.forEach(i => grid.appendChild(buildCard(i)));
+
+  uniqueByImage(items).forEach(item => {
+    grid.appendChild(buildCard(item));
+  });
 }
+
 
 function fillTicker(items) {
   const track = qs("tickerTrack");
