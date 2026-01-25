@@ -41,10 +41,18 @@ UNSPLASH_QUERIES = {
     ],
 }
 
-def pick_unsplash_image(section: str):
+def pick_unsplash_image(section: str, seed: str):
+    """
+    Uses Unsplash Source API (free, legal).
+    `seed` ensures different images per article
+    while staying deterministic.
+    """
     query = random.choice(UNSPLASH_QUERIES.get(section, ["news"]))
     return {
-        "url": f"https://source.unsplash.com/1600x900/?{query.replace(' ', ',')}",
+        "url": (
+            "https://source.unsplash.com/1600x900/"
+            f"?{query.replace(' ', ',')}&sig={seed}"
+        ),
         "credit": "Photo via Unsplash (free to use)"
     }
 
@@ -137,6 +145,7 @@ def build_items():
             title = clean_text(e.get("title", ""))
             summary = clean_text(e.get("summary", ""))
 
+            # --- IMAGE PICKING LOGIC ---
             rss_img = extract_rss_image(e)
             if rss_img:
                 image = {
@@ -144,7 +153,7 @@ def build_items():
                     "credit": "Image via original publisher"
                 }
             else:
-                image = pick_unsplash_image("LATEST")
+                image = pick_unsplash_image("LATEST", pid)
 
             items_new.append({
                 "id": pid,
