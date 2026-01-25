@@ -1,17 +1,20 @@
 import html
 import random
 import logging
-logging.basicConfig(level=logging.INFO)
-
-import json, os, re, time
+import hashlib
+import json, os, re
 from datetime import datetime, timezone, timedelta
-...
 
 import feedparser
-import requests
 from dateutil import parser as dtparser
 
+logging.basicConfig(level=logging.INFO)
 GREEN = "#0B3D2E"
+
+
+# -------------------------
+# Helpers
+# -------------------------
 
 def now_utc():
     return datetime.now(timezone.utc)
@@ -27,65 +30,27 @@ def save_json(path, obj):
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
 def clean_text(s: str) -> str:
-    s = html.unescape(s or "")          # Decodes HTML entities
-    s = re.sub(r"<[^>]+>", "", s)       # Removes HTML tags
-    s = re.sub(r"\s+", " ", s).strip()  # Cleans up spacing
-    return s
-
-
+    s = html.unescape(s or "")
+    s = re.sub(r"<[^>]+>", "", s)
+    return re.sub(r"\s+", " ", s).strip()
 
 def make_id(prefix, url):
-    h = abs(hash(url)) % (10**10)
+    h = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
     return f"{prefix}_{h}"
 
-def pick_image_stub(section: str, category: str = "") -> str:
-    images = {
-        "LATEST": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70",
-        "SPORTS": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=70",
-        "MEME": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1600&q=70",
-    }
-    return images.get(section, images["LATEST"])
-
-def summarize_safe(title: str, description: str, section: str):
-    """
-    IMPORTANT:
-    - We are NOT trying to 'evade plagiarism detection'.
-    - We are generating an ORIGINAL SUMMARY of the linked source.
-    - Keep it short, clear, factual.
-    """
-    base = clean_text(description) or clean_text(title)
-
-    if section == "MEME":
-        # Meme section with short captions
-        caption = random.choice([
-            "Reality glitches again",
-            "Timeline officially cursed",
-            "No context required",
-            "Someone explain this",
-        ])
-        return {
-            "title": clean_text(title)[:120],
-            "dek": caption,
-            "body": f"{clean_text(title)}\n\nContext: {base}"
-        }
-
-    # “Latest” and “Sports”: concise summary
-    lead = clean_text(title)
-    detail = base
-    if len(detail) > 220:
-        detail = detail[:220].rsplit(" ", 1)[0] + "…"
-
-    dek = f"{detail}"
-    body = f"{lead}\n\nSummary:\n{detail}\n\nRead the original source for full context."
-    return {"title": lead[:140], "dek": dek, "body": body}
+def pick_image_stub(section: str) -> str:
+    return {
+        "LATEST": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+        "SPORTS": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "MEME": "https://images.unsplash.com/photo-1520975916090-3105956dac38",
+    }.get(section, "")
 
 def fetch_rss(url):
     feed = feedparser.parse(url)
     return feed.entries if hasattr(feed, "entries") else []
 
 def parse_time(entry):
-    # Try multiple fields
-    for key in ["published", "updated", "created"]:
+    for key in ("published", "updated", "created"):
         if key in entry:
             try:
                 return dtparser.parse(entry[key]).astimezone(timezone.utc)
@@ -93,190 +58,85 @@ def parse_time(entry):
                 pass
     return None
 
-def build_items():
-    repo_root = os.getcwd()
-    sources = load_json("data/sources.json", {})
+def iso_to_dt(s):
+    try:
+        return dtparser.isoparse(s)
+    except Exception:
+        return datetime.min.replace(tzinfo=timezone.utc)
 
+
+# -------------------------
+# Main builder
+# -------------------------
+
+def build_items():
+    sources = load_json("data/sources.json", {})
     live = load_json("data/live.json", {"generatedAt": "", "items": []})
     archive = load_json("data/archive.json", {"items": []})
 
-    existing_ids = {i["id"] for i in live.get("items", [])} | {i["id"] for i in archive.get("items", [])}
-
+    existing_ids = {i["id"] for i in live["items"]} | {i["id"] for i in archive["items"]}
     items_new = []
 
-    # -------------------------
-    # LATEST: world news
-    # NOTE: “15 minutes prior” is often unrealistic for RSS.
-    # We will FILTER to last 60 minutes by default (adjustable),
-    # and you can tighten later depending on feed freshness.
-    # -------------------------
-    latest_cutoff = now_utc() - timedelta(hours=24)
-
+    # -------- LATEST --------
+    cutoff = now_utc() - timedelta(hours=24)
 
     for rss in sources.get("latest", {}).get("rss", []):
-        for e in fetch_rss(rss)[:30]:
+        entries = fetch_rss(rss)[:30]
+        logging.info(f"[LATEST] {rss} -> {len(entries)} entries")
+
+        for e in entries:
             url = e.get("link", "")
             if not url:
                 continue
+
             pid = make_id("latest", url)
             if pid in existing_ids:
                 continue
 
             t = parse_time(e) or now_utc()
-            if t < latest_cutoff:
+            if t < cutoff:
                 continue
 
             title = clean_text(e.get("title", ""))
             desc = clean_text(e.get("summary", ""))
 
-            s = summarize_safe(title, desc, "LATEST")
             items_new.append({
                 "id": pid,
                 "section": "LATEST",
-                "sectionLabel": "Latest",
-                "type": "REAL",
-                "category": "WORLD",
-                "title": s["title"],
-                "dek": s["dek"],
-                "body": s["body"],
-                "author": "IriLine Desk",
+                "title": title,
+                "body": desc,
                 "publishedAt": t.isoformat(timespec="seconds"),
                 "sourceUrl": url,
-              "image": pick_image_stub("LATEST"),
-
+                "image": pick_image_stub("LATEST"),
             })
 
-    # -------------------------
-    # SPORTS: prioritize injuries
-    # -------------------------
-    injury_keywords = [k.lower() for k in sources.get("sports", {}).get("keywords_injury", [])]
-    sports_entries = []
-    for rss in sources.get("sports", {}).get("rss", []):
-        sports_entries.extend(fetch_rss(rss)[:40])
+    # -------- MERGE --------
+    all_live = live["items"] + items_new
+    all_live.sort(key=lambda x: iso_to_dt(x.get("publishedAt", "")), reverse=True)
 
-    def is_injury(title, summary):
-        text = (title + " " + summary).lower()
-        return any(k in text for k in injury_keywords)
-
-    picked_sports = []
-    # first pass: injuries
-    for e in sports_entries:
-        title = clean_text(e.get("title", ""))
-        desc = clean_text(e.get("summary", ""))
-        if is_injury(title, desc):
-            picked_sports.append((e, "INJURY"))
-    # fallback: basketball
-    if not picked_sports:
-        for e in sports_entries:
-            title = clean_text(e.get("title", ""))
-            desc = clean_text(e.get("summary", ""))
-            if "nba" in (title + " " + desc).lower() or "basketball" in (title + " " + desc).lower():
-                picked_sports.append((e, "BASKETBALL"))
-
-    for e, cat in picked_sports[:6]:
-        url = e.get("link", "")
-        if not url:
-            continue
-        pid = make_id("sports", url)
-        if pid in existing_ids:
-            continue
-
-        t = parse_time(e) or now_utc()
-        title = clean_text(e.get("title", ""))
-        desc = clean_text(e.get("summary", ""))
-
-        s = summarize_safe(title, desc, "SPORTS")
-        items_new.append({
-            "id": pid,
-            "section": "SPORTS",
-            "sectionLabel": "Sports",
-            "type": "REAL",
-            "category": cat,
-            "title": s["title"],
-            "dek": s["dek"],
-            "body": s["body"],
-            "author": "IriLine Sports",
-            "publishedAt": t.isoformat(timespec="seconds"),
-            "sourceUrl": url,
-           "image": pick_image_stub("SPORTS"),
-
-        })
-
-    # -------------------------
-    # MEME: weird headlines (public RSS)
-    # every run is fine; your workflow schedule handles timing
-    # -------------------------
-    meme_entries = []
-    for rss in sources.get("meme", {}).get("rss", []):
-        meme_entries.extend(fetch_rss(rss)[:30])
-
-    for e in meme_entries[:6]:
-        url = e.get("link", "")
-        if not url:
-            continue
-        pid = make_id("meme", url)
-        if pid in existing_ids:
-            continue
-
-        t = parse_time(e) or now_utc()
-        title = clean_text(e.get("title", ""))
-        desc = clean_text(e.get("summary", ""))
-
-        s = summarize_safe(title, desc, "MEME")
-        items_new.append({
-            "id": pid,
-            "section": "MEME",
-            "sectionLabel": "Not-So-Serious",
-            "type": "MEME",
-            "category": "WEIRD",
-            "title": s["title"],
-            "dek": s["dek"],
-            "body": s["body"],
-            "author": "Meme Bureau",
-            "publishedAt": t.isoformat(timespec="seconds"),
-            "sourceUrl": url,
-           "image": pick_image_stub("MEME"),
-
-        })
-
-    # -------------------------
-    # Merge: newest first
-    # Auto-archive old live items
-    # -------------------------
-    all_live = live.get("items", [])
-    all_live.extend(items_new)
-
-    # Sort by time desc
-    all_live.sort(key=lambda x: x.get("publishedAt", ""), reverse=True)
-
-    # Keep live small (e.g., 40)
     LIVE_MAX = 40
     still_live = all_live[:LIVE_MAX]
     to_archive = all_live[LIVE_MAX:]
 
-    # Add to archive (dedupe)
-    arch_items = archive.get("items", [])
+    arch_items = archive["items"]
     arch_ids = {i["id"] for i in arch_items}
+
     for it in to_archive:
         if it["id"] not in arch_ids:
             arch_items.append(it)
 
-    # Archive newest first, cap it
-    arch_items.sort(key=lambda x: x.get("publishedAt", ""), reverse=True)
-    ARCHIVE_MAX = 300
-    arch_items = arch_items[:ARCHIVE_MAX]
+    arch_items.sort(key=lambda x: iso_to_dt(x.get("publishedAt", "")), reverse=True)
+    arch_items[:] = arch_items[:300]
 
-    live_out = {"generatedAt": now_utc().isoformat(timespec="seconds"), "items": still_live}
-    arch_out = {"items": arch_items}
+    save_json("data/live.json", {
+        "generatedAt": now_utc().isoformat(timespec="seconds"),
+        "items": still_live
+    })
+    save_json("data/archive.json", {"items": arch_items})
 
-    save_json("data/live.json", live_out)
-    save_json("data/archive.json", arch_out)
+    logging.info(f"New items added: {len(items_new)}")
+    logging.info(f"Live={len(still_live)} Archive={len(arch_items)}")
 
-    print(f"Generated: {len(items_new)} new items. Live={len(still_live)} Archive={len(arch_items)}")
 
 if __name__ == "__main__":
     build_items()
-    import logging
-logging.info(f"New items added: {len(items_new)}")
-
-
