@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-25T21:20:00+00:00",
+  "generatedAt": "2026-01-25T21:41:17+00:00",
   "items": [
+    {
+      "id": "latest_bb870f01d955",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
+      "dek": "The interior minister condemned the attack, which police say they are investigating.",
+      "body": "The interior minister condemned the attack, which police say they are investigating.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-25T21:29:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6584/live/8e1c0d70-fa31-11f0-b5f7-49f0357294ff.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_65d3926e105c",
       "section": "LATEST",
@@ -524,20 +539,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-25T06:07:50+00:00",
       "sourceUrl": "https://www.espn.com/mma/story/_/id/47721469/gaethje-wins-interim-title-slugfest-pimblett-ufc-324",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_2937833315",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "American climbs Taipei skyscraper without ropes",
-      "dek": "American Alex Honnold climbed to the top of the 1,667-foot Taipei 101 skyscraper on Saturday without the help of ropes or any protective equipment.",
-      "body": "American climbs Taipei skyscraper without ropes\n\nSummary:\nAmerican Alex Honnold climbed to the top of the 1,667-foot Taipei 101 skyscraper on Saturday without the help of ropes or any protective equipment.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-25T06:07:50+00:00",
-      "sourceUrl": "https://www.espn.com/espn/story/_/id/47720532/alex-honnold-climbs-top-taipei-101-skyscraper-sans-ropes",
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
