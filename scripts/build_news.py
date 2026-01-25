@@ -1,5 +1,7 @@
 import html
 import random
+import logging
+logging.basicConfig(level=logging.INFO)
 
 import json, os, re, time
 from datetime import datetime, timezone, timedelta
