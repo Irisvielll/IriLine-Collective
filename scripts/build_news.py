@@ -276,4 +276,7 @@ def build_items():
 
 if __name__ == "__main__":
     build_items()
+    import logging
+logging.info(f"New items added: {len(items_new)}")
+
 
