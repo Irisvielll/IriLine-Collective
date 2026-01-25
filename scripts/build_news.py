@@ -1,7 +1,9 @@
-import html  # fix html import
+import html
+import random
 
 import json, os, re, time
 from datetime import datetime, timezone, timedelta
+...
 
 import feedparser
 import requests
