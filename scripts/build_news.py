@@ -1,4 +1,4 @@
-import html # fix html import
+import html  # fix html import
 
 import json, os, re, time
 from datetime import datetime, timezone, timedelta
@@ -22,12 +22,12 @@ def save_json(path, obj):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
-
 def clean_text(s: str) -> str:
-    s = html.unescape(s or "")  # Decodes HTML entities like &#32;
-    s = re.sub(r"<[^>]+>", "", s)  # Removes HTML tags
-    s = re.sub(r"\s+", " ", s).strip()  # Cleans up extra spaces
+    s = html.unescape(s or "")          # Decodes HTML entities
+    s = re.sub(r"<[^>]+>", "", s)       # Removes HTML tags
+    s = re.sub(r"\s+", " ", s).strip()  # Cleans up spacing
     return s
+
 
 
 def make_id(prefix, url):
