@@ -20,39 +20,32 @@ from dateutil import parser as dtparser
 logging.basicConfig(level=logging.INFO)
 
 # -------------------------
-# IMAGE LOGIC (LEGAL & SAFE)
+# IMAGE KEYWORD LOGIC
 # -------------------------
 
-UNSPLASH_QUERIES = {
-    "LATEST": [
-        "world news newspaper",
-        "global politics news",
-        "breaking news desk"
-    ],
-    "SPORTS": [
-        "sports stadium",
-        "basketball arena",
-        "sports action crowd"
-    ],
-    "MEME": [
-        "funny street sign",
-        "weird public sign",
-        "unexpected moment"
-    ],
-}
+def extract_keywords(title: str, limit=3):
+    """
+    Pulls meaningful keywords from a title.
+    Keeps it simple and safe.
+    """
+    stopwords = {
+        "the", "a", "an", "and", "or", "to", "of", "in",
+        "on", "for", "with", "as", "is", "are", "was"
+    }
+
+    words = re.findall(r"[a-zA-Z]{4,}", title.lower())
+    keywords = [w for w in words if w not in stopwords]
+
+    return keywords[:limit] if keywords else ["news"]
 
 def pick_unsplash_image(section: str, seed: str, title: str):
     keywords = extract_keywords(title)
     query = ",".join(keywords)
 
     return {
-        "url": (
-            "https://source.unsplash.com/1600x900/"
-            f"?{query}&sig={seed}"
-        ),
+        "url": f"https://source.unsplash.com/1600x900/?{query}&sig={seed}",
         "credit": "Photo via Unsplash (free to use)"
     }
-
 
 def extract_rss_image(entry):
     if "media_content" in entry and entry["media_content"]:
@@ -64,7 +57,7 @@ def extract_rss_image(entry):
     return None
 
 # -------------------------
-# Helpers
+# HELPERS
 # -------------------------
 
 def now_utc():
@@ -84,21 +77,6 @@ def clean_text(s: str) -> str:
     s = html.unescape(s or "")
     s = re.sub(r"<[^>]+>", "", s)
     return re.sub(r"\s+", " ", s).strip()
-    
-def extract_keywords(title: str, limit=3):
-    """
-    Pulls meaningful keywords from a title.
-    Keeps it simple and safe.
-    """
-    stopwords = {
-        "the", "a", "an", "and", "or", "to", "of", "in",
-        "on", "for", "with", "as", "is", "are", "was"
-    }
-
-    words = re.findall(r"[a-zA-Z]{4,}", title.lower())
-    keywords = [w for w in words if w not in stopwords]
-
-    return keywords[:limit] if keywords else ["news"]
 
 def make_id(prefix, url):
     h = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
@@ -124,7 +102,7 @@ def iso_to_dt(s):
         return datetime.min.replace(tzinfo=timezone.utc)
 
 # -------------------------
-# Main builder
+# MAIN BUILDER
 # -------------------------
 
 def build_items():
@@ -158,15 +136,14 @@ def build_items():
             title = clean_text(e.get("title", ""))
             summary = clean_text(e.get("summary", ""))
 
-            # --- IMAGE PICKING LOGIC ---
             rss_img = extract_rss_image(e)
             if rss_img:
                 image = {
                     "url": rss_img,
                     "credit": "Image via original publisher"
                 }
-           else:
-    image = pick_unsplash_image("LATEST", pid, title)
+            else:
+                image = pick_unsplash_image("LATEST", pid, title)
 
             items_new.append({
                 "id": pid,
