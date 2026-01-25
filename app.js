@@ -37,6 +37,14 @@ async function loadJSON(url) {
   if (!r.ok) throw new Error(`Failed to load ${url}`);
   return r.json();
 }
+function uniqueByImage(items) {
+  const seen = new Set();
+  return items.filter(item => {
+    if (!item.image || seen.has(item.image)) return false;
+    seen.add(item.image);
+    return true;
+  });
+}
 
 // --------------------
 // HERO
