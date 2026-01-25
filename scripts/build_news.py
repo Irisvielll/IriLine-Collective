@@ -22,6 +22,7 @@ def save_json(path, obj):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
+
 def clean_text(s: str) -> str:
     s = html.unescape(s or "")  # Decodes HTML entities like &#32;
     s = re.sub(r"<[^>]+>", "", s)  # Removes HTML tags
