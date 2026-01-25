@@ -165,8 +165,8 @@ def build_items():
                     "url": rss_img,
                     "credit": "Image via original publisher"
                 }
-            else:
-                image = pick_unsplash_image("LATEST", pid)
+           else:
+    image = pick_unsplash_image("LATEST", pid, title)
 
             items_new.append({
                 "id": pid,
