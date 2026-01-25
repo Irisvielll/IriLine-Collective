@@ -1,3 +1,12 @@
+"""
+IriLine Collective
+Motto: Context, not copies.
+
+We do NOT plagiarize.
+All summaries are original, human-readable context
+from public sources.
+"""
+
 import html
 import random
 import logging
@@ -9,6 +18,44 @@ import feedparser
 from dateutil import parser as dtparser
 
 logging.basicConfig(level=logging.INFO)
+
+# -------------------------
+# IMAGE LOGIC (LEGAL & SAFE)
+# -------------------------
+
+UNSPLASH_QUERIES = {
+    "LATEST": [
+        "world news newspaper",
+        "global politics news",
+        "breaking news desk"
+    ],
+    "SPORTS": [
+        "sports stadium",
+        "basketball arena",
+        "sports action crowd"
+    ],
+    "MEME": [
+        "funny street sign",
+        "weird public sign",
+        "unexpected moment"
+    ],
+}
+
+def pick_unsplash_image(section: str):
+    query = random.choice(UNSPLASH_QUERIES.get(section, ["news"]))
+    return {
+        "url": f"https://source.unsplash.com/1600x900/?{query.replace(' ', ',')}",
+        "credit": "Photo via Unsplash (free to use)"
+    }
+
+def extract_rss_image(entry):
+    if "media_content" in entry and entry["media_content"]:
+        return entry["media_content"][0].get("url")
+    if "media_thumbnail" in entry and entry["media_thumbnail"]:
+        return entry["media_thumbnail"][0].get("url")
+    if "enclosures" in entry and entry["enclosures"]:
+        return entry["enclosures"][0].get("href")
+    return None
 
 # -------------------------
 # Helpers
@@ -35,31 +82,6 @@ def clean_text(s: str) -> str:
 def make_id(prefix, url):
     h = hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
     return f"{prefix}_{h}"
-
-def pick_image_stub(section: str) -> str:
-    return {
-        "LATEST": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70",
-        "SPORTS": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=70",
-        "MEME": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1600&q=70",
-    }.get(section, "")
-
-def extract_rss_image(entry):
-    if "media_content" in entry:
-        media = entry.get("media_content")
-        if isinstance(media, list) and media:
-            return media[0].get("url")
-
-    if "media_thumbnail" in entry:
-        media = entry.get("media_thumbnail")
-        if isinstance(media, list) and media:
-            return media[0].get("url")
-
-    if "enclosures" in entry:
-        enc = entry.get("enclosures")
-        if isinstance(enc, list) and enc:
-            return enc[0].get("href")
-
-    return None
 
 def fetch_rss(url):
     feed = feedparser.parse(url)
@@ -115,7 +137,14 @@ def build_items():
             title = clean_text(e.get("title", ""))
             summary = clean_text(e.get("summary", ""))
 
-            img = extract_rss_image(e) or pick_image_stub("LATEST")
+            rss_img = extract_rss_image(e)
+            if rss_img:
+                image = {
+                    "url": rss_img,
+                    "credit": "Image via original publisher"
+                }
+            else:
+                image = pick_unsplash_image("LATEST")
 
             items_new.append({
                 "id": pid,
@@ -129,7 +158,8 @@ def build_items():
                 "author": "IriLine Desk",
                 "publishedAt": t.isoformat(timespec="seconds"),
                 "sourceUrl": url,
-                "image": img,
+                "image": image["url"],
+                "imageCredit": image["credit"],
             })
 
     # -------- MERGE / ARCHIVE --------
