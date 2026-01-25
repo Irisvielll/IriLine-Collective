@@ -1,3 +1,4 @@
+import html
 import json, os, re, time
 from datetime import datetime, timezone, timedelta
 
