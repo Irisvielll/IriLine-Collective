@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-26T01:59:18+00:00",
+  "generatedAt": "2026-01-26T04:02:15+00:00",
   "items": [
+    {
+      "id": "latest_11ece5b67730",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Tearful goodbyes as Japan returns pandas to China amid worsening ties",
+      "dek": "The twin cubs' departure will leave Japan without any pandas for the first time since 1972.",
+      "body": "The twin cubs' departure will leave Japan without any pandas for the first time since 1972.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-26T03:08:21+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50cf/live/bd569d60-fa60-11f0-aace-f5c9843bc6d7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_0dc1560693c3",
       "section": "LATEST",
@@ -528,20 +543,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-25T07:15:36+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/47721550/chicago-bulls-retire-derrick-rose-no-1-jersey-win",
-      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_531016270",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Gaethje wins interim title in slugfest with Pimblett",
-      "dek": "Justin Gaethje scored multiple knockdowns of Paddy Pimblett and won the UFC interim lightweight belt Saturday night, setting the stage for a unification bout with Ilia Topuria.",
-      "body": "Gaethje wins interim title in slugfest with Pimblett\n\nSummary:\nJustin Gaethje scored multiple knockdowns of Paddy Pimblett and won the UFC interim lightweight belt Saturday night, setting the stage for a unification bout with Ilia Topuria.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-25T07:15:36+00:00",
-      "sourceUrl": "https://www.espn.com/mma/story/_/id/47721469/gaethje-wins-interim-title-slugfest-pimblett-ufc-324",
       "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1600&q=70"
     }
   ]
