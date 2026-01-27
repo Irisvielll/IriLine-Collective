@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-27T23:45:01+00:00",
+  "generatedAt": "2026-01-27T23:57:01+00:00",
   "items": [
+    {
+      "id": "latest_81ca8eb013b7",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "A string of scandals and luxury handbags: Who is South Korea's former first lady?",
+      "dek": "The wife of disgraced former president Yoon Suk Yeol is facing court on a raft of her own charges.",
+      "body": "The wife of disgraced former president Yoon Suk Yeol is facing court on a raft of her own charges.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T23:11:38+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca91/live/f0b0c370-fb5a-11f0-80ad-435009e66207.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_2dd6ce206bdb",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-26T10:31:33+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c20zdj8n7vgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1cd/live/5280ef80-fa98-11f0-a6ee-1768c9a638e7.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8ba7b5ba66e6",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel to reopen Gaza crossing after search for last dead hostage's body ends",
-      "dek": "Israel's military says its troops are searching for the remains of Ran Gvili, reportedly at a cemetery in northern Gaza.",
-      "body": "Israel's military says its troops are searching for the remains of Ran Gvili, reportedly at a cemetery in northern Gaza.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T09:52:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/955e/live/1baa6450-fa98-11f0-a422-4ba8a094a8fa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
