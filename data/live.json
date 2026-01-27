@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-27T05:52:13+00:00",
+  "generatedAt": "2026-01-27T06:37:14+00:00",
   "items": [
+    {
+      "id": "latest_72acde6973e5",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "India and EU set to announce landmark trade deal",
+      "dek": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+      "body": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T06:29:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aee/live/869ba2e0-fb44-11f0-a0e0-496c391d5d58.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_9b700ec69f7d",
       "section": "LATEST",
@@ -59,6 +74,21 @@
       "publishedAt": "2026-01-27T00:52:19+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/22f93670-fb18-11f0-a2c0-71839ce781f8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_780b44c1b91b",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Can India be a player in the computer chip industry?",
+      "dek": "India is investing hundreds of millions of dollars in building up a computer chip industry.",
+      "body": "India is investing hundreds of millions of dollars in building up a computer chip industry.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T00:05:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn40j0772vwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -569,36 +599,6 @@
       "publishedAt": "2026-01-25T18:29:57+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612b/live/8a6f54c0-fa13-11f0-b12c-a199f4d4d58c.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ba21a3d1025f",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Winter storm grips US as millions face power outages and disruption",
-      "dek": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
-      "body": "A powerful winter storm swept across the country, with heavy snow, ice and dangerously low temperatures affecting millions.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-25T16:22:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cpqyxlqwqqlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a968/live/f92aeb60-fa07-11f0-b5f7-49f0357294ff.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_30b66aea2b65",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Captain of suspected Russian shadow tanker in French custody",
-      "dek": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday.",
-      "body": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-25T15:25:52+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ad/live/5bd25b00-f9fd-11f0-a24b-df29ade509fc.png",
       "imageCredit": "Image via original publisher"
     }
   ]
