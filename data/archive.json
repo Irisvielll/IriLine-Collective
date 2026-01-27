@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_856d956abb34",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "People cling to treetops as 'worst floods in a generation' sweep Mozambique",
+      "dek": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
+      "body": "The worst flooding in a generation hits Mozambique with teams from Brazil, South Africa and the UK helping with the rescue.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-25T18:48:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2e/live/179de690-fa05-11f0-a422-4ba8a094a8fa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_65d3926e105c",
       "section": "LATEST",
       "sectionLabel": "Latest",
@@ -4108,20 +4123,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-21T18:03:43+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/47663479/nhl-2025-26-olympics-hockey-russia-top-players-quotes-sanctions",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_3160561579",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Niners' injury probe includes looking into substation",
-      "dek": "Niners GM John Lynch said the team will look into \"everything\" to find out why injuries continue to pile up year after year, including an investigation into the viral electrical substation conspiracy theory.",
-      "body": "Niners' injury probe includes looking into substation\n\nSummary:\nNiners GM John Lynch said the team will look into \"everything\" to find out why injuries continue to pile up year after year, including an investigation into the viral electrical substation conspiracy theory.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-21T17:59:10+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47685487/niners-look-everything-including-substation-theory",
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
