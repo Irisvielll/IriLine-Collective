@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-27T01:55:46+00:00",
+  "generatedAt": "2026-01-27T03:49:32+00:00",
   "items": [
+    {
+      "id": "latest_2cd1daf8a2f7",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Immigration chief departing Minneapolis as Trump sends border tsar Tom Homan to scene",
+      "dek": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
+      "body": "The decision may indicate that the administration is walking back more aggressive immigration enforcement.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T03:06:52+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/7b78e7f0-fb1d-11f0-a47f-d352a7d9988a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_10953f36eb51",
       "section": "LATEST",
@@ -584,15 +599,6 @@
       "publishedAt": "2026-01-25T13:05:23+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "latest_f45628278b59",
-      "section": "LATEST",
-      "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
-      "body": "Many parties were banned and there was no voting in about half the country which is gripped by fear and civil war.",
-      "publishedAt": "2026-01-25T13:05:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c"
     }
   ]
 }
