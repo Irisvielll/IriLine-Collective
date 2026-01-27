@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-27T21:54:54+00:00",
+  "generatedAt": "2026-01-27T22:23:51+00:00",
   "items": [
+    {
+      "id": "latest_2dd6ce206bdb",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Former French senator found guilty of drugging MP",
+      "dek": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
+      "body": "Joel Guerriau received a four-year prison sentence, 18 months of which are to be served behind bars.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T22:04:40+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f8f/live/fb2a9ef0-fba7-11f0-b852-153f64f31c74.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5242606051cd",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-26T09:52:05+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c801mj1n04lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/955e/live/1baa6450-fa98-11f0-a422-4ba8a094a8fa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_351dd08865d0",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Gold tops $5,000 for first time ever, adding to historic rally",
-      "dek": "Gold is seen as a so-called safe-haven asset that investors buy in times of uncertainty and low interest rates.",
-      "body": "Gold is seen as a so-called safe-haven asset that investors buy in times of uncertainty and low interest rates.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T09:31:37+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ea/live/315436b0-fa47-11f0-a422-4ba8a094a8fa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
