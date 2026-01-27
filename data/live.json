@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-27T13:49:49+00:00",
+  "generatedAt": "2026-01-27T14:31:22+00:00",
   "items": [
+    {
+      "id": "latest_6c190df20a4d",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+      "dek": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
+      "body": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T12:59:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/322a/live/92240d60-fb7f-11f0-bbb4-c5bf37339933.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b54e6dc11623",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
+      "dek": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
+      "body": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T12:26:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9095/live/97688110-fb71-11f0-b7fd-f5e7f9ed0815.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_fafe6060293f",
       "section": "LATEST",
@@ -569,36 +599,6 @@
       "publishedAt": "2026-01-26T00:25:19+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1w94v205y2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10d7/live/8f15af90-dbfc-11f0-a8dc-93c15fe68710.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0dc1560693c3",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
-      "dek": "A leak exposes for the first time the extent of Russia’s misuse of Interpol to request the arrest of critics.",
-      "body": "A leak exposes for the first time the extent of Russia’s misuse of Interpol to request the arrest of critics.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T00:15:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea21/live/9d4dc4e0-f87f-11f0-b385-5f48925de19a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_41ef33c93a5f",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
-      "dek": "The gun-lobby group, typically aligned with Trump, criticises a suggestion that those who carry guns risk being lawfully shot.",
-      "body": "The gun-lobby group, typically aligned with Trump, criticises a suggestion that those who carry guns risk being lawfully shot.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-25T22:29:48+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a6/live/87ac7320-fa32-11f0-a26c-15c7ecb8d30d.png",
       "imageCredit": "Image via original publisher"
     }
   ]
