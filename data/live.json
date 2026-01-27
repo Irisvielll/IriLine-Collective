@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T06:37:14+00:00",
+  "generatedAt": "2026-01-27T07:04:52+00:00",
   "items": [
     {
       "id": "latest_72acde6973e5",
@@ -149,6 +149,21 @@
       "publishedAt": "2026-01-26T22:46:49+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cedweq4lj25o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/776c/live/a8f41aa0-fb0a-11f0-a422-4ba8a094a8fa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_743e78b249eb",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sly Dunbar, prolific legend of reggae, dies aged 73",
+      "dek": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
+      "body": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-26T22:35:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c92/live/53ee2690-fb05-11f0-a41f-395b54491b3e.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-25T18:48:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cddgq9z4899o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa2e/live/179de690-fa05-11f0-a422-4ba8a094a8fa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_65d3926e105c",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Venezuela frees dozens of political prisoners, human rights group says",
-      "dek": "It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid.",
-      "body": "It is the latest batch of detainees freed since the US seized Venezuelan President Nicolás Maduro in a raid.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-25T18:29:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clymr3pz2kxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612b/live/8a6f54c0-fa13-11f0-b12c-a199f4d4d58c.png",
       "imageCredit": "Image via original publisher"
     }
   ]
