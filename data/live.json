@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-27T20:47:31+00:00",
+  "generatedAt": "2026-01-27T21:18:49+00:00",
   "items": [
+    {
+      "id": "latest_5242606051cd",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Families sue US over deadly boat strike off Venezuela coast",
+      "dek": "Relatives of Chad Joseph and Rishi Samaroo - among six killed on 14 October - say the Trinidadian men were returning home when their vessel was hit.",
+      "body": "Relatives of Chad Joseph and Rishi Samaroo - among six killed on 14 October - say the Trinidadian men were returning home when their vessel was hit.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T20:24:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c98jr75w4zko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74ca/live/93d70b60-fbbd-11f0-b385-5f48925de19a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_507ffc0ef0d2",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-26T09:31:37+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ea/live/315436b0-fa47-11f0-a422-4ba8a094a8fa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c31f74e97558",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Greece biscuit factory fire leaves at least three dead",
-      "dek": "A search is continuing for people still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
-      "body": "A search is continuing for people still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T08:06:42+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f0/live/86816ff0-fa9b-11f0-a422-4ba8a094a8fa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
