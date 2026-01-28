@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-28T09:05:08+00:00",
+  "generatedAt": "2026-01-28T09:48:38+00:00",
   "items": [
+    {
+      "id": "latest_e8a7f1f871fe",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Malaysia football officials quit over foreign-born players scandal",
+      "dek": "Fifa had accused Malaysia's football association of doctoring citizenship documents.",
+      "body": "Fifa had accused Malaysia's football association of doctoring citizenship documents.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-28T09:06:33+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdx4pdg9w2wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc1/live/1f6dde60-fc2c-11f0-9554-45dc30088314.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_43c2f3721f4c",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-26T22:22:51+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/8c1b04e0-fb03-11f0-a47f-d352a7d9988a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_033539d86db7",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
-      "dek": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
-      "body": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T21:34:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7d/live/4b963ab0-fafa-11f0-a47f-d352a7d9988a.png",
       "imageCredit": "Image via original publisher"
     }
   ]
