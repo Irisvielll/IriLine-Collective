@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T09:48:38+00:00",
+  "generatedAt": "2026-01-28T10:30:17+00:00",
   "items": [
     {
       "id": "latest_e8a7f1f871fe",
@@ -134,6 +134,21 @@
       "publishedAt": "2026-01-28T00:17:35+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy11q1pwpgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8df9/live/3de9d770-f78d-11f0-b385-5f48925de19a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d95b22630c82",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Why Trump is hitting the road to rally Americans",
+      "dek": "The BBC's White House correspondent Bernd Debusmann explains why the president is refocusing his attention on the US economy.",
+      "body": "The BBC's White House correspondent Bernd Debusmann explains why the president is refocusing his attention on the US economy.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T23:22:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cz0p2xy38d0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5318/live/0d646580-fbd3-11f0-a422-4ba8a094a8fa.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-26T22:35:45+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c92/live/53ee2690-fb05-11f0-a41f-395b54491b3e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8f9857d65a31",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'We're all terrified', Minnesotan tells the BBC in tears",
-      "dek": "The BBC's Ana Faguy speaks to residents in the state after the second fatal shooting by federal immigration officers.",
-      "body": "The BBC's Ana Faguy speaks to residents in the state after the second fatal shooting by federal immigration officers.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T22:22:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4545/live/8c1b04e0-fb03-11f0-a47f-d352a7d9988a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
