@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-28T13:50:06+00:00",
+  "generatedAt": "2026-01-28T14:31:48+00:00",
   "items": [
+    {
+      "id": "latest_003308488824",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump warns Iran 'time is running out' as US military builds up in Gulf",
+      "dek": "The US president, who has previously vowed to \"rescue\" protesters in Iran, says a \"massive Armada\" is on the way to the country.",
+      "body": "The US president, who has previously vowed to \"rescue\" protesters in Iran, says a \"massive Armada\" is on the way to the country.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-28T14:04:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c97b/live/151aa270-fc47-11f0-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_6ff81f262434",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-27T00:05:55+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn40j0772vwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0adef7768711",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tech giants face landmark trial over social media addiction claims",
-      "dek": "Defendants include Meta, which owns Instagram and Facebook, TikTok's owner ByteDance and YouTube parent Google.",
-      "body": "Defendants include Meta, which owns Instagram and Facebook, TikTok's owner ByteDance and YouTube parent Google.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-27T00:01:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac9b/live/0f1a52c0-faea-11f0-a47f-d352a7d9988a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
