@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_743e78b249eb",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sly Dunbar, prolific legend of reggae, dies aged 73",
+      "dek": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
+      "body": "The drummer and producer played with everyone from Bob Marley to The Rolling Stones and Madonna.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-26T22:35:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn56300z220o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c92/live/53ee2690-fb05-11f0-a41f-395b54491b3e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8f9857d65a31",
       "section": "LATEST",
       "sectionLabel": "Latest",
@@ -4127,20 +4142,6 @@
     },
     {
       "id": "sports_9720221803",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Liberty, Fever among the top 2026 WNBA schedule reveals on social media",
-      "dek": "The 2026 WNBA schedule is out and teams announced their calendar in their own creative ways on social media.",
-      "body": "Liberty, Fever among the top 2026 WNBA schedule reveals on social media\n\nSummary:\nThe 2026 WNBA schedule is out and teams announced their calendar in their own creative ways on social media.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-21T18:47:45+00:00",
-      "sourceUrl": "https://www.espn.com/wnba/story/_/id/47683594/2026-wnba-schedule-release-social-media",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_163715268",
       "section": "SPORTS",
       "sectionLabel": "Sports",
       "type": "REAL",
