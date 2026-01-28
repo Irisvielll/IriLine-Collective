@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-28T06:37:55+00:00",
+  "generatedAt": "2026-01-28T07:04:21+00:00",
   "items": [
+    {
+      "id": "latest_43c2f3721f4c",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Korea's ex-first lady jailed 20 months for bribery",
+      "dek": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
+      "body": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-28T06:53:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5584/live/d60b0530-fc13-11f0-8618-c12486cd8cf5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b60cc6b440c5",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-26T21:34:40+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7d/live/4b963ab0-fafa-11f0-a47f-d352a7d9988a.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_805bcbf58c05",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
-      "dek": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
-      "body": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T20:22:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2763/live/edf25770-faf1-11f0-adda-0755af0bac4f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
