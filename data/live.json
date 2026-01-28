@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-28T16:38:48+00:00",
+  "generatedAt": "2026-01-28T17:19:25+00:00",
   "items": [
+    {
+      "id": "latest_8b47b25ce320",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Panic on crowded train - passenger tells BBC of moment of Russian drone strike",
+      "dek": "Five people died in the attack in northeastern Ukraine when three drones targeted the train.",
+      "body": "Five people died in the attack in northeastern Ukraine when three drones targeted the train.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-28T16:59:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9f/live/9faf2040-fc6b-11f0-b7e1-afb6d0884c18.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a0609b8a90b8",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-27T08:02:16+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cd7zp581q5do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17af/live/4f397450-fb56-11f0-80ad-435009e66207.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_47395c1ec809",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
-      "dek": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
-      "body": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-27T07:30:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc12/live/bdf0fa00-fb4f-11f0-8a3f-efae3b17f55b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

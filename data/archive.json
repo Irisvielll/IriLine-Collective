@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_47395c1ec809",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Firefighters battle 'emergency level' blazes in Australia heatwave",
+      "dek": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
+      "body": "Firefighters in Victoria are battling at least six major fires amid a record-breaking heatwave.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T07:30:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpqyp9w84eeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc12/live/bdf0fa00-fb4f-11f0-8a3f-efae3b17f55b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e7e3e0df615e",
       "section": "LATEST",
       "sectionLabel": "Latest",
@@ -4149,20 +4164,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-21T19:04:28+00:00",
       "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "latest_7107340901",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump's jibes are wearing thin for many of Europe's leaders",
-      "dek": "The ball is in the court of European leaders ahead of Thursday's emergency EU meeting in Brussels, writes Nick Beake.",
-      "body": "Trump's jibes are wearing thin for many of Europe's leaders\n\nSummary:\nThe ball is in the court of European leaders ahead of Thursday's emergency EU meeting in Brussels, writes Nick Beake.\n\nRead the original source for full context.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-21T19:00:53+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd9ez1nj3n3o?at_medium=RSS&at_campaign=rss",
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
