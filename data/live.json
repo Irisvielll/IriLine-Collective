@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-28T21:03:52+00:00",
+  "generatedAt": "2026-01-28T21:45:32+00:00",
   "items": [
+    {
+      "id": "latest_77eb263dc6c2",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "During heated hearing, Rubio insists US action in Venezuela will lead to prosperity and security",
+      "dek": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
+      "body": "The US Secretary of State remained robustly on message when asked about the legality of Maduro's removal, plans for oil sales, and the future of Venezuela.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-28T21:05:52+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1evy87qd1no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ce/live/31bafeb0-fc7f-11f0-b9c1-0d3cbd49d190.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c9bda15ebe75",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-27T12:32:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/crlepd1pkwxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32c8/live/8bb60870-fb7a-11f0-a422-4ba8a094a8fa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b54e6dc11623",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
-      "dek": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
-      "body": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-27T12:26:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9095/live/97688110-fb71-11f0-b7fd-f5e7f9ed0815.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

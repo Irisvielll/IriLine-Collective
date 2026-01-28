@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b54e6dc11623",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
+      "dek": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
+      "body": "Critics say the proposal could see even younger children becoming offenders as well as breaching children's rights.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T12:26:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9095/live/97688110-fb71-11f0-b7fd-f5e7f9ed0815.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_392f221cf511",
       "section": "LATEST",
       "sectionLabel": "Latest",
@@ -4143,20 +4158,6 @@
     },
     {
       "id": "sports_4267847809",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "New NFL mock draft alert! Kiper projects all 32 first-round picks, including new homes for two QBs",
-      "dek": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?",
-      "body": "New NFL mock draft alert! Kiper projects all 32 first-round picks, including new homes for two QBs\n\nSummary:\nWhere will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-21T19:04:28+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_9299349868",
       "section": "SPORTS",
       "sectionLabel": "Sports",
       "type": "REAL",
