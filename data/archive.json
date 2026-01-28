@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_392f221cf511",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "One Battle After Another leads Bafta nominations",
+      "dek": "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised.",
+      "body": "The political thriller has 14 nominations, with Sinners, Hamnet and Marty Supreme also recognised.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-27T12:15:13+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyn2gqwx9ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c94/live/ea4594f0-fb66-11f0-a47f-d352a7d9988a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_1d09b3e46db3",
       "section": "LATEST",
       "sectionLabel": "Latest",
@@ -4142,20 +4157,6 @@
     },
     {
       "id": "sports_9299349868",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "New NFL mock draft alert! Kiper projects all 32 first-round picks, including new homes for two QBs",
-      "dek": "Where will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?",
-      "body": "New NFL mock draft alert! Kiper projects all 32 first-round picks, including new homes for two QBs\n\nSummary:\nWhere will national title game standouts Fernando Mendoza and Akheem Mesidor land in Round 1? And could we really see six WRs in the opening 32 picks?\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-21T19:04:28+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/47661581/2026-nfl-mock-draft-kiper-32-picks-predictions-round-1-quarterbacks",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_1868747197",
       "section": "SPORTS",
       "sectionLabel": "Sports",
       "type": "REAL",
