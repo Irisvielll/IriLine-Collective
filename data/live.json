@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-01-29T02:05:58+00:00",
+  "generatedAt": "2026-01-29T04:14:51+00:00",
   "items": [
+    {
+      "id": "latest_325c8dfd46fa",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+      "dek": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti.",
+      "body": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-29T02:17:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788e/live/89d68970-fc7f-11f0-b9c1-0d3cbd49d190.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_6256d437e5d4",
       "section": "LATEST",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-27T14:05:17+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c70l7zndy3jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a78/live/e6b6c3b0-fb78-11f0-9fd1-99e08ea50909.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6c190df20a4d",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
-      "dek": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
-      "body": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-27T12:59:26+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/322a/live/92240d60-fb7f-11f0-bbb4-c5bf37339933.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
