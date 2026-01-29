@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-29T07:55:04+00:00",
+  "generatedAt": "2026-01-29T08:40:53+00:00",
   "items": [
     {
       "id": "latest_fafeef46f8c6",
@@ -59,6 +59,21 @@
       "publishedAt": "2026-01-29T02:17:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788e/live/89d68970-fc7f-11f0-b9c1-0d3cbd49d190.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_842b7064aec8",
+      "section": "LATEST",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Indians pay tribute after Arijit Singh retires at 38 as Bollywood singer",
+      "dek": "Singh has been one of the most loved and recognisable voices of Bollywood for more than a decade.",
+      "body": "Singh has been one of the most loved and recognisable voices of Bollywood for more than a decade.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-01-29T01:54:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cddgpp7jpm8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e13/live/755219c0-fc0b-11f0-a422-4ba8a094a8fa.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -584,21 +599,6 @@
       "publishedAt": "2026-01-27T17:38:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fb/live/714cbd90-fb9c-11f0-a422-4ba8a094a8fa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_aea71d670e65",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Canadian PM Carney denies walking back Davos speech in phone call with Trump",
-      "dek": "The Canadian prime minister confirmed that he and the US president spoke by phone after Trump threatened 100% tariffs on Canada.",
-      "body": "The Canadian prime minister confirmed that he and the US president spoke by phone after Trump threatened 100% tariffs on Canada.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-27T17:09:26+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9qp3x5x2jpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a971/live/c3b99460-fb9a-11f0-bb99-e9cf31cf2a39.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
