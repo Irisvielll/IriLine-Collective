@@ -168,6 +168,140 @@ def build_items():
                 "image": image["url"],
                 "imageCredit": image["credit"],
             })
+            # -------- SPORTS --------
+for rss in sources.get("sports", {}).get("rss", []):
+    entries = fetch_rss(rss)[:30]
+    logging.info(f"[SPORTS] {rss} -> {len(entries)} entries")
+
+    for e in entries:
+        url = e.get("link", "")
+        if not url:
+            continue
+
+        pid = make_id("sports", url)
+        if pid in existing_ids:
+            continue
+
+        t = parse_time(e) or now_utc()
+        if t < cutoff:
+            continue
+
+        title = clean_text(e.get("title", ""))
+        summary = clean_text(e.get("summary", ""))
+
+        rss_img = extract_rss_image(e)
+        if rss_img:
+            image = {
+                "url": rss_img,
+                "credit": "Image via original publisher"
+            }
+        else:
+            image = pick_unsplash_image("SPORTS", pid, title)
+
+        items_new.append({
+            "id": pid,
+            "section": "SPORTS",
+            "sectionLabel": "Sports",
+            "type": "REAL",
+            "category": "SPORTS",
+            "title": title,
+            "dek": summary[:160],
+            "body": summary,
+            "author": "IriLine Sports Desk",
+            "publishedAt": t.isoformat(timespec="seconds"),
+            "sourceUrl": url,
+            "image": image["url"],
+            "imageCredit": image["credit"],
+        })
+# -------- SPORTS --------
+for rss in sources.get("sports", {}).get("rss", []):
+    entries = fetch_rss(rss)[:30]
+    logging.info(f"[SPORTS] {rss} -> {len(entries)} entries")
+
+    for e in entries:
+        url = e.get("link", "")
+        if not url:
+            continue
+
+        pid = make_id("sports", url)
+        if pid in existing_ids:
+            continue
+
+        t = parse_time(e) or now_utc()
+        if t < cutoff:
+            continue
+
+        title = clean_text(e.get("title", ""))
+        summary = clean_text(e.get("summary", ""))
+
+        rss_img = extract_rss_image(e)
+        if rss_img:
+            image = {
+                "url": rss_img,
+                "credit": "Image via original publisher"
+            }
+        else:
+            image = pick_unsplash_image("SPORTS", pid, title)
+
+        items_new.append({
+            "id": pid,
+            "section": "SPORTS",
+            "sectionLabel": "Sports",
+            "type": "REAL",
+            "category": "SPORTS",
+            "title": title,
+            "dek": summary[:160],
+            "body": summary,
+            "author": "IriLine Sports Desk",
+            "publishedAt": t.isoformat(timespec="seconds"),
+            "sourceUrl": url,
+            "image": image["url"],
+            "imageCredit": image["credit"],
+        })
+# -------- MEME / NOT-SO-SERIOUS --------
+for rss in sources.get("meme", {}).get("rss", []):
+    entries = fetch_rss(rss)[:20]
+    logging.info(f"[MEME] {rss} -> {len(entries)} entries")
+
+    for e in entries:
+        url = e.get("link", "")
+        if not url:
+            continue
+
+        pid = make_id("meme", url)
+        if pid in existing_ids:
+            continue
+
+        t = parse_time(e) or now_utc()
+
+        title = clean_text(e.get("title", ""))
+        summary = clean_text(e.get("summary", ""))
+
+        rss_img = extract_rss_image(e)
+        if rss_img:
+            image = {
+                "url": rss_img,
+                "credit": "Image via original publisher"
+            }
+        else:
+            image = pick_unsplash_image("MEME", pid, title)
+
+        items_new.append({
+            "id": pid,
+            "section": "MEME",
+            "sectionLabel": "Not-So-Serious",
+            "type": "MEME",
+            "category": "WEIRD",
+            "title": title,
+            "dek": summary[:120],
+            "body": summary,
+            "author": "Meme Bureau",
+            "publishedAt": t.isoformat(timespec="seconds"),
+            "sourceUrl": url,
+            "image": image["url"],
+            "imageCredit": image["credit"],
+        })
+
 
     all_live = live["items"] + items_new
     all_live.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
