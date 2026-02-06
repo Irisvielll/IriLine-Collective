@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-06T21:04:16+00:00",
+  "generatedAt": "2026-02-06T21:45:23+00:00",
   "items": [
+    {
+      "id": "latest_99d7c3c7c661",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Norway's crown princess apologises after pressure over Epstein friendship",
+      "dek": "Mette-Marit says she is sorry to Norwegians for not realising what kind of person the late sex offender was.",
+      "body": "Mette-Marit says she is sorry to Norwegians for not realising what kind of person the late sex offender was.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T21:34:24+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c78v8wx6jjxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e7/live/9de81cb0-038e-11f1-a36d-4dc7f32cefeb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_b0437f5fe3e8",
       "section": "meme",
@@ -14,6 +29,21 @@
       "publishedAt": "2026-02-06T20:40:32+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qxt93u/amazon_pulls_melania_from_movie_theater_due_to/",
       "image": "https://external-preview.redd.it/3jByDN32-4wzPSuxnef1Q2or1HIau5S4UkfQg0CGnVw.jpeg?width=640&crop=smart&auto=webp&s=0b67695a42e27f976ab53056fb015da0b1e50fbe",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_9b446626677d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+      "dek": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
+      "body": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T20:27:57+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3020/live/3aec1150-0110-11f1-a8b8-bdd2c5f9bcad.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -119,6 +149,21 @@
       "publishedAt": "2026-02-06T16:31:06+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qxmda5/gb_skier_avoids_censure_for_writing_f_ice_in_snow/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c728318e39e4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_1f15e413031a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Kingsbury joining McVay's Rams staff",
+      "dek": "Former Commanders offensive coordinator Kliff Kingsbury is joining the Rams' coaching staff, sources told ESPN.",
+      "body": "Former Commanders offensive coordinator Kliff Kingsbury is joining the Rams' coaching staff, sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T16:31:01+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47851939/kliff-kingsbury-joining-rams-coaching-staff-sources-say",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1f15e413031a",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -554,51 +599,6 @@
       "publishedAt": "2026-02-06T10:33:06+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qxe5v9/cool_daddy_cool_lyrics_kid_rock_song_about_liking/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d3895a845b36",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_83fafdb16d69",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Women's Bracketology: Are the No. 1 seeds already locked in?",
-      "dek": "Texas' win over LSU on Thursday makes it tougher for teams such as the Tigers or Vanderbilt to get to a 1-seed.",
-      "body": "Texas' win over LSU on Thursday makes it tougher for teams such as the Tigers or Vanderbilt to get to a 1-seed.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T10:02:45+00:00",
-      "sourceUrl": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83fafdb16d69",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ddfb5fdb7753",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Friday's schedule of events at Milan Cortina",
-      "dek": "Check out the full rundown of events for Day 1 of the 2026 Winter Games now.",
-      "body": "Check out the full rundown of events for Day 1 of the 2026 Winter Games now.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T09:56:32+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47841537/2026-winter-olympics-february-6-schedule-milan-cortina-events",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ddfb5fdb7753",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_10520b662948",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vonn 'won't waste chance,' trains on injured knee",
-      "dek": "A week after rupturing the ACL in her left knee, Lindsey Vonn opened her chase for Olympic gold at the age of 41 with an aggressive and successful training run ",
-      "body": "A week after rupturing the ACL in her left knee, Lindsey Vonn opened her chase for Olympic gold at the age of 41 with an aggressive and successful training run down the Olympia delle Tofane downhill course.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T09:47:04+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47848600/lindsey-vonn-finishes-olympic-downhill-training-injured-knee",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_10520b662948",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
