@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-06T08:23:46+00:00",
+  "generatedAt": "2026-02-06T09:08:43+00:00",
   "items": [
+    {
+      "id": "meme_d12f976eda1a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "China’s Gold Diggers Disgruntled: After Spending Big on Training, Not a Single Rich Man Bites",
+      "dek": "submitted by /u/UnintelligibleThing [link] [comments]",
+      "body": "submitted by /u/UnintelligibleThing [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T08:50:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qxcimr/chinas_gold_diggers_disgruntled_after_spending/",
+      "image": "https://external-preview.redd.it/24z2HaiHTuOZZNsCjnPTh0mv-ezXUmBthPGKutcDxzs.jpeg?width=640&crop=smart&auto=webp&s=d2fa8bd66592de91b4706f0cbc12cb60fc8149fc",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_0ed6c67caf7d",
       "section": "latest",
@@ -585,21 +600,6 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c8j342x3y08o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2e7/live/f71f9670-02d8-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f528486a1f4b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Wauwatosa restaurant goes viral for sign prohibiting customers that smell of marijuana from entering",
-      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
-      "body": "submitted by /u/HowLongIsThi [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-05T21:51:33+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qwyurc/wauwatosa_restaurant_goes_viral_for_sign/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_f528486a1f4b",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

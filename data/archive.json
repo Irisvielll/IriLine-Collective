@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_f528486a1f4b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Wauwatosa restaurant goes viral for sign prohibiting customers that smell of marijuana from entering",
+      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
+      "body": "submitted by /u/HowLongIsThi [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-05T21:51:33+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qwyurc/wauwatosa_restaurant_goes_viral_for_sign/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_f528486a1f4b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_6ca5843e1b0f",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4233,20 +4248,6 @@
       "author": "IriLine Sports",
       "publishedAt": "2026-01-22T00:02:06+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47686578/jarrett-stidham-broncos-taking-business-usual-approach",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "sports_394748894",
-      "section": "SPORTS",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "INJURY",
-      "title": "Niners' injury probe includes looking into substation",
-      "dek": "Niners GM John Lynch said the team will look into \"everything\" to find out why injuries continue to pile up year after year, including an investigation into the viral electrical substation conspiracy theory.",
-      "body": "Niners' injury probe includes looking into substation\n\nSummary:\nNiners GM John Lynch said the team will look into \"everything\" to find out why injuries continue to pile up year after year, including an investigation into the viral electrical substation conspiracy theory.\n\nRead the original source for full context.",
-      "author": "IriLine Sports",
-      "publishedAt": "2026-01-22T00:02:06+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47685487/niners-look-everything-including-substation-theory",
       "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
