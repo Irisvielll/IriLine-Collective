@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-06T20:36:44+00:00",
+  "generatedAt": "2026-02-06T21:04:16+00:00",
   "items": [
+    {
+      "id": "meme_b0437f5fe3e8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Amazon Pulls ‘Melania’ From Movie Theater Due to Jokes on Its Marquee",
+      "dek": "submitted by /u/batmya [link] [comments]",
+      "body": "submitted by /u/batmya [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T20:40:32+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qxt93u/amazon_pulls_melania_from_movie_theater_due_to/",
+      "image": "https://external-preview.redd.it/3jByDN32-4wzPSuxnef1Q2or1HIau5S4UkfQg0CGnVw.jpeg?width=640&crop=smart&auto=webp&s=0b67695a42e27f976ab53056fb015da0b1e50fbe",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8a8622cb6089",
       "section": "meme",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-06T09:47:04+00:00",
       "sourceUrl": "https://www.espn.com/olympics/story/_/id/47848600/lindsey-vonn-finishes-olympic-downhill-training-injured-knee",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_10520b662948",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d0507e00ef41",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Milan Cortina Olympics: Best moments from the Games' opening day",
-      "dek": "The 2026 Milan Cortina Olympics officially got underway Friday. Here are the top moments from the opening ceremony.",
-      "body": "The 2026 Milan Cortina Olympics officially got underway Friday. Here are the top moments from the opening ceremony.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T09:45:12+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47827977/2026-milan-cortina-italy-olympics-best-moments-opening-ceremony",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d0507e00ef41",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
