@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T19:23:17+00:00",
+  "generatedAt": "2026-02-06T19:55:41+00:00",
   "items": [
     {
       "id": "meme_c250b380cdfa",
@@ -150,6 +150,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qxkjra/russian_scientist_charged_with_treason_over/",
       "image": "https://external-preview.redd.it/5eMhc0hVSMpBTitHJ1YEZrPlE-_iOGhKXv6NBgNX4z4.jpeg?width=640&crop=smart&auto=webp&s=a288b51d7e3318559997feaa754d39d04339974c",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_472eb22c093a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NHL prospect McKenna has felony charge dropped",
+      "dek": "Penn State hockey star Gavin McKenna will have his felony aggravated assault charge dropped, the Centre County District Attorney's Office announced Friday.",
+      "body": "Penn State hockey star Gavin McKenna will have his felony aggravated assault charge dropped, the Centre County District Attorney's Office announced Friday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T14:43:30+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47851034/felony-charge-top-nhl-prospect-gavin-mckenna-dropped",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_472eb22c093a",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_a220218b2ae5",
@@ -585,21 +600,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47014993/mens-basketball-freshman-year-contenders-ranking-top-10-cameron-boozer-aj-dybantsa-darryn-peterson",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cfa068cdd215",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_487a16609519",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Bad Bunny lookalikes compete ahead of Super Bowl",
-      "dek": "The Puerto Rican rapper, who won a Grammy for album of the year, will be the first artist to perform the half time show entirely in Spanish.",
-      "body": "The Puerto Rican rapper, who won a Grammy for album of the year, will be the first artist to perform the half time show entirely in Spanish.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T09:06:53+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cn8287ndz0go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/a8d49490-0335-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
