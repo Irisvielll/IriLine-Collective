@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T07:01:58+00:00",
+  "generatedAt": "2026-02-07T07:46:00+00:00",
   "items": [
     {
       "id": "meme_f384948c1636",
@@ -29,6 +29,36 @@
       "publishedAt": "2026-02-07T03:50:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qy3eay/do_you_love_me_the_viking_messages_unearthed_on/",
       "image": "https://external-preview.redd.it/DtSed3gGAfQ69Z3DZktrljU4t7msNkAxLdzQTDQJMgM.jpeg?width=320&crop=smart&auto=webp&s=bbf498c3afc8f792dd78cc6600b421f7c6e3128f",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_c9e73169a149",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At the scene of deadly Pakistan mosque explosion",
+      "dek": "At least 31 people have been killed after a suicide bomber detonated a device at a Shia mosque, according to police.",
+      "body": "At least 31 people have been killed after a suicide bomber detonated a device at a Shia mosque, according to police.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T03:23:10+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cj4l415y4dno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ef/live/f5fab5e0-03d2-11f1-b7e1-afb6d0884c18.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_8fc70bf5a30b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Colorado funeral home director sentenced to 40 years for corpse abuse",
+      "dek": "Nearly 200 decaying bodies were discovered at the Return to Nature home after officials investigated a foul smell.",
+      "body": "Nearly 200 decaying bodies were discovered at the Return to Nature home after officials investigated a foul smell.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T02:48:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0q4q7w237yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea3b/live/726f34c0-03c4-11f1-b7e1-afb6d0884c18.png",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -570,36 +600,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/47852226/zlatan-carries-olympic-torch-ahead-opening-ceremony",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8302375438cd",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_30d2a57376ab",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump removes video with racist clip depicting Obamas as apes",
-      "dek": "As a black Republican senator calls it \"the most racist thing I've seen out of this White House\", the administration says \"stop the fake outrage\".",
-      "body": "As a black Republican senator calls it \"the most racist thing I've seen out of this White House\", the administration says \"stop the fake outrage\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T17:18:52+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d500/live/81b74920-036c-11f1-bab5-81d0d0b0abce.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3d92036b6e92",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Suspected Chinese spies arrested in quiet French town",
-      "dek": "Intelligence experts believe south-west France's proximity to defence and aerospace sites makes it a target for espionage.",
-      "body": "Intelligence experts believe south-west France's proximity to defence and aerospace sites makes it a target for espionage.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T17:18:13+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy8yw98l2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41d/live/68101390-037f-11f1-a1bf-cf780f66d064.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

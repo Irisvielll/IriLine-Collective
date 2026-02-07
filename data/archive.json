@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_30d2a57376ab",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump removes video with racist clip depicting Obamas as apes",
+      "dek": "As a black Republican senator calls it \"the most racist thing I've seen out of this White House\", the administration says \"stop the fake outrage\".",
+      "body": "As a black Republican senator calls it \"the most racist thing I've seen out of this White House\", the administration says \"stop the fake outrage\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T17:18:52+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d500/live/81b74920-036c-11f1-bab5-81d0d0b0abce.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3d92036b6e92",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Suspected Chinese spies arrested in quiet French town",
+      "dek": "Intelligence experts believe south-west France's proximity to defence and aerospace sites makes it a target for espionage.",
+      "body": "Intelligence experts believe south-west France's proximity to defence and aerospace sites makes it a target for espionage.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T17:18:13+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy8yw98l2xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41d/live/68101390-037f-11f1-a1bf-cf780f66d064.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_9674776ef888",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4315,34 +4345,6 @@
       "publishedAt": "2026-01-24T14:14:44+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "latest_5725452807",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How Soviet urban planning is helping Russia freeze Ukraine",
-      "dek": "Thousands of people are affected when heating plants are targeted by Russian forces.",
-      "body": "How Soviet urban planning is helping Russia freeze Ukraine\n\nSummary:\nThousands of people are affected when heating plants are targeted by Russian forces.\n\nRead the original source for full context.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-24T13:56:13+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70"
-    },
-    {
-      "id": "meme_4654243326",
-      "section": "MEME",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US Army Poorly Prepared for Arctic Operations: Finnish Troops Forced Them to Surrender During Exercises in Norway",
-      "dek": "No context required",
-      "body": "US Army Poorly Prepared for Arctic Operations: Finnish Troops Forced Them to Surrender During Exercises in Norway\n\nContext: submitted by /u/Street_Anon [link] [comments]",
-      "author": "Meme Bureau",
-      "publishedAt": "2026-01-24T13:08:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qlmjfm/us_army_poorly_prepared_for_arctic_operations/",
-      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=70"
     }
   ]
 }
