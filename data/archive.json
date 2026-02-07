@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_8302375438cd",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Torch, meet Zlatan: Milan legend serves as Olympic torchbearer",
+      "dek": "The Olympic torch has been grasped by many over the years, but no one quite like Zlatan Ibrahimovic.",
+      "body": "The Olympic torch has been grasped by many over the years, but no one quite like Zlatan Ibrahimovic.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T17:45:38+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47852226/zlatan-carries-olympic-torch-ahead-opening-ceremony",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8302375438cd",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_30d2a57376ab",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4331,20 +4346,6 @@
       "publishedAt": "2026-01-24T17:52:07+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/cvgj13e5ddlo?at_medium=RSS&at_campaign=rss",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c"
-    },
-    {
-      "id": "latest_2901677730",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "China places highest-ranking general under investigation",
-      "dek": "President Xi has been accused of using investigations to purge political rivals.",
-      "body": "China places highest-ranking general under investigation\n\nSummary:\nPresident Xi has been accused of using investigations to purge political rivals.\n\nRead the original source for full context.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-24T14:14:44+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70"
     }
   ]
 }
