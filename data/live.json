@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-07T15:26:35+00:00",
+  "generatedAt": "2026-02-07T15:49:18+00:00",
   "items": [
+    {
+      "id": "meme_2c46c7a90df8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Pentagon says it's cutting ties with \"woke\" Harvard, discontinuing military training and fellowships",
+      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T15:37:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qygw1t/pentagon_says_its_cutting_ties_with_woke_harvard/",
+      "image": "https://external-preview.redd.it/Y-U4jNXXnA_2XyzzcvIKT-eBkzq7DY6Bb0oXLNf4vKM.jpeg?width=640&crop=smart&auto=webp&s=d5abd8edaf38219a63aae0793fe35a2903fd365e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6bb712184eeb",
       "section": "meme",
@@ -90,6 +105,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7f/live/44b1bfc0-0415-11f1-9154-2f1cc68521d4.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_dfd1963da301",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Follow live: U.S. Women's Hockey takes on Finland in second game of the group stage",
+      "dek": "null",
+      "body": "null",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T10:33:55+00:00",
+      "sourceUrl": "https://www.espn.com/olympics-womens-ice-hockey/game/_/gameId/401845615/finland-united-states",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dfd1963da301",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_12725ade9715",
@@ -569,36 +599,6 @@
       "publishedAt": "2026-02-06T23:05:00+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ckgl53zll3jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db9c/live/c4d85830-02a8-11f1-83b0-21555a6f44a1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e2e4915d9e1b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Trump has called to nationalise US elections. Is it a big deal?",
-      "dek": "The BBC's Washington correspondent Daniel Bush explains why the US president's comments are causing a stir in a midterm election year.",
-      "body": "The BBC's Washington correspondent Daniel Bush explains why the US president's comments are causing a stir in a midterm election year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T22:48:07+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cqxyx2pl1pzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd13/live/19798a90-03ac-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_56a5a2491a0b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Milan-Cortina Games begin with vibrant opening ceremony",
-      "dek": "Andrea Bocelli and Mariah Carey perform as part of vibrant opening ceremony for the Milan-Cortina Winter Olympics.",
-      "body": "Andrea Bocelli and Mariah Carey perform as part of vibrant opening ceremony for the Milan-Cortina Winter Olympics.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T22:37:34+00:00",
-      "sourceUrl": "https://www.bbc.com/sport/articles/czejep5z51wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0779/live/7b0081f0-0394-11f1-a36d-4dc7f32cefeb.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
