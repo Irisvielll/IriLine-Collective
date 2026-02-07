@@ -1,12 +1,3 @@
-"""
-IriLine Collective
-Motto: Context, not copies.
-
-We do NOT plagiarize.
-All summaries are original, human-readable context
-from public sources.
-"""
-
 import html
 import random
 import logging
