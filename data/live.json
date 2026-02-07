@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T17:43:39+00:00",
+  "generatedAt": "2026-02-07T18:00:15+00:00",
   "items": [
     {
       "id": "meme_b0a5928c4f69",
@@ -150,6 +150,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qydkqx/march_in_support_of_billionaires_san_francisco/",
       "image": "https://external-preview.redd.it/eXp5qcJZLmeYft73cdOCOBkQleL40UVuNNwXEoA6Hrc.png?width=640&crop=smart&auto=webp&s=377bbf5af08244ff73f484befdc974d3eafa4d3c",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_9304b85f880c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Family affair: Jets hire Seth Ryan, source says",
+      "dek": "Seth Ryan was hired Saturday as the Jets new passing-game coordinator, a source told ESPN.",
+      "body": "Seth Ryan was hired Saturday as the Jets new passing-game coordinator, a source told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T12:49:40+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47858504/jets-hire-seth-ryan-passing-game-coordinator",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9304b85f880c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_ee7e60cf110b",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-07T00:42:45+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cp873z18028o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f1/live/6e3f3700-0311-11f1-8727-2dfe1c773f32.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1efe152c561b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "From Hollywood to the homeland: Why African countries are courting black American stars",
-      "dek": "Ciara and Samuel L Jackson are among the big names who have become citizens of African countries in recent years.",
-      "body": "Ciara and Samuel L Jackson are among the big names who have become citizens of African countries in recent years.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-07T00:00:31+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c86vz6v07d3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b87/live/c6a5a580-02a5-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
