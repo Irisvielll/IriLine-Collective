@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-07T19:45:00+00:00",
+  "generatedAt": "2026-02-07T19:57:16+00:00",
   "items": [
+    {
+      "id": "meme_1b5ef7cc0597",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Police arrest ‘serial defecator' in Wisconsin after drone allegedly catches her in the act",
+      "dek": "submitted by /u/captainp42 [link] [comments]",
+      "body": "submitted by /u/captainp42 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T19:45:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qyndpq/police_arrest_serial_defecator_in_wisconsin_after/",
+      "image": "https://external-preview.redd.it/Dwue7bCULdsrdPmcPBUX8PQxEDAMIQBHSC633yPw1v4.png?width=640&crop=smart&auto=webp&s=5cbc04e7055923668a50d4a7a599fcbe4fee21ab",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5871cdb3ab3c",
       "section": "meme",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-07T03:23:10+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/cj4l415y4dno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ef/live/f5fab5e0-03d2-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8fc70bf5a30b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Colorado funeral home director sentenced to 40 years for corpse abuse",
-      "dek": "Nearly 200 decaying bodies were discovered at the Return to Nature home after officials investigated a foul smell.",
-      "body": "Nearly 200 decaying bodies were discovered at the Return to Nature home after officials investigated a foul smell.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-07T02:48:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0q4q7w237yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea3b/live/726f34c0-03c4-11f1-b7e1-afb6d0884c18.png",
       "imageCredit": "Image via original publisher"
     }
   ]
