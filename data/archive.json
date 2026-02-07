@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_5c075d291683",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Will Sunday's snap election gamble pay off for Japan's first female premier?",
+      "dek": "Sanae Takaichi is popular - but inflation and a diplomatic row with China weigh on voters' minds.",
+      "body": "Sanae Takaichi is popular - but inflation and a diplomatic row with China weigh on voters' minds.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-06T23:05:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgl53zll3jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db9c/live/c4d85830-02a8-11f1-83b0-21555a6f44a1.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e2e4915d9e1b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4378,20 +4393,6 @@
       "publishedAt": "2026-01-25T00:25:51+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c99kkerr93ko?at_medium=RSS&at_campaign=rss",
       "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c"
-    },
-    {
-      "id": "latest_3203764394",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Peace talks on Russia-Ukraine war end as fighting rages",
-      "dek": "No breakthrough is reported at the first three-way talks but reports suggest they will resume next month.",
-      "body": "Peace talks on Russia-Ukraine war end as fighting rages\n\nSummary:\nNo breakthrough is reported at the first three-way talks but reports suggest they will resume next month.\n\nRead the original source for full context.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-24T23:37:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1600&q=70"
     }
   ]
 }

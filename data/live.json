@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-07T15:49:18+00:00",
+  "generatedAt": "2026-02-07T16:31:13+00:00",
   "items": [
+    {
+      "id": "latest_795cc5c0ae41",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "General shot in Moscow conscious after surgery, Russian media say",
+      "dek": "Lt Gen Vladimir Alexeyev was shot several times inside his apartment block on Friday morning.",
+      "body": "Lt Gen Vladimir Alexeyev was shot several times inside his apartment block on Friday morning.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T16:10:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpwnweypgvyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a0/live/f162fd50-042a-11f1-9972-d3f265c101c6.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2c46c7a90df8",
       "section": "meme",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-06T23:05:12+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvgnq9rwyqno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eb5/live/e73378c0-0252-11f1-8c1c-47c1f6b3eac7.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5c075d291683",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Will Sunday's snap election gamble pay off for Japan's first female premier?",
-      "dek": "Sanae Takaichi is popular - but inflation and a diplomatic row with China weigh on voters' minds.",
-      "body": "Sanae Takaichi is popular - but inflation and a diplomatic row with China weigh on voters' minds.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T23:05:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckgl53zll3jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db9c/live/c4d85830-02a8-11f1-83b0-21555a6f44a1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
