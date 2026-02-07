@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T05:26:26+00:00",
+  "generatedAt": "2026-02-07T06:04:04+00:00",
   "items": [
     {
       "id": "meme_f384948c1636",
@@ -105,6 +105,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qy0a37/parliament_revamp_could_cost_40bn_and_take_61/",
       "image": "https://external-preview.redd.it/VHLFb36OpcFSjj5FZRxA8j6yb31Zv-Tv46Ytega24QE.jpeg?width=640&crop=smart&auto=webp&s=e69870966f53d576d54b29cddf0f86e530cb1c84",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_117b48c165e3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "St. John's tops UConn as Pitino ties No. 3 in wins",
+      "dek": "St. John's landed its first marquee win of the season Friday night, knocking off No. 3 UConn 81-72 to snap the Huskies' 18-game winning streak in front of an el",
+      "body": "St. John's landed its first marquee win of the season Friday night, knocking off No. 3 UConn 81-72 to snap the Huskies' 18-game winning streak in front of an electric crowd at Madison Square Garden.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T00:52:27+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47854617/st-john-ends-uconn-18-game-win-streak-rick-pitino-moves-tie-third-division-wins",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_117b48c165e3",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_ae328ab90d9c",
@@ -585,21 +600,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cwy8yw98l2xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41d/live/68101390-037f-11f1-a1bf-cf780f66d064.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_9674776ef888",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "TKO says White House event to have 6-7 fights",
-      "dek": "The UFC's June 14 event at the White House's South Lawn will have at least six fights, TKO Group CEO Ari Emanuel said on \"The Pat McAfee Show\" on Friday.",
-      "body": "The UFC's June 14 event at the White House's South Lawn will have at least six fights, TKO Group CEO Ari Emanuel said on \"The Pat McAfee Show\" on Friday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T17:11:13+00:00",
-      "sourceUrl": "https://www.espn.com/mma/story/_/id/47851578/ufc-white-house-event-6-7-fights-tko-says",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9674776ef888",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
