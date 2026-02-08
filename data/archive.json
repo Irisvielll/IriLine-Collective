@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_4b39c70eed77",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Russian figure skater spins new tune over rights",
+      "dek": "Russian figure skater Petr Gumennik has been forced to change his short program music two days before the men's program at the Milan Cortina Olympics after join",
+      "body": "Russian figure skater Petr Gumennik has been forced to change his short program music two days before the men's program at the Milan Cortina Olympics after joining a growing list of figure skaters dealing with copyright issues.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T11:29:26+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47867171/russian-figure-skater-changes-olympic-music-copyright",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4b39c70eed77",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_aa2c9bbc7978",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-01-28T03:34:43+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/crmlpl0w2z2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c5/live/efd0e750-fbf5-11f0-a47f-d352a7d9988a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_acb62b169b17",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Minnesota congresswoman Ilhan Omar attacked with 'unknown liquid' during town hall",
-      "dek": "Omar was uninjured and continued to speak at the event following the incident.",
-      "body": "Omar was uninjured and continued to speak at the event following the incident.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-28T03:25:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7026/live/fef50610-fbf7-11f0-a422-4ba8a094a8fa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

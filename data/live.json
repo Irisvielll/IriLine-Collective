@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-08T21:27:49+00:00",
+  "generatedAt": "2026-02-08T21:53:02+00:00",
   "items": [
+    {
+      "id": "meme_04a18142e914",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russia Implants Chips Into Brains Of ‘Spy’ Pigeons In Bizarre Surveillance Push",
+      "dek": "submitted by /u/SecretPlum1 [link] [comments]",
+      "body": "submitted by /u/SecretPlum1 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T21:46:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qzlwow/russia_implants_chips_into_brains_of_spy_pigeons/",
+      "image": "https://external-preview.redd.it/3LgKNkhjqb9hwE6_rtmc_2tesaGPcSrdi8Fzwf4jNhA.png?width=640&crop=smart&auto=webp&s=445e3d50f98569827ce5fc2b605619efc6a8aa55",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8b504dfce725",
       "section": "latest",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-08T11:29:26+00:00",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47867567/bettors-backing-seahawks-patriots-super-bowl",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6d376472ea62",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_4b39c70eed77",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Russian figure skater spins new tune over rights",
-      "dek": "Russian figure skater Petr Gumennik has been forced to change his short program music two days before the men's program at the Milan Cortina Olympics after join",
-      "body": "Russian figure skater Petr Gumennik has been forced to change his short program music two days before the men's program at the Milan Cortina Olympics after joining a growing list of figure skaters dealing with copyright issues.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-08T11:29:26+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47867171/russian-figure-skater-changes-olympic-music-copyright",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4b39c70eed77",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
