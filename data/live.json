@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-08T15:30:27+00:00",
+  "generatedAt": "2026-02-08T15:59:14+00:00",
   "items": [
+    {
+      "id": "meme_63ae1a6060de",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Memorial for Swiss bar fire victims goes on fire",
+      "dek": "submitted by /u/Wonderful-Excuse4922 [link] [comments]",
+      "body": "submitted by /u/Wonderful-Excuse4922 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T15:29:47+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qzbty8/memorial_for_swiss_bar_fire_victims_goes_on_fire/",
+      "image": "https://external-preview.redd.it/BgObNa14BEaKJXkNr8gvHwxn62znwMVF6PaMs0eO0S8.jpeg?width=640&crop=smart&auto=webp&s=6c1bad6c0947b5369267c074eac1a9b8986b927e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_bf61a29fd514",
       "section": "meme",
@@ -119,6 +134,21 @@
       "publishedAt": "2026-02-08T11:21:44+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qz6hsv/pentagon_says_its_cutting_ties_with_woke_harvard/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_3fa24bc7a1a6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_5e2e688057d2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Men's Bubble Watch: Welcome to new locks Kentucky, NC State, Villanova, Saint Louis",
+      "dek": "The dust settles from a big Saturday, with some new locks, some promotions, some demotions.",
+      "body": "The dust settles from a big Saturday, with some new locks, some promotions, some demotions.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T10:46:37+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47809690/bubble-watch-mens-ncaa-tournament-march-madness-bracket-predictions-2026",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5e2e688057d2",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -569,36 +599,6 @@
       "publishedAt": "2026-02-07T23:59:43+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c86v6p1djvqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/915a/live/5fb940b0-0396-11f1-9972-d3f265c101c6.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_ce25a8f2b7f3",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Jokic passes Robertson for 2nd in triple-doubles",
-      "dek": "Nikola Jokic passed Oscar Robertson for the second-most triple-doubles in NBA history with 182 in Saturday's win over the Bulls.",
-      "body": "Nikola Jokic passed Oscar Robertson for the second-most triple-doubles in NBA history with 182 in Saturday's win over the Bulls.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-07T23:59:08+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47864024/jokic-passes-oscar-robertson-second-most-triple-doubles",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ce25a8f2b7f3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_bef5c0b2d091",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Bar raises entry age after surge in fake IDs, including one with Ben Franklin’s picture",
-      "dek": "submitted by /u/EthanOMcBride [link] [comments]",
-      "body": "submitted by /u/EthanOMcBride [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-07T23:56:12+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qytify/bar_raises_entry_age_after_surge_in_fake_ids/",
-      "image": "https://external-preview.redd.it/5c_wzdXixhyFtrJclx-XypHh4pfwKaSxXDFjJiJ5WX0.png?width=640&crop=smart&auto=webp&s=99d4994a038ad9e13929fabb81a8922f43bc30b4",
       "imageCredit": "Image via original publisher"
     }
   ]
