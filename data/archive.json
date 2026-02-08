@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_773ee99ebefb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "South Korean crypto firm accidentally sends $44 billion in bitcoin to users",
+      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T21:23:56+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qypvfk/south_korean_crypto_firm_accidentally_sends_44/",
+      "image": "https://external-preview.redd.it/dy1gL6ib56A2E-e7DgJ7Z-MtLg4VbobHpuge_yn7_3Y.jpeg?width=640&crop=smart&auto=webp&s=f44c212d938397c9b2e69cf064b343c32e197351",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_3d1a0cf433fc",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-01-26T05:30:26+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba23/live/2b0c80d0-fa76-11f0-b5f7-49f0357294ff.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5eb26f1fb98b",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "At least seven dead and 800,000 without power as major winter storm hits US",
-      "dek": "Almost half of US states have declared emergencies as officials warn of \"life threatening conditions\" that could affect 180 million people.",
-      "body": "Almost half of US states have declared emergencies as officials warn of \"life threatening conditions\" that could affect 180 million people.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T04:38:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1klrmz90yjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a3/live/0d2856f0-fa5f-11f0-a422-4ba8a094a8fa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
