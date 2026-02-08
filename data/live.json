@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T23:40:12+00:00",
+  "generatedAt": "2026-02-08T23:58:53+00:00",
   "items": [
     {
       "id": "latest_a10eed230321",
@@ -120,6 +120,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/clygw161wzvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c7/live/2a25cb70-0518-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_ecec10a27817",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "VAR review: Liverpool anger justified in no red card for Man City?",
+      "dek": "After Liverpool's loss, coach Arne Slot fumed that Man City deserved a red card: Is he right?",
+      "body": "After Liverpool's loss, coach Arne Slot fumed that Man City deserved a red card: Is he right?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T18:51:57+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47869869/var-review-liverpool-right-missed-red-card-man-city-penalty-fair",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ecec10a27817",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_01bf2e715978",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-08T14:07:46+00:00",
       "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/47868788/nyu-women-team-sets-div-iii-mark-82nd-straight-win",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f81b58b80cba",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_4c6542b69d64",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Haaland earns City dramatic late win at Liverpool",
-      "dek": "Erling Haaland kept Manchester City in the title race with an added-time penalty as Pep Guardiola's side came from behind to win 2-1 in a chaotic finish.",
-      "body": "Erling Haaland kept Manchester City in the title race with an added-time penalty as Pep Guardiola's side came from behind to win 2-1 in a chaotic finish.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-08T14:07:46+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/740845",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4c6542b69d64",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

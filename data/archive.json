@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_4c6542b69d64",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Haaland earns City dramatic late win at Liverpool",
+      "dek": "Erling Haaland kept Manchester City in the title race with an added-time penalty as Pep Guardiola's side came from behind to win 2-1 in a chaotic finish.",
+      "body": "Erling Haaland kept Manchester City in the title race with an added-time penalty as Pep Guardiola's side came from behind to win 2-1 in a chaotic finish.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T14:07:46+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/740845",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4c6542b69d64",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_422ff808840a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-01-28T14:54:59+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cd6wpdpylj1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/c16467a0-f7a6-11f0-9dfa-8ff76e953b19.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_53509a0303ba",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Europe must act urgently and stop outsourcing defence, says EU's Kallas",
-      "dek": "The EU foreign policy chief's remarks come days after Nato's secretary general said Europe needed the US for its defence.",
-      "body": "The EU foreign policy chief's remarks come days after Nato's secretary general said Europe needed the US for its defence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-28T14:45:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czej2z3zz9jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c1/live/8d5097d0-fc39-11f0-a47f-d352a7d9988a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
