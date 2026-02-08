@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-08T17:44:22+00:00",
+  "generatedAt": "2026-02-08T18:00:56+00:00",
   "items": [
+    {
+      "id": "latest_8a1b183d2dc7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "France murder trial complicated by twin brothers with same DNA",
+      "dek": "Police have recovered DNA from a weapon but cannot determine which of the brothers used it.",
+      "body": "Police have recovered DNA from a weapon but cannot determine which of the brothers used it.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T17:49:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn87l12e4xeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ed2/live/fe0ae8b0-0501-11f1-95ed-5b98410ce4f4.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_65363a9a1a68",
       "section": "meme",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-08T03:22:47+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qyy0yl/judge_orders_3_families_returned_to_us_after/",
       "image": "https://external-preview.redd.it/HBEjSs_BCkP1Qqmff3n3bg3L3eZnwyPr5cK-RWQBU3M.jpeg?width=640&crop=smart&auto=webp&s=5565a1a228f9c97940e97617bbc0440c1ec82211",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_cbeba8bdceda",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Toddler hospitalized with respiratory failure was returned to ICE detention and denied prescribed medication, lawsuit says",
-      "dek": "submitted by /u/That_One_Prog [link] [comments]",
-      "body": "submitted by /u/That_One_Prog [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-08T03:22:28+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qyy0qs/toddler_hospitalized_with_respiratory_failure_was/",
-      "image": "https://external-preview.redd.it/0hhxugQulqxDGfB19r79IMsD-tuiEqcm7RYAeiIjZMo.jpeg?width=640&crop=smart&auto=webp&s=9968ed1196070eee40fc6478e0d8f286579f2a3e",
       "imageCredit": "Image via original publisher"
     }
   ]
