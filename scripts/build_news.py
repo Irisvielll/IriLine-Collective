@@ -118,6 +118,14 @@ def build_items():
     cutoff = now_utc() - timedelta(hours=24)
 
     def process_rss_feed(section, rss_feed, category, section_label, type_label):
+        """
+        Process a section's RSS feed and append new articles to `items_new`.
+        - section: 'latest', 'sports', 'meme'
+        - rss_feed: RSS feed URL
+        - category: Article category (e.g., "WORLD", "SPORTS")
+        - section_label: Label for the section (e.g., "Latest", "Sports")
+        - type_label: Type of article (e.g., "REAL", "MEME")
+        """
         entries = fetch_rss(rss_feed)[:30]
         logging.info(f"[{section}] {rss_feed} -> {len(entries)} entries")
 
@@ -176,12 +184,14 @@ def build_items():
     all_live = live["items"] + items_new
     all_live.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
 
+    # Populate live and archive items correctly
     live_out = all_live[:40]
     archive_out = archive["items"] + all_live[40:]
     archive_out = list({i["id"]: i for i in archive_out}.values())
     archive_out.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
     archive_out = archive_out[:300]
 
+    # Saving data to JSON files
     save_json("data/live.json", {
         "generatedAt": now_utc().isoformat(timespec="seconds"),
         "items": live_out
