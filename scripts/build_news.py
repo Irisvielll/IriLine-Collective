@@ -8,7 +8,8 @@ from datetime import datetime, timezone, timedelta
 import feedparser
 from dateutil import parser as dtparser
 
-logging.basicConfig(level=logging.INFO)
+# Set logging level to DEBUG for detailed output
+logging.basicConfig(level=logging.DEBUG)
 
 # -------------------------
 # IMAGE INTENT MAP
@@ -120,26 +121,24 @@ def build_items():
     def process_rss_feed(section, rss_feed, category, section_label, type_label):
         """
         Process a section's RSS feed and append new articles to `items_new`.
-        - section: 'latest', 'sports', 'meme'
-        - rss_feed: RSS feed URL
-        - category: Article category (e.g., "WORLD", "SPORTS")
-        - section_label: Label for the section (e.g., "Latest", "Sports")
-        - type_label: Type of article (e.g., "REAL", "MEME")
         """
         entries = fetch_rss(rss_feed)[:30]
-        logging.info(f"[{section}] {rss_feed} -> {len(entries)} entries")
+        logging.debug(f"[{section}] {rss_feed} -> {len(entries)} entries")
 
         for e in entries:
             url = e.get("link")
             if not url:
+                logging.debug(f"Skipping article with no URL: {e.get('title')}")
                 continue
 
             pid = make_id(section, url)
             if pid in existing_ids:
+                logging.debug(f"Article already exists: {url}")
                 continue
 
             t = parse_time(e) or now_utc()
             if t < cutoff:
+                logging.debug(f"Article is older than cutoff: {url}")
                 continue
 
             title = clean_text(e.get("title", ""))
@@ -167,6 +166,7 @@ def build_items():
                 "image": image["url"],
                 "imageCredit": image["credit"],
             })
+            logging.debug(f"Processed article: {title} (ID: {pid})")
 
     # -------- LATEST --------
     for rss in sources.get("latest", {}).get("rss", []):
@@ -184,14 +184,12 @@ def build_items():
     all_live = live["items"] + items_new
     all_live.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
 
-    # Populate live and archive items correctly
     live_out = all_live[:40]
     archive_out = archive["items"] + all_live[40:]
     archive_out = list({i["id"]: i for i in archive_out}.values())
     archive_out.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
     archive_out = archive_out[:300]
 
-    # Saving data to JSON files
     save_json("data/live.json", {
         "generatedAt": now_utc().isoformat(timespec="seconds"),
         "items": live_out
