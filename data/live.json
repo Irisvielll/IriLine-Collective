@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T07:02:21+00:00",
+  "generatedAt": "2026-02-08T07:50:22+00:00",
   "items": [
     {
       "id": "meme_7b42ffae3485",
@@ -75,6 +75,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qyy0qs/toddler_hospitalized_with_respiratory_failure_was/",
       "image": "https://external-preview.redd.it/0hhxugQulqxDGfB19r79IMsD-tuiEqcm7RYAeiIjZMo.jpeg?width=640&crop=smart&auto=webp&s=9968ed1196070eee40fc6478e0d8f286579f2a3e",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_6eeef2f3dba7",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Harden nets 23, delivers winning debut for Cavs",
+      "dek": "James Harden combined with Donovan Mitchell for 58 points in his first game with the Cavaliers, who beat the Kings 132-126.",
+      "body": "James Harden combined with Donovan Mitchell for 58 points in his first game with the Cavaliers, who beat the Kings 132-126.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T02:33:01+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47864600/james-harden-scores-23-points-delivers-winning-debut-cavs",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6eeef2f3dba7",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_bda1f0ee51ec",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-07T21:11:23+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/ckgngd10lk7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ae/live/f1424230-0467-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_697322f94342",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Inside Epstein’s House: When “Art” Becomes a Map of Power and Abuse",
-      "dek": "submitted by /u/ResPublicaMgz [link] [comments]",
-      "body": "submitted by /u/ResPublicaMgz [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-07T21:10:12+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qypizu/inside_epsteins_house_when_art_becomes_a_map_of/",
-      "image": "https://external-preview.redd.it/z_NrWJg5i3SZJ-vysr50lTu54qrfh3fMl527sB3EPCw.jpeg?width=640&crop=smart&auto=webp&s=3b57d289630a083ec9023edaabcf5f653d41e01d",
       "imageCredit": "Image via original publisher"
     }
   ]

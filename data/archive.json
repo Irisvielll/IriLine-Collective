@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_697322f94342",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Inside Epstein’s House: When “Art” Becomes a Map of Power and Abuse",
+      "dek": "submitted by /u/ResPublicaMgz [link] [comments]",
+      "body": "submitted by /u/ResPublicaMgz [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-07T21:10:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qypizu/inside_epsteins_house_when_art_becomes_a_map_of/",
+      "image": "https://external-preview.redd.it/z_NrWJg5i3SZJ-vysr50lTu54qrfh3fMl527sB3EPCw.jpeg?width=640&crop=smart&auto=webp&s=3b57d289630a083ec9023edaabcf5f653d41e01d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_25b81eab86f3",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-01-26T04:06:14+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy1vpqpy23o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9de/live/cce379f0-fa6b-11f0-ba3f-fd73924e5353.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d3be4d88dcfb",
-      "section": "LATEST",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Heatwave warnings across Australia as millions celebrate national day",
-      "dek": "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia.",
-      "body": "Temperatures are expected to peak on Tuesday, reaching the \"high forties\" in Victoria and South Australia.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-01-26T04:01:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz6y7nxx5jvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c71/live/75a49390-fa6b-11f0-ba3f-fd73924e5353.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
