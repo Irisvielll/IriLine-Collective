@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-08T07:50:22+00:00",
+  "generatedAt": "2026-02-08T08:34:54+00:00",
   "items": [
+    {
+      "id": "meme_d796ce3d7d12",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "In Zimbabwe, millions choose funeral insurance over pricey medical cover",
+      "dek": "submitted by /u/Fan387 [link] [comments]",
+      "body": "submitted by /u/Fan387 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T08:19:25+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qz3hft/in_zimbabwe_millions_choose_funeral_insurance/",
+      "image": "https://external-preview.redd.it/utII1-XuTvbf6xYyXzsOMNKNUawbiyq15_IRDGpfWgo.jpeg?width=640&crop=smart&auto=webp&s=61b4f89adaafbb68729ee893fb528bb08f6d11f6",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7b42ffae3485",
       "section": "meme",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-07T21:23:56+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qypvfk/south_korean_crypto_firm_accidentally_sends_44/",
       "image": "https://external-preview.redd.it/dy1gL6ib56A2E-e7DgJ7Z-MtLg4VbobHpuge_yn7_3Y.jpeg?width=640&crop=smart&auto=webp&s=f44c212d938397c9b2e69cf064b343c32e197351",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3d1a0cf433fc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "BBC debunks claims that Bad Bunny is not a US citizen",
-      "dek": "On Sunday 8 February, Bad Bunny will perform at the Super Bowl half-time show to an audience of more than 100 million people across the world.",
-      "body": "On Sunday 8 February, Bad Bunny will perform at the Super Bowl half-time show to an audience of more than 100 million people across the world.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-07T21:11:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/ckgngd10lk7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ae/live/f1424230-0467-11f1-b5e2-dd58fc65f0f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
