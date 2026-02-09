@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-09T10:41:48+00:00",
+  "generatedAt": "2026-02-09T11:32:45+00:00",
   "items": [
+    {
+      "id": "latest_ffd327af93d7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years",
+      "dek": "Lai's supporters say this amounts to a death sentence, but authorities say it demonstrates the rule of law.",
+      "body": "Lai's supporters say this amounts to a death sentence, but authorities say it demonstrates the rule of law.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T11:19:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d6/live/cb1d3dc0-0580-11f1-a753-9525d46c4e23.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_09a861c0cd08",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Eritrea accuses Ethiopia of fabricating report its troops had crossed the border",
+      "dek": "Ethiopia had alleged that Eritrean soldiers were on its territory and supporting rebels in the north.",
+      "body": "Ethiopia had alleged that Eritrean soldiers were on its territory and supporting rebels in the north.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T10:35:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn87lzrj1l7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cd/live/45a47360-04f5-11f1-986f-c3de68f53931.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d0a54ddb111d",
       "section": "latest",
@@ -570,36 +600,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47872913/seahawks-rb-kenneth-walker-iii-named-mvp-super-bowl-lx",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a490abfaae34",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_bac9739a08bd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Bad Bunny hosts wedding during Super Bowl LX halftime show",
-      "dek": "Bad Bunny's Super Bowl LX halftime performance featured a real wedding ceremony.",
-      "body": "Bad Bunny's Super Bowl LX halftime performance featured a real wedding ceremony.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-08T22:28:26+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47872442/bad-bunny-super-bowl-lx-half-wedding",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bac9739a08bd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_a10eed230321",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Venezuela frees high-profile opposition figure Juan Pablo Guanipa",
-      "dek": "The Justice First party leader is among 18 political prisoners to be freed by the interim government on Sunday.",
-      "body": "The Justice First party leader is among 18 political prisoners to be freed by the interim government on Sunday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-08T22:16:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce820zz8jl6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e6/live/541cfc20-0534-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
