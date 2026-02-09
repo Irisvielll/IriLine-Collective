@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ed6f57862943",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Christchurch shooter seeks to overturn guilty plea",
+      "dek": "Brenton Tarrant is serving a life sentence after murdering 51 people in the March 2019 attack on two mosques in New Zealand.",
+      "body": "Brenton Tarrant is serving a life sentence after murdering 51 people in the March 2019 attack on two mosques in New Zealand.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T19:20:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vevxnw9pko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412e/live/4cc2fa00-0341-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_4864cd69e415",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47831363/seattle-seahawks-defense-mike-macdonald-defensive-scheme-keys-super-bowl",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a1d6ec218c2c",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_fa78873a4939",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russia and Ukraine exchange prisoners as peace talks end without breakthrough",
-      "dek": "The swap - the first since October - sees 157 Ukrainians and 160 Russians returned home.",
-      "body": "The swap - the first since October - sees 157 Ukrainians and 160 Russians returned home.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-05T17:21:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c62np09q7l1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b55/live/a209eac0-02ae-11f1-83b0-21555a6f44a1.png",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
