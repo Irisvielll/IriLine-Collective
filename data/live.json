@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-09T16:13:30+00:00",
+  "generatedAt": "2026-02-09T17:18:38+00:00",
   "items": [
+    {
+      "id": "meme_6bda816bd210",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Discord will now force everyone to verify their age or they’ll be “Teen by default”",
+      "dek": "submitted by /u/ExcellentAdvisor3730 [link] [comments]",
+      "body": "submitted by /u/ExcellentAdvisor3730 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T17:13:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r0a1ar/discord_will_now_force_everyone_to_verify_their/",
+      "image": "https://external-preview.redd.it/G7LnBQ0Jum9naH03p05CcE39It7qncauMZzI20SZV30.jpeg?width=640&crop=smart&auto=webp&s=94a199d8cff07175a353ea6812e62691c6d2c4e6",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ee8e96cb29eb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Machine guns to machetes: Weapons that massacred thousands in Iran",
+      "dek": "BBC News Persian Forensic has been able to confirm the security forces' deployment of a wide array of lethal and non-lethal weaponry.",
+      "body": "BBC News Persian Forensic has been able to confirm the security forces' deployment of a wide array of lethal and non-lethal weaponry.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T17:03:49+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0mgndkklvmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b4b/live/c6e24830-0117-11f1-a8b8-bdd2c5f9bcad.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7d49cea89f06",
       "section": "meme",
@@ -29,6 +59,21 @@
       "publishedAt": "2026-02-09T16:07:11+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r087qa/russian_court_fines_pensioner_for_liking_two/",
       "image": "https://external-preview.redd.it/CxWj-MF2Xo6coWEOvO8i3LscwHf1cauL-_3k_jOMt_A.jpeg?width=640&crop=smart&auto=webp&s=7b96a964e8e2d6c08a934596f317ee661b43db9f",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_f573ddac3dbd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Palestinians say new Israeli measures in West Bank amount to de facto annexation",
+      "dek": "The measures aim to increase Israeli control over the occupied West Bank in terms of property law, planning, licensing and enforcement.",
+      "body": "The measures aim to increase Israeli control over the occupied West Bank in terms of property law, planning, licensing and enforcement.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T16:01:33+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg5x2l3v0qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c000/live/dafb5050-05c7-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -135,6 +180,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r035pm/march_for_life_attendees_may_have_been_exposed_to/",
       "image": "https://external-preview.redd.it/3IE-uT2bXbthZGuM3fhoo5ZoVJAYxzW9hdRHtEJfyzI.jpeg?width=640&crop=smart&auto=webp&s=a758ef4af4c209096170a8cdc9b6181287bb2e82",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_18db303d3392",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Trial opens in 2006 killing of Miami player Pata",
+      "dek": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
+      "body": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T11:40:34+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47851505/former-miami-player-rashaun-jones-trial-death-bryan-pata",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_18db303d3392",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_ffd327af93d7",
@@ -299,6 +359,21 @@
       "publishedAt": "2026-02-09T09:32:06+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47871743/seahawks-win-super-bowl-patriots-2026-recap-barnwell-defense-walker-darnold",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d7331b8530e3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_1a84ae013f4a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Super Bowl records: Who holds the all-time marks after the Seahawks beat the Patriots?",
+      "dek": "Here is a look at Super Bowl records such as most points, most touchdowns and Tom Brady's all-time totals.",
+      "body": "Here is a look at Super Bowl records such as most points, most touchdowns and Tom Brady's all-time totals.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T09:08:36+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/39416949/super-bowl-history-facts-stats-records",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1a84ae013f4a",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -524,81 +599,6 @@
       "publishedAt": "2026-02-09T05:44:32+00:00",
       "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56a6/live/d5811750-056c-11f1-9c47-91e6146aabf2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e9b75d9da48f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Venezuela's opposition says party leader kidnapped hours after being freed",
-      "dek": "Nobel Peace Prize winner Maria Corina Machado said political leader Juan Pablo Guanipa was taken by force in Caracas.",
-      "body": "Nobel Peace Prize winner Maria Corina Machado said political leader Juan Pablo Guanipa was taken by force in Caracas.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T05:37:29+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9wnjqzrv48o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7f/live/a19971e0-0570-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_245f75ec8f46",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Japanese stocks surge as Takaichi secures historic election victory",
-      "dek": "Japanese stocked jumped as markets opened on Monday morning, after prime minister Sanae Takaichi won a landslide victory.",
-      "body": "Japanese stocked jumped as markets opened on Monday morning, after prime minister Sanae Takaichi won a landslide victory.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T05:34:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/266b/live/4496bd60-0578-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_f38e0d555673",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Transfer rumors, news: Man United want Tonali to replace Casemiro",
-      "dek": "Manchester United are showing an interest in Newcastle United midfielder Sandro Tonali. Transfer Talk has the latest.",
-      "body": "Manchester United are showing an interest in Newcastle United midfielder Sandro Tonali. Transfer Talk has the latest.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T04:21:49+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47874412/transfer-rumors-news-man-united-want-newcastle-united-sandro-tonali-replace-casemiro",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f38e0d555673",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_f8e4e8d73d95",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Police warn unicyclist to stop juggling fire at intersection, admit act was “quite good”",
-      "dek": "submitted by /u/Superb_Trainer_2967 [link] [comments]",
-      "body": "submitted by /u/Superb_Trainer_2967 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T04:03:27+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qzu282/police_warn_unicyclist_to_stop_juggling_fire_at/",
-      "image": "https://external-preview.redd.it/lEg07n7_iWbD9zy5imYAsuWzlw8BlauBFdDjrVVbeFE.jpeg?width=640&crop=smart&auto=webp&s=44461f054cca82c9a86a60ba7a6c7c6f331c36a7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d5c4fae0c5d5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Empty Ukrainian embassy in Moscow fined for not paying US$71,000 electricity bill",
-      "dek": "submitted by /u/MaybeTheDoctor [link] [comments]",
-      "body": "submitted by /u/MaybeTheDoctor [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T03:39:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qztk5x/empty_ukrainian_embassy_in_moscow_fined_for_not/",
-      "image": "https://external-preview.redd.it/V54VslIWPzpmwxbaRBppYc8uJL9cpwWl42GPbWI7Clw.jpeg?width=640&crop=smart&auto=webp&s=104ed45d0d8cb8c58e4e3a4e866ac25ec0dc1680",
       "imageCredit": "Image via original publisher"
     }
   ]
