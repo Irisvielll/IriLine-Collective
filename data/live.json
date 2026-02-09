@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-09T09:43:05+00:00",
+  "generatedAt": "2026-02-09T10:41:48+00:00",
   "items": [
+    {
+      "id": "latest_d0a54ddb111d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Outrage as South Korean official suggests 'importing' foreign women to boost birth rate",
+      "dek": "Jindo county head Kim Hee-soo had suggested \"importing young women from Vietnam or Sri Lanka\" for young rural men.",
+      "body": "Jindo county head Kim Hee-soo had suggested \"importing young women from Vietnam or Sri Lanka\" for young rural men.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T09:45:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20z4254524o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f33f/live/2d8d8b40-058b-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_acad97caa921",
       "section": "latest",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-08T22:16:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ce820zz8jl6o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e6/live/541cfc20-0534-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_aea9ae59c5b3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Centre-left candidate poised to comfortably win Portuguese presidency",
-      "dek": "António José Seguro is on course for a landslide victory over far-right rival André Ventura, with the majority of votes counted.",
-      "body": "António José Seguro is on course for a landslide victory over far-right rival André Ventura, with the majority of votes counted.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-08T21:47:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdxg6rqge2lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0823/live/ee6adb00-0532-11f1-b9d7-4fda1210c377.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

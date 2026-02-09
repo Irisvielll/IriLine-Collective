@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_aea9ae59c5b3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Centre-left candidate poised to comfortably win Portuguese presidency",
+      "dek": "António José Seguro is on course for a landslide victory over far-right rival André Ventura, with the majority of votes counted.",
+      "body": "António José Seguro is on course for a landslide victory over far-right rival André Ventura, with the majority of votes counted.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-08T21:47:38+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdxg6rqge2lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0823/live/ee6adb00-0532-11f1-b9d7-4fda1210c377.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_04a18142e914",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/sport/articles/czej70jyg4eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ec/live/e7707590-02b1-11f1-908d-95bef8fe6639.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_73c7f632fd82",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Who you calling old? At the 2026 Olympics, age is just a number",
-      "dek": "Lindsey Vonn, Nick Goepper, Gus Kenworthy and Maddy Schaffrick are in their golden years at the 2026 Olympics. Just don't call them old.",
-      "body": "Lindsey Vonn, Nick Goepper, Gus Kenworthy and Maddy Schaffrick are in their golden years at the 2026 Olympics. Just don't call them old.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-05T18:31:27+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47809045/2026-winter-olympics-vonn-kenworthy-goepper-schaffrick-comebacks",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_73c7f632fd82",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
