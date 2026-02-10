@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_ccd2465d784f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Red-hot Duke rises in women's T25; UConn still 1",
+      "dek": "Duke, riding a 15-game winning streak, climbed six spots to No. 11 in the Associated Press women's basketball Top 25 poll on Monday.",
+      "body": "Duke, riding a 15-game winning streak, climbed six spots to No. 11 in the Associated Press women's basketball Top 25 poll on Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T12:26:26+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/47877504/duke-11th-women-basketball-poll-uconn-ucla-1-2",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ccd2465d784f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_18db303d3392",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Trial opens in 2006 killing of Miami player Pata",
+      "dek": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
+      "body": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T11:40:34+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47851505/former-miami-player-rashaun-jones-trial-death-bryan-pata",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_18db303d3392",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_ffd327af93d7",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cly3ygj7189o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d94/live/6a3a77d0-0336-11f1-9d05-c7b737bbaef1.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bd7be3d2b0dd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump and the NFL - why it's complicated",
-      "dek": "After a lawsuit and many failed team bids, Donald Trump looked to have ended his 40-year feud with the NFL - but is their relationship set for another twist?",
-      "body": "After a lawsuit and many failed team bids, Donald Trump looked to have ended his 40-year feud with the NFL - but is their relationship set for another twist?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T09:37:47+00:00",
-      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cp82l659dero?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff9/live/eb11c390-838e-11f0-83cc-c5da98c419b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_8a2103da1352",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Men's Bracketology: Saint Louis could be a real threat come March",
-      "dek": "The Billikens are an analytical unicorn -- and shaping up to be the Atlantic 10's next generational team.",
-      "body": "The Billikens are an analytical unicorn -- and shaping up to be the Atlantic 10's next generational team.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-06T09:22:15+00:00",
-      "sourceUrl": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a2103da1352",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

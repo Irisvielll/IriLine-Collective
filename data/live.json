@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T23:22:40+00:00",
+  "generatedAt": "2026-02-10T00:02:12+00:00",
   "items": [
     {
       "id": "meme_86714a8b94fc",
@@ -120,6 +120,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c5yg8yrypejo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/249a/live/b882a660-0601-11f1-b4d5-fd4a09184f97.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_7cba1dfe7c9f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Judge denies Bediako's motion to play for Alabama",
+      "dek": "An Alabama circuit judge on Monday denied Alabama basketball player Charles Bediako's motion for a preliminary injunction, ending the 7-foot center's collegiate",
+      "body": "An Alabama circuit judge on Monday denied Alabama basketball player Charles Bediako's motion for a preliminary injunction, ending the 7-foot center's collegiate eligibility and his season with the Crimson Tide.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T18:50:51+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47881339/judge-denies-charles-bediako-motion-injunction-play-alabama-crimson-tide-men-basketball-season",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7cba1dfe7c9f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_3b835ec8f009",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Scheyer: Staffer injured during court storm is OK",
+      "dek": "Duke coach Jon Scheyer said Monday a team staffer injured during a court-storming following a last-second loss at rival North Carolina is OK but had a bloody li",
+      "body": "Duke coach Jon Scheyer said Monday a team staffer injured during a court-storming following a last-second loss at rival North Carolina is OK but had a bloody lip and was caught up under fans.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-09T18:50:50+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47881209/duke-scheyer-staffer-injured-unc-court-storm-ok",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3b835ec8f009",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_9c955b651769",
@@ -570,36 +600,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r035pm/march_for_life_attendees_may_have_been_exposed_to/",
       "image": "https://external-preview.redd.it/3IE-uT2bXbthZGuM3fhoo5ZoVJAYxzW9hdRHtEJfyzI.jpeg?width=640&crop=smart&auto=webp&s=a758ef4af4c209096170a8cdc9b6181287bb2e82",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_ccd2465d784f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Red-hot Duke rises in women's T25; UConn still 1",
-      "dek": "Duke, riding a 15-game winning streak, climbed six spots to No. 11 in the Associated Press women's basketball Top 25 poll on Monday.",
-      "body": "Duke, riding a 15-game winning streak, climbed six spots to No. 11 in the Associated Press women's basketball Top 25 poll on Monday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T12:26:26+00:00",
-      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/47877504/duke-11th-women-basketball-poll-uconn-ucla-1-2",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ccd2465d784f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_18db303d3392",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Trial opens in 2006 killing of Miami player Pata",
-      "dek": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
-      "body": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T11:40:34+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47851505/former-miami-player-rashaun-jones-trial-death-bryan-pata",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_18db303d3392",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
