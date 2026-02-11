@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-11T15:41:09+00:00",
+  "generatedAt": "2026-02-11T16:43:40+00:00",
   "items": [
+    {
+      "id": "latest_b1285cdc05f4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
+      "dek": "Members of the remote community have spoken of their fear and uncertainty after nine people were killed.",
+      "body": "Members of the remote community have spoken of their fear and uncertainty after nine people were killed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-11T15:47:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b098/live/39d86900-0753-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_98a6789df821",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Powerful cyclone kills at least 20 as it tears through Madagascar port",
+      "dek": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
+      "body": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-11T15:34:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1819/live/69767250-0759-11f1-b7e1-afb6d0884c18.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_74906051c29d",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-11T15:27:44+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r20cos/tn_congressman_calls_for_investigation_into_bad/",
       "image": "https://external-preview.redd.it/vKU0IqkPuLY9HpJCEN5TKyB5DtDPVQ0HaHRgDYSxYpM.jpeg?width=640&crop=smart&auto=webp&s=0f267de063e6c206a0edf8075e159bf2bfb0b1f1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f3751320401d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Boston Raising Cane’s faces eviction over chicken finger odor, lawsuit says",
-      "dek": "submitted by /u/rodolphoteardrop [link] [comments]",
-      "body": "submitted by /u/rodolphoteardrop [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T15:25:02+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r20a5q/boston_raising_canes_faces_eviction_over_chicken/",
-      "image": "https://external-preview.redd.it/tte7vUHx9VYFZxKtkFrGMB0-lfsmlvSWS1anc7VOXLw.jpeg?width=640&crop=smart&auto=webp&s=e5455b70c4e8174a2fa2098e330078510044e4fb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6ef4cf214868",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US reopens airspace over Texas border town, with 'no threat' to commercial flights",
-      "dek": "The FAA had closed the airspace around El Paso for more than a week citing security measures, but then quickly said flights could resume.",
-      "body": "The FAA had closed the airspace around El Paso for more than a week citing security measures, but then quickly said flights could resume.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T14:36:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/8a83bbb0-073b-11f1-bdca-bd1febbee24e.png",
       "imageCredit": "Image via original publisher"
     }
   ]
