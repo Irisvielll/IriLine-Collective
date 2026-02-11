@@ -8,8 +8,7 @@ from datetime import datetime, timezone, timedelta
 import feedparser
 from dateutil import parser as dtparser
 
-# Set logging level to DEBUG for detailed output
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 # -------------------------
 # IMAGE INTENT MAP
@@ -184,11 +183,16 @@ def build_items():
     all_live = live["items"] + items_new
     all_live.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
 
-    live_out = all_live[:40]
-    archive_out = archive["items"] + all_live[40:]
+    live_out = all_live[:3]  # Display only the 3 most recent live articles
+    archive_out = archive["items"] + all_live[3:]
     archive_out = list({i["id"]: i for i in archive_out}.values())
+    
+    # Remove articles older than 1 month from the archive
+    one_month_ago = now_utc() - timedelta(days=30)
+    archive_out = [article for article in archive_out if iso_to_dt(article["publishedAt"]) >= one_month_ago]
+
     archive_out.sort(key=lambda x: iso_to_dt(x["publishedAt"]), reverse=True)
-    archive_out = archive_out[:300]
+    archive_out = archive_out[:300]  # Limit to 300 archive items
 
     save_json("data/live.json", {
         "generatedAt": now_utc().isoformat(timespec="seconds"),
