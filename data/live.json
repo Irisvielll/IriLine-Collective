@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-11T09:08:00+00:00",
+  "generatedAt": "2026-02-11T10:10:19+00:00",
   "items": [
+    {
+      "id": "meme_084991657e6e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "El Paso, New Mexico airspace closed by FAA without explanation; flights restricted under national defense noticeWithout explanation, FAA closes El Paso and New Mexico airspace for 10 days, cites national defense",
+      "dek": "submitted by /u/SendTittiesThx [link] [comments]",
+      "body": "submitted by /u/SendTittiesThx [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-11T09:23:24+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r1ss6f/el_paso_new_mexico_airspace_closed_by_faa_without/",
+      "image": "https://external-preview.redd.it/XZD-8lFuHtxSxa2MV49Fr-koIMVZWsbDYA6nSqXd7EE.png?width=640&crop=smart&auto=webp&s=9a76defcf586e351b580a53b8bba5cdd6c7c385e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a090a2500471",
       "section": "latest",
@@ -584,21 +599,6 @@
       "publishedAt": "2026-02-10T18:34:11+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6def/live/a79545d0-06ae-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6cfc1c31051d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Venezuelan opposition politician under house arrest after kidnap, son says",
-      "dek": "Juan Pablo Guanipa was recaptured by Venezuela's security forces on Sunday, hours after he and other political prisoners were freed.",
-      "body": "Juan Pablo Guanipa was recaptured by Venezuela's security forces on Sunday, hours after he and other political prisoners were freed.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-10T18:07:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cpd8q659091o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2803/live/8a0a1160-0697-11f1-9c2e-13936a78ae9c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6cfc1c31051d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Venezuelan opposition politician under house arrest after kidnap, son says",
+      "dek": "Juan Pablo Guanipa was recaptured by Venezuela's security forces on Sunday, hours after he and other political prisoners were freed.",
+      "body": "Juan Pablo Guanipa was recaptured by Venezuela's security forces on Sunday, hours after he and other political prisoners were freed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-10T18:07:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpd8q659091o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2803/live/8a0a1160-0697-11f1-9c2e-13936a78ae9c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_a5cca7b37962",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-07T23:18:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1qysnck/billionaires_march_leader_idd_says_effort_sincere/",
       "image": "https://external-preview.redd.it/KDOrYADnFrr5PhYEAO-0VYhFuzOa9PTFGNN_Qsheo7g.jpeg?width=640&crop=smart&auto=webp&s=92ac72ddca4b52d8e0348375aa184a948de8515f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8f8117072d81",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Japan votes in snap election as PM Takaichi takes a gamble",
-      "dek": "Observers say Sanae Takaichi's personal popularity may boost the ruling party's showing at the polls.",
-      "body": "Observers say Sanae Takaichi's personal popularity may boost the ruling party's showing at the polls.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-07T23:00:43+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a77/live/e18fe320-0326-11f1-9deb-9fec290cc1e6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
