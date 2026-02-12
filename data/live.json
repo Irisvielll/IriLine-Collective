@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-12T04:35:50+00:00",
+  "generatedAt": "2026-02-12T05:51:10+00:00",
   "items": [
+    {
+      "id": "meme_e562ccd1afee",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Niantic had to remove Epstein Island Pokémon Go Pokéstop due to surging visitors",
+      "dek": "submitted by /u/retroanduwu24 [link] [comments]",
+      "body": "submitted by /u/retroanduwu24 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T04:54:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2kf2s/niantic_had_to_remove_epstein_island_pokémon_go/",
+      "image": "https://external-preview.redd.it/H8SrSvg8OhTRx4-0CzVzX43S74zPeuoMesYjTWzhon8.jpeg?width=320&crop=smart&auto=webp&s=517bef30c5871c82e16cc899df962a1a98c8e1bc",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6738e6132754",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-12T03:38:51+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2ix4w/half_of_high_caliber_ammo_seized_in_mexico_from/",
       "image": "https://external-preview.redd.it/8QbmYjnn7D9e2wI2cw_GcFicMYMOvSs8R-E-HE_ZZew.jpeg?width=640&crop=smart&auto=webp&s=4059892fd981fe362ca4430faebf579d8c5c9108",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3712e241a7b8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bud Cort, star of cult classic Harold and Maude, dies aged 77",
-      "dek": "The veteran actor of stage and screen appeared in more than 80 films and TV series.",
-      "body": "The veteran actor of stage and screen appeared in more than 80 films and TV series.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T03:24:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj32mj3xzd1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6569/live/9ecd3be0-07c8-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
