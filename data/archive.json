@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_da6b8c627c6e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Canada mass shooting suspect had police visits over mental health struggles",
+      "dek": "Police say the suspect's firearms licence expired two years ago, and exactly who owned the guns used in the attack is unclear.",
+      "body": "Police say the suspect's firearms licence expired two years ago, and exactly who owned the guns used in the attack is unclear.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T17:13:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyz2x4yzqgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6099/live/ddcf9510-082f-11f1-b7e1-afb6d0884c18.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a33820a3c57d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Norway's former PM charged with gross corruption over Epstein links",
+      "dek": "The charge was brought after the Council of Europe lifted his immunity, which he had as its former secretary general.",
+      "body": "The charge was brought after the Council of Europe lifted his immunity, which he had as its former secretary general.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T16:37:32+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2b4/live/e3f1b0d0-081c-11f1-8fdd-d9a354700c27.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_6c762575c02c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What do we know about Kim Jong Un's daughter - and expected successor?",
+      "dek": "Kim Jong Un has chosen Miss Kim as his heir, South Korea's spy agency says - but what exactly do we know about her?",
+      "body": "Kim Jong Un has chosen Miss Kim as his heir, South Korea's spy agency says - but what exactly do we know about her?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T16:00:09+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgvgj7ejqdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30dc/live/2b05ab20-8848-11f0-b391-6936825093bd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_423a9f35a980",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r0ixdo/paramedic_faces_charges_after_allegedly_urinating/",
       "image": "https://external-preview.redd.it/IQP3zvYda5XuvfW2OAEqK_txQ90TMni7MXCqsOKudx4.jpeg?width=640&crop=smart&auto=webp&s=9eaad083c5a34bb6888ff52a909632ab212e00d5",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d07693bfe732",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Savannah Guthrie pleads for help as missing mother's ransom deadline looms",
-      "dek": "The video appeal comes as a deadline looms to pay the people believed to be holding the TV hosts's mum.",
-      "body": "The video appeal comes as a deadline looms to pay the people believed to be holding the TV hosts's mum.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T22:24:21+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4geqzqd8qeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a79d/live/e8aa6400-0605-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_672f5109a6d1",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Knee issue to keep Curry out of All-Star Game",
-      "dek": "Warriors guard Stephen Curry will miss this weekend's All-Star Game because of his lingering right knee issue.",
-      "body": "Warriors guard Stephen Curry will miss this weekend's All-Star Game because of his lingering right knee issue.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T22:14:51+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47882354/warriors-stephen-curry-knee-play-all-star-game",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_672f5109a6d1",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_f3202ee09bc5",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "49ers DL White shot in ankle in San Francisco",
-      "dek": "49ers defensive lineman Keion White underwent surgery Monday after he was shot in the ankle in San Francisco hours after Super Bowl LX concluded.",
-      "body": "49ers defensive lineman Keion White underwent surgery Monday after he was shot in the ankle in San Francisco hours after Super Bowl LX concluded.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T22:14:51+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47882230/49ers-keion-white-shot-ankle-san-francisco-hours-super-bowl-lx",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f3202ee09bc5",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
