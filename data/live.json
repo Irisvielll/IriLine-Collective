@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-12T18:40:04+00:00",
+  "generatedAt": "2026-02-12T19:39:25+00:00",
   "items": [
+    {
+      "id": "latest_056a7475a487",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+      "dek": "The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans.",
+      "body": "The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T19:15:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9f/live/604a8500-0848-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_25a228bd5dfd",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man arrested after hucking jerky, shouting Bible verses in front of school: police",
+      "dek": "submitted by /u/j1ggy [link] [comments]",
+      "body": "submitted by /u/j1ggy [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T18:35:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r31g2h/man_arrested_after_hucking_jerky_shouting_bible/",
+      "image": "https://external-preview.redd.it/c-_tWJ3LkYfNEa1OjzetczrMXeXwfry6hze5OMFx8LQ.jpeg?width=640&crop=smart&auto=webp&s=21f56361e95e6ab48c912b468271c9a3a3dff07b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_18040aa9e1fe",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-12T18:34:31+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1a4/live/f00d12b0-083a-11f1-a418-9d2f92813770.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_25826c0aef79",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Boston Raising Cane’s faces eviction over chicken finger odor, lawsuit says",
-      "dek": "submitted by /u/sirbissel [link] [comments]",
-      "body": "submitted by /u/sirbissel [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T18:33:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r31ecg/boston_raising_canes_faces_eviction_over_chicken/",
-      "image": "https://external-preview.redd.it/tte7vUHx9VYFZxKtkFrGMB0-lfsmlvSWS1anc7VOXLw.jpeg?width=640&crop=smart&auto=webp&s=e5455b70c4e8174a2fa2098e330078510044e4fb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f6b8dfa662d2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man arrested after 16 years on the run when he returns to Italy to watch the Olympics",
-      "dek": "submitted by /u/nbcnews [link] [comments]",
-      "body": "submitted by /u/nbcnews [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T17:45:17+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r3029f/man_arrested_after_16_years_on_the_run_when_he/",
-      "image": "https://external-preview.redd.it/v03E3aK2CRx6JCdqQqxxivSk4yXVX9Ju5tm5WxoieRY.jpeg?width=640&crop=smart&auto=webp&s=f2d2cc36682811abcb6f8513963ae87767faad4c",
       "imageCredit": "Image via original publisher"
     }
   ]
