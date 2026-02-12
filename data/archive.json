@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_201c3e7a82f7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Indiana man sues Bondi, Noem over removal of ICE monitoring app from App Store",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T10:26:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2py5m/indiana_man_sues_bondi_noem_over_removal_of_ice/",
+      "image": "https://external-preview.redd.it/ZeGnDCPNij71HixnSdJzn5ZhwJiBNjDS13z-BZdXls0.jpeg?width=640&crop=smart&auto=webp&s=74003189fc9435a8d218eced74311aadeeef30d4",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_253de61a61d8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-09T13:13:23+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7044/live/8e00a300-05b2-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_daeed9cc2f93",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Fifteen killed in latest Lebanon building collapse, as warnings of neglect grow",
-      "dek": "Two blocks fall down in what is the fifth such disaster this winter, as warnings of neglect grow.",
-      "body": "Two blocks fall down in what is the fifth such disaster this winter, as warnings of neglect grow.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T13:12:44+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gedxvqpz4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65fb/live/2e63de50-059c-11f1-b5e2-dd58fc65f0f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
