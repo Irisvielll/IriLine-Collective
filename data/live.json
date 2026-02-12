@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-12T11:56:33+00:00",
+  "generatedAt": "2026-02-12T13:19:25+00:00",
   "items": [
+    {
+      "id": "latest_0efdf5cfbe2b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Prince Harry thanks bereaved families taking on social media firms",
+      "dek": "The Duke of Sussex addressed parents claiming Instagram and YouTube damage young people's mental health.",
+      "body": "The Duke of Sussex addressed parents claiming Instagram and YouTube damage young people's mental health.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T12:09:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8w968y7p1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92de/live/67485530-07fd-11f1-8981-b35bbe94674f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b236b5435fba",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 21 dead after boat sinks on Sudan's River Nile",
+      "dek": "Search efforts are continuing for the missing passengers, who included children.",
+      "body": "Search efforts are continuing for the missing passengers, who included children.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T11:51:41+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp851zp41m5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e29/live/61185bf0-07fe-11f1-8981-b35bbe94674f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_205dfe8c417d",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-12T11:42:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2r8z7/shocking_update_after_aussie_farmer_accused_of/",
       "image": "https://external-preview.redd.it/QLr6kGzPYVAORV1fxD-jzDLapFhc0JtwZOJrqbfGbV0.jpeg?width=640&crop=smart&auto=webp&s=38e94061a9e1d8d34aaa00009b3251da6cdf30e9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_282d746a9a00",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Polls close in first election since Gen Z protests ousted Bangladesh leader",
-      "dek": "Voters are hoping for a return to democracy after 15 years of authoritarian rule under Sheikh Hasina.",
-      "body": "Voters are hoping for a return to democracy after 15 years of authoritarian rule under Sheikh Hasina.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T10:56:29+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0249/live/85b65510-07ff-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ec518950ccd1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Yale professor under review says he’s \"very glad\" he wrote Epstein email",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T10:45:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2q9nl/yale_professor_under_review_says_hes_very_glad_he/",
-      "image": "https://external-preview.redd.it/luNqQSmboJSi1NQjXgdgt0BOy03W6alXUCS_ppPsRgc.jpeg?width=640&crop=smart&auto=webp&s=aefe7820b9a3079769c61b337eb1678209d21c35",
       "imageCredit": "Image via original publisher"
     }
   ]
