@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_bbf868ed7119",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Love Is Blind season 10 contestant removed from pods and hospitalized after mistakenly pouring nail glue in her eye",
+      "dek": "Contestant takes the whole \"love is blind\" thing a little too far, almost blinds herself. submitted by /u/Squeebee007 [link] [comments]",
+      "body": "Contestant takes the whole \"love is blind\" thing a little too far, almost blinds herself. submitted by /u/Squeebee007 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T14:27:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2utfr/love_is_blind_season_10_contestant_removed_from/",
+      "image": "https://external-preview.redd.it/bx0wMAtovYlvvqPUxyDwaMY40ONGC2FmTlMAe6uJbZg.jpeg?width=640&crop=smart&auto=webp&s=3a9bdb9788232bf59f4f82a56fc027f2c695e412",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_99c5583efdc1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -89,6 +104,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2r8z7/shocking_update_after_aussie_farmer_accused_of/",
       "image": "https://external-preview.redd.it/QLr6kGzPYVAORV1fxD-jzDLapFhc0JtwZOJrqbfGbV0.jpeg?width=640&crop=smart&auto=webp&s=38e94061a9e1d8d34aaa00009b3251da6cdf30e9",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_91dbf03f5617",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Source: Season-ending surgery for Jazz's Jackson",
+      "dek": "Jazz forward Jaren Jackson Jr. will have surgery to remove a growth in his left knee during the All-Star break. He will miss the rest of the season, a source to",
+      "body": "Jazz forward Jaren Jackson Jr. will have surgery to remove a growth in his left knee during the All-Star break. He will miss the rest of the season, a source told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T11:27:30+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47909248/source-jazz-jaren-jackson-jr-season-ending-surgery",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_91dbf03f5617",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_282d746a9a00",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-09T20:11:27+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47881827/charles-bediako-ruling-alabama-future-ncaa-eligibility-cases-2026",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a02827ef2159",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_7cba1dfe7c9f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Judge denies Bediako's motion to play for Alabama",
-      "dek": "An Alabama circuit judge on Monday denied Alabama basketball player Charles Bediako's motion for a preliminary injunction, ending the 7-foot center's collegiate",
-      "body": "An Alabama circuit judge on Monday denied Alabama basketball player Charles Bediako's motion for a preliminary injunction, ending the 7-foot center's collegiate eligibility and his season with the Crimson Tide.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T18:50:51+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47881339/judge-denies-charles-bediako-motion-injunction-play-alabama-crimson-tide-men-basketball-season",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7cba1dfe7c9f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_3b835ec8f009",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Scheyer: Staffer injured during court storm is OK",
-      "dek": "Duke coach Jon Scheyer said Monday a team staffer injured during a court-storming following a last-second loss at rival North Carolina is OK but had a bloody li",
-      "body": "Duke coach Jon Scheyer said Monday a team staffer injured during a court-storming following a last-second loss at rival North Carolina is OK but had a bloody lip and was caught up under fans.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T18:50:50+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47881209/duke-scheyer-staffer-injured-unc-court-storm-ok",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3b835ec8f009",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
