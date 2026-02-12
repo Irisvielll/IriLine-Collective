@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_fcae5d2d399f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Wasatch County Republican Chair arrested for allegedly waterboarding teen daughter",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T08:21:51+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2nzmh/wasatch_county_republican_chair_arrested_for/",
+      "image": "https://external-preview.redd.it/bwJeGuDuN2_nM4FnSsgUZM3assWj8Lu8Y7cH1E5Rzn4.jpeg?width=640&crop=smart&auto=webp&s=474bcc2df8262ee5b5124bfe6d780e55807ef2aa",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_c228112605d4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Baroness attends red squirrel conference — in grey squirrel dress",
+      "dek": "submitted by /u/maytag_dishmaster [link] [comments]",
+      "body": "submitted by /u/maytag_dishmaster [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T06:53:53+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2mkfj/baroness_attends_red_squirrel_conference_in_grey/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c228112605d4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_d2eb7f8c3d4f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/47877504/duke-11th-women-basketball-poll-uconn-ucla-1-2",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ccd2465d784f",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_18db303d3392",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Trial opens in 2006 killing of Miami player Pata",
-      "dek": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
-      "body": "Rashaun Jones, 39, has remained in custody for the last 4½ years amid court delays and changes in attorneys on both sides.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T11:40:34+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47851505/former-miami-player-rashaun-jones-trial-death-bryan-pata",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_18db303d3392",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_ffd327af93d7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years",
-      "dek": "Lai's supporters say this amounts to a death sentence, but authorities say it demonstrates the rule of law.",
-      "body": "Lai's supporters say this amounts to a death sentence, but authorities say it demonstrates the rule of law.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-09T11:19:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d6/live/cb1d3dc0-0580-11f1-a753-9525d46c4e23.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
