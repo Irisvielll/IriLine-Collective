@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-13T23:05:30+00:00",
+  "generatedAt": "2026-02-13T23:44:46+00:00",
   "items": [
+    {
+      "id": "latest_fca30532e939",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The two Chinese-American Olympians competing for rival superpowers",
+      "dek": "Eileen Guo and Alysa Liu have been thrust into a debate that goes far beyond sports.",
+      "body": "Eileen Guo and Alysa Liu have been thrust into a debate that goes far beyond sports.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-13T23:05:07+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czr07r0vengo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/633eea90-08b0-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_09423a8c1dc0",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-13T22:30:17+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cq8gqeq8yv0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d5/live/73b16cc0-092a-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b9dea25b232c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
-      "dek": "Palestinians say an Israeli power grab shuts them out of decisions on planning and development in West Bank.",
-      "body": "Palestinians say an Israeli power grab shuts them out of decisions on planning and development in West Bank.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-13T22:12:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd7/live/142e0380-0803-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
