@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_9ed3476f3532",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Gaming platform says it removed Tumbler Ridge shooter’s mall massacre simulation",
+      "dek": "submitted by /u/WilloowUfgood [link] [comments]",
+      "body": "submitted by /u/WilloowUfgood [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-13T19:32:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r3yptq/gaming_platform_says_it_removed_tumbler_ridge/",
+      "image": "https://external-preview.redd.it/QEKaSYZa0x8Za9aenhVPS3QFxclu-0uxQ-jk3kbV5SU.jpeg?width=640&crop=smart&auto=webp&s=25fdbd543a32d9eb946c4417c4347ed6c5a3143f",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_6d3169cffa44",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,6 +44,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r3yiyp/kristi_noem_fired_pilot_for_forgetting_her_blanket/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_8c308b193239",
       "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_41e34a685daf",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Merz Urges Germans to Work More, Cites Greece as Model",
+      "dek": "submitted by /u/white1984 [link] [comments]",
+      "body": "submitted by /u/white1984 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-13T19:05:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r3xzgf/merz_urges_germans_to_work_more_cites_greece_as/",
+      "image": "https://external-preview.redd.it/5xDgbuO9f3N0f5pt1BCJqo6_Fbky3pKPWnNtOf9mZno.jpeg?width=640&crop=smart&auto=webp&s=33b9a71828ff383f49bfbc1ae36f39a04b244d5c",
+      "imageCredit": "Image via original publisher"
     },
     {
       "id": "latest_da0edb2cf833",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-11T08:15:20+00:00",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47890382/golf-pga-tour-betting-2026-att-pebble-beach-pro-am",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_955f520acf8a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_fe4d0b59a25a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Olympic men's hockey preview: Everything you need to know about all 12 teams",
-      "dek": "The NHL is back at the Olympics! Here are the top players to know, each team's medal chances and schedule, and much more.",
-      "body": "The NHL is back at the Olympics! Here are the top players to know, each team's medal chances and schedule, and much more.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T08:00:15+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47878418/olympics-2026-men-hockey-nhl-players-best-teams-favorites-schedule-medals",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fe4d0b59a25a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_66848d760240",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "One player to watch in spring training for all 30 MLB teams",
-      "dek": "From prospects with big expectations to All-Stars returning from injury, here's who we're paying attention to.",
-      "body": "From prospects with big expectations to All-Stars returning from injury, here's who we're paying attention to.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T07:48:37+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47877192/mlb-spring-training-2026-one-player-watch-all-30-teams",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_66848d760240",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
