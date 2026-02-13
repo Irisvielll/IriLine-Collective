@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_cd7697259fdf",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.",
+      "dek": "submitted by /u/dirtyqtip [link] [comments]",
+      "body": "submitted by /u/dirtyqtip [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T22:48:18+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r382rc/rfk_jr_food_pyramid_site_links_to_grok_which_says/",
+      "image": "https://external-preview.redd.it/53siFKn7knIIgbAmIl2ez1auAoRSp15e_Z-hRF4yLmc.png?width=640&crop=smart&auto=webp&s=0f43062bc25454eb320e3a08f4db7ea836c88c31",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ccb64845f2d1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -179,6 +194,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9f/live/604a8500-0848-11f1-b5e2-dd58fc65f0f6.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_cc03e7072fdb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ole Miss QB Chambliss eligible for '26, judge rules",
+      "dek": "Ole Miss quarterback Trinidad Chambliss has been granted an extra year of eligibility by a state court judge, who issued an injunction that paves the way for Ch",
+      "body": "Ole Miss quarterback Trinidad Chambliss has been granted an extra year of eligibility by a state court judge, who issued an injunction that paves the way for Chambliss to be eligible in 2026.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T18:50:26+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47912898/ole-miss-qb-trinidad-chambliss-granted-injunction-judge",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cc03e7072fdb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_a42ce57c5856",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "As good as advertised: Grades, top players, key questions from Canada's big win over Czechia",
+      "dek": "It was a dominant start for the tournament's gold-medal favorite. Here's how they rolled -- and what's next.",
+      "body": "It was a dominant start for the tournament's gold-medal favorite. Here's how they rolled -- and what's next.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-12T18:43:14+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47910126/olympics-2026-men-hockey-canada-win-czechia-grades-players-questions",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a42ce57c5856",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_e2085710b9c5",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r0v8xr/one_is_the_loneliest_number_singular_user_of/",
       "image": "https://external-preview.redd.it/nhuLYhCT-dHmm9eF_e27YO-y6tyuRR5H1pB1Fd1X0Fs.png?width=108&crop=smart&auto=webp&s=1a5703ecd0d6f10f8956fa3411caaaa8d1b950c2",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7d04ed4c5e2f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Senior Russian official says Moscow needs 'security guarantees'",
-      "dek": "submitted by /u/Practical-Pea-1205 [link] [comments]",
-      "body": "submitted by /u/Practical-Pea-1205 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-10T08:21:05+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r0v7zd/senior_russian_official_says_moscow_needs/",
-      "image": "https://external-preview.redd.it/-EHMD3ZX1Zvnfb9RktUnlME8BnnuQDWtao0Rza43yAs.jpeg?width=640&crop=smart&auto=webp&s=4b0986b269e29181ef7d2df07362004696b41534",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8d2a27274fde",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The taekwondo teacher tasked with healing India's troubled state",
-      "dek": "Opinion is divided on whether Manipur's new chief minister Yumnam Khemchand Singh can bring calm to the state.",
-      "body": "Opinion is divided on whether Manipur's new chief minister Yumnam Khemchand Singh can bring calm to the state.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-10T07:39:30+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn0elx8g00do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a93/live/f0ec5510-064b-11f1-aea3-ab6941d946c2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_6ad67642ceec",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Reunions, new faces and promotions: Tracking the Power 4 coordinator moves",
-      "dek": "There was a lot of coaching turnover. That meant staff changes and new coordinators in new places.",
-      "body": "There was a lot of coaching turnover. That meant staff changes and new coordinators in new places.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-10T07:38:21+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47878612/college-football-2026-power-4-coordinator-changes",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6ad67642ceec",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
