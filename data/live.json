@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-14T05:45:12+00:00",
+  "generatedAt": "2026-02-14T06:27:16+00:00",
   "items": [
+    {
+      "id": "latest_1418b9caf28f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: 'I am a survivor' Gisèle Pelicot tells BBC Newsnight in an in-depth interview",
+      "dek": "Ms Pelicot reveals it is \"inconceivable\" that the man she shared her life with \"could have committed these horrors\".",
+      "body": "Ms Pelicot reveals it is \"inconceivable\" that the man she shared her life with \"could have committed these horrors\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T06:00:21+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c80jvkem8lro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd2/live/aa50bb20-0905-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b7ea45dc1cd8",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-14T05:04:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy8dw5zk7yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e3/live/30182e10-090a-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_75764916d23f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oil refinery ablaze in Cuba as fuel crisis deepens",
-      "dek": "The fire, which Cuban officials say was contained quickly, comes as electricity and fuel supplies dwindle.",
-      "body": "The fire, which Cuban officials say was contained quickly, comes as electricity and fuel supplies dwindle.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T03:03:27+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cge89x7re74o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/8e3beee0-0942-11f1-8315-770a96f27812.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
