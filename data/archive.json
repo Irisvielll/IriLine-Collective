@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_f30060e22617",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Casey Wasserman to sell talent agency after Epstein fallout - reports",
+      "dek": "The prominent agent and LA Olympics chief has come under scrutiny over past ties with Jeffrey Epstein and Ghislaine Maxwell.",
+      "body": "The prominent agent and LA Olympics chief has come under scrutiny over past ties with Jeffrey Epstein and Ghislaine Maxwell.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T13:28:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy0dn4e1njjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de77/live/7b579890-09a8-11f1-acb3-91fbf84be714.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_6dc83391b1fa",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-11T15:34:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1819/live/69767250-0759-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_74906051c29d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "TN Congressman calls for investigation into Bad Bunny Super Bowl performance, citing 'widespread twerking'",
-      "dek": "submitted by /u/Individual_Agency703 [link] [comments]",
-      "body": "submitted by /u/Individual_Agency703 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T15:27:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r20cos/tn_congressman_calls_for_investigation_into_bad/",
-      "image": "https://external-preview.redd.it/vKU0IqkPuLY9HpJCEN5TKyB5DtDPVQ0HaHRgDYSxYpM.jpeg?width=640&crop=smart&auto=webp&s=0f267de063e6c206a0edf8075e159bf2bfb0b1f1",
       "imageCredit": "Image via original publisher"
     }
   ]
