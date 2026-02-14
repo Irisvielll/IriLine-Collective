@@ -121,6 +121,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_0abb9d632d1b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Gasps and disbelief in US as 'Quad God's' Olympic dream crumbles",
+      "dek": "The BBC visited the skating rink in Virginia where the ‘Quad God’ trains, as his closest friends and teammates expected to watch him win gold.",
+      "body": "The BBC visited the skating rink in Virginia where the ‘Quad God’ trains, as his closest friends and teammates expected to watch him win gold.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T00:13:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c93wgxnk351o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cbb/live/d3e2a2e0-0938-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e4a6eef7fc87",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/47898975/john-tesh-perform-roundball-rock-live-all-star-game",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0c0b34fea5b9",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_b0e1d98951f9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What are Canada's gun ownership laws?",
-      "dek": "A deadly mass shooting in British Columbia is likely to increase scrutiny of whether Canada's gun laws should be toughened.",
-      "body": "A deadly mass shooting in British Columbia is likely to increase scrutiny of whether Canada's gun laws should be toughened.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T13:21:43+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy8eyz4ee0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78c7/live/e3c17b20-0742-11f1-bc70-73aa82e0850e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
