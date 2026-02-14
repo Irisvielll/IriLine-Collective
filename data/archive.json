@@ -226,6 +226,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_cc719285ef32",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "U.S. speedskater Stolz wins 2nd gold of Olympics",
+      "dek": "American speedskater Jordan Stolz collected his second gold medal of the Olympics, winning the 500-meter race to keep alive his goal of four golds at the Milan ",
+      "body": "American speedskater Jordan Stolz collected his second gold medal of the Olympics, winning the 500-meter race to keep alive his goal of four golds at the Milan Cortina Games.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T12:08:26+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/speedskating/story/_/id/47928388/american-jordan-stolz-wins-2nd-speedskating-gold-olympics",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cc719285ef32",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_dbe256dadcfa",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-11T19:27:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r26z5n/tom_brady_shuts_down_logan_paul_after_claiming/",
       "image": "https://external-preview.redd.it/NkVTPpmhc8f26ABI_i71l_RNYLyEIesl_7QZxg8bo2E.jpeg?width=640&crop=smart&auto=webp&s=425232e00b67249e091f3920b29b19147c1ccaec",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dfae7f58c625",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "UK Supreme court rules that oat milk can’t actually be called milk",
-      "dek": "submitted by /u/Superb_Trainer_2967 [link] [comments]",
-      "body": "submitted by /u/Superb_Trainer_2967 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T19:26:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r26xpw/uk_supreme_court_rules_that_oat_milk_cant/",
-      "image": "https://external-preview.redd.it/-g2zvVsgfzM-95YStfoWBSFzlji9gGESIbFes6v8a1I.jpeg?width=640&crop=smart&auto=webp&s=d0fe54327c44591a6b6f064aece58d2cebd970e5",
       "imageCredit": "Image via original publisher"
     }
   ]
