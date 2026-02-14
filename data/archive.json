@@ -196,6 +196,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_5462e2d0e5ea",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Poulin scores in return; Canada women in semis",
+      "dek": "Captain Marie-Philip Poulin returned from injury to score a goal in Canada's 5-1 quarterfinal win over Germany.",
+      "body": "Captain Marie-Philip Poulin returned from injury to score a goal in Canada's 5-1 quarterfinal win over Germany.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T14:01:05+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/hockey/story/_/id/47929289/marie-philip-poulin-returns-canada-olympic-semifinals",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5462e2d0e5ea",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_f30060e22617",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2aedl/gallup_will_no_longer_track_presidential_approval/",
       "image": "https://external-preview.redd.it/XkwsZzKnmpJtdB9sc6hSCpW_5mM0d3krAyS_s0-FAQY.jpeg?width=640&crop=smart&auto=webp&s=8525767f2aeab6e7cc076d114a20848a98ffc8c1",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_2b32500207ad",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Bassitt joins O's rotation on $18.5M deal",
-      "dek": "Reliable veteran right-hander Chris Bassitt and the Orioles are in agreement on a one-year, $18.5 million contract, sources told ESPN.",
-      "body": "Reliable veteran right-hander Chris Bassitt and the Orioles are in agreement on a one-year, $18.5 million contract, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T20:34:23+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47903189/sources-orioles-chris-bassitt-reach-1-year-185m-contract",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2b32500207ad",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
