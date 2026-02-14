@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-14T19:25:05+00:00",
+  "generatedAt": "2026-02-14T19:45:17+00:00",
   "items": [
+    {
+      "id": "meme_d3afd707eb8a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Auburndale Gets Application from Alleged Criminal City Manager After Separating with Prior City Manager Following Sexual Assault",
+      "dek": "submitted by /u/7andonly [link] [comments]",
+      "body": "submitted by /u/7andonly [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T18:36:51+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r4s8ll/auburndale_gets_application_from_alleged_criminal/",
+      "image": "https://external-preview.redd.it/ZqGBpW9sJFio90zPli5NszST2_gUmB5iRA1txrK-iPM.jpeg?width=640&crop=smart&auto=webp&s=61262d201b7eaa960608a83cc929d11c70918650",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f336fba2570f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-14T18:17:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r4rqy5/turkey_man_steals_gold_jewellery_in_kayseri_flees/",
       "image": "https://external-preview.redd.it/lNIyCqfmgQop7k9bl3VKYmvFBimO7OA74nDYYG8dEk4.jpeg?width=640&crop=smart&auto=webp&s=f759dcaddbdbedbcc369833807d2510514ab30a9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4a6f334f1bc1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Cuban cigar festival called off as US blockade worsens energy crisis",
-      "dek": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
-      "body": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T18:04:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0q30k2xzk2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/9158cec0-09d0-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_4a6f334f1bc1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Cuban cigar festival called off as US blockade worsens energy crisis",
+      "dek": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
+      "body": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T18:04:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0q30k2xzk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/9158cec0-09d0-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_b6bae24f2dd4",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-11T21:55:28+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2axa5/bondi_downplays_epstein_suggests_money_is_all/",
       "image": "https://external-preview.redd.it/5qbWYcrAthu7ekDqN4QL5JbsVHlTCX1j5MDdW3cmRUM.jpeg?width=640&crop=smart&auto=webp&s=ae35ef04ccefc4e2f6966316117f15ad1a57009d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f2715d4410a9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Gallup will no longer track presidential approval ratings after nearly 90 years",
-      "dek": "submitted by /u/ElRayMarkyMark [link] [comments]",
-      "body": "submitted by /u/ElRayMarkyMark [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-11T21:35:22+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2aedl/gallup_will_no_longer_track_presidential_approval/",
-      "image": "https://external-preview.redd.it/XkwsZzKnmpJtdB9sc6hSCpW_5mM0d3krAyS_s0-FAQY.jpeg?width=640&crop=smart&auto=webp&s=8525767f2aeab6e7cc076d114a20848a98ffc8c1",
       "imageCredit": "Image via original publisher"
     }
   ]
