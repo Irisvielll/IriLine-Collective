@@ -46,6 +46,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_f8e1cb901a42",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Transfer rumors, news: Man United wants Juventus defender Kalulu",
+      "dek": "Man United are looking to Serie A for a defender, while Chicago Fire are willing to go \"all in\" to sign Robert Lewandowski. Transfer Talk has the latest.",
+      "body": "Man United are looking to Serie A for a defender, while Chicago Fire are willing to go \"all in\" to sign Robert Lewandowski. Transfer Talk has the latest.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T07:39:32+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47936157/transfer-rumors-news-man-united-wants-juventus-pierre-kalulu",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f8e1cb901a42",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_2a544659fb7b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Klaebo sets Olympic record, wins 9th XXC gold",
+      "dek": "Norway's Johannes Hoesflot Klaebo has won a ninth gold medal in cross-country skiing, setting a Winter Games record, at the Milan Cortina Olympics.",
+      "body": "Norway's Johannes Hoesflot Klaebo has won a ninth gold medal in cross-country skiing, setting a Winter Games record, at the Milan Cortina Olympics.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T07:23:16+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47936580/johannes-hoesflot-klaebo-wins-9th-olympic-gold-medal-cross-country-skiing",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2a544659fb7b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_f07036020aff",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-12T08:13:45+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/47898378/olympics-2026-men-hockey-nhl-players-teams-standings-stats-schedule",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eb969ac76cb5",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_83fafdb16d69",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Bracketology: Bubble trouble for the ACC?",
-      "dek": "The ACC and the Big 12 will have a say in the field's final teams. For now, the Last Four In all hail from the ACC.",
-      "body": "The ACC and the Big 12 will have a say in the field's final teams. For now, the Last Four In all hail from the ACC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T08:09:54+00:00",
-      "sourceUrl": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83fafdb16d69",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1e8504ec3a7a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Power Rankings: Michigan, Arizona, UConn shuffle at the top",
-      "dek": "The latest top 25 features plenty of movement after a week of ranked upsets, including a new No. 1.",
-      "body": "The latest top 25 features plenty of movement after a week of ranked upsets, including a new No. 1.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T08:08:24+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47899172/mens-college-basketball-power-rankings-top-5-michigan-arizona-houston-top-5",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1e8504ec3a7a",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
