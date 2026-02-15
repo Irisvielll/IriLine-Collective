@@ -856,6 +856,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_83fafdb16d69",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Women's Bracketology: Finding meaning in the metrics",
+      "dek": "The selection committee's first reveal of the season leaned into head-to-head, but the metric isn't the only answer.",
+      "body": "The selection committee's first reveal of the season leaned into head-to-head, but the metric isn't the only answer.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-14T15:11:21+00:00",
+      "sourceUrl": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83fafdb16d69",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_2ff783053620",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2nzmh/wasatch_county_republican_chair_arrested_for/",
       "image": "https://external-preview.redd.it/bwJeGuDuN2_nM4FnSsgUZM3assWj8Lu8Y7cH1E5Rzn4.jpeg?width=640&crop=smart&auto=webp&s=474bcc2df8262ee5b5124bfe6d780e55807ef2aa",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_eb969ac76cb5",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Olympics men's hockey daily: What to watch for, including first games for USA, Canada",
-      "dek": "Eight teams take the ice on Thursday. Here's what you need to know, including schedule, standings, key stats.",
-      "body": "Eight teams take the ice on Thursday. Here's what you need to know, including schedule, standings, key stats.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T08:13:45+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47898378/olympics-2026-men-hockey-nhl-players-teams-standings-stats-schedule",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eb969ac76cb5",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
