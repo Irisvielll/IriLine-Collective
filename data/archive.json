@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_f07036020aff",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "41 DUI arrests by trooper dismissed after many drivers were deemed sober",
+      "dek": "submitted by /u/voxadam [link] [comments]",
+      "body": "submitted by /u/voxadam [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T07:19:39+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r58cqc/41_dui_arrests_by_trooper_dismissed_after_many/",
+      "image": "https://external-preview.redd.it/F2oBKZYtXhsfloD3ULr4n1sZh_Z0-JM5_3YW_atH_QE.jpeg?width=640&crop=smart&auto=webp&s=59597572317c77c9f96ba477cc59bc9795b98812",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_78a53eed523f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-12T08:03:55+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/47903103/sean-dyche-nottingham-forest-sack-3rd-coach",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bb08316aed02",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c0833a3321aa",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Finland ski jump coach sent home over alcohol",
-      "dek": "Finnish ski jumping coach Igor Medved has been sent home from the Winter Olympics over issues related to alcohol use. Finland's Olympic officials called Medved'",
-      "body": "Finnish ski jumping coach Igor Medved has been sent home from the Winter Olympics over issues related to alcohol use. Finland's Olympic officials called Medved's behavior a violation of team conduct rules.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T08:03:55+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47907116/finland-olympic-ski-jump-coach-sent-home-alcohol-issue",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c0833a3321aa",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
