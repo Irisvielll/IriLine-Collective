@@ -106,6 +106,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_1357d6a2ad41",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Dad-to-be Morikawa ends drought, wins Pebble",
+      "dek": "Sunday's win at Pebble Beach was the seventh PGA Tour victory for Collin Morikawa -- but his first since Oct. 22, 2023.",
+      "body": "Sunday's win at Pebble Beach was the seventh PGA Tour victory for Collin Morikawa -- but his first since Oct. 22, 2023.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T18:45:29+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/47942467/morikawa-wins-pebble-beach-first-pga-tour-victory-23",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1357d6a2ad41",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_57e24b4d2fdc",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-12T18:35:03+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r31g2h/man_arrested_after_hucking_jerky_shouting_bible/",
       "image": "https://external-preview.redd.it/c-_tWJ3LkYfNEa1OjzetczrMXeXwfry6hze5OMFx8LQ.jpeg?width=640&crop=smart&auto=webp&s=21f56361e95e6ab48c912b468271c9a3a3dff07b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_18040aa9e1fe",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kenya's border with Somalia set to re-open after almost 15 years",
-      "dek": "Somali Islamist militant group al-Shabab has staged several attacks in Kenya, prompting the border to be closed.",
-      "body": "Somali Islamist militant group al-Shabab has staged several attacks in Kenya, prompting the border to be closed.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T18:34:31+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1a4/live/f00d12b0-083a-11f1-a418-9d2f92813770.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
