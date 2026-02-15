@@ -121,6 +121,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_52fdafc74abf",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Carnegie drops 29 as Georgia upsets No. 5 Vandy",
+      "dek": "Dani Carnegie scored 29 points to lead Georgia to a 76-74 upset win over No. 5 Vanderbilt on Sunday.",
+      "body": "Dani Carnegie scored 29 points to lead Georgia to a 76-74 upset win over No. 5 Vanderbilt on Sunday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T14:36:34+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/47940177/dani-carnegie-29-points-georgia-upsets-vanderbilt",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_52fdafc74abf",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_88c3128f0096",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Former UFC champ Velasquez released on parole",
+      "dek": "Former UFC heavyweight champion Cain Velasquez was released on parole from California state prison on Sunday.",
+      "body": "Former UFC heavyweight champion Cain Velasquez was released on parole from California state prison on Sunday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T14:36:34+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/47940244/former-ufc-champ-cain-velasquez-released-prison-parole",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_88c3128f0096",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_bba74d849970",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c5y5x230ve4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f030/live/d3845e50-081c-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bbf868ed7119",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Love Is Blind season 10 contestant removed from pods and hospitalized after mistakenly pouring nail glue in her eye",
-      "dek": "Contestant takes the whole \"love is blind\" thing a little too far, almost blinds herself. submitted by /u/Squeebee007 [link] [comments]",
-      "body": "Contestant takes the whole \"love is blind\" thing a little too far, almost blinds herself. submitted by /u/Squeebee007 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T14:27:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2utfr/love_is_blind_season_10_contestant_removed_from/",
-      "image": "https://external-preview.redd.it/bx0wMAtovYlvvqPUxyDwaMY40ONGC2FmTlMAe6uJbZg.jpeg?width=640&crop=smart&auto=webp&s=3a9bdb9788232bf59f4f82a56fc027f2c695e412",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_fa8cb581889f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Agent: Sochan joining Knicks after Spurs release",
-      "dek": "Free agent forward Jeremy Sochan, who was released by the Spurs, plans to sign with the Knicks after he clears waivers, his agent told ESPN.",
-      "body": "Free agent forward Jeremy Sochan, who was released by the Spurs, plans to sign with the Knicks after he clears waivers, his agent told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T14:26:45+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47910624/agent-jeremy-sochan-sign-knicks-clearing-waivers",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fa8cb581889f",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
