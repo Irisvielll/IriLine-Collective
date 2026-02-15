@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_39dd7bfae21b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Curling drama grows as Britain hit with violation",
+      "dek": "The curling controversy at the Winter Olympics has widened as increased surveillance of matches resulted in the removal of a stone thrown by the British men's t",
+      "body": "The curling controversy at the Winter Olympics has widened as increased surveillance of matches resulted in the removal of a stone thrown by the British men's team for the same alleged violation that burned the Canadians two days in a row.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T10:19:30+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47937914/as-olympic-curling-surveillance-grows-britain-faces-infraction",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_39dd7bfae21b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_a6309ebd1647",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-12T10:13:21+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r2pqbd/fewer_women_and_girls_to_give_valentines_day/",
       "image": "https://external-preview.redd.it/HjxYQIx-WnEvVevpkRqsKT-IX6O02P9eJEubkDE17nA.jpeg?width=640&crop=smart&auto=webp&s=d6055bfdc4818358dfcd0a09029027eefd2f500f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6494ed44b10f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul",
-      "dek": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir.",
-      "body": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T10:01:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2901/live/e1aef2f0-07ff-11f1-9972-d3f265c101c6.png",
       "imageCredit": "Image via original publisher"
     }
   ]
