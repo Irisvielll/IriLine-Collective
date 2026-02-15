@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-15T22:53:06+00:00",
+  "generatedAt": "2026-02-15T23:28:04+00:00",
   "items": [
+    {
+      "id": "meme_784f66c379f8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Former Laurel Police Chief sentenced to 55 years in Montgomery County on serial arson charges",
+      "dek": "submitted by /u/Alternative-Tune8314 [link] [comments]",
+      "body": "submitted by /u/Alternative-Tune8314 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T23:18:51+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r5tb0t/former_laurel_police_chief_sentenced_to_55_years/",
+      "image": "https://external-preview.redd.it/rU7lms39Q1DFO9EWixQkIvDLyj4p4at2xERs_mTFuZo.jpeg?width=640&crop=smart&auto=webp&s=408679d001fdc3340be7acebeda200cbe97281bd",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_bcaeb7dcd54d",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-15T20:48:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r5plfu/kansas_city_police_officer_who_killed_3_people/",
       "image": "https://external-preview.redd.it/Iujt-ByEVlWAREaT9cLPo9EXvRKRywqqNeklHs0ENdY.jpeg?width=640&crop=smart&auto=webp&s=9d7c4634a0d643247d2266088cc050944e4c54a9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_32f19cbde5d1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "DNA found on glove appearing to match those in Nancy Guthrie suspect video",
-      "dek": "The FBI says it recovered the evidence sample from the glove, which was found in a field near the side of the road a few miles from Guthrie's home",
-      "body": "The FBI says it recovered the evidence sample from the glove, which was found in a field near the side of the road a few miles from Guthrie's home",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T20:39:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/477d/live/2a7c5500-0aac-11f1-b5e2-dd58fc65f0f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
