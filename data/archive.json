@@ -136,6 +136,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_6cff8048efe1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "LeBron: Still unsure about future past this year",
+      "dek": "LeBron James said Sunday he's still unsure if he'll continue playing past this season.",
+      "body": "LeBron James said Sunday he's still unsure if he'll continue playing past this season.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-15T16:14:43+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47941093/lebron-james-says-unsure-play-24th-season",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6cff8048efe1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_c1b530f64f7d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cvgvgj7ejqdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30dc/live/2b05ab20-8848-11f0-b391-6936825093bd.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_e268de954547",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Kim falls short in bid to win third straight gold",
-      "dek": "Chloe Kim fell short in her bid to become the first Olympic snowboarder to win three consecutive gold medals, finishing second to Choi Gaon of South Korea in th",
-      "body": "Chloe Kim fell short in her bid to become the first Olympic snowboarder to win three consecutive gold medals, finishing second to Choi Gaon of South Korea in the women's halfpipe.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T15:33:14+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47911164/kim-falls-short-bid-win-third-straight-olympic-gold-medal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e268de954547",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
