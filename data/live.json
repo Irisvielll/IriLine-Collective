@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-16T11:54:47+00:00",
+  "generatedAt": "2026-02-16T13:06:02+00:00",
   "items": [
+    {
+      "id": "latest_dd439df5d583",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mother of Alexei Navalny says poison finding confirms he was murdered",
+      "dek": "On the second anniversary of his death, Lyudmila Navalnaya says her son did not \"simply die in prison\".",
+      "body": "On the second anniversary of his death, Lyudmila Navalnaya says her son did not \"simply die in prison\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T13:01:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa8/live/5a343530-0b31-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_975f8d0812a6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Pressure grows for release of remaining Venezuelan political prisoners",
+      "dek": "An NGO says hundreds of people remain behind bars despite US pressure US to speed up their release.",
+      "body": "An NGO says hundreds of people remain behind bars despite US pressure US to speed up their release.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T12:28:53+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c62d6pzpw6yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e4/live/5eb8c860-0b30-11f1-a204-b3f033b84443.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3ce6b3943e4a",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-16T11:42:17+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r67frl/fears_grow_for_elderly_man_kidnapped_from_sydney/",
       "image": "https://external-preview.redd.it/6FGhd3S0tCmc5-1ZvGdX71en6Bq8X-9o8Qj3AiJShQA.png?width=640&crop=smart&auto=webp&s=97adca8fc5142d0543ddadc8094fd73b279c0a4b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_58623a8ec7ea",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Giant robot tribute to Brazil's President Lula leads start of Rio Carnival",
-      "dek": "Rio de Janeiro's iconic Carnival parades begin with a tribute to Brazil's President Lula, illustrating his rise from poverty to power.",
-      "body": "Rio de Janeiro's iconic Carnival parades begin with a tribute to Brazil's President Lula, illustrating his rise from poverty to power.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T11:09:42+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cgjz234pj3lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f09b/live/ed5e3830-0b20-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_86583a12ed8a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kenya strike delays flights at international hub airport",
-      "dek": "Authorities say they have put in place contingency measures as a labour dispute affects travel.",
-      "body": "Authorities say they have put in place contingency measures as a labour dispute affects travel.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T10:48:44+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c363096kd5po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a3/live/73128dc0-0b24-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
