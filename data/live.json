@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-16T11:08:41+00:00",
+  "generatedAt": "2026-02-16T11:54:47+00:00",
   "items": [
+    {
+      "id": "meme_3ce6b3943e4a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Fears grow for elderly man kidnapped from Sydney home in case of mistaken identity",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T11:42:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r67frl/fears_grow_for_elderly_man_kidnapped_from_sydney/",
+      "image": "https://external-preview.redd.it/6FGhd3S0tCmc5-1ZvGdX71en6Bq8X-9o8Qj3AiJShQA.png?width=640&crop=smart&auto=webp&s=97adca8fc5142d0543ddadc8094fd73b279c0a4b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_58623a8ec7ea",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Giant robot tribute to Brazil's President Lula leads start of Rio Carnival",
+      "dek": "Rio de Janeiro's iconic Carnival parades begin with a tribute to Brazil's President Lula, illustrating his rise from poverty to power.",
+      "body": "Rio de Janeiro's iconic Carnival parades begin with a tribute to Brazil's President Lula, illustrating his rise from poverty to power.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T11:09:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cgjz234pj3lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f09b/live/ed5e3830-0b20-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_86583a12ed8a",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-16T10:48:44+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c363096kd5po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a3/live/73128dc0-0b24-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_29f7329cfac8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sydney kidnapping: Police appeal for return of man, 85, snatched by mistake",
-      "dek": "Cases of mistaken identity have become increasingly common in Sydney's underworld, the SMH reported, as large organised crime networks increasingly subcontract ",
-      "body": "Cases of mistaken identity have become increasingly common in Sydney's underworld, the SMH reported, as large organised crime networks increasingly subcontract crimes. \"The fact that these offenders – these kidnappers – have got it so wrong is concerning.\" submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T10:10:56+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r65uvf/sydney_kidnapping_police_appeal_for_return_of_man/",
-      "image": "https://external-preview.redd.it/jFrsxVNjiQxsTXyToCjqdetjJgBuK3EXgzHxu4827mY.jpeg?width=640&crop=smart&auto=webp&s=ea4c8e64a1c67e5b55a4b35f340bbd6d2e54f47c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_750d0740b5cd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nigeria warns against enlisting abroad after reports of deaths in Ukraine",
-      "dek": "The authorities say a growing number of citizens are being illegally recruited to fight elsewhere.",
-      "body": "The authorities say a growing number of citizens are being illegally recruited to fight elsewhere.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T10:06:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cev7e3m04ngo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c99/live/dd4ef620-0b1e-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
