@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b7e9a5bfc208",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Robert Duvall became a Hollywood great",
+      "dek": "A look at the life of the prolific actor whose many films included Apocalypse Now and The Godfather.",
+      "body": "A look at the life of the prolific actor whose many films included Apocalypse Now and The Godfather.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T18:19:09+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cv2grggdzweo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f65/live/064354a0-0b6e-11f1-8cee-7bb63a423dd9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b316155f0b35",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-13T10:19:51+00:00",
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/47917988/big-ten-eyes-24-team-cfp-no-league-championship-games",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b8e2cc75c1f1",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_94d30f1b864a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Spurs finalizing Tudor as interim boss",
-      "dek": "Tottenham are finalising the appointment of Igor Tudor as interim head coach until the end of the season, sources have told ESPN.",
-      "body": "Tottenham are finalising the appointment of Igor Tudor as interim head coach until the end of the season, sources have told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-13T10:19:51+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47918202/tottenham-finalising-igor-tudor-interim-boss-sources",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_94d30f1b864a",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
