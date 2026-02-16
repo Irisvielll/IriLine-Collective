@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-16T02:13:49+00:00",
+  "generatedAt": "2026-02-16T04:35:17+00:00",
   "items": [
+    {
+      "id": "meme_95cfec1dee47",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Israel approves proposal to register West Bank lands as ‘state property’",
+      "dek": "submitted by /u/tunisoft [link] [comments]",
+      "body": "submitted by /u/tunisoft [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T04:18:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r5zp37/israel_approves_proposal_to_register_west_bank/",
+      "image": "https://external-preview.redd.it/cvortEgd534re0R4pUOawv0oixjDcgXVROgKiV-kYDE.jpeg?width=640&crop=smart&auto=webp&s=21cdcc9a6bd34c1240b8b2da2839be43d2e22773",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_36839a70afcd",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Michael Jordan celebrates first Daytona 500 championship as NASCAR owner",
+      "dek": "submitted by /u/Chapple69 [link] [comments]",
+      "body": "submitted by /u/Chapple69 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T03:43:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r5yznm/michael_jordan_celebrates_first_daytona_500/",
+      "image": "https://external-preview.redd.it/s8PMyK61HSzGAVAzsmw2AtOg-knku3Z4lCmCysK1MhI.jpeg?width=640&crop=smart&auto=webp&s=c63dadaa91d5758c499728def6c9a0ee50e7d4ba",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_784f66c379f8",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r5tb0t/former_laurel_police_chief_sentenced_to_55_years/",
       "image": "https://external-preview.redd.it/rU7lms39Q1DFO9EWixQkIvDLyj4p4at2xERs_mTFuZo.jpeg?width=640&crop=smart&auto=webp&s=408679d001fdc3340be7acebeda200cbe97281bd",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bcaeb7dcd54d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US attorney general criticised after saying all Epstein files have been released",
-      "dek": "Lawmakers, including those who wrote the law requiring their publication, argue the release is insufficient.",
-      "body": "Lawmakers, including those who wrote the law requiring their publication, argue the release is insufficient.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T21:32:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d134/live/2a2760c0-0ab8-11f1-99f8-175d6377faa5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_0b564e492220",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Reddick's Daytona 500 win a buzzer beater befitting of his boss: Michael Jordan",
-      "dek": "Thanks to a buzzer-beater move befitting of Michael Jordan, Tyler Reddick won the biggest race in NASCAR.",
-      "body": "Thanks to a buzzer-beater move befitting of Michael Jordan, Tyler Reddick won the biggest race in NASCAR.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T20:58:14+00:00",
-      "sourceUrl": "https://www.espn.com/racing/nascar/story/_/id/47943611/tyler-reddick-nascar-daytona-500-win-buzzer-beater-befitting-23xi-boss-michael-jordan",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0b564e492220",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
