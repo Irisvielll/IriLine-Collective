@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_100296d348c4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Female Israeli soldiers rescued after being chased by ultra-Orthodox men",
+      "dek": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
+      "body": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T07:47:54+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyzen2lgw9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42a/live/7139f310-0aa9-11f1-adb1-dfcb996ae067.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_3079c42cf4ae",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-12T22:48:18+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r382rc/rfk_jr_food_pyramid_site_links_to_grok_which_says/",
       "image": "https://external-preview.redd.it/53siFKn7knIIgbAmIl2ez1auAoRSp15e_Z-hRF4yLmc.png?width=640&crop=smart&auto=webp&s=0f43062bc25454eb320e3a08f4db7ea836c88c31",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8680bc4b3403",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What is the SAVE America Act that mandates voter ID?",
-      "dek": "Democrats say the legislation disenfranchises voters, while Republicans say it is necessary to stop voter fraud.",
-      "body": "Democrats say the legislation disenfranchises voters, while Republicans say it is necessary to stop voter fraud.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-12T22:40:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crk845r4vlyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c0/live/4b6910b0-0862-11f1-9711-6bb3c7faafe7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

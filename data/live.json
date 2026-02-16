@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-16T09:06:58+00:00",
+  "generatedAt": "2026-02-16T10:11:23+00:00",
   "items": [
+    {
+      "id": "meme_ba48fb7154b6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Lawyers increasingly have to convince clients that AI chatbots give bad advice",
+      "dek": "submitted by /u/mawhrinskeleton [link] [comments]",
+      "body": "submitted by /u/mawhrinskeleton [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T09:42:40+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r65e7a/lawyers_increasingly_have_to_convince_clients/",
+      "image": "https://external-preview.redd.it/ULSuuaCWWNd2OJyqRpOixSoM4q15R6fxMqH9hqJT45Q.jpeg?width=640&crop=smart&auto=webp&s=ba9661aace1ca1d68245fc34b240b8a91db5fa2c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7eb7d9288201",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-16T07:53:10+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4804/live/9b3b1360-0b08-11f1-b8d0-21adbc414b0b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_100296d348c4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Female Israeli soldiers rescued after being chased by ultra-Orthodox men",
-      "dek": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
-      "body": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T07:47:54+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyzen2lgw9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42a/live/7139f310-0aa9-11f1-adb1-dfcb996ae067.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
