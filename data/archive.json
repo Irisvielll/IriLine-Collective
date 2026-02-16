@@ -61,6 +61,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_b7059280fb09",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "USA's Meyers Taylor, 41, wins 1st Olympic gold",
+      "dek": "The United States' Elana Meyers Taylor won the women's monobob title Monday to win her first Olympic gold medal at age 41.",
+      "body": "The United States' Elana Meyers Taylor won the women's monobob title Monday to win her first Olympic gold medal at age 41.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T16:45:40+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47949476/usa-elana-meyers-taylor-41-wins-1st-olympic-gold-monobob",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b7059280fb09",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_219d7e72e677",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "French hockey player who fought Wilson banned",
+      "dek": "France's Pierre Crinon, who fought Canada's Tom Wilson at the Milan Cortina Winter Olympics, was suspended Monday by the French ice hockey federation.",
+      "body": "France's Pierre Crinon, who fought Canada's Tom Wilson at the Milan Cortina Winter Olympics, was suspended Monday by the French ice hockey federation.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-16T16:45:40+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47949716/french-hockey-player-fought-tom-wilson-suspended",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_219d7e72e677",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_6b8cd91f733c",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c0q30d20lkqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bcd/live/62e20a40-08c0-11f1-b197-d9b05591fdc1.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_eac3016ea3b0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Pats' Diggs pleads not guilty to assault allegation",
-      "dek": "Patriots wide receiver Stefon Diggs pleaded not guilty to felony strangulation and other criminal charges stemming from an alleged dispute with his personal che",
-      "body": "Patriots wide receiver Stefon Diggs pleaded not guilty to felony strangulation and other criminal charges stemming from an alleged dispute with his personal chef.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-13T10:19:51+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47919485/patriots-stefon-diggs-pleads-not-guilty-assault-allegation",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eac3016ea3b0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b8e2cc75c1f1",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Big Ten eyes 24-team CFP, no league title games",
-      "dek": "The Big Ten is circulating an internal document that lays out what a 24-team CFP would look like, including the elimination of conference championship games, a ",
-      "body": "The Big Ten is circulating an internal document that lays out what a 24-team CFP would look like, including the elimination of conference championship games, a 23+1 selection model and an additional weekend of on-campus CFP home games.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-13T10:19:51+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47917988/big-ten-eyes-24-team-cfp-no-league-championship-games",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b8e2cc75c1f1",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
