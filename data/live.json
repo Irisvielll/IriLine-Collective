@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-17T16:09:31+00:00",
+  "generatedAt": "2026-02-17T17:16:44+00:00",
   "items": [
+    {
+      "id": "meme_4bdf53084223",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "LeBron James wants to visit Israel: 'I've heard nothing but great things'",
+      "dek": "submitted by /u/AgeNovel3566 [link] [comments]",
+      "body": "submitted by /u/AgeNovel3566 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T16:52:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7bimn/lebron_james_wants_to_visit_israel_ive_heard/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_4bdf53084223",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_a2e4b183c1ab",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kansas lawmakers weigh disaster declaration for FIFA World Cup",
+      "dek": "submitted by /u/AgKnight14 [link] [comments]",
+      "body": "submitted by /u/AgKnight14 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T16:38:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7b3jy/kansas_lawmakers_weigh_disaster_declaration_for/",
+      "image": "https://external-preview.redd.it/GHMxtvWfobP3_NLQ1yLn40kz32T-3pbZrGTjvM2VrRo.png?width=640&crop=smart&auto=webp&s=27be5e14043fa89ab8dc01bef03302e08df0576e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b53c28008c34",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-17T15:47:53+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c75e7wqqq6no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c65/live/d2ef7ff0-0c0f-11f1-ad4b-755d3b02c9a5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f704a3c6e985",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Spain blocks access to NordVPN and Proton VPN during football matches",
-      "dek": "submitted by /u/SafeImpressive4413 [link] [comments]",
-      "body": "submitted by /u/SafeImpressive4413 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T15:15:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r78nu7/spain_blocks_access_to_nordvpn_and_proton_vpn/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_f704a3c6e985",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_5146356e1ca9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US soldiers arrive in Nigeria to aid its fight against Islamist militants",
-      "dek": "The troops, who landed at an airfield in Bauchi state, will not take part in combat operations, officials say.",
-      "body": "The troops, who landed at an airfield in Bauchi state, will not take part in combat operations, officials say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T15:03:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj6d79gyrdro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f9/live/b72fa360-0bfd-11f1-b726-1d6e709ef554.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
