@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-17T09:05:33+00:00",
+  "generatedAt": "2026-02-17T10:06:56+00:00",
   "items": [
+    {
+      "id": "meme_16fd4ccf6201",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Norwegian Scientist Gives Himself Brain Damage, Trying To Disprove 'Havana Syndrome'",
+      "dek": "submitted by /u/TheEdgeofGoon [link] [comments]",
+      "body": "submitted by /u/TheEdgeofGoon [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T09:12:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r719xu/norwegian_scientist_gives_himself_brain_damage/",
+      "image": "https://external-preview.redd.it/3sD2z2wakfAe-g_hmS5D15SAGKRpq9XjwgVdpC9jv74.jpeg?width=640&crop=smart&auto=webp&s=833c5919d520ccbf3056a8956cc4eab49f002fea",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_24ac73a58831",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_c3eeea7dd966",
+      "id": "latest_3f7dc563555b",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks",
-      "dek": "Speaking ahead of negotiations on Tuesday, the US president says he believes Iran wants to make a deal.",
-      "body": "Speaking ahead of negotiations on Tuesday, the US president says he believes Iran wants to make a deal.",
+      "title": "Five young people die in Spain apartment block fire",
+      "dek": "Firefighters say they do not know why the victims could not escape the blaze in the building's upper floor.",
+      "body": "Firefighters say they do not know why the victims could not escape the blaze in the building's upper floor.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T05:14:21+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7eb/live/e8cb6b90-0bce-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_85a470599a97",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Researchers develop ‘Smart Underwear’ to track a wearer’s farts",
-      "dek": "submitted by /u/Charming-Burp203 [link] [comments]",
-      "body": "submitted by /u/Charming-Burp203 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T04:05:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r6vw3r/researchers_develop_smart_underwear_to_track_a/",
-      "image": "https://external-preview.redd.it/6Ycd17j2tjmM42_makEmKIJZ_ZOcpPwNlpW5LBvGKfA.jpeg?width=320&crop=smart&auto=webp&s=e603f1e0587883e72ef7cd3a25c8b1d6365fdcf1",
+      "publishedAt": "2026-02-17T08:48:14+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c99jngpymyjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7346/live/943276e0-0bd9-11f1-a1d1-ad8a455db465.png",
       "imageCredit": "Image via original publisher"
     }
   ]
