@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-17T13:05:46+00:00",
+  "generatedAt": "2026-02-17T14:12:58+00:00",
   "items": [
+    {
+      "id": "meme_2eb69e220e93",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "New Zealand Declares Prediction Markets Are Gambling",
+      "dek": "submitted by /u/ilovemybaldhead [link] [comments]",
+      "body": "submitted by /u/ilovemybaldhead [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T13:42:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r76bz1/new_zealand_declares_prediction_markets_are/",
+      "image": "https://external-preview.redd.it/g0B-xRTR3AUMSI9wnrTVgqGb4vxnOmZ2_gCi9Q9Len4.jpeg?width=640&crop=smart&auto=webp&s=81c4c1c2bcb43a4ec30ada743acc0a8a35a606d6",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7951f8b307ff",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-17T12:41:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cjd93rl849xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa0f/live/c6e57f00-0bf8-11f1-b726-1d6e709ef554.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_684e87dde411",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russian man who declared himself a ‘foreign agent’ as a joke now faces criminal charges",
-      "dek": "submitted by /u/duckanroll [link] [comments]",
-      "body": "submitted by /u/duckanroll [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T12:38:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r74w1s/russian_man_who_declared_himself_a_foreign_agent/",
-      "image": "https://external-preview.redd.it/nJNAVReoFLkpvUZE_PLAXvz1pdi4kG8ELko-_vjqmSw.jpeg?width=640&crop=smart&auto=webp&s=7ac9b398addcbff605a6bbad434cd6a9ed49febe",
       "imageCredit": "Image via original publisher"
     }
   ]
