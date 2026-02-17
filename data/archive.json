@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_3dd3f44d05e2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Top plastic surgeon fuels 'Penisgate,' says he injected ski jumper last month",
+      "dek": "submitted by /u/OddTax8841 [link] [comments]",
+      "body": "submitted by /u/OddTax8841 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T19:28:25+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7g1qz/top_plastic_surgeon_fuels_penisgate_says_he/",
+      "image": "https://external-preview.redd.it/Hny6xK3V_tR7v0C3KKK3af_gYkHzylTaUcyUbUxm3CQ.jpeg?width=640&crop=smart&auto=webp&s=f74e21ad4ac083484bd0685d423b50ce555a4eff",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_6b0cef71805f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -194,6 +209,36 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7b3jy/kansas_lawmakers_weigh_disaster_declaration_for/",
       "image": "https://external-preview.redd.it/GHMxtvWfobP3_NLQ1yLn40kz32T-3pbZrGTjvM2VrRo.png?width=640&crop=smart&auto=webp&s=27be5e14043fa89ab8dc01bef03302e08df0576e",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_b32220738b77",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Moe, legendary former Nuggets coach, dies at 87",
+      "dek": "Doug Moe, who engineered one of the best offenses of its era as coach for the Denver Nuggets in the 1980s, has died at the age of 87.",
+      "body": "Doug Moe, who engineered one of the best offenses of its era as coach for the Denver Nuggets in the 1980s, has died at the age of 87.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T16:19:53+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47957612/doug-moe-legendary-former-nuggets-coach-dies-87",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b32220738b77",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_56b04018483a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Frostad outduels USA's Forehand for big air gold",
+      "dek": "Tormod Frostad of Norway won the gold medal in big air freeskiing at the Milan Cortina Olympics, beating Mac Forehand of the United States on the last jump of a",
+      "body": "Tormod Frostad of Norway won the gold medal in big air freeskiing at the Milan Cortina Olympics, beating Mac Forehand of the United States on the last jump of a high-scoring final on Tuesday night.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T16:19:53+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47957482/norway-tormod-frostad-captures-olympic-freeski-big-air-gold",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_56b04018483a",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_b53c28008c34",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-02-14T02:12:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r48a1o/sex_workers_at_nevada_brothel_fight_for_the_first/",
       "image": "https://external-preview.redd.it/jH_NiEfKQesPnBApkoPUvovJmEMvk4B0tTMlMPGqSkI.jpeg?width=640&crop=smart&auto=webp&s=bf62a4bf84a4d379d116d1af5799452f0c3296f2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_59b61e3053e8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Indian man admits plot to kill US-based Sikh separatist leader",
-      "dek": "Nikhil Gupta faces a possible 40-year sentence in a murder-for-hire plot targeting Gurpatwant Singh Pannun.",
-      "body": "Nikhil Gupta faces a possible 40-year sentence in a murder-for-hire plot targeting Gurpatwant Singh Pannun.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T01:57:43+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2ryxwdl7po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b306/live/6930e9d0-0946-11f1-b6c3-e994aa4d6180.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d795b82903ab",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why writer Arundhati Roy's cult classic film is still relevant in India",
-      "dek": "Nearly 40 years on, the Booker prize-winning writer's debut campus satire is set to be screened in Berlin.",
-      "body": "Nearly 40 years on, the Booker prize-winning writer's debut campus satire is set to be screened in Berlin.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T01:45:02+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn9exzl254xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2be/live/27cc86c0-08c9-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_669f930fba8a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Officials investigating DNA found in Nancy Guthrie's home",
-      "dek": "The sheriff's department says it is working to identify who the DNA belongs to, but would not disclose where it was found.",
-      "body": "The sheriff's department says it is working to identify who the DNA belongs to, but would not disclose where it was found.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T01:40:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f8/live/fdee9a40-0937-11f1-9d65-f38c5730e032.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-17T20:50:09+00:00",
+  "generatedAt": "2026-02-17T21:37:00+00:00",
   "items": [
+    {
+      "id": "latest_061cb769a4d2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nine arrested in France over death of far-right student",
+      "dek": "Quentin Deranque died on Saturday, two days after being beaten in Lyon by masked men believed to be far-left militants.",
+      "body": "Quentin Deranque died on Saturday, two days after being beaten in Lyon by masked men believed to be far-left militants.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T21:08:32+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgj1qrqd47o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8265/live/5290eb40-0c42-11f1-b8ba-135d136c986f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f768d4589a24",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-17T19:42:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8004/live/aefcd7a0-0c32-11f1-aea9-35917f4e91eb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3dd3f44d05e2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Top plastic surgeon fuels 'Penisgate,' says he injected ski jumper last month",
-      "dek": "submitted by /u/OddTax8841 [link] [comments]",
-      "body": "submitted by /u/OddTax8841 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T19:28:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7g1qz/top_plastic_surgeon_fuels_penisgate_says_he/",
-      "image": "https://external-preview.redd.it/Hny6xK3V_tR7v0C3KKK3af_gYkHzylTaUcyUbUxm3CQ.jpeg?width=640&crop=smart&auto=webp&s=f74e21ad4ac083484bd0685d423b50ce555a4eff",
       "imageCredit": "Image via original publisher"
     }
   ]
