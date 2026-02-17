@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-17T22:01:49+00:00",
+  "generatedAt": "2026-02-17T22:51:06+00:00",
   "items": [
+    {
+      "id": "meme_cf1e65c2d60f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Reddit's human content wins amid the AI flood",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T22:30:05+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7kzuq/reddits_human_content_wins_amid_the_ai_flood/",
+      "image": "https://external-preview.redd.it/mBGHuM2tzfkAm4RqdcPtN-cwCu3zedBxKUayPNvrCUc.jpeg?width=640&crop=smart&auto=webp&s=0b2e17cb14502578a6041215245c9ffb1b4cebcc",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_061cb769a4d2",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7hg1b/zillow_launches_zillow_for_warcraft_a_new_way_to/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_f768d4589a24",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_6bdbd4ebda9b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "No DNA matches on glove found in Nancy Guthrie case, police say",
-      "dek": "It's been two weeks since the 84 year old's disappearance and authorities say there have not been any arrests",
-      "body": "It's been two weeks since the 84 year old's disappearance and authorities say there have not been any arrests",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T19:42:15+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8004/live/aefcd7a0-0c32-11f1-aea9-35917f4e91eb.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
