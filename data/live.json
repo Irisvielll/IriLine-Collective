@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-17T14:12:58+00:00",
+  "generatedAt": "2026-02-17T15:08:00+00:00",
   "items": [
+    {
+      "id": "meme_e12024fd2c95",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Barack Obama clarifies he's seen 'no evidence' of aliens after saying they're real",
+      "dek": "submitted by /u/nbcnews [link] [comments]",
+      "body": "submitted by /u/nbcnews [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T15:00:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r789en/barack_obama_clarifies_hes_seen_no_evidence_of/",
+      "image": "https://external-preview.redd.it/l0jH4HjOoWUNB3zvk_yfutHZbH1Ob7UpzUwJQocMLfw.jpeg?width=640&crop=smart&auto=webp&s=9eac7a4c65819eef06b64fce5da7abe8015343be",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e4d274f54cf3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "France releases suspected Russian 'shadow fleet' tanker after fine paid",
+      "dek": "French Foreign Minister Jean-Noël Barrot said the vessel was departing Marseille after a payment of \"several million euros\".",
+      "body": "French Foreign Minister Jean-Noël Barrot said the vessel was departing Marseille after a payment of \"several million euros\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T14:20:33+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8xy4dl2xwgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b57c/live/b62e6760-0bfa-11f1-b726-1d6e709ef554.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2eb69e220e93",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-17T13:42:28+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r76bz1/new_zealand_declares_prediction_markets_are/",
       "image": "https://external-preview.redd.it/g0B-xRTR3AUMSI9wnrTVgqGb4vxnOmZ2_gCi9Q9Len4.jpeg?width=640&crop=smart&auto=webp&s=81c4c1c2bcb43a4ec30ada743acc0a8a35a606d6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7951f8b307ff",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Fake funeral suspects allegedly used hearse to smuggle charcoal in Malawi",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T13:03:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r75g9h/fake_funeral_suspects_allegedly_used_hearse_to/",
-      "image": "https://external-preview.redd.it/wo8nU78I5p_Le4sqIDJsHQwoGktQ0IlhwwIOU9TJNTo.jpeg?width=640&crop=smart&auto=webp&s=5bf1207f19ea04abbec73aef7c46f271809f4f13",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f6210db0c31f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nancy Guthrie's family cleared as possible suspects, with search in its third week",
-      "dek": "Local police say the missing woman's relatives are victims - and \"to suggest otherwise is not only wrong, it is cruel\".",
-      "body": "Local police say the missing woman's relatives are victims - and \"to suggest otherwise is not only wrong, it is cruel\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T12:41:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjd93rl849xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa0f/live/c6e57f00-0bf8-11f1-b726-1d6e709ef554.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
