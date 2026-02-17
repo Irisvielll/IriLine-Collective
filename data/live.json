@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-17T11:07:07+00:00",
+  "generatedAt": "2026-02-17T11:54:40+00:00",
   "items": [
+    {
+      "id": "latest_6df49a4c4d6f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Third round of Russia-Ukraine talks to take place as strikes continue",
+      "dek": "Expectations for a breakthrough are low as delegations meet for a third time to try and negotiate an end to the war.",
+      "body": "Expectations for a breakthrough are low as delegations meet for a third time to try and negotiate an end to the war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T11:48:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c289/live/ed9669b0-0be5-11f1-8d90-772c0d7aea09.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ba70b8c9fd2d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-17T10:04:08+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cx77214zz9eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3287/live/8dc26230-0bec-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_64a40b5d70cd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ex-winger Utai in serious condition after shooting",
-      "dek": "Former NRL star Matt Utai is in a \"critical condition\" after being shot multiple times outside his home in Sydney, Australia.",
-      "body": "Former NRL star Matt Utai is in a \"critical condition\" after being shot multiple times outside his home in Sydney, Australia.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T09:55:45+00:00",
-      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c8eg71gywlyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a55/live/443931c0-0bd3-11f1-8088-0fef3cc59389.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

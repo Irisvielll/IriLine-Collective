@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_64a40b5d70cd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ex-winger Utai in serious condition after shooting",
+      "dek": "Former NRL star Matt Utai is in a \"critical condition\" after being shot multiple times outside his home in Sydney, Australia.",
+      "body": "Former NRL star Matt Utai is in a \"critical condition\" after being shot multiple times outside his home in Sydney, Australia.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T09:55:45+00:00",
+      "sourceUrl": "https://www.bbc.com/sport/rugby-league/articles/c8eg71gywlyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a55/live/443931c0-0bd3-11f1-8088-0fef3cc59389.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_16fd4ccf6201",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c39wvr1nv2no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aab/live/1b5b4830-0bd6-11f1-b5e2-dd58fc65f0f6.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_1b02a6756412",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Seahawks unlikely to use tag on Walker",
+      "dek": "The Seahawks are unlikely to use their franchise tag on running back and Super Bowl MVP Kenneth Walker III, league sources told ESPN.",
+      "body": "The Seahawks are unlikely to use their franchise tag on running back and Super Bowl MVP Kenneth Walker III, league sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T06:48:00+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47953513/sources-seahawks-unlikely-use-franchise-tag-kenneth-walker",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1b02a6756412",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_c3eeea7dd966",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47921239/bills-coach-joe-brady-adds-john-fox-staff-senior-assistant",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_690405c5460d",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_61800034427d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "U.S. women's curling gets first win vs. Canada",
-      "dek": "The U.S. women's curling team was surprised to learn that its defeat of Canada marked an Olympic first.",
-      "body": "The U.S. women's curling team was surprised to learn that its defeat of Canada marked an Olympic first.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-13T15:16:39+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47921497/who-knew-us-curlers-surprised-first-olympic-win-vs-canada",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_61800034427d",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_cae0c9e29712",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Leak damages 19th Century painting in latest Louvre setback",
-      "dek": "A catalogue of incidents at the world's most visited museum have placed museum bosses come under increasing scrutiny.",
-      "body": "A catalogue of incidents at the world's most visited museum have placed museum bosses come under increasing scrutiny.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-13T15:06:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c7951d1pgewo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4af/live/e6f89b10-08d3-11f1-bed4-8368e91e11b3.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
