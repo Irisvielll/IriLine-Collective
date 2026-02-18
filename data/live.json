@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-18T05:10:03+00:00",
+  "generatedAt": "2026-02-18T06:14:21+00:00",
   "items": [
+    {
+      "id": "latest_f202bd7a499d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Witkoff says 'meaningful progress' made as Ukraine talks enter second day",
+      "dek": "The US special envoy struck an optimistic note after the first day of talks in Geneva, but hopes for a breakthrough remain low.",
+      "body": "The US special envoy struck an optimistic note after the first day of talks in Geneva, but hopes for a breakthrough remain low.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T06:00:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/62395cf0-0c8b-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ec3414f4712d",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-18T02:52:19+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cz7gvdx457vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d0/live/6d7dd8b0-0c5a-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9cdaa70ba4a2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rescuers search for 10 missing skiers after California avalanche",
-      "dek": "Rescuers are racing to the scene, which has seen about 30 inches (76cm) of snowfall in the last 24 hours.",
-      "body": "Rescuers are racing to the scene, which has seen about 30 inches (76cm) of snowfall in the last 24 hours.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T01:37:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3194/live/208f8f00-0c67-11f1-986c-b11ea963c0e7.png",
       "imageCredit": "Image via original publisher"
     }
   ]

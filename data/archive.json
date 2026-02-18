@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_9cdaa70ba4a2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rescuers search for 10 missing skiers after California avalanche",
+      "dek": "Rescuers are racing to the scene, which has seen about 30 inches (76cm) of snowfall in the last 24 hours.",
+      "body": "Rescuers are racing to the scene, which has seen about 30 inches (76cm) of snowfall in the last 24 hours.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T01:37:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3194/live/208f8f00-0c67-11f1-986c-b11ea963c0e7.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_038b815be768",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,6 +44,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d711/live/9a10a6d0-0bfd-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_95bb55086a2e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "K-State flexes 'resiliency,' wins Driscoll's debut",
+      "dek": "On Tuesday night, in the debut of Kansas State interim coach Matthew Driscoll, the Wildcats improved to 11-15, 2-11 in the Big 12, never trailing in a dominant ",
+      "body": "On Tuesday night, in the debut of Kansas State interim coach Matthew Driscoll, the Wildcats improved to 11-15, 2-11 in the Big 12, never trailing in a dominant 90-74 win over Baylor at Bramlage Coliseum, days after previous coach Jerome Tang was fired.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T00:31:04+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47961409/kansas-state-cruises-baylor-matthew-driscoll-debut",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_95bb55086a2e",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_33deb123746b",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cy0dn4e1njjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de77/live/7b579890-09a8-11f1-acb3-91fbf84be714.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_95dfa6f0c714",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Accused Canadian curler points finger at Swedes",
-      "dek": "Canadian curler Marc Kennedy says his team may be the target of a \"premeditated\" attack after a Swedish curler accused Kennedy of illegally \"double-touching\" a ",
-      "body": "Canadian curler Marc Kennedy says his team may be the target of a \"premeditated\" attack after a Swedish curler accused Kennedy of illegally \"double-touching\" a rock after releasing it during a match Friday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T13:15:17+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/curling/story/_/id/47928863/canadian-olympic-curler-says-no-cheat-attacks-sweden",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_95dfa6f0c714",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_119f0abed842",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wasserman to sell agency, stay on LA28 Olympics",
-      "dek": "Casey Wasserman, chairman of the 2028 Los Angeles Olympics organizing committee, is selling his talent agency in the wake of the release of emails tying him to ",
-      "body": "Casey Wasserman, chairman of the 2028 Los Angeles Olympics organizing committee, is selling his talent agency in the wake of the release of emails tying him to the Jeffrey Epstein controversy.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T13:15:17+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47928858/la-28-olympics-boss-wasserman-sell-agency-amid-epstein-links",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_119f0abed842",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
