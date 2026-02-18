@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_94c01ec7445f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "‘Suicide is one option,’ seniors on Social Security told",
+      "dek": "submitted by /u/PM_ME_DPRK_CANDIDS [link] [comments]",
+      "body": "submitted by /u/PM_ME_DPRK_CANDIDS [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T19:39:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8d064/suicide_is_one_option_seniors_on_social_security/",
+      "image": "https://external-preview.redd.it/8O1ILPS3vZp7gFm3oBXhSzI56Obs8vHnZO-Jfj8ECr8.png?width=640&crop=smart&auto=webp&s=6ffef4e663393d227bfa31a734f37330781c088d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_78eac28793c2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Palantir, Which Is Powering ICE, Says Immigration Crackdown May Hurt Hiring",
+      "dek": "submitted by /u/Callabrantus [link] [comments]",
+      "body": "submitted by /u/Callabrantus [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T18:51:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8boi3/palantir_which_is_powering_ice_says_immigration/",
+      "image": "https://external-preview.redd.it/0yirYDgSK-pFItNp1GCP9aYvM8Mdz_2U8YZpLzSVLfg.jpeg?width=640&crop=smart&auto=webp&s=23d64b42f47477bb52569282ee87d846470721e5",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_7c9888c1abce",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -136,6 +166,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_37156a17edf5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Scoreless after one period: Live updates from USA-Sweden men's hockey quarterfinals",
+      "dek": "Who will move on to the semifinals? Follow along here with goals and top moments from the Milan Cortina Games.",
+      "body": "Who will move on to the semifinals? Follow along here with goals and top moments from the Milan Cortina Games.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T15:37:07+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47965973/2026-milan-cortina-winter-olympics-live-updates-men-hockey-usa-sweden",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_37156a17edf5",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_9f21890b809e",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -149,6 +194,21 @@
       "sourceUrl": "https://www.bbc.com/sport/football/articles/cx24vnm4dp5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d9/live/64670730-0cdf-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_0f507db0097c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "European soccer live updates: Inter, Atleti in action in UCL; Arsenal in PL",
+      "dek": "Enjoy all the updates from today's knockout phase playoff first legs, with Inter and Atléti in action. Also, Arsenal take on Wolves in the Premier League.",
+      "body": "Enjoy all the updates from today's knockout phase playoff first legs, with Inter and Atléti in action. Also, Arsenal take on Wolves in the Premier League.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T15:29:13+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47943498/champions-league-live-updates-internazionale-atletico-madrid-arsenal-premier-league",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0f507db0097c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_c4b24393b118",
@@ -224,6 +284,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8498z/norwegian_biathlete_says_hes_learned_to_watch/",
       "image": "https://external-preview.redd.it/MI2F86LvyH2UfrZ5v_o3-qHyDCcGGFTzT4jZiIYnUYE.jpeg?width=640&crop=smart&auto=webp&s=37c12934995f2cca8e4dbd543396410ba2d7bc23",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_eb969ac76cb5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Olympics men's hockey daily: Canada survives Czechia, U.S.-Sweden up next",
+      "dek": "Find the full schedule, scoring and goaltending leaders and knockout round bracket here.",
+      "body": "Find the full schedule, scoring and goaltending leaders and knockout round bracket here.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T14:17:25+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47898378/olympics-2026-men-hockey-nhl-players-teams-standings-stats-schedule",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eb969ac76cb5",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_8618cdae5b7b",
@@ -4424,81 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c875d3d3x34o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3cb/live/db4e5850-0a67-11f1-ac70-650e103cdf93.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_0fa1618d6d0e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Harper: Taken aback by Phillies' public critique",
-      "dek": "Phillies first baseman Bryce Harper said Sunday \"it's kind of wild to me still\" that president of baseball operations Dave Dombrowski suggested in October the t",
-      "body": "Phillies first baseman Bryce Harper said Sunday \"it's kind of wild to me still\" that president of baseball operations Dave Dombrowski suggested in October the two-time NL MVP may no longer be an elite player.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T11:36:35+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47938517/phillies-harper-says-dombrowski-review-play-was-wild",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0fa1618d6d0e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_7255f51cd805",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Giannis: 'As of today, I'm committed' to Bucks",
-      "dek": "Giannis Antetokounmpo reiterated his commitment to the Bucks while also acknowledging his desire to be a winner and pursue a second title to go with the one he ",
-      "body": "Giannis Antetokounmpo reiterated his commitment to the Bucks while also acknowledging his desire to be a winner and pursue a second title to go with the one he won in 2021.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T11:25:35+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47938515/giannis-antetokounmpo-addresses-bucks-commitment-title-drive",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7255f51cd805",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_038c9dcbb040",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vonn preparing for U.S. return as surgeries loom",
-      "dek": "Lindsey Vonn was preparing to fly back to the U.S. on Sunday after her terrifying head-over-heels crash in the Olympic downhill.",
-      "body": "Lindsey Vonn was preparing to fly back to the U.S. on Sunday after her terrifying head-over-heels crash in the Olympic downhill.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T11:25:35+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47938107/lindsey-vonn-preparing-us-return-more-surgeries-come",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_038c9dcbb040",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_94c4acf7a62d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Eleven killed in Israeli strikes on Gaza, rescuers say",
-      "dek": "The Palestinian Red Crescent say a strike on a tent encampment in northern Gaza killed at least six people.",
-      "body": "The Palestinian Red Crescent say a strike on a tent encampment in northern Gaza killed at least six people.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T10:47:02+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15e2/live/c2172d00-0a56-11f1-bf16-2578b6c691c8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_39dd7bfae21b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Curling drama grows as Britain hit with violation",
-      "dek": "The curling controversy at the Winter Olympics has widened as increased surveillance of matches resulted in the removal of a stone thrown by the British men's t",
-      "body": "The curling controversy at the Winter Olympics has widened as increased surveillance of matches resulted in the removal of a stone thrown by the British men's team for the same alleged violation that burned the Canadians two days in a row.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T10:19:30+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47937914/as-olympic-curling-surveillance-grows-britain-faces-infraction",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_39dd7bfae21b",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
