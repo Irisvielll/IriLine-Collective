@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_8618cdae5b7b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Amid Mass ICE Arrests, Pardon Recipient Juan Orlando Hernández Given Special Treatment",
+      "dek": "submitted by /u/mawhrinskeleton [link] [comments]",
+      "body": "submitted by /u/mawhrinskeleton [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T14:16:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8455b/amid_mass_ice_arrests_pardon_recipient_juan/",
+      "image": "https://external-preview.redd.it/4zwAe_mmZRiEntCeNzEwveVBuaLjibFrcERd9_WkKlo.jpeg?width=640&crop=smart&auto=webp&s=91b2eed0e013b5ce20a68a03b4633967922f3b11",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_dbebf18182e2",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -91,6 +106,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_92b7e8fc48fc",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Wolfdog steals show, crosses Olympic finish line",
+      "dek": "A large dog ran onto the track during cross-country team qualifying Wednesday at the Milan Cortina Olympics, running alongside athletes as they crossed the fini",
+      "body": "A large dog ran onto the track during cross-country team qualifying Wednesday at the Milan Cortina Olympics, running alongside athletes as they crossed the finish line.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T11:06:06+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47964289/dog-crosses-finish-line-winter-olympics-wanted-pet",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_92b7e8fc48fc",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_48899e1ff24c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -104,6 +134,51 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cx2rg2vndk1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd2/live/18f3be00-0c9a-11f1-ab92-c5c4ffbfd0e0.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_31208bd51358",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Kyrie to miss rest of season, eyes '26-27 return",
+      "dek": "Mavericks star Kyrie Irving will miss the remainder of the season as he continues to recover from knee surgery last March.",
+      "body": "Mavericks star Kyrie Irving will miss the remainder of the season as he continues to recover from knee surgery last March.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T11:01:47+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47964482/kyrie-irving-miss-rest-season-eyes-return-2026-27",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_31208bd51358",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_470abccf22c0",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Team USA's Hilary Knight and Brittany Bowe get engaged at the Olympics",
+      "dek": "Knight and Bowe fell in love at the 2022 Games and have brought their Olympic love story full circle.",
+      "body": "Knight and Bowe fell in love at the 2022 Games and have brought their Olympic love story full circle.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T10:47:51+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47964901/hilary-knight-brittany-bowe-engagement-team-usa-milano-cortina-2026-olympics",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_470abccf22c0",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_69400e21916b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "25 years after his death, Earnhardt's presence lives on in Daytona",
+      "dek": "It's been 25 years since Dale Earnhardt tragically died in Daytona, but a quarter century after his passing, his legacy lives large throughout NASCAR.",
+      "body": "It's been 25 years since Dale Earnhardt tragically died in Daytona, but a quarter century after his passing, his legacy lives large throughout NASCAR.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T10:39:51+00:00",
+      "sourceUrl": "https://www.espn.com/racing/nascar/story/_/id/47964773/25-years-death-dale-earnhardt-presence-lives-daytona-nascar",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_69400e21916b",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_cfa068cdd215",
@@ -4424,81 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c7/live/7b51bcd0-0a03-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a6fb452e0ce1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The spectacular multimillion-euro heist nobody noticed",
-      "dek": "The theft has left Germans with a strong sense that trust in institutions and the system has been shaken.",
-      "body": "The theft has left Germans with a strong sense that trust in institutions and the system has been shaken.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T00:01:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cm2y2538lz8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ff/live/73820fb0-0395-11f1-a0ef-03774d8753d9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2b2756de0dbd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Moment crew docks at International Space Station",
-      "dek": "The crew blasted off from Cape Canaveral in a SpaceX Dragon spacecraft atop a Falcon 9 rocket.",
-      "body": "The crew blasted off from Cape Canaveral in a SpaceX Dragon spacecraft atop a Falcon 9 rocket.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T23:18:04+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c1e9z8jw93yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf5/live/28ba8630-09fb-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4b5ba8f6478b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Police wear fancy dress in Rio Carnival phone theft sting",
-      "dek": "Two people were arrested after a woman was spotted by a drone grabbing a phone from an attendee.",
-      "body": "Two people were arrested after a woman was spotted by a drone grabbing a phone from an attendee.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T23:14:44+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjrq8dv39zwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dd/live/74c0f1d0-09f7-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ed797219abb4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "On TikTok, we're all Chinese – but the trend doesn't paint the full picture",
-      "dek": "Chinamaxxing is adding more gloss to the recent flourish of Chinese soft power.",
-      "body": "Chinamaxxing is adding more gloss to the recent flourish of Chinese soft power.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T23:11:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz6eljqvyp1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8573/live/9c451730-0985-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_d76dd6bb5fb0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "2026 Winter Olympics: Mikaela Shiffrin and USA men's hockey back in action and more from Milan Cortina",
-      "dek": "Sunday at the Winter Olympics includes Mikaela Shiffrin trying to win gold in the giant slalom, Erin Jackson defending her 500m speedskating gold and USA men's ",
-      "body": "Sunday at the Winter Olympics includes Mikaela Shiffrin trying to win gold in the giant slalom, Erin Jackson defending her 500m speedskating gold and USA men's hockey taking on Germany.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T23:09:01+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47932527/2026-milan-cortina-italy-winter-olympics-best-moments-sunday",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d76dd6bb5fb0",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
