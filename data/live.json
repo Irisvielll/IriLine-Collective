@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-18T07:18:37+00:00",
+  "generatedAt": "2026-02-18T08:03:46+00:00",
   "items": [
+    {
+      "id": "latest_245f73c1d2e9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australia bans citizen trying to return from IS camp in Syria",
+      "dek": "The person temporarily banned is among a group of 34 who this week attempted to leave the camp for Australia.",
+      "body": "The person temporarily banned is among a group of 34 who this week attempted to leave the camp for Australia.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T07:08:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g2dgjrx75o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba4f/live/c30e7860-0c92-11f1-ab92-c5c4ffbfd0e0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dd4b969690e5",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-18T06:29:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7vk0c/keeping_penis_above_vagina_ejaculating_without/",
       "image": "https://external-preview.redd.it/JmGM-_1dFGUWcQb1u226JA4G_qOnxKNH2H-lwLtAbW8.jpeg?width=216&crop=smart&auto=webp&s=5db00e0ae202eded2400e58361e370f99d2a3b56",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4b7a5cea55b2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Police assessing Stansted Airport flights over Epstein ties",
-      "dek": "submitted by /u/Sea_Building_104 [link] [comments]",
-      "body": "submitted by /u/Sea_Building_104 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T06:23:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7vg8f/police_assessing_stansted_airport_flights_over/",
-      "image": "https://external-preview.redd.it/NE6_Co1OrAj_rt1tpHifnM0oMKbClme2JFpIgznahfA.jpeg?width=640&crop=smart&auto=webp&s=5ce9d4221273954b6f6b08545926b4de9b4990e4",
       "imageCredit": "Image via original publisher"
     }
   ]
