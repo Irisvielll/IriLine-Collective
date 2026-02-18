@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-18T11:06:57+00:00",
+  "generatedAt": "2026-02-18T11:55:03+00:00",
   "items": [
+    {
+      "id": "latest_91f01768ae33",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+      "dek": "The second day of negotiations between Ukraine and Russia ended after just two hours.",
+      "body": "The second day of negotiations between Ukraine and Russia ended after just two hours.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T11:26:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab0c/live/3c186c80-0cba-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d713ac003743",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Indian university faces backlash for claiming Chinese robodog as own at AI summit",
+      "dek": "A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.",
+      "body": "A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T11:16:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cge8nd5ve00o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2185/live/893b3a10-0cb5-11f1-86b4-33cb5141efc0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_afd5c62a87fd",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-18T08:09:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7x820/the_incredible_secret_of_the_man_with_three/",
       "image": "https://external-preview.redd.it/n1MQ4e147d0bqU4uGFK7hnbsE8oZV1ShY6IexH2pcJo.jpeg?width=320&crop=smart&auto=webp&s=0a5795ba6f8358c16f85d4f4e33e76fadec4686a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_245f73c1d2e9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australia bans citizen trying to return from IS camp in Syria",
-      "dek": "The person temporarily banned is among a group of 34 who this week attempted to leave the camp for Australia.",
-      "body": "The person temporarily banned is among a group of 34 who this week attempted to leave the camp for Australia.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T07:08:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g2dgjrx75o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba4f/live/c30e7860-0c92-11f1-ab92-c5c4ffbfd0e0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dd4b969690e5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Peru Ousts President for Second Time in Less Than Six Months",
-      "dek": "submitted by /u/ChocolateTsar [link] [comments]",
-      "body": "submitted by /u/ChocolateTsar [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T06:52:49+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7vyr6/peru_ousts_president_for_second_time_in_less_than/",
-      "image": "https://external-preview.redd.it/sbOBjdv9QSJdvqwmo21CflLP07_l7Yn6yhIrJMHU12k.jpeg?width=640&crop=smart&auto=webp&s=121913628a75ffed96734dcca82755d0c4b82fca",
       "imageCredit": "Image via original publisher"
     }
   ]
