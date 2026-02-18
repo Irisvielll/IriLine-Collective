@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_038b815be768",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
+      "dek": "Delcy Rodriguez knows its in America's interests for her to be a success",
+      "body": "Delcy Rodriguez knows its in America's interests for her to be a success",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T00:48:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363f/live/f3c1e430-0be6-11f1-b7e1-afb6d0884c18.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ebf6aa8d7d30",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -76,6 +91,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_374a0434fe2a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "U-M reaffirms No. 1 ranking with win over Purdue",
+      "dek": "Michigan passed its first test this week by dispatching No. 7 Purdue to reaffirm the Wolverine's status at the No. 1 team in the country.",
+      "body": "Michigan passed its first test this week by dispatching No. 7 Purdue to reaffirm the Wolverine's status at the No. 1 team in the country.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T00:03:29+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47960876/michigan-reaffirms-no-1-ranking-dispatching-no-7-purdue",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_374a0434fe2a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_13d1e0e641b3",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -89,6 +119,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cp81kw4pzd2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2b/live/92a1ee50-0a85-11f1-8b85-1da9bd0ede97.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e3559646efcf",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'We're going to always be grateful' - Chicagoans mourn loss of Jesse Jackson",
+      "dek": "The BBC's Gary O'Donoghue spoke with city residents about what the civil rights leader's passing means for the community shaped by his activism.",
+      "body": "The BBC's Gary O'Donoghue spoke with city residents about what the civil rights leader's passing means for the community shaped by his activism.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T23:35:13+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn8z9qq25jno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a3/live/28936410-0c49-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_296175720bb5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "2026 Winter Olympics: Shiffrin searches for gold, U.S. men's hockey begins knockout round and more",
+      "dek": "Wednesday at the Winter Olympics is headlined by Mikaela Shiffrin in the slalom and U.S. men's hockey beginning the knockout stage.",
+      "body": "Wednesday at the Winter Olympics is headlined by Mikaela Shiffrin in the slalom and U.S. men's hockey beginning the knockout stage.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-17T23:32:01+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47958701/2026-milan-cortina-italy-winter-olympics-best-moments-wednesday",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_296175720bb5",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_cf1e65c2d60f",
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.espn.com/olympics/story/_/id/47928858/la-28-olympics-boss-wasserman-sell-agency-amid-epstein-links",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_119f0abed842",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_843719dcd8ab",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ronaldo ends protest, scores 18 minutes later",
-      "dek": "Cristiano Ronaldo returned to Al Nassr's lineup for Saturday's match at Al Fateh -- and swiftly scored.",
-      "body": "Cristiano Ronaldo returned to Al Nassr's lineup for Saturday's match at Al Fateh -- and swiftly scored.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T13:15:17+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47924095/cristiano-ronaldo-returns-al-nassr-lineup-protest-saudi-pro-league",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_843719dcd8ab",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_6dc83391b1fa",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "NATO’s Secretary General Said a Ukrainian Dog “Promised Not to Surrender.”",
-      "dek": "submitted by /u/sergeyfomkin [link] [comments]",
-      "body": "submitted by /u/sergeyfomkin [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T13:14:58+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r4kch1/natos_secretary_general_said_a_ukrainian_dog/",
-      "image": "https://external-preview.redd.it/8TcNJFvAKG31eEE_2GlzKz_aDI_tBQkSWPbM0WqUYu0.jpeg?width=640&crop=smart&auto=webp&s=332fcc014576ffe7ee524b4ce219df007679739c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a649ecaa1c1d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tribes grant the Colorado River legal personhood - can this help save it?",
-      "dek": "The river, which runs through seven US states that share it, is currently facing the worst drought in 1,200 years.",
-      "body": "The river, which runs through seven US states that share it, is currently facing the worst drought in 1,200 years.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T13:13:13+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/crmlgpnnzyxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b78/live/608361d0-02c2-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d4879b735b61",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Iran Elected Vice Chair of UN Social Development Commission",
-      "dek": "submitted by /u/ExtremeMacarons [link] [comments]",
-      "body": "submitted by /u/ExtremeMacarons [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-14T13:08:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r4k7m1/iran_elected_vice_chair_of_un_social_development/",
-      "image": "https://external-preview.redd.it/MLPVFTCNSe_jONVeiCt2FTK1ZiJ4efSwVlttgR91b_M.jpeg?width=640&crop=smart&auto=webp&s=0ee879716804040c56bb38dfac7f869bb0c6b72c",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

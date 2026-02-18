@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-18T03:17:15+00:00",
+  "generatedAt": "2026-02-18T05:10:03+00:00",
   "items": [
+    {
+      "id": "latest_ec3414f4712d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Suspect in Rhode Island ice hockey shooting killed ex-wife and son",
+      "dek": "Robert Dorgan - who also went by the name Roberta Esposito - was found dead inside the Pawtucket arena.",
+      "body": "Robert Dorgan - who also went by the name Roberta Esposito - was found dead inside the Pawtucket arena.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T04:50:10+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy4wvk9vn40o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d7a/live/d2727c90-0c63-11f1-84c0-b306eb7b8dc2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_060f0957557f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-18T01:37:35+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3194/live/208f8f00-0c67-11f1-986c-b11ea963c0e7.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_038b815be768",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
-      "dek": "Delcy Rodriguez knows its in America's interests for her to be a success",
-      "body": "Delcy Rodriguez knows its in America's interests for her to be a success",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T00:48:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363f/live/f3c1e430-0be6-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
