@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_0af7339b8441",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "ICE agents keep accidentally shooting themselves",
+      "dek": "submitted by /u/smkmn13 [link] [comments]",
+      "body": "submitted by /u/smkmn13 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T21:06:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8fc1p/ice_agents_keep_accidentally_shooting_themselves/",
+      "image": "https://external-preview.redd.it/W28NdDokulSOeiALuAHeyHC8wAuibhCWQphTEVk2PBU.jpeg?width=640&crop=smart&auto=webp&s=73623640164abf235234409e4125f265157205da",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_152b4f08e258",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -119,6 +134,36 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8bn6t/swastika_flag_nothing_ideological_national_action/",
       "image": "https://external-preview.redd.it/A_RUDJVwH6bmfP6O7tTmxSn2Q6yGuaNATp01NoAHmhc.jpeg?width=640&crop=smart&auto=webp&s=505a27af6ab997207372f768054c79255d55b987",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d41974850600",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Hughes' OT winner sends USA into hockey semis",
+      "dek": "The U.S. men are moving on to the semifinals at the Olympics, after needing extra hockey to get through the quarterfinals Wednesday against Sweden.",
+      "body": "The U.S. men are moving on to the semifinals at the Olympics, after needing extra hockey to get through the quarterfinals Wednesday against Sweden.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T18:17:13+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/hockey/story/_/id/47969842/quinn-hughes-scores-ot-send-usa-sweden-olympic-men-hockey-semifinals-vs-slovakia",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d41974850600",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_3b58ba894183",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Rousey, Carano set for extensive testing for clash",
+      "dek": "Ronda Rousey and Gina Carano will undergo extensive medical and neurological testing ahead of their May 16 MMA comeback clash, according to the California State",
+      "body": "Ronda Rousey and Gina Carano will undergo extensive medical and neurological testing ahead of their May 16 MMA comeback clash, according to the California State Athletic Commission.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T18:17:13+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/47969519/rousey-carano-undergo-extensive-testing-megabout",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3b58ba894183",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_ede4abe2f4ab",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-02-15T14:15:26+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/47940063/padres-manny-machado-says-dodgers-spending-great-game",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bba74d849970",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e356565fbdff",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Perfect through three games: Canada grades, takeaways, top players",
-      "dek": "With the blowout win, Canada likely earned top seed for the next round. Here's how it happened, what's next.",
-      "body": "With the blowout win, Canada likely earned top seed for the next round. Here's how it happened, what's next.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T14:00:25+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47939390/olympics-2026-men-hockey-canada-win-france-grades-players-questions",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e356565fbdff",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_870bc42dd933",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Is soccer better without VAR? FA Cup shows nobody really knows",
-      "dek": "Neither the third or fourth rounds of the FA Cup used VAR, yet they produced opposite reactions on whether soccer needs the technology.",
-      "body": "Neither the third or fourth rounds of the FA Cup used VAR, yet they produced opposite reactions on whether soccer needs the technology.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T13:57:55+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47937211/is-soccer-better-var-fa-cup-shows-really-knows",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_870bc42dd933",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_b31640298d7c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Senior Reform UK figures attend launch of How to Launder Money book",
-      "dek": "submitted by /u/Somethingbutonreddit [link] [comments]",
-      "body": "submitted by /u/Somethingbutonreddit [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-15T13:36:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r5etc1/senior_reform_uk_figures_attend_launch_of_how_to/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_b31640298d7c",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
