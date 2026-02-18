@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-18T21:35:56+00:00",
+  "generatedAt": "2026-02-18T22:03:54+00:00",
   "items": [
+    {
+      "id": "latest_8e0c54eaf195",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Eight skiers found dead after California avalanche",
+      "dek": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead.",
+      "body": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-18T21:54:30+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a3/live/87f7fc50-0d10-11f1-9972-d3f265c101c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_79c0f47adbe0",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-18T21:06:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8fc1p/ice_agents_keep_accidentally_shooting_themselves/",
       "image": "https://external-preview.redd.it/W28NdDokulSOeiALuAHeyHC8wAuibhCWQphTEVk2PBU.jpeg?width=640&crop=smart&auto=webp&s=73623640164abf235234409e4125f265157205da",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_152b4f08e258",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Billionaire Lex Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
-      "dek": "Testifying before Congress, the former CEO of Victoria's Secret lingerie brand accused Epstein of stealing \"vast sums\" of money from his family.",
-      "body": "Testifying before Congress, the former CEO of Victoria's Secret lingerie brand accused Epstein of stealing \"vast sums\" of money from his family.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T20:58:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f405/live/7313d010-0d02-11f1-9797-cb73f0113553.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
