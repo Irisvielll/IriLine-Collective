@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_0fb5a5f4c4ca",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Report: Noem’s shift of Coast Guard resources to ‘alien expulsion operations’ sinking other duties, morale",
+      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-19T19:27:35+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r98rfl/report_noems_shift_of_coast_guard_resources_to/",
+      "image": "https://external-preview.redd.it/Q66nUGgj7zOoPuu6Cz-oP-UHICEUAcCr4WIu28dAQYk.jpeg?width=640&crop=smart&auto=webp&s=11e69e600b74ad56611512be355065b651e156d9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_0c9c4ecd36a6",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa8/live/5a343530-0b31-11f1-b5e2-dd58fc65f0f6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_5b0106d5400d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How can we improve the Champions League: New mini-league? Clubs picking opponents?",
-      "dek": "Mark Ogden, Gab Marcotti and Bill Connelly offer their best ideas for how to solve the Champions League's woes.",
-      "body": "Mark Ogden, Gab Marcotti and Bill Connelly offer their best ideas for how to solve the Champions League's woes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T12:37:34+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47910340/three-ways-champions-league-format-fixed-ogden-marcotti-connelly",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5b0106d5400d",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
