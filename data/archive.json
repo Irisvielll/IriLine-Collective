@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_2433bb39f2c1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Woman accused of using ChatGPT to plan drug murders",
+      "dek": "The 21-year-old woman is accused by authorities in South Korea of secretly administering drinks containing drugs to three men in their 20s.",
+      "body": "The 21-year-old woman is accused by authorities in South Korea of secretly administering drinks containing drugs to three men in their 20s.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-19T11:56:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyv80e5dljo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e5/live/8c06b510-0d84-11f1-a355-f9c151a9e8be.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_1cd505badb5d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Over 1,000 Kenyans enlisted to fight in Russia-Ukraine war, report says",
+      "dek": "Investigators call the recruitment a well-organised trafficking ring involving immigration staff and security agencies.",
+      "body": "Investigators call the recruitment a well-organised trafficking ring involving immigration staff and security agencies.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-19T10:44:14+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8w266769go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87f/live/c9200890-0d5f-11f1-a735-c999a8fb3aea.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_73bec69911eb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Men's Power Rankings: A 1-2 showdown on tap this weekend!",
+      "dek": "This weekend's super Saturday slate now includes a matchup between our Nos. 1 and 2 teams.",
+      "body": "This weekend's super Saturday slate now includes a matchup between our Nos. 1 and 2 teams.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-19T09:52:41+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47965812/mens-college-basketball-power-rankings-michigan-duke",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_73bec69911eb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_1382e62b83e7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -73,6 +118,21 @@
       "publishedAt": "2026-02-19T09:10:17+00:00",
       "sourceUrl": "https://www.espn.com/olympics/story/_/id/47880010/figure-skating-fashion-costume-designs-olympics-championships-nationals",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_049ed0931c1a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_17b22cd2696c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "No respite for World Cup fans affected by Trump travel restrictions",
+      "dek": "Members of the Haitian and Senegalese communities in the U.S. react to President Donald Trump's visa restrictions ahead of the World Cup.",
+      "body": "Members of the Haitian and Senegalese communities in the U.S. react to President Donald Trump's visa restrictions ahead of the World Cup.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-19T08:13:55+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47966503/haiti-senegal-ivory-coast-iran-travel-visa-ban-world-cup-2026",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_17b22cd2696c",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4804/live/9b3b1360-0b08-11f1-b8d0-21adbc414b0b.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_100296d348c4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Female Israeli soldiers rescued after being chased by ultra-Orthodox men",
-      "dek": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
-      "body": "The two women were helped by police after being forced to run from a mob in the city of Bnei Brak.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T07:47:54+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyzen2lgw9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42a/live/7139f310-0aa9-11f1-adb1-dfcb996ae067.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_8f569047c672",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Barnwell plays NFL offseason trade negotiator: 11 swaps that make sense for both teams",
-      "dek": "DJ Moore and A.J. Brown to the AFC West? Kyler Murray in a new offense? Rams going all-in again? And a new WR1 for the Bills? Let's build 11 win-win deals.",
-      "body": "DJ Moore and A.J. Brown to the AFC West? Kyler Murray in a new offense? Rams going all-in again? And a new WR1 for the Bills? Let's build 11 win-win deals.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T07:23:35+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47937538/2026-nfl-offseason-trade-proposals-offers-fits-deals-free-agency-barnwell",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8f569047c672",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_40b928184433",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Picking out every franchise tag candidate: 14 players who could get it this offseason",
-      "dek": "Who could get the franchise tag when the window opens Tuesday?",
-      "body": "Who could get the franchise tag when the window opens Tuesday?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T07:23:35+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47908741/2026-nfl-franchise-tag-candidates-kyle-pitts-sr-george-pickens-breece-hall",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_40b928184433",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_f5cee86d72a1",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The ultimate debate: Skubal or Skenes? Buster Olney ranks the top 10 starting pitchers in MLB",
-      "dek": "We break down the best players at every spot on the diamond entering 2026, starting with a star-studded position featuring two of baseball's biggest stars.",
-      "body": "We break down the best players at every spot on the diamond entering 2026, starting with a star-studded position featuring two of baseball's biggest stars.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T06:52:49+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47899748/mlb-2026-buster-olney-top-10-positions-ranking-starting-pitcher-skubal-skenes",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f5cee86d72a1",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
