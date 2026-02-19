@@ -166,6 +166,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_20ef9860e37c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: MRI on Curry's knee comes back clean",
+      "dek": "Warriors star Stephen Curry had another MRI on his bothersome right knee in the past 24 hours that came back clean, sources told ESPN's Shams Charania, but pers",
+      "body": "Warriors star Stephen Curry had another MRI on his bothersome right knee in the past 24 hours that came back clean, sources told ESPN's Shams Charania, but persistent pain and swelling have not allowed him to return to the court.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-19T15:29:59+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47978702/mri-stephen-curry-knee-comes-back-clean-sources-say",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_20ef9860e37c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_085361b86e1b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "2 UGA players charged with speeding at max limits",
+      "dek": "Georgia linebackers Chris Cole and Darren Ikinnagbon were arrested on misdemeanor charges of speeding at maximum limits and other traffic-related charges.",
+      "body": "Georgia linebackers Chris Cole and Darren Ikinnagbon were arrested on misdemeanor charges of speeding at maximum limits and other traffic-related charges.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-19T15:29:59+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47978685/two-georgia-football-players-charged-speeding-max-limits",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_085361b86e1b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_3dbd0556146a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47947351/ap-mens-college-basketball-top-25-poll-reaction-2026-week-15-michigan",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d22cdaef64ec",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e5fa81426a99",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The crushing weight of Olympic pressure -- and how athletes can prepare for it",
-      "dek": "Even \"unbeatable\" athletes such as Ilia Malinin feel overwhelmed in the Olympic spotlight. How can they combat it? Experts weigh in.",
-      "body": "Even \"unbeatable\" athletes such as Ilia Malinin feel overwhelmed in the Olympic spotlight. How can they combat it? Experts weigh in.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T13:06:21+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47946082/2026-winter-olympics-olympic-pressure-ilia-malinin-mikaela-shiffrin-simone-biles-nathan-chen-michael-phelps",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e5fa81426a99",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_dd439df5d583",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mother of Alexei Navalny says poison finding confirms he was murdered",
-      "dek": "On the second anniversary of his death, Lyudmila Navalnaya says her son did not \"simply die in prison\".",
-      "body": "On the second anniversary of his death, Lyudmila Navalnaya says her son did not \"simply die in prison\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-16T13:01:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa8/live/5a343530-0b31-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
