@@ -91,6 +91,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_730d195c4fcc",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Live updates: Canada faces Finland in men's hockey semifinals",
+      "dek": "null",
+      "body": "null",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T10:50:44+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47985447/2026-milan-cortina-winter-olympics-live-updates-men-hockey-canada-finland-usa-slovakia",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_730d195c4fcc",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_65ea74f2b107",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -661,6 +676,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_07e644bd8d28",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump's foreign policy dilemma laid bare by Iran tensions",
+      "dek": "The president’s calls for peace and willingness to exert military power can at times feel like competing impulses.",
+      "body": "The president’s calls for peace and willingness to exert military power can at times feel like competing impulses.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T01:45:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c875p9q59vjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/8cdcfac0-0dda-11f1-8aca-8d545890fa70.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_63b2ab3e231d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -763,6 +793,21 @@
       "publishedAt": "2026-02-20T00:37:01+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cy0dy1v14d1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f2/live/29755a20-0dbe-11f1-b7e1-afb6d0884c18.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ddce814af8e0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The Russian village that lost its men to war",
+      "dek": "In the remote village of Sedanka in Russia's Far East, almost all of its fighting-age men have left to join the Ukraine war.",
+      "body": "In the remote village of Sedanka in Russia's Far East, almost all of its fighting-age men have left to join the Ukraine war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T00:29:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8n4l8elpgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/818f/live/9aa4fae0-0cea-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-02-17T13:03:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r75g9h/fake_funeral_suspects_allegedly_used_hearse_to/",
       "image": "https://external-preview.redd.it/wo8nU78I5p_Le4sqIDJsHQwoGktQ0IlhwwIOU9TJNTo.jpeg?width=640&crop=smart&auto=webp&s=5bf1207f19ea04abbec73aef7c46f271809f4f13",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f6210db0c31f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nancy Guthrie's family cleared as possible suspects, with search in its third week",
-      "dek": "Local police say the missing woman's relatives are victims - and \"to suggest otherwise is not only wrong, it is cruel\".",
-      "body": "Local police say the missing woman's relatives are victims - and \"to suggest otherwise is not only wrong, it is cruel\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T12:41:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjd93rl849xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa0f/live/c6e57f00-0bf8-11f1-b726-1d6e709ef554.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_684e87dde411",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russian man who declared himself a ‘foreign agent’ as a joke now faces criminal charges",
-      "dek": "submitted by /u/duckanroll [link] [comments]",
-      "body": "submitted by /u/duckanroll [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T12:38:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r74w1s/russian_man_who_declared_himself_a_foreign_agent/",
-      "image": "https://external-preview.redd.it/nJNAVReoFLkpvUZE_PLAXvz1pdi4kG8ELko-_vjqmSw.jpeg?width=640&crop=smart&auto=webp&s=7ac9b398addcbff605a6bbad434cd6a9ed49febe",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6df49a4c4d6f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Third round of Russia-Ukraine talks to take place as strikes continue",
-      "dek": "Expectations for a breakthrough are low as delegations meet for a third time to try and negotiate an end to the war.",
-      "body": "Expectations for a breakthrough are low as delegations meet for a third time to try and negotiate an end to the war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T11:48:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c289/live/ed9669b0-0be5-11f1-8d90-772c0d7aea09.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
