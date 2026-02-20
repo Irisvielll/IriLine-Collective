@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_df33c94c197e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+      "dek": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
+      "body": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T07:19:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64af/live/b74528d0-0e0e-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_cb497df075ac",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russia Orders Google to Pay $1.2 Quintillion—A Fine One Million Times Bigger Than the World Economy",
+      "dek": "submitted by /u/Ivanow [link] [comments]",
+      "body": "submitted by /u/Ivanow [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T06:30:47+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r9nysx/russia_orders_google_to_pay_12_quintilliona_fine/",
+      "image": "https://external-preview.redd.it/OiE8VLeJfVial6fkgyW1t_jBSX1Kk_ZvtlronnATkO0.jpeg?width=640&crop=smart&auto=webp&s=ce9aca0ebe860bb8fdf0bd8a2fd72611ce576080",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_a95ffae784e9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-17T05:14:21+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7eb/live/e8cb6b90-0bce-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dd50627027ba",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hyatt Hotels chairman steps down over Jeffrey Epstein ties",
-      "dek": "Billionaire Thomas Pritzker said he had exercised \"terrible judgement\" in keeping contact with Epstein.",
-      "body": "Billionaire Thomas Pritzker said he had exercised \"terrible judgement\" in keeping contact with Epstein.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T04:16:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c93wk4d7x19o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8301/live/b5803990-0b98-11f1-8310-539e7a6a061d.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_85a470599a97",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Researchers develop ‘Smart Underwear’ to track a wearer’s farts",
-      "dek": "submitted by /u/Charming-Burp203 [link] [comments]",
-      "body": "submitted by /u/Charming-Burp203 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T04:05:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r6vw3r/researchers_develop_smart_underwear_to_track_a/",
-      "image": "https://external-preview.redd.it/6Ycd17j2tjmM42_makEmKIJZ_ZOcpPwNlpW5LBvGKfA.jpeg?width=320&crop=smart&auto=webp&s=e603f1e0587883e72ef7cd3a25c8b1d6365fdcf1",
       "imageCredit": "Image via original publisher"
     }
   ]
