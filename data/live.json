@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-20T20:59:55+00:00",
+  "generatedAt": "2026-02-20T21:34:50+00:00",
   "items": [
+    {
+      "id": "meme_48d438696627",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Microsoft deletes blog telling users to train AI on pirated Harry Potter books",
+      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T21:33:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ra88b0/microsoft_deletes_blog_telling_users_to_train_ai/",
+      "image": "https://external-preview.redd.it/HErDD9EF2-fJ2I_kLDJhQg1HNpOGYon10o7DW0SZP_o.jpeg?width=640&crop=smart&auto=webp&s=1a1f6a46fd00bc4cfa2bad6678bf48d7f395c4d0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c73a4bfbd933",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-20T18:27:42+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ra3akx/government_considers_removing_andrew_from_royal/",
       "image": "https://external-preview.redd.it/YAc2frDvo1Y1YIov84vvle_JwUOksvE6mMq2oyFUDTM.jpeg?width=640&crop=smart&auto=webp&s=ea4fc16e3458e794eca4ea1fb1053a1264663ba2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_925b1af47bce",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nasa targets early March to send humans back around the Moon",
-      "dek": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission.",
-      "body": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-20T16:32:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d945/live/86f4ff70-08d7-11f1-9972-d3f265c101c6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
