@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-20T06:35:29+00:00",
+  "generatedAt": "2026-02-20T07:37:01+00:00",
   "items": [
+    {
+      "id": "latest_df33c94c197e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+      "dek": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
+      "body": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T07:19:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64af/live/b74528d0-0e0e-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_cb497df075ac",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-20T05:13:46+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r9mkle/las_vegas_man_destroys_steep_driveways_after_road/",
       "image": "https://external-preview.redd.it/HIcgXgZGFIZdmfsKUVPpuZwn2EfBTPrAZr2xyPEF0x0.jpeg?width=640&crop=smart&auto=webp&s=1d2f2655d46d78a71b8023ba6b30c4f4993e1194",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_534def844108",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Border agent charged with hiding person in country illegally",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-20T04:49:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r9m38k/border_agent_charged_with_hiding_person_in/",
-      "image": "https://external-preview.redd.it/VeGafSzjOsyC4MNfAVw8aju1K58w5xGMPV8Ske7QHyE.jpeg?width=640&crop=smart&auto=webp&s=0177e358c426707bac6f415b1493580f3a7c35d4",
       "imageCredit": "Image via original publisher"
     }
   ]
