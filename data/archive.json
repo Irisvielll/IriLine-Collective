@@ -91,6 +91,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_ffcbb285dbb2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Celtics' Brown weighs lawsuit vs. Beverly Hills",
+      "dek": "Celtics forward Jaylen Brown is considering legal action against the city of Beverly Hills, he told ESPN's Andscape, after police shut down a private event he w",
+      "body": "Celtics forward Jaylen Brown is considering legal action against the city of Beverly Hills, he told ESPN's Andscape, after police shut down a private event he was hosting during NBA All-Star Weekend.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T06:30:50+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/47984939/jaylen-brown-considering-legal-action-beverly-hills-police",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ffcbb285dbb2",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_cb497df075ac",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-17T07:37:18+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/47900466/mlb-2026-buster-olney-top-10-positions-ranking-relievers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_713d5ffc75bd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2c9986f65b74",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Win projections for all 30 MLB teams -- and how the offseason changed expectations",
-      "dek": "Here's what some non-moves mean for each team's playoff forecast.",
-      "body": "Here's what some non-moves mean for each team's playoff forecast.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T07:37:18+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47909756/mlb-2026-most-surprising-offseason-decision-all-30-teams",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c9986f65b74",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
