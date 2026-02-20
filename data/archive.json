@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_256a54e9ce75",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Authorities in Italy accuse man of training dog to illegally dump his rubbish",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T16:32:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ra04br/authorities_in_italy_accuse_man_of_training_dog/",
+      "image": "https://external-preview.redd.it/On5AxM0Z-y3NUs-iAfBYJDtq0TCUUpXDOlPCMm3G5QQ.png?width=640&crop=smart&auto=webp&s=4a84f774271c5bb7da7d0c09e375f81308bca453",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_1af7fa880803",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -104,6 +119,51 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r9xg7r/french_soldier_dies_after_being_shot_in_head/",
       "image": "https://external-preview.redd.it/pb6P9dZ6NDS8GfVnQEok2RfJlf5uMsQp06ytqnebW7U.png?width=640&crop=smart&auto=webp&s=8e453d496f130d8a657c43af434605ebef7fce0c",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_857cd5fa8b5c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Chiefs' Reid offers positive update on Kelce talks",
+      "dek": "Chiefs coach Andy Reid was all smiles while discussing the future of tight end Travis Kelce, who is considering another season in Kansas City or retiring after ",
+      "body": "Chiefs coach Andy Reid was all smiles while discussing the future of tight end Travis Kelce, who is considering another season in Kansas City or retiring after 13 seasons.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T14:42:21+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47988460/chiefs-reid-offers-positive-update-talks-star-te-kelce",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_857cd5fa8b5c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_32b6e496aa3c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Screws loose, Paul undergoes second jaw surgery",
+      "dek": "Jake Paul recently underwent a second surgical procedure on a broken jaw he suffered in his Dec. 19 knockout loss to Anthony Joshua.",
+      "body": "Jake Paul recently underwent a second surgical procedure on a broken jaw he suffered in his Dec. 19 knockout loss to Anthony Joshua.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T14:42:21+00:00",
+      "sourceUrl": "https://www.espn.com/boxing/story/_/id/47988329/jake-paul-second-jaw-surgery-anthony-joshua-bout",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_32b6e496aa3c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_c4947d509186",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "The cardiac Canadians? What we learned from another one-goal thriller for Canada",
+      "dek": "Down 2-0, the team clawed back to tie the game, then score the game winner with 35.2 seconds left.",
+      "body": "Down 2-0, the team clawed back to tie the game, then score the game winner with 35.2 seconds left.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T14:35:37+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47988132/olympics-2026-men-hockey-canada-win-finland-grades-players-questions",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c4947d509186",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_751b8454faa9",
@@ -433,6 +493,21 @@
       "publishedAt": "2026-02-20T09:40:20+00:00",
       "sourceUrl": "https://www.espn.com/olympics/story/_/id/47986167/canada-rules-crosby-olympic-hockey-semifinal-vs-finland",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_34698d358b8f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_c422fa6f124e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Why are managers watching games from the stands? Rugby holds the answer",
+      "dek": "Europe's biggest international rugby competition is underway, and for the likes of Luis Enrique and Mikel Arteta, the sport has been a source of inspiration.",
+      "body": "Europe's biggest international rugby competition is underway, and for the likes of Luis Enrique and Mikel Arteta, the sport has been a source of inspiration.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T09:35:02+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47968467/soccer-managers-latest-source-inspiration-rugby-pitch-six-nations-luis-enrique",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c422fa6f124e",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4424,81 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cn0zjz58nzqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fc0/live/c0be7f40-0c21-11f1-b639-2bb91f8e49a9.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6631ed6a0e3d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Family of Zambia's ex-President Lungu dismiss poisoning allegation - lawyers",
-      "dek": "It is the latest twist over the fate of Lungu's body, which remains in a South African morgue since his death.",
-      "body": "It is the latest twist over the fate of Lungu's body, which remains in a South African morgue since his death.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T17:04:07+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckg18yqwlplo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb73/live/6c8f2a30-0c1e-11f1-810d-f3e42df83b46.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4bdf53084223",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "LeBron James wants to visit Israel: 'I've heard nothing but great things'",
-      "dek": "submitted by /u/AgeNovel3566 [link] [comments]",
-      "body": "submitted by /u/AgeNovel3566 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T16:52:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7bimn/lebron_james_wants_to_visit_israel_ive_heard/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_4bdf53084223",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_a2e4b183c1ab",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kansas lawmakers weigh disaster declaration for FIFA World Cup",
-      "dek": "submitted by /u/AgKnight14 [link] [comments]",
-      "body": "submitted by /u/AgKnight14 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T16:38:55+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7b3jy/kansas_lawmakers_weigh_disaster_declaration_for/",
-      "image": "https://external-preview.redd.it/GHMxtvWfobP3_NLQ1yLn40kz32T-3pbZrGTjvM2VrRo.png?width=640&crop=smart&auto=webp&s=27be5e14043fa89ab8dc01bef03302e08df0576e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_b32220738b77",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Moe, legendary former Nuggets coach, dies at 87",
-      "dek": "Doug Moe, who engineered one of the best offenses of its era as coach for the Denver Nuggets in the 1980s, has died at the age of 87.",
-      "body": "Doug Moe, who engineered one of the best offenses of its era as coach for the Denver Nuggets in the 1980s, has died at the age of 87.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T16:19:53+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47957612/doug-moe-legendary-former-nuggets-coach-dies-87",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b32220738b77",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_56b04018483a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Frostad outduels USA's Forehand for big air gold",
-      "dek": "Tormod Frostad of Norway won the gold medal in big air freeskiing at the Milan Cortina Olympics, beating Mac Forehand of the United States on the last jump of a",
-      "body": "Tormod Frostad of Norway won the gold medal in big air freeskiing at the Milan Cortina Olympics, beating Mac Forehand of the United States on the last jump of a high-scoring final on Tuesday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T16:19:53+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47957482/norway-tormod-frostad-captures-olympic-freeski-big-air-gold",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_56b04018483a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
