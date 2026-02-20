@@ -91,6 +91,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_2d1205561e9a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Twins ace López set for season-ending TJ surgery",
+      "dek": "Minnesota right-hander Pablo Lopez will have season-ending Tommy John elbow surgery, expected once the Twins discovered their ace's torn ulnar collateral ligame",
+      "body": "Minnesota right-hander Pablo Lopez will have season-ending Tommy John elbow surgery, expected once the Twins discovered their ace's torn ulnar collateral ligament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T15:07:58+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47988590/twins-ace-pablo-lopez-set-season-ending-tommy-john-surgery",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2d1205561e9a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_ca947b43be46",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47958580/agent-wr-mike-evans-plans-play-13th-nfl-season-2026",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d1a3747be579",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_02d4e17b6b66",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Jesse Jackson: A life in pictures",
-      "dek": "A look back at the remarkable life of the US civil rights activist, who died on Tuesday aged 84.",
-      "body": "A look back at the remarkable life of the US civil rights activist, who died on Tuesday aged 84.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T17:18:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn0zjz58nzqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fc0/live/c0be7f40-0c21-11f1-b639-2bb91f8e49a9.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
