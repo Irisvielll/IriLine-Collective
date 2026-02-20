@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-19T23:45:49+00:00",
+  "generatedAt": "2026-02-20T02:09:07+00:00",
   "items": [
+    {
+      "id": "latest_62a3fc6ab160",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
+      "dek": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025.",
+      "body": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T01:10:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/4431e6c0-0dec-11f1-a803-4d38039612a4.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a7b5460503d3",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-19T21:57:01+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ae/live/ca83d880-0dc6-11f1-b7e1-afb6d0884c18.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e03cc9bc3b80",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Australian presenter apologises for drinking before slurred Olympics report",
-      "dek": "submitted by /u/TomlinSteelers [link] [comments]",
-      "body": "submitted by /u/TomlinSteelers [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-19T21:01:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r9baft/australian_presenter_apologises_for_drinking/",
-      "image": "https://external-preview.redd.it/fPHnhIOymOLdVeDlqTywg8hnsstTc951ZtsdOzJNif0.jpeg?width=640&crop=smart&auto=webp&s=587582163ce81879b0912617d80fa57923e7e504",
       "imageCredit": "Image via original publisher"
     }
   ]
