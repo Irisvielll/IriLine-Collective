@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_90037a34df17",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Eric Dane gave his final months to 'moving the needle' on ALS",
+      "dek": "The Grey's Anatomy star spent his last months campaigning towards a cure for the rare, incurable condition.",
+      "body": "The Grey's Anatomy star spent his last months campaigning towards a cure for the rare, incurable condition.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T15:46:25+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c24d9vpjmnmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da2/live/859a3a10-0e6c-11f1-a7d2-13765adb9f56.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ca947b43be46",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -73,6 +88,21 @@
       "publishedAt": "2026-02-20T14:54:27+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r9xg7r/french_soldier_dies_after_being_shot_in_head/",
       "image": "https://external-preview.redd.it/pb6P9dZ6NDS8GfVnQEok2RfJlf5uMsQp06ytqnebW7U.png?width=640&crop=smart&auto=webp&s=8e453d496f130d8a657c43af434605ebef7fce0c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_751b8454faa9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French soldier dies after being shot in head during 'game' with other soldiers",
+      "dek": "According to prosecutors, the game - known within the military - involves attempting to disarm a colleague and disable their weapon.",
+      "body": "According to prosecutors, the game - known within the military - involves attempting to disarm a colleague and disable their weapon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T14:19:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f227/live/efd50e10-0e61-11f1-ac78-0950755f28c4.png",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/47943465/champions-league-live-updates-benfica-real-madrid-monaco-paris-saint-germain-borussia-dortmund-atalanta",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d0f1b6a497c1",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_fc4c8e3481d9",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Tiger won't rule out return at this year's Masters",
-      "dek": "Tiger Woods is not ruling out a return to professional golf as early as this year's Masters.",
-      "body": "Tiger Woods is not ruling out a return to professional golf as early as this year's Masters.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T14:53:05+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/47957094/tiger-woods-rule-return-year-masters",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fc4c8e3481d9",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_9802c7b0e440",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The man whose bad break-up gave Madonna her breakthrough hit Like A Virgin",
-      "dek": "Billy Steinberg, who has died at the age of 75, co-wrote Madonna's 1984 chart-topper Like a Virgin.",
-      "body": "Billy Steinberg, who has died at the age of 75, co-wrote Madonna's 1984 chart-topper Like a Virgin.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-17T14:22:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvgveqzld59o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e452/live/28c50bf0-0c08-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
