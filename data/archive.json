@@ -61,6 +61,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_5f9d7d1e5bd6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "X factors, key players to watch and picks for USA-Canada",
+      "dek": "It has all come down to one game for ultimate glory in the 2026 Olympic men's hockey tournament.",
+      "body": "It has all come down to one game for ultimate glory in the 2026 Olympic men's hockey tournament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T12:49:34+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47995088/olympics-2026-men-hockey-predictions-picks-usa-canada-gold-medal-game-top-players",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5f9d7d1e5bd6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_3f551b55cbc8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7x820/the_incredible_secret_of_the_man_with_three/",
       "image": "https://external-preview.redd.it/n1MQ4e147d0bqU4uGFK7hnbsE8oZV1ShY6IexH2pcJo.jpeg?width=320&crop=smart&auto=webp&s=0a5795ba6f8358c16f85d4f4e33e76fadec4686a",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_ba6166b33734",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Can anyone beat out Cal Raleigh? Buster Olney ranks the top 10 catchers in MLB",
-      "dek": "Seattle's slugger set the standard for hard-hitting catchers last season. Who else makes our list?",
-      "body": "Seattle's slugger set the standard for hard-hitting catchers last season. Who else makes our list?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T07:58:48+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47900511/mlb-2026-buster-olney-top-10-positions-ranking-catcher-raleigh",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ba6166b33734",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
