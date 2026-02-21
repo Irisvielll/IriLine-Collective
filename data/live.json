@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-20T23:43:44+00:00",
+  "generatedAt": "2026-02-21T00:00:47+00:00",
   "items": [
+    {
+      "id": "latest_a1bc66d0293f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+      "dek": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade.",
+      "body": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-20T23:55:13+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c962/live/48a8efe0-0eb0-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ca1e23b6db31",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-20T22:42:02+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ra9zeu/thousands_of_smoke_detectors_recalled_over/",
       "image": "https://external-preview.redd.it/6QNupNnrzWucSHDXWr_Y4AKGhPOWU55nLltXEJFRvpY.jpeg?width=640&crop=smart&auto=webp&s=109ee61557e5e0dadbc71ebdfc5e25c269d69a4b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f7778d24166e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump says he is considering limited military strike on Iran",
-      "dek": "Trump's new threat came a day after he appeared to give Iran about 10 days to agree to a deal to curb its nuclear programme.",
-      "body": "Trump's new threat came a day after he appeared to give Iran about 10 days to agree to a deal to curb its nuclear programme.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-20T22:38:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a63/live/ac7525e0-0ea4-11f1-8fa9-a78fde43271a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
