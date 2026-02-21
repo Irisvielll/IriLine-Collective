@@ -76,6 +76,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_d28a62f8435c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Cowboys agree to deal with RB Williams",
+      "dek": "The Cowboys and free-agent-to-be running back Javonte Williams reached agreement on a three-year contract that includes $16 million in guaranteed money, sources",
+      "body": "The Cowboys and free-agent-to-be running back Javonte Williams reached agreement on a three-year contract that includes $16 million in guaranteed money, sources told ESPN's Adam Schefter on Saturday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T17:17:40+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47998129/cowboys-agree-three-year-deal-rb-williams",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d28a62f8435c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_f7d9c41ab36d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "A-10 fines, reprimands VCU, St. Louis for fracas",
+      "dek": "The Atlantic 10 has issued fines and reprimands to Saint Louis and VCU following Friday night's bench-clearing fracas that marred the Billikens' win over the Ra",
+      "body": "The Atlantic 10 has issued fines and reprimands to Saint Louis and VCU following Friday night's bench-clearing fracas that marred the Billikens' win over the Rams.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T17:17:40+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47998078/atlantic-10-fines-reprimands-vcu-st-louis-late-fracas",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f7d9c41ab36d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_a71a0869ff38",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/47965482/sources-magic-franz-wagner-ankle-soreness-indefinitely",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ecbd31aa659b",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_91f01768ae33",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-      "dek": "The second day of negotiations between Ukraine and Russia ended after just two hours.",
-      "body": "The second day of negotiations between Ukraine and Russia ended after just two hours.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T11:26:11+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab0c/live/3c186c80-0cba-11f1-9972-d3f265c101c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d713ac003743",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Indian university faces backlash for claiming Chinese robodog as own at AI summit",
-      "dek": "A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.",
-      "body": "A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T11:16:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cge8nd5ve00o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2185/live/893b3a10-0cb5-11f1-86b4-33cb5141efc0.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
