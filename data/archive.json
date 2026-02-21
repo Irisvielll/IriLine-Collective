@@ -76,6 +76,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_2791bc7cb795",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Finland ices Slovakia 6-1 for men's hockey bronze",
+      "dek": "Finland won the bronze medal in men's hockey at the Olympics for a third consecutive time with NHL players participating, beating Slovakia 6-1 on Saturday at th",
+      "body": "Finland won the bronze medal in men's hockey at the Olympics for a third consecutive time with NHL players participating, beating Slovakia 6-1 on Saturday at the Milan Cortina Games.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T17:39:27+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47998446/finland-ices-slovakia-6-1-olympic-men-hockey-bronze-medal",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2791bc7cb795",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_d28a62f8435c",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r81mgx/indian_university_faces_backlash_for_presenting/",
       "image": "https://external-preview.redd.it/1TiZXq5BWg6k-BeJafRv9tpDxc-_yyHHH_GUClScNsI.jpeg?width=640&crop=smart&auto=webp&s=7fbb73b7c82e9f3cb5eeb24eb1e9526622841d87",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_ecbd31aa659b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Magic's Wagner (ankle soreness) out indefinitely",
-      "dek": "Magic forward Franz Wagner will be sidelined indefinitely because of lingering soreness in his sprained left ankle, the team announced on Wednesday.",
-      "body": "Magic forward Franz Wagner will be sidelined indefinitely because of lingering soreness in his sprained left ankle, the team announced on Wednesday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T11:57:00+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47965482/sources-magic-franz-wagner-ankle-soreness-indefinitely",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ecbd31aa659b",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
