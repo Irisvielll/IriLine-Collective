@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_3f551b55cbc8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A fight over circumcision is giving Europe a taste of the new US diplomacy",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T12:39:08+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1raq51g/a_fight_over_circumcision_is_giving_europe_a/",
+      "image": "https://external-preview.redd.it/Vlf6wXA4GM4dCQIipnORIKqGELj-BjU2T75_6S1Sw78.jpeg?width=640&crop=smart&auto=webp&s=37965c6018ea4574d7caa20f9705b218eb670ba1",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_6a2c76368a11",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-18T07:42:39+00:00",
       "sourceUrl": "https://www.espn.com/college-football/recruiting/story/_/id/47956919/college-football-2027-class-recruits-best-fits",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_62cb900a516a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_9d6edd91a7e6",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How NHL GMs are handling the Olympic break",
-      "dek": "We spoke to execs around the league to learn what they're up to while many players are in Milan Cortina.",
-      "body": "We spoke to execs around the league to learn what they're up to while many players are in Milan Cortina.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T07:39:06+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47956026/nhl-olympics-2026-break-trade-deadline-playoffs-roster-freeze",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9d6edd91a7e6",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
