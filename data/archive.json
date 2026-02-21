@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_a71a0869ff38",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "TN bill would allow death penalty for women who have an abortion",
+      "dek": "“ Two Tennessee Republican lawmakers have proposed a bill to allow the death penalty for women who have abortions. The bill would classify abortion as fetal hom",
+      "body": "“ Two Tennessee Republican lawmakers have proposed a bill to allow the death penalty for women who have abortions. The bill would classify abortion as fetal homicide and remove current legal protections for pregnant women. The legislation is supported by some faith leaders and the Foundation to Abolish Abortion. If passed, the bill would take effect on July 1 but would not allow for retroactive prosecutions.” Damn. submitted by /u/Medical_Corruption [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T16:43:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ravt47/tn_bill_would_allow_death_penalty_for_women_who/",
+      "image": "https://external-preview.redd.it/gpkgAURrQG9WD4pqFBOT_1agB7R6Uf06N87fWnN0tXU.jpeg?width=640&crop=smart&auto=webp&s=99a5c86da3043bd17d215b3d84ce4e5875349e50",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e995e6dc733c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -193,6 +208,21 @@
       "publishedAt": "2026-02-21T11:22:07+00:00",
       "sourceUrl": "https://www.espn.com/olympics/story/_/id/47995112/top-ranked-canada-bests-us-olympic-bronze-women-curling",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c46a76ff383d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_2d7bd1abd4d3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "MVP should book these fights on the Rousey vs. Carano card",
+      "dek": "Brock Lesnar and Anderson Silva back in MMA? Jake Paul could take the May 16 card over the top with names like that.",
+      "body": "Brock Lesnar and Anderson Silva back in MMA? Jake Paul could take the May 16 card over the top with names like that.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T10:23:49+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/47990132/ronda-rousey-vs-gina-carano-undercard-fights-want-see",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2d7bd1abd4d3",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-18T08:59:29+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/47956995/2026-mls-season-preview-lionel-messi-inter-miami-son-heung-min-lafc-james-rodriguez",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7b86cf956cd3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d7337d9ce722",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Shiffrin ends Olympic drought with slalom gold",
-      "dek": "Mikaela Shiffrin put in two dominant runs to win the Olympic women's slalom by 1.50 seconds and end a wait for another medal that stretched back to 2018.",
-      "body": "Mikaela Shiffrin put in two dominant runs to win the Olympic women's slalom by 1.50 seconds and end a wait for another medal that stretched back to 2018.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T08:53:16+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/47964177/mikaela-shiffrin-wins-slalom-snap-8-year-olympic-drought",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d7337d9ce722",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_9aecffb35ece",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Chiefs rework Mahomes' deal to create cap space",
-      "dek": "The Chiefs restructured Patrick Mahomes' contract this week, creating much-needed salary cap space ahead of the 2026 season, according to ESPN and multiple repo",
-      "body": "The Chiefs restructured Patrick Mahomes' contract this week, creating much-needed salary cap space ahead of the 2026 season, according to ESPN and multiple reports.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T08:53:16+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47964323/chiefs-restructure-patrick-mahomes-deal-create-cap-space",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9aecffb35ece",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
