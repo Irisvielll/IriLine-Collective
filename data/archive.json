@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_f060715810a8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
+      "dek": "OpenAI said the account's activity did not meet the threshold to flag it to authorities when it was identified.",
+      "body": "OpenAI said the account's activity did not meet the threshold to flag it to authorities when it was identified.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T07:30:32+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a351/live/7d4bfed0-0ee8-11f1-8f36-05719114a367.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a141c847fa4f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
+      "dek": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse.",
+      "body": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T06:33:52+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f01/live/6c3c74f0-0e50-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_18df4b29aee1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r7rimj/rfk_jr_ridiculed_as_he_promotes_strange_fitness/",
       "image": "https://external-preview.redd.it/FpfatPx2VxJ6BS1mz4-r3PBNDxn4Gk2dceFDIdAbN5A.jpeg?width=640&crop=smart&auto=webp&s=8f06a385c1a3e98498d51baefed5a29dcd05a496",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_060f0957557f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Peru's president impeached four months into term",
-      "dek": "José Jerí is the third consecutive president to be ousted and the country's seventh since 2016.",
-      "body": "José Jerí is the third consecutive president to be ousted and the country's seventh since 2016.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T02:52:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz7gvdx457vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d0/live/6d7dd8b0-0c5a-11f1-b5e2-dd58fc65f0f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_48245b6bbad2",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Texas Tech upset by ASU as Toppin exits with injury",
-      "dek": "Texas Tech star forward JT Toppin injured his lower right leg while driving to the basket with 6:03 remaining in Tuesday night's upset loss at Arizona State.",
-      "body": "Texas Tech star forward JT Toppin injured his lower right leg while driving to the basket with 6:03 remaining in Tuesday night's upset loss at Arizona State.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T02:20:08+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47961941/texas-tech-star-jt-toppin-injured-upset-loss-arizona-state",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_48245b6bbad2",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
