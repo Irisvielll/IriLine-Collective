@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-21T20:26:18+00:00",
+  "generatedAt": "2026-02-21T20:49:50+00:00",
   "items": [
+    {
+      "id": "meme_4122d8d97ee4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "An AI coding bot took down Amazon Web Services",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T20:47:38+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rb22bb/an_ai_coding_bot_took_down_amazon_web_services/",
+      "image": "https://external-preview.redd.it/1oHcc1tHJ4sVsOcIB-14fSzN4FORdOfhT8rethCr_z8.jpeg?width=640&crop=smart&auto=webp&s=26e28f358bed7b03738f3c9926c42c539e0894f3",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c06ede12f611",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-21T18:32:37+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e64/live/6f61c130-0f4a-11f1-9a2a-8fa7cf422a25.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f6cb03a45d4c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nasa astronauts' moon mission likely to be delayed due to rocket issue",
-      "dek": "The mission to the far side of the Moon and back will likely be postponed after problems with were spotted with its rocket, a Nasa official said.",
-      "body": "The mission to the far side of the Moon and back will likely be postponed after problems with were spotted with its rocket, a Nasa official said.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-21T17:58:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f8/live/6cc0a920-0f4d-11f1-9a2a-8fa7cf422a25.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
