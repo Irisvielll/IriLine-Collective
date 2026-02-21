@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_cd187580cc56",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How will Trump's new 10% global tariffs work and what's next?",
+      "dek": "The Supreme Court's decision has led questions over whether people can get a refund over the unlawful tariffs.",
+      "body": "The Supreme Court's decision has led questions over whether people can get a refund over the unlawful tariffs.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T03:25:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r1e327z46o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f189/live/8d2beaf0-0ed3-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_14d1485eb934",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -74,6 +89,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1raemqn/mom_wants_answers_after_son_with_special_needs/",
       "image": "https://external-preview.redd.it/p1poSJI4rWmKR1Xrl9raTPcdtd5XdY_iF8kYrZZl2GI.jpeg?width=640&crop=smart&auto=webp&s=bf5c71715b4c2dfd52d0a22a4bafa9ea7d5bd9cc",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_10b1630c90e6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Strickland criticizes UFC fighter pay as 'predatory'",
+      "dek": "Former middleweight champ Sean Strickland blasted the UFC's fighter compensation, characterizing it as unfair and \"predatory.\"",
+      "body": "Former middleweight champ Sean Strickland blasted the UFC's fighter compensation, characterizing it as unfair and \"predatory.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T02:01:01+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/47992654/sean-strickland-criticizes-ufc-fighter-pay-predatory",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_10b1630c90e6",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_b108e20cb72d",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-18T01:37:35+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3194/live/208f8f00-0c67-11f1-986c-b11ea963c0e7.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_f6e1144b92fb",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "UCLA's Cronin ejects own player after flagrant foul",
-      "dek": "UCLA coach Mick Cronin sent Bruins center Steven Jamerson II to the locker room after he fouled Carson Cooper from behind on a dunk attempt late in Tuesday nigh",
-      "body": "UCLA coach Mick Cronin sent Bruins center Steven Jamerson II to the locker room after he fouled Carson Cooper from behind on a dunk attempt late in Tuesday night's blowout loss to Michigan State.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T01:27:46+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47961666/ucla-coach-mick-cronin-ejects-steven-jamerson-flagrant-foul-loss-michigan-state",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f6e1144b92fb",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_038b815be768",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
-      "dek": "Delcy Rodriguez knows its in America's interests for her to be a success",
-      "body": "Delcy Rodriguez knows its in America's interests for her to be a success",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T00:48:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363f/live/f3c1e430-0be6-11f1-b7e1-afb6d0884c18.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
