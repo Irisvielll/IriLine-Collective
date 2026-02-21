@@ -61,6 +61,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_900d47dd30a2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Cactus cameo: Dodgers play Ohtani before WBC",
+      "dek": "Shohei Ohtani is scheduled to play a couple of Cactus League games for the Dodgers before he joins Team Japan for the World Baseball Classic.",
+      "body": "Shohei Ohtani is scheduled to play a couple of Cactus League games for the Dodgers before he joins Team Japan for the World Baseball Classic.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T13:48:09+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47996209/dodgers-play-shohei-ohtani-some-games-wbc-duty",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_900d47dd30a2",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_ef1dc9859f43",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-18T08:53:16+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/47964323/chiefs-restructure-patrick-mahomes-deal-create-cap-space",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9aecffb35ece",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c1f8b3c09b6c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vinícius racism allegation prompts UEFA probe",
-      "dek": "UEFA will investigate the racism allegations made by Vinícius Júnior in Real Madrid's game against Benfica.",
-      "body": "UEFA will investigate the racism allegations made by Vinícius Júnior in Real Madrid's game against Benfica.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T08:53:16+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47963819/vinicius-jr-racism-claim-investigated-uefa",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c1f8b3c09b6c",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
