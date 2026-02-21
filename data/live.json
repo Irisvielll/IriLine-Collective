@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-21T15:58:10+00:00",
+  "generatedAt": "2026-02-21T16:39:54+00:00",
   "items": [
+    {
+      "id": "latest_1bf1e68daa5b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump ups tariffs day after Supreme Court ruling against him",
+      "dek": "The president will increase import taxes to 15% on most products coming into the US from Tuesday.",
+      "body": "The president will increase import taxes to 15% on most products coming into the US from Tuesday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-21T16:38:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00cd/live/51167dd0-0f43-11f1-9610-6bdfe89c38bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6916a7f5fc1b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-21T15:36:46+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rau49b/all_truckers_and_bus_drivers_will_be_required_to/",
       "image": "https://external-preview.redd.it/f9UtQi2NMFa3-8jCypgwku6-D1QqLW68Q_XPBNyuuJs.jpeg?width=640&crop=smart&auto=webp&s=ca7cd27540985d9e15592fdd1c8f2ce893e9f56a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ef1dc9859f43",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Katseye's Manon to take 'temporary hiatus' to focus on health",
-      "dek": "The six-person girl group say the decision was made following \"open and thoughtful conversations together\".",
-      "body": "The six-person girl group say the decision was made following \"open and thoughtful conversations together\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-21T13:27:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c39wxm807v2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f2/live/e9d61e90-0f20-11f1-ba0f-9b79f390a896.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
