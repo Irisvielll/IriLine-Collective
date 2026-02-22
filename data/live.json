@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-22T17:02:31+00:00",
+  "generatedAt": "2026-02-22T17:42:09+00:00",
   "items": [
+    {
+      "id": "latest_166833bdfb48",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Greenland says 'no thanks' to Trump US hospital boat",
+      "dek": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\".",
+      "body": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T17:27:16+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf5/live/efb924e0-1012-11f1-88db-fb6ad00d69d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_db4d85eed7f6",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-22T15:43:25+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbp0xc/kid_rock_predicts_god_will_cut_down_journalists/",
       "image": "https://external-preview.redd.it/4iievuDXCnMVVKU92op7uGOrJWxao95fKIv6h2pk3Sk.jpeg?width=640&crop=smart&auto=webp&s=b76fc22605af7012339721927ac5f8cf777d8438",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_21fc2e270814",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
-      "dek": "US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby.",
-      "body": "US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-22T15:43:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c58/live/16a6d830-1005-11f1-909d-47e99fcb7a58.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
