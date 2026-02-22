@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-22T07:54:26+00:00",
+  "generatedAt": "2026-02-22T08:34:16+00:00",
   "items": [
+    {
+      "id": "latest_13be3a0d6bc0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Pakistan launches strikes on Afghanistan, with Taliban saying dozens killed",
+      "dek": "Pakistan says the strikes were retaliation for recent suicide bombings in the country.",
+      "body": "Pakistan says the strikes were retaliation for recent suicide bombings in the country.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T08:07:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6f5/live/87fcb140-0fc3-11f1-8b12-b5b1975625e0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_48dfe362dce7",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-22T05:04:57+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b16/live/a6502d70-0f87-11f1-a06b-65b1643aad6b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ca91617f4ec0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "11 Investigates: Pittsburgh medic accused of taking medical gloves, trading them for pizza",
-      "dek": "submitted by /u/adequicated [link] [comments]",
-      "body": "submitted by /u/adequicated [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-22T04:44:46+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbcmbf/11_investigates_pittsburgh_medic_accused_of/",
-      "image": "https://external-preview.redd.it/rq8IBqSIAKfyWouNmwrnOAwlUayurtPA1at8rHr25_8.jpeg?width=640&crop=smart&auto=webp&s=efeac1462bade5fc17736fdb6483b69e2fdec1d2",
       "imageCredit": "Image via original publisher"
     }
   ]
