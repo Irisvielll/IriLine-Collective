@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-22T13:06:08+00:00",
+  "generatedAt": "2026-02-22T13:52:30+00:00",
   "items": [
+    {
+      "id": "meme_d256c7a55f7a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Grandson of Reese's Peanut Butter Cups inventor is in pieces over missing milk chocolate",
+      "dek": "submitted by /u/nbcnews [link] [comments]",
+      "body": "submitted by /u/nbcnews [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T13:07:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rblf6z/grandson_of_reeses_peanut_butter_cups_inventor_is/",
+      "image": "https://external-preview.redd.it/GXjhUAbmtJE6jktwFYNVtgIWgV_TWV-YnG1DivASPrI.jpeg?width=640&crop=smart&auto=webp&s=5e70ebc4664362ec05187054e3f36e52be2ed670",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_802b1e0735b1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-22T12:35:57+00:00",
       "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce99/live/aedb88f0-0fe0-11f1-a14a-6ffec9f362f0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9f245bb8dc5f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Explosions kill police officer and injure 25 in western Ukraine",
-      "dek": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack.",
-      "body": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-22T12:15:21+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb4/live/d33fe990-0fe3-11f1-bf92-afe9c11d7573.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
