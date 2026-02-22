@@ -106,6 +106,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_344b80ffc652",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "U.S. includes Gaudreau's kids for golden moment",
+      "dek": "After winning the gold in men's hockey, Team USA skated with the No. 13 jersey of the late Johnny Gaudreau before bringing his kids to the ice for a golden mome",
+      "body": "After winning the gold in men's hockey, Team USA skated with the No. 13 jersey of the late Johnny Gaudreau before bringing his kids to the ice for a golden moment.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T14:09:23+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/48007508/team-usa-brings-johnny-gaudreau-kids-ice-olympic-moment",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_344b80ffc652",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_2d6d075cdb3c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-19T02:44:45+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cm28nkvrwe4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/4152dbd0-0cb1-11f1-be0b-7bd43c95266e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_951648863af8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Judge says lawsuit over Buffalo Wild Wings boneless wings has \"no meat on its bones\"",
-      "dek": "submitted by /u/halxp01 [link] [comments]",
-      "body": "submitted by /u/halxp01 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-19T02:35:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8n8go/judge_says_lawsuit_over_buffalo_wild_wings/",
-      "image": "https://external-preview.redd.it/XRKqtZaoVGwtfSOARYBEmPSNMYq3K5mqu47zAlhR96M.jpeg?width=640&crop=smart&auto=webp&s=cd2eaae2bf4bce80cacdb23698084a0dd4fefeeb",
       "imageCredit": "Image via original publisher"
     }
   ]
