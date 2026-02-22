@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_2c46de3b9419",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Messi struggles in MLS opener, will it impact his World Cup?",
+      "dek": "Lionel Messi had a decent game in the 3-0 defeat to LAFC, but decent isn't what you expect from him, especially during a World Cup year.",
+      "body": "Lionel Messi had a decent game in the 3-0 defeat to LAFC, but decent isn't what you expect from him, especially during a World Cup year.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T04:02:16+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48002993/lionel-messi-struggles-mls-opener-impact-world-cup",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c46de3b9419",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_80176ffae4be",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/47970194/olympics-2026-men-hockey-usa-win-sweden-grades-players-questions",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fe0203ce59e2",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_78eac28793c2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Palantir, Which Is Powering ICE, Says Immigration Crackdown May Hurt Hiring",
-      "dek": "submitted by /u/Callabrantus [link] [comments]",
-      "body": "submitted by /u/Callabrantus [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T18:51:29+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8boi3/palantir_which_is_powering_ice_says_immigration/",
-      "image": "https://external-preview.redd.it/0yirYDgSK-pFItNp1GCP9aYvM8Mdz_2U8YZpLzSVLfg.jpeg?width=640&crop=smart&auto=webp&s=23d64b42f47477bb52569282ee87d846470721e5",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
