@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-22T13:52:30+00:00",
+  "generatedAt": "2026-02-22T14:27:16+00:00",
   "items": [
+    {
+      "id": "latest_2d6d075cdb3c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Affront to humanity': Sudan slams Uganda for hosting RSF paramilitary boss",
+      "dek": "Sudan accuses Uganda of flouting international law by meeting Rapid Support Forces boss Mohamed Hamdan Dagalo.",
+      "body": "Sudan accuses Uganda of flouting international law by meeting Rapid Support Forces boss Mohamed Hamdan Dagalo.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T13:52:09+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20lwznegk4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de4/live/d86eec90-0fed-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d256c7a55f7a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-22T12:47:08+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbl0a5/secret_service_to_get_tailored_suits_at_taxpayer/",
       "image": "https://external-preview.redd.it/jLdOYa32srWUWPpq_8YoZkxVaNV0x6Wner4gFrbh4Pw.jpeg?width=640&crop=smart&auto=webp&s=74a1f8524785103471a95e46625353a54ea3e6c6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_72412d166ff1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Minnesota Vikings receiver Moore dies aged 25",
-      "dek": "The Minnesota Vikings have paid tribute to Rondale Moore after the 25-year-old's death.",
-      "body": "The Minnesota Vikings have paid tribute to Rondale Moore after the 25-year-old's death.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-22T12:35:57+00:00",
-      "sourceUrl": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce99/live/aedb88f0-0fe0-11f1-a14a-6ffec9f362f0.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
