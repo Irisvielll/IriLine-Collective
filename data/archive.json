@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_7b3768dd6248",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Taliban Legalizes Wife Beating: Afghanistan's Shocking 2026 Penal Code and the World's Outcry",
+      "dek": "submitted by /u/mishie30 [link] [comments]",
+      "body": "submitted by /u/mishie30 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T04:33:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbcepz/taliban_legalizes_wife_beating_afghanistans/",
+      "image": "https://external-preview.redd.it/h7k8HPnR_goHeygXsyLnmSoxUHlfVORg1sVB0goSr-o.jpeg?width=640&crop=smart&auto=webp&s=700d1929806d185767aa78b62f139e41a0cbc41e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_80176ffae4be",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af5/live/37c8fe00-0f77-11f1-8d59-c3fbefb2b096.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_2122280e8baf",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Garcia wrests Barrios' WBC title in one-sided win",
+      "dek": "Ryan Garcia delivered perhaps the most complete performance of his career, dropping Mario Barrios early and cruising to a wide decision to win the WBC welterwei",
+      "body": "Ryan Garcia delivered perhaps the most complete performance of his career, dropping Mario Barrios early and cruising to a wide decision to win the WBC welterweight title.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T01:33:33+00:00",
+      "sourceUrl": "https://www.espn.com/boxing/story/_/id/48002524/ryan-garcia-wrests-mario-barrios-wbc-title-one-sided-win",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2122280e8baf",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_af0ddbcfb9ec",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r8bn6t/swastika_flag_nothing_ideological_national_action/",
       "image": "https://external-preview.redd.it/A_RUDJVwH6bmfP6O7tTmxSn2Q6yGuaNATp01NoAHmhc.jpeg?width=640&crop=smart&auto=webp&s=505a27af6ab997207372f768054c79255d55b987",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_d41974850600",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Hughes' OT winner sends USA into hockey semis",
-      "dek": "The U.S. men are moving on to the semifinals at the Olympics, after needing extra hockey to get through the quarterfinals Wednesday against Sweden.",
-      "body": "The U.S. men are moving on to the semifinals at the Olympics, after needing extra hockey to get through the quarterfinals Wednesday against Sweden.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T18:17:13+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/hockey/story/_/id/47969842/quinn-hughes-scores-ot-send-usa-sweden-olympic-men-hockey-semifinals-vs-slovakia",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d41974850600",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_3b58ba894183",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Rousey, Carano set for extensive testing for clash",
-      "dek": "Ronda Rousey and Gina Carano will undergo extensive medical and neurological testing ahead of their May 16 MMA comeback clash, according to the California State",
-      "body": "Ronda Rousey and Gina Carano will undergo extensive medical and neurological testing ahead of their May 16 MMA comeback clash, according to the California State Athletic Commission.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-18T18:17:13+00:00",
-      "sourceUrl": "https://www.espn.com/mma/story/_/id/47969519/rousey-carano-undergo-extensive-testing-megabout",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3b58ba894183",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
