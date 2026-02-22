@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-22T21:48:48+00:00",
+  "generatedAt": "2026-02-22T22:25:44+00:00",
   "items": [
+    {
+      "id": "latest_5feda86cf866",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+      "dek": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war.",
+      "body": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T22:00:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/910b/live/bcf7bfe0-102a-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d11883bdd78a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-22T20:16:00+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c72b/live/f2c16ef0-102a-11f1-9474-a53751ee282a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2ea23e9a2714",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Greater Boston residents unsure where 2 feet of snow from potential blizzard will go",
-      "dek": "submitted by /u/DumplingsOrElse [link] [comments]",
-      "body": "submitted by /u/DumplingsOrElse [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-22T18:35:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbtlck/greater_boston_residents_unsure_where_2_feet_of/",
-      "image": "https://external-preview.redd.it/HF5mxMy2Y6_lJGRKsYsQu_kYddOURRpQEZj6JkZHYjY.jpeg?width=640&crop=smart&auto=webp&s=51c3b8ec93f2287110678b4545683fea5a5eaaff",
       "imageCredit": "Image via original publisher"
     }
   ]
