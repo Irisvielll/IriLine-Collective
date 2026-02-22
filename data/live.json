@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-22T17:42:09+00:00",
+  "generatedAt": "2026-02-22T17:58:54+00:00",
   "items": [
+    {
+      "id": "latest_934c56af3fd7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bones of St Francis of Assisi go on public display in Italy",
+      "dek": "The remains of Italy's patron saint have only been seen in public once before - for one day in 1978.",
+      "body": "The remains of Italy's patron saint have only been seen in public once before - for one day in 1978.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-22T17:49:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e3/live/9acee870-1008-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_166833bdfb48",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-22T15:49:58+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbp6xn/new_jersey_democrats_unveil_provocatively_named/",
       "image": "https://external-preview.redd.it/5WRQuA0NyNkLheRYcD9u0ger6pZhgiWFlxEmaVWHeD4.jpeg?width=640&crop=smart&auto=webp&s=16312f2ca75922993038db247c5126e84affe92e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_72bbcab36a6b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kid Rock Predicts God Will ‘Cut Down’ Journalists for Reporting (Accurately) That He’s Charging Up to $5,000 for Tour Tickets",
-      "dek": "submitted by /u/easykehl [link] [comments]",
-      "body": "submitted by /u/easykehl [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-22T15:43:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbp0xc/kid_rock_predicts_god_will_cut_down_journalists/",
-      "image": "https://external-preview.redd.it/4iievuDXCnMVVKU92op7uGOrJWxao95fKIv6h2pk3Sk.jpeg?width=640&crop=smart&auto=webp&s=b76fc22605af7012339721927ac5f8cf777d8438",
       "imageCredit": "Image via original publisher"
     }
   ]
