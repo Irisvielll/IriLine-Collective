@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-23T04:35:36+00:00",
+  "generatedAt": "2026-02-23T05:54:16+00:00",
   "items": [
+    {
+      "id": "latest_24df5379b70a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Violence erupts in Mexico after drug lord El Mencho killed",
+      "dek": "The death of the most-wanted Jalisco cartel chief sparks retaliatory violence in at least a dozen states in Mexico.",
+      "body": "The death of the most-wanted Jalisco cartel chief sparks retaliatory violence in at least a dozen states in Mexico.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T05:30:58+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb0/live/1fd8d1f0-1074-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d553ecd16ee2",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-23T02:40:35+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg18588mdko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e011/live/a806b2d0-1052-11f1-ab75-091f8efaa094.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_369766b824ac",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Phoebe Gates wants her $185 million AI startup to succeed with 'no ties to my privilege or my last name': 'I have a chip on my shoulder'",
-      "dek": "submitted by /u/bothunter [link] [comments]",
-      "body": "submitted by /u/bothunter [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-23T00:46:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rc31dh/phoebe_gates_wants_her_185_million_ai_startup_to/",
-      "image": "https://external-preview.redd.it/Rfbb6EDK4y1VCDErpXflWUldNZm1TpdX8UCX1W6kF5s.jpeg?width=640&crop=smart&auto=webp&s=8642da1baed220956754bb470dc5f3a2ac4e3ccb",
       "imageCredit": "Image via original publisher"
     }
   ]
