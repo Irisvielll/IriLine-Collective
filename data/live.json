@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-23T22:03:49+00:00",
+  "generatedAt": "2026-02-23T23:01:17+00:00",
   "items": [
+    {
+      "id": "latest_81f6a47a2233",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French minister moves to block US envoy Kushner from government access",
+      "dek": "The minister says Charles Kushner, father of Trump's son-in-law Jared, had failed to explain US comments about violence in France.",
+      "body": "The minister says Charles Kushner, father of Trump's son-in-law Jared, had failed to explain US comments about violence in France.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T22:55:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8d5eg5pl34o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7937/live/f3179140-1106-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_25b1fc794cc0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+      "dek": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations.",
+      "body": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T22:15:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9feb/live/ac6964e0-10fb-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8bd8fe56089e",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-23T21:26:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rcuhtg/adult_store_receives_order_from_us_department_of/",
       "image": "https://external-preview.redd.it/NU1sPjSgbWQGxAtUed-TWTaoLy3X0PpPprHYsIwgJ38.png?width=640&crop=smart&auto=webp&s=29c2f3003411c5952cd663acce2ccbe39e349334",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ee9f3817bdb8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
-      "dek": "Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday.",
-      "body": "Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-23T21:24:31+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gqkg87293o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3967/live/0d78ab50-10d0-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8451923df8d6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-      "dek": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces.",
-      "body": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-23T21:12:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e39e/live/a5ab2ba0-10cb-11f1-b4d3-abf57a569766.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
