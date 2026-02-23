@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-02-23T05:54:16+00:00",
+  "generatedAt": "2026-02-23T07:05:39+00:00",
   "items": [
+    {
+      "id": "meme_a539dbae7bd4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "British film awards interrupted by racist slur from man with Tourette Syndrome",
+      "dek": "submitted by /u/10001110101balls [link] [comments]",
+      "body": "submitted by /u/10001110101balls [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T06:44:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rca9x1/british_film_awards_interrupted_by_racist_slur/",
+      "image": "https://external-preview.redd.it/O3DPIVzHUFkIQtFJ_mItzn9lJpSNUb_MlUIY67K9Mu4.jpeg?width=640&crop=smart&auto=webp&s=3699977e3cae91ff04c2a1b99436da0c621576a7",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d92ad23e040d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+      "dek": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping.",
+      "body": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T06:01:59+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4762/live/1529f130-107e-11f1-8ee3-49f22c5c2685.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_24df5379b70a",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-02-23T05:30:58+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb0/live/1fd8d1f0-1074-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d553ecd16ee2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Who was El Mencho, Mexico's most wanted man?",
-      "dek": "The BBC's Will Grant examines the power wielded by the Jalisco drug cartel chief, who died after a clash with security forces assisted by US intelligence.",
-      "body": "The BBC's Will Grant examines the power wielded by the Jalisco drug cartel chief, who died after a clash with security forces assisted by US intelligence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-23T03:17:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1jkw18e19jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b190/live/9a0a42d0-105e-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9281d5d921ee",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kim Jong Un re-appointed leader of North Korea's ruling party",
-      "dek": "The announcement by the rubber-stamp party congress comes as little surprise.",
-      "body": "The announcement by the rubber-stamp party congress comes as little surprise.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-23T02:40:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg18588mdko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e011/live/a806b2d0-1052-11f1-ab75-091f8efaa094.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
