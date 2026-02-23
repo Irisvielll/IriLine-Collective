@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_478862730f84",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Hegseth says he’ll order random pizzas to throw off monitoring app",
+      "dek": "submitted by /u/Past_My_Subprime [link] [comments]",
+      "body": "submitted by /u/Past_My_Subprime [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T18:42:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rcpxma/hegseth_says_hell_order_random_pizzas_to_throw/",
+      "image": "https://external-preview.redd.it/yLpFoQF0Ahl1__quxDyxNNSJAcktM91miBIcThiGWNE.jpeg?width=640&crop=smart&auto=webp&s=fffccc82f57598e04a7412fc68a5e9003f2d8441",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_022dac13af84",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c3ew5jlqz87o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c5d/live/0efb2e40-0dff-11f1-b8b6-79c822a78f72.png",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_dd46e7724660",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Porzingis rusty but provides spark in Dubs debut",
-      "dek": "Kristaps Porzingis, making his Warriors debut in his first game since Jan. 7, opened slow but made an impact in his 17 minutes, scoring 12 points in a 121-110 l",
-      "body": "Kristaps Porzingis, making his Warriors debut in his first game since Jan. 7, opened slow but made an impact in his 17 minutes, scoring 12 points in a 121-110 loss to the Celtics.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-20T02:03:36+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47983922/porzingis-rusty-provides-spark-12-point-warriors-debut",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dd46e7724660",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
