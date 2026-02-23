@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_ed4812c34874",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Briton among 19 killed in Nepal bus crash",
+      "dek": "Nepalese police say the British national was a 24-year-old man.",
+      "body": "Nepalese police say the British national was a 24-year-old man.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T10:03:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c39wz97y90no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85a7/live/f4017eb0-109b-11f1-b72a-e7014dcc8357.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_bf1e3b4c80ca",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "AI energy efficiency comparisons ‘unfair’ bleats Sam Altman, citing amount of energy needed to evolve, then train a human — one ‘takes like 20 years of life and all of the food you eat during that time before you get smart’ he argues",
+      "dek": "submitted by /u/andrejlr [link] [comments]",
+      "body": "submitted by /u/andrejlr [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-23T09:04:38+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rcck95/ai_energy_efficiency_comparisons_unfair_bleats/",
+      "image": "https://external-preview.redd.it/YIPg7X2aGBgVS5c5yTFJ5v70RNgUpTuSkBphtsje45U.jpeg?width=640&crop=smart&auto=webp&s=8b6675c947873fcc6b3d75229009430c2e36aafe",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_15ef25e1dbcf",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/47978702/mri-stephen-curry-knee-comes-back-clean-sources-say",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_20ef9860e37c",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_085361b86e1b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "2 UGA players charged with speeding at max limits",
-      "dek": "Georgia linebackers Chris Cole and Darren Ikinnagbon were arrested on misdemeanor charges of speeding at maximum limits and other traffic-related charges.",
-      "body": "Georgia linebackers Chris Cole and Darren Ikinnagbon were arrested on misdemeanor charges of speeding at maximum limits and other traffic-related charges.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-19T15:29:59+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/47978685/two-georgia-football-players-charged-speeding-max-limits",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_085361b86e1b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_3dbd0556146a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Investor says Japanese toilet maker Toto is an overlooked AI play",
-      "dek": "submitted by /u/ilovedikdik [link] [comments]",
-      "body": "submitted by /u/ilovedikdik [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-19T15:11:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1r91pte/investor_says_japanese_toilet_maker_toto_is_an/",
-      "image": "https://external-preview.redd.it/sJegWgG3Cg39LbUCS1IykR50EjmZRkxlHH6OuIswoDM.jpeg?width=640&crop=smart&auto=webp&s=91234fe886d59268bba9a994e10255c339ba94f6",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
