@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-24T04:26:45+00:00",
+  "generatedAt": "2026-02-24T05:42:17+00:00",
   "items": [
+    {
+      "id": "meme_18f3fee36ab8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "RFK Jr. fought pesticides for years. Now he's backing their production",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-24T04:26:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rd5i59/rfk_jr_fought_pesticides_for_years_now_hes/",
+      "image": "https://external-preview.redd.it/VGa_4TzHlvwiaQhpjg3kEt7zz1Ld66yakBm018b1fGU.jpeg?width=640&crop=smart&auto=webp&s=0f7609bd9dde76ca90c4a4af80e0ac1b207745f3",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_1cc8567a62a0",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rd3l0m/pope_tells_priests_to_use_their_brains_not_ai_to/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_6dd0e76ef38e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_eb3d3ff6ee71",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Maryland sues DHS, Noem over ICE detention facility",
-      "dek": "submitted by /u/Playful_Leg7143 [link] [comments]",
-      "body": "submitted by /u/Playful_Leg7143 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-24T02:41:33+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rd2n30/maryland_sues_dhs_noem_over_ice_detention_facility/",
-      "image": "https://external-preview.redd.it/z8sVB7EU1615jkjsXrFNB4lJOQlZTDOyulSqzChh3XQ.jpeg?width=640&crop=smart&auto=webp&s=ba8f08ac7ae4e30a534988baa167c9966d89343e",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
