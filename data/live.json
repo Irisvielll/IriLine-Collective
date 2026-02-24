@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-24T08:28:37+00:00",
+  "generatedAt": "2026-02-24T09:30:49+00:00",
   "items": [
+    {
+      "id": "meme_40b007cfb118",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The Ford Will Accomplish Its Mission with or without Flushing Toilets",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-24T07:38:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rd9yfk/the_ford_will_accomplish_its_mission_with_or/",
+      "image": "https://external-preview.redd.it/gHWfThR2HT0UQGly0L28iDdtE0M8VfgQCeYRIGCLImg.png?width=640&crop=smart&auto=webp&s=f1f1476ac38c9155f55593015814990dba1f9a2a",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ef6e11b9f4c4",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-24T06:23:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rd8p0p/park_ranger_fired_for_hanging_trans_pride_flag/",
       "image": "https://external-preview.redd.it/d86zg72S_PRbtGJaLHegvMeRGveq4OaU2sbOvv4zAXg.jpeg?width=640&crop=smart&auto=webp&s=6d5d6d0e3ee15a9ce448cd08ef56b9d30e788481",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a6876d262cc9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
-      "dek": "This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured",
-      "body": "This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-24T06:02:26+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3691/live/ef0177f0-0e41-11f1-b5e2-dd58fc65f0f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
