@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_80b459eae875",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Vancouver safe street advocate hit by car on way home from advocacy meeting",
+      "dek": "submitted by /u/Icy_Foot4728 [link] [comments]",
+      "body": "submitted by /u/Icy_Foot4728 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-24T20:33:33+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rdrtj2/vancouver_safe_street_advocate_hit_by_car_on_way/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_80b459eae875",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_b062060c0358",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -149,6 +164,36 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rdmmgs/inventor_of_squatty_potty_charged_with_possessing/",
       "image": "https://external-preview.redd.it/QxUV5XjpeeDQ-o3RKXbH8w70YXsIXHj33Yg9c5MIlP0.png?width=640&crop=smart&auto=webp&s=a4fa20e86ccc6e30e9242214c09477e86f4d3acd",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_110f8c4e4b93",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Source: Kyler hasn't talked to Cards, refuting GM",
+      "dek": "Cardinals general manager Monti Ossenfort said he has spoken with quarterback Kyler Murray, but a source told ESPN that the two have not talked since the end of",
+      "body": "Cardinals general manager Monti Ossenfort said he has spoken with quarterback Kyler Murray, but a source told ESPN that the two have not talked since the end of the season.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-24T17:24:36+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48025726/source-kyler-murray-cardinals-talked-refuting-gm",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_110f8c4e4b93",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_f4fb77848952",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Tiny Bodo/Glimt oust Inter Milan in UCL stunner",
+      "dek": "Bodo/Glimt pulled off one of the biggest upsets in Champions League history by knocking out Italian giants Inter Milan on Tuesday.",
+      "body": "Bodo/Glimt pulled off one of the biggest upsets in Champions League history by knocking out Italian giants Inter Milan on Tuesday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-24T17:24:36+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/401858766",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f4fb77848952",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_a50ba48fad0b",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-02-21T11:09:20+00:00",
       "sourceUrl": "https://www.espn.com/racing/f1/story/_/id/47977970/have-f1-new-2026-regulations-made-sport-too-complicated",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_baa2e10cb249",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2d7bd1abd4d3",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "MVP should book these fights on the Rousey vs. Carano card",
-      "dek": "Brock Lesnar and Anderson Silva back in MMA? Jake Paul could take the May 16 card over the top with names like that.",
-      "body": "Brock Lesnar and Anderson Silva back in MMA? Jake Paul could take the May 16 card over the top with names like that.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-21T10:23:49+00:00",
-      "sourceUrl": "https://www.espn.com/mma/story/_/id/47990132/ronda-rousey-vs-gina-carano-undercard-fights-want-see",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2d7bd1abd4d3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_578d5ef78079",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Italian toddler dies after transplant with heart 'burned by frostbite'",
-      "dek": "The heart given to two-year-old Domenico was reportedly severely damaged during its transfer to hospital.",
-      "body": "The heart given to two-year-old Domenico was reportedly severely damaged during its transfer to hospital.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-21T09:55:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ceqvgedennpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba4c/live/9f23e200-0f08-11f1-9af2-d1cd0eb600cc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_0c0d089e4154",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Tkachuk on Canada rivalry: 'There's hatred there'",
-      "dek": "On the eve of the Olympic gold medal game, Brady Tkachuk said for the U.S. to win its ultimate goal, his teammates will have to take down Canada, the team they ",
-      "body": "On the eve of the Olympic gold medal game, Brady Tkachuk said for the U.S. to win its ultimate goal, his teammates will have to take down Canada, the team they both envy and despise.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-21T09:13:18+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/47994440/brady-tkachuk-us-canada-rivalry-there-hatred-there",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0c0d089e4154",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
