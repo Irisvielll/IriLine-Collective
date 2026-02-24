@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-24T09:30:49+00:00",
+  "generatedAt": "2026-02-24T10:32:07+00:00",
   "items": [
+    {
+      "id": "latest_214147e7b5de",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Robert Carradine, Lizzie Mcguire and Revenge of the Nerds star, dies aged 71",
+      "dek": "His family says the actor took his own life after living with bipolar disorder for nearly two decades.",
+      "body": "His family says the actor took his own life after living with bipolar disorder for nearly two decades.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-24T09:34:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy0dqpjjprno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4930/live/0c27ea20-1159-11f1-9c59-f960223a391b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_40b007cfb118",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-24T06:40:56+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rd8zrv/mom_of_3_who_vanished_24_years_ago_while/",
       "image": "https://external-preview.redd.it/cmm1tPujlKQWy0sXmDCbgg39zgwZskc_TejKJj9dtoE.jpeg?width=640&crop=smart&auto=webp&s=586c1fd98b654409d6d1b40eed0ea2fae4c8fcba",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_151873aafc2a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Park ranger fired for hanging trans pride flag sues Interior Department",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-24T06:23:55+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rd8p0p/park_ranger_fired_for_hanging_trans_pride_flag/",
-      "image": "https://external-preview.redd.it/d86zg72S_PRbtGJaLHegvMeRGveq4OaU2sbOvv4zAXg.jpeg?width=640&crop=smart&auto=webp&s=6d5d6d0e3ee15a9ce448cd08ef56b9d30e788481",
       "imageCredit": "Image via original publisher"
     }
   ]
