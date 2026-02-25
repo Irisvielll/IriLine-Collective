@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8a9eb8e59c40",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Senegal PM proposes tougher anti-LGBT law, doubling prison terms",
+      "dek": "The bill seeks prison terms of five to ten years for what it describes as \"acts against nature\".",
+      "body": "The bill seeks prison terms of five to ten years for what it describes as \"acts against nature\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-25T05:46:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c7vj15zlmv6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26b/live/e38804a0-1203-11f1-bd5e-af799bf42f36.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_7d4599e2cc56",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-21T21:09:00+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48000519/suns-brooks-broken-hand-booker-one-week",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cd09d996b78f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5f1b3ed0d5d2",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Stephens, Altidore ending marriage after 4 years",
-      "dek": "Former U.S. Open tennis champion Sloane Stephens and former U.S. men's national soccer player Jozy Altidore are ending their marriage after four years.",
-      "body": "Former U.S. Open tennis champion Sloane Stephens and former U.S. men's national soccer player Jozy Altidore are ending their marriage after four years.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-21T21:08:59+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/47999191/sloane-stephens-jozy-altidore-ending-marriage-4-years",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5f1b3ed0d5d2",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
