@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_7ef1d870e667",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Dunkin’ is testing a massive 48 oz bucket drink",
+      "dek": "submitted by /u/Outrageous_Web5985 [link] [comments]",
+      "body": "submitted by /u/Outrageous_Web5985 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-25T20:10:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1reodbf/dunkin_is_testing_a_massive_48_oz_bucket_drink/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_7ef1d870e667",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_62e1d4828cea",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rbopwz/scammers_created_fake_courtroom_and_law_firm_to/",
       "image": "https://external-preview.redd.it/eTpvyxNbGDmWFtE0bhRRWQZ24vC5jV4sYrQ-uit4DNQ.jpeg?width=640&crop=smart&auto=webp&s=e978912121688fdc4e5c37f05c02a739f7fecb0c",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_4556e9a2fbc3",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "🎖️ Shots of gold: USA hockey's win, in pictures",
-      "dek": "From Boldy's opener to Hughes' finish, the top photos capture every swing of a dramatic final.",
-      "body": "From Boldy's opener to Hughes' finish, the top photos capture every swing of a dramatic final.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-22T15:08:58+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/48007115/2026-olympics-milan-cortina-italy-top-photos-usa-mens-ice-hockey-gold-medal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4556e9a2fbc3",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
