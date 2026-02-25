@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-25T11:09:58+00:00",
+  "generatedAt": "2026-02-25T11:53:14+00:00",
   "items": [
+    {
+      "id": "meme_e9b3ee1b3901",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Marvel Rivals Fans Demand Shutdown of a Website Letting Players Post Bounties on Throwers and Griefers",
+      "dek": "submitted by /u/LockDown_47 [link] [comments]",
+      "body": "submitted by /u/LockDown_47 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-25T11:16:36+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1reail6/marvel_rivals_fans_demand_shutdown_of_a_website/",
+      "image": "https://external-preview.redd.it/jAFZ9RqSGoU0B_B5yLHcL3IXmwv5GvakkC3rplJOc4E.jpeg?width=640&crop=smart&auto=webp&s=0e73d6c027a4c6e97e8132bb2e9bda210eee7615",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a6a8d284e2f8",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-25T07:54:46+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c98qd17e274o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e00/live/0b343b40-121d-11f1-9123-81d30b1ac5de.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e8ce82b85197",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
-      "dek": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech.",
-      "body": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T05:56:02+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/bdc762d0-1215-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

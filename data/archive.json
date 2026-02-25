@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_e8ce82b85197",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
+      "dek": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech.",
+      "body": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-25T05:56:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/bdc762d0-1215-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8a9eb8e59c40",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-21T21:19:00+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rb2twq/the_alcohol_industry_has_lost_830_billion_in_4/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_16ac0c51b09b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_cd09d996b78f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Suns' Brooks suffered broken left hand",
-      "dek": "Suns guard Dillon Brooks broke his left hand in Saturday's game against Orlando and is expected to miss an extended period of time, sources told ESPN.",
-      "body": "Suns guard Dillon Brooks broke his left hand in Saturday's game against Orlando and is expected to miss an extended period of time, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-21T21:09:00+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48000519/suns-brooks-broken-hand-booker-one-week",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cd09d996b78f",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
