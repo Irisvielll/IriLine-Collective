@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T11:53:14+00:00",
+  "generatedAt": "2026-02-25T13:07:11+00:00",
   "items": [
     {
       "id": "meme_e9b3ee1b3901",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "meme_f534afd29704",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Asia’s soft power has been growing for years. But ‘Chinamaxxing’is different",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-25T08:59:53+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1re87jf/asias_soft_power_has_been_growing_for_years_but/",
+      "image": "https://external-preview.redd.it/4u2hgaSOL81D3jOV5E1jc2XlwUtstjydTF-58TbMcTA.jpeg?width=640&crop=smart&auto=webp&s=889d1eae9aa5d9bdd54167212460f3a60291e10d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_a6a8d284e2f8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1re7uir/vancouver_safe_street_advocate_hit_by_car_on_way/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a6a8d284e2f8",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_ae6f3415ae58",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Don't break up NewJeans and I'll forgo $18m payout, says ex-K-pop boss",
-      "dek": "Min Hee-jin has said she \"can no longer bear to watch\" the group get \"torn apart\".",
-      "body": "Min Hee-jin has said she \"can no longer bear to watch\" the group get \"torn apart\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T07:54:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c98qd17e274o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e00/live/0b343b40-121d-11f1-9123-81d30b1ac5de.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
