@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_d8417f56a2ca",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Third victim dies week after shooting at R.I. rink",
+      "dek": "A deadly shooting during a youth hockey game in Rhode Island last week claimed a third victim, authorities said Wednesday.",
+      "body": "A deadly shooting during a youth hockey game in Rhode Island last week claimed a third victim, authorities said Wednesday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-26T02:42:03+00:00",
+      "sourceUrl": "https://www.espn.com/espn/story/_/id/48040491/third-victim-dies-injuries-suffered-shooting-ri-rink",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d8417f56a2ca",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_2b284c481151",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-23T05:07:47+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cd6zg91l75qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9212/live/fc3e91f0-9939-11f0-869a-3fa4ad43e8ee.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d553ecd16ee2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Who was El Mencho, Mexico's most wanted man?",
-      "dek": "The BBC's Will Grant examines the power wielded by the Jalisco drug cartel chief, who died after a clash with security forces assisted by US intelligence.",
-      "body": "The BBC's Will Grant examines the power wielded by the Jalisco drug cartel chief, who died after a clash with security forces assisted by US intelligence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-23T03:17:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1jkw18e19jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b190/live/9a0a42d0-105e-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
