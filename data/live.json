@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-26T05:01:51+00:00",
+  "generatedAt": "2026-02-26T06:12:08+00:00",
   "items": [
+    {
+      "id": "latest_edc0002fff22",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+      "dek": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes.",
+      "body": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-26T06:01:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feab/live/9482f0a0-1257-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e1213ce161ce",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-26T04:08:25+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e2f/live/7706b0e0-12af-11f1-836e-2d4c9511f83a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9052c3e5c227",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction",
-      "dek": "The 78-year-old Lai, however, remains detained for a separate national security case.",
-      "body": "The 78-year-old Lai, however, remains detained for a separate national security case.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T03:41:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/7540d210-12bc-11f1-b16f-17ab2e428cae.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
