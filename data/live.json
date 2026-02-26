@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T06:12:08+00:00",
+  "generatedAt": "2026-02-26T07:17:30+00:00",
   "items": [
     {
       "id": "latest_edc0002fff22",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_0a34ddd0a000",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "North Korea could 'get along' with US, says Kim Jong Un",
+      "dek": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay.",
+      "body": "Kim said they could get along if the US accepts that Pyongyang's nuclear weapons are here to stay.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-26T05:25:54+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56bd/live/f858dfa0-12c4-11f1-96ff-ab92a506340d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e1213ce161ce",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-26T04:43:47+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg3jvkpdn2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a305/live/c35f8f00-12bb-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_19ab8d44a9a0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Orbán accuses Ukraine of disrupting oil supplies to Hungary",
-      "dek": "Ukraine says a critical pipeline was closed after Russian strikes.",
-      "body": "Ukraine says a critical pipeline was closed after Russian strikes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T04:08:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e2f/live/7706b0e0-12af-11f1-836e-2d4c9511f83a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
