@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-27T11:33:05+00:00",
+  "generatedAt": "2026-02-27T12:00:56+00:00",
   "items": [
+    {
+      "id": "meme_68900f8534a9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Novartis settles with Henrietta Lacks' estate over use of her 'stolen' cells to advance medicine",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T11:22:57+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rg4425/novartis_settles_with_henrietta_lacks_estate_over/",
+      "image": "https://external-preview.redd.it/Dn-nARmXIFw3nq3L2sweRrfqmTgPdqBj6H4DHq4gj8Q.jpeg?width=640&crop=smart&auto=webp&s=c6c274d5621a00892271ef7f79a46f3396b7608a",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_df8f9c36588b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-27T10:56:45+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdce/live/16146210-13bc-11f1-b1c6-5b17a410755e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_101729918652",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-      "dek": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
-      "body": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T10:50:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fe/live/542ab260-13c7-11f1-8c68-835571867502.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

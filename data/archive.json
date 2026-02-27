@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_101729918652",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+      "dek": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
+      "body": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T10:50:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fe/live/542ab260-13c7-11f1-8c68-835571867502.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b373fb7ad50d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/684f/live/cfe405c0-1343-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_1e00e7249dca",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Kiper's latest NFL mock draft: Projecting the entire first round ahead of the combine",
+      "dek": "Let's project where the best players in the 2026 draft class will get picked in April.",
+      "body": "Let's project where the best players in the 2026 draft class will get picked in April.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T06:06:29+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/47989848/2026-nfl-mock-draft-kiper-32-picks-pre-combine-predictions-round-1",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1e00e7249dca",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_ea1ac16cffe1",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-24T09:09:04+00:00",
       "sourceUrl": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83fafdb16d69",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_8a2103da1352",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Men's Bracketology: Duke's ascension to No. 1 overall was inevitable",
-      "dek": "It was only a matter of time until a path opened for the Blue Devils, who ride their win over Michigan to the top.",
-      "body": "It was only a matter of time until a path opened for the Blue Devils, who ride their win over Michigan to the top.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-24T09:09:03+00:00",
-      "sourceUrl": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a2103da1352",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1990c440c187",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Sale, Braves agree to $27M extension",
-      "dek": "Chris Sale and the Braves are in agreement on a one-year, $27 million contract extension for 2027 that includes a club option for 2028, sources told ESPN.",
-      "body": "Chris Sale and the Braves are in agreement on a one-year, $27 million contract extension for 2027 that includes a club option for 2028, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-24T08:37:36+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48021850/sources-chris-sale-braves-agree-1-year-27m-extension",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1990c440c187",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
