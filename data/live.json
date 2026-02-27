@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-27T15:52:25+00:00",
+  "generatedAt": "2026-02-27T16:41:36+00:00",
   "items": [
+    {
+      "id": "latest_3eec03093fc5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "dek": "The tech firm has been criticised for not reporting the suspect's ChatGPT account to police despite it being flagged internally due to concerns over content.",
+      "body": "The tech firm has been criticised for not reporting the suspect's ChatGPT account to police despite it being flagged internally due to concerns over content.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T16:15:30+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd4/live/040e4550-13f7-11f1-a72a-ab3c0f4bab15.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a81e550c34e4",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-27T15:13:58+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d14/live/612adfe0-13ee-11f1-82ca-eb805bf206d6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2359090a95d4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
-      "dek": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October.",
-      "body": "The latest attacks by Pakistan follow months of clashes between the two countries. despite agreeing to a fragile ceasefire in October.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T13:19:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028d/live/78630be0-13c8-11f1-8c68-835571867502.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
