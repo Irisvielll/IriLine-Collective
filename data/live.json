@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-27T09:07:18+00:00",
+  "generatedAt": "2026-02-27T09:59:22+00:00",
   "items": [
+    {
+      "id": "latest_e64d937b385d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'They seized everything': Yemen's Houthi rebels drive aid groups to the brink",
+      "dek": "Aid groups - a lifeline for millions of Yemenis - are being squeezed out of existence in areas under the control of the rebels, the BBC hears.",
+      "body": "Aid groups - a lifeline for millions of Yemenis - are being squeezed out of existence in areas under the control of the rebels, the BBC hears.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T09:15:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj4z129dq8vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8dd/live/c1681840-131d-11f1-b513-7d8d8ff19957.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ffcdb9bd1b3e",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-27T06:02:12+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e78/live/74bd9a10-1345-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ea4fc2ba457f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Blackouts and emergency aid: Why the Cuban Revolution faces its biggest threat yet",
-      "dek": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
-      "body": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T06:00:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/290c/live/54fb4910-1328-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
