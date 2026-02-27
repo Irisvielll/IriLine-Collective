@@ -151,6 +151,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_8a2103da1352",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Bracketology: Florida rejoins the 2-seed line",
+      "dek": "The Gators ride an eight-game win streak back toward the top as they prepare to defend their title.",
+      "body": "The Gators ride an eight-game win streak back toward the top as they prepare to defend their title.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T09:54:36+00:00",
+      "sourceUrl": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a2103da1352",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_178815a49f16",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-24T13:30:09+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48023896/jets-use-tag-breece-hall-no-deal-reached-gm-says",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6cf04fd0abe9",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5a7b0eb8babe",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Texans GM: Stroud trade speculation is 'moronic'",
-      "dek": "Texans GM Nick Caserio called the trade talk regarding quarterback C.J. Stroud \"moronic.\"",
-      "body": "Texans GM Nick Caserio called the trade talk regarding quarterback C.J. Stroud \"moronic.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-24T13:30:09+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48023841/cj-stroud-trade-speculation-moronic-texans-gm-says",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5a7b0eb8babe",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
