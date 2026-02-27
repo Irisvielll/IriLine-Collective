@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-27T04:21:18+00:00",
+  "generatedAt": "2026-02-27T05:35:26+00:00",
   "items": [
+    {
+      "id": "latest_f77740de34c7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "China removes nine military officials ahead of key political meeting",
+      "dek": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting.",
+      "body": "No official reason for the removal was given, but it comes ahead of the country's key Two Sessions meeting.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T04:29:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e7/live/2331aec0-1386-11f1-93b0-b93a7c0c5701.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e0098a0778dc",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-27T02:53:41+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rfuvie/lawmakers_say_us_military_used_laser_to_take_down/",
       "image": "https://external-preview.redd.it/B9zLJO890Ipa2xBNlL6ruOHsVSSnk_w1GgSN3yWb4g4.jpeg?width=640&crop=smart&auto=webp&s=c2bb679f3d1af61e99d1c78c06bf846df03fa1cb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_42d13b911e4b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Clinton says Epstein committee asked about UFOs and “Pizzagate”",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T02:42:02+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rfumdl/clinton_says_epstein_committee_asked_about_ufos/",
-      "image": "https://external-preview.redd.it/gPFjTbVhgq-WjRzRlOXJira1vQS2yvjiICpVieTRInM.jpeg?width=640&crop=smart&auto=webp&s=f9d2b3baf76f4ea5ac8e2b6c67a36ea1a83cbca7",
       "imageCredit": "Image via original publisher"
     }
   ]
