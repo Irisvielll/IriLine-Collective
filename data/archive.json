@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_d799003be1db",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Couple asks Washington Department of Licensing for Spanish speaker – and gets a recording in a Spanish accent instead",
+      "dek": "submitted by /u/driftingphotog [link] [comments]",
+      "body": "submitted by /u/driftingphotog [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T19:25:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgg9ni/couple_asks_washington_department_of_licensing/",
+      "image": "https://external-preview.redd.it/iuVSCA2Y8vk14GyRqfO147gD3_QV3g1YWaunvGrNY3Q.jpeg?width=640&crop=smart&auto=webp&s=cf934924f8b5700e7b57b63eded678f508a5ff8e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_156709787b69",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-24T18:46:57+00:00",
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/48026183/virginia-qb-chandler-morris-files-lawsuit-seeking-7th-year",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1f08859a4af5",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_72d634c809a6",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Pirates' Griffin, MLB's top prospect, wows with HRs",
-      "dek": "Konnor Griffin, the Pirates' 19-year-old shortstop and the consensus No. 1 prospect in baseball, hit home runs off Red Sox pitchers Ranger Suarez and Seth Marti",
-      "body": "Konnor Griffin, the Pirates' 19-year-old shortstop and the consensus No. 1 prospect in baseball, hit home runs off Red Sox pitchers Ranger Suarez and Seth Martinez.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-24T18:46:57+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48025899/pirates-prospect-konnor-griffin-wows-home-runs-vs-red-sox",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_72d634c809a6",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
