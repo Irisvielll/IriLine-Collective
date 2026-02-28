@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T20:27:10+00:00",
+  "generatedAt": "2026-02-28T20:49:08+00:00",
   "items": [
+    {
+      "id": "meme_0f94179e3462",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "NCERT: India's Supreme Court bans textbook for referring to judicial corruption",
+      "dek": "submitted by /u/anzara2Y5 [link] [comments]",
+      "body": "submitted by /u/anzara2Y5 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T20:29:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhd4bo/ncert_indias_supreme_court_bans_textbook_for/",
+      "image": "https://external-preview.redd.it/Wvc1Vlh217MRFFuwPLdiv77m88BNmHKwIeWh72cYYbw.jpeg?width=640&crop=smart&auto=webp&s=4a2b6625ee5a379067f412775e3f7c996450cf94",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ae67159c47ad",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhb1v2/florida_congressmans_freudian_slip_operation_epic/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d40468753130",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_9d7fcb21e351",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How the world has reacted to US and Israeli strikes on Iran",
-      "dek": "World leaders have been giving their responses to the attacks on several Iranian cities and Tehran's retaliation.",
-      "body": "World leaders have been giving their responses to the attacks on several Iranian cities and Tehran's retaliation.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T16:00:32+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yj9kr31y7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afe7/live/3c458a30-14c1-11f1-8007-5bc8640dd651.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
