@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T21:21:51+00:00",
+  "generatedAt": "2026-02-28T21:43:23+00:00",
   "items": [
+    {
+      "id": "meme_a301f5744016",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bulloch County man found competent to stand trial despite removing his own eyeballs",
+      "dek": "submitted by /u/GuacaHoly [link] [comments]",
+      "body": "submitted by /u/GuacaHoly [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T21:23:22+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rheg2h/bulloch_county_man_found_competent_to_stand_trial/",
+      "image": "https://external-preview.redd.it/QZqM338NwHdd_UBWyCySM3uVv8EuUH2pNa4ToTEDrT0.png?width=640&crop=smart&auto=webp&s=f2a90cc5e20609bce7451b03b3943d5c0c873f2c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_94f01200539d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-28T20:29:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhd4bo/ncert_indias_supreme_court_bans_textbook_for/",
       "image": "https://external-preview.redd.it/Wvc1Vlh217MRFFuwPLdiv77m88BNmHKwIeWh72cYYbw.jpeg?width=640&crop=smart&auto=webp&s=4a2b6625ee5a379067f412775e3f7c996450cf94",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ae67159c47ad",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran retaliation raises questions about US air defences",
-      "dek": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region.",
-      "body": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T19:34:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f435/live/78689930-14d0-11f1-b106-cbf633dcab7a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
