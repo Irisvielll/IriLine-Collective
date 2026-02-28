@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_cd690aa6bed5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Did Sydney Sweeney hit Bruno Fernandes' celebration on visit to Man United star's old club?",
+      "dek": "Hollywood star Sydney Sweeney visited Sporting CP and appeared to imitate the trademark celebration of one of the club's former player, Bruno Fernandes.",
+      "body": "Hollywood star Sydney Sweeney visited Sporting CP and appeared to imitate the trademark celebration of one of the club's former player, Bruno Fernandes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T12:29:00+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48062455/did-sydney-sweeney-hit-manchester-united-bruno-fernandes-goal-celebration-sporting-cp",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cd690aa6bed5",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_40056d6c161f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -253,6 +268,21 @@
       "publishedAt": "2026-02-28T08:40:10+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48060986/fifa-monitor-developments-iran-ahead-2026-world-cup",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5fca3d7b54b7",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_94ef76b63396",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "'Attempting to mingle': Cameron Brink reveals how she met her fiancé via email",
+      "dek": "Brinks now-fiancé got in contact via unconventional means, eschewing social media direct messages and instead sending an email.",
+      "body": "Brinks now-fiancé got in contact via unconventional means, eschewing social media direct messages and instead sending an email.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T08:16:56+00:00",
+      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48056425/cameron-brink-fiance-introduction-email",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_94ef76b63396",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/48033806/shai-gilgeous-alexander-nikola-jokic-nearing-mvp-ineligibility",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0994e83208e0",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_63ad32c96268",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two charged with murder of Australian grandfather after 'mistaken identity' kidnapping",
-      "dek": "Chris Baghsarian, 85, was taken from his home and murdered, in what authorities believe was a case of mistaken identity.",
-      "body": "Chris Baghsarian, 85, was taken from his home and murdered, in what authorities believe was a case of mistaken identity.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T14:12:13+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cm21zdxzr0ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac21/live/c5c7fe40-1120-11f1-8b3d-a740410c025d.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_35176eb22793",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Australian 'immigrants' revealed to be AI creations",
-      "dek": "submitted by /u/renome [link] [comments]",
-      "body": "submitted by /u/renome [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T14:01:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1redzo4/australian_immigrants_revealed_to_be_ai_creations/",
-      "image": "https://external-preview.redd.it/ipr47vlQEpmSYhb7XKaQrMIP8N9ezzjHU6xbTbiMX84.jpeg?width=640&crop=smart&auto=webp&s=28e6da813b73a6f78355734de0aba149714206b1",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
