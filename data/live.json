@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T10:47:43+00:00",
+  "generatedAt": "2026-02-28T11:20:08+00:00",
   "items": [
+    {
+      "id": "meme_cec92bff80db",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Ransomware payment rate drops to record low as attacks surge",
+      "dek": "submitted by /u/VosGezaus [link] [comments]",
+      "body": "submitted by /u/VosGezaus [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T10:39:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgzgma/ransomware_payment_rate_drops_to_record_low_as/",
+      "image": "https://external-preview.redd.it/x5hpH4VPtZBfoe3kvYHRnJtw1vPh9Df4foUjuvbF3yE.jpeg?width=640&crop=smart&auto=webp&s=190f723608541f0b81e3010a914e7b7100f1ed4e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_18aa57279464",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-28T09:12:50+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a2e/live/4a810e90-147f-11f1-b958-e37187297895.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c14ca47ec157",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Smoke rises in Tehran as explosions heard across country",
-      "dek": "The BBC's Jon Donnison in Jerusalem reports as Trump says \"major combat operations\" have begun.",
-      "body": "The BBC's Jon Donnison in Jerusalem reports as Trump says \"major combat operations\" have begun.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T07:54:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/clyx9eprwreo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72cd/live/ef166790-1478-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
