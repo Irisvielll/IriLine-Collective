@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T19:52:14+00:00",
+  "generatedAt": "2026-02-28T20:27:10+00:00",
   "items": [
+    {
+      "id": "latest_ae67159c47ad",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran retaliation raises questions about US air defences",
+      "dek": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region.",
+      "body": "Iran's strike on US Navy base in Bahrain will worry Washington and its allies in the region.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T19:34:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f435/live/78689930-14d0-11f1-b106-cbf633dcab7a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d40468753130",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-28T16:00:32+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c5yj9kr31y7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afe7/live/3c458a30-14c1-11f1-8007-5bc8640dd651.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7ebc3567bf17",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Callers to Washington state hotline press 2 for Spanish and get accented AI English instead",
-      "dek": "submitted by /u/Large_banana_hammock [link] [comments]",
-      "body": "submitted by /u/Large_banana_hammock [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T15:52:15+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rh612e/callers_to_washington_state_hotline_press_2_for/",
-      "image": "https://external-preview.redd.it/3nL0sNqcErO4yRP10-RBUf3z4x4oTfmhmaC8bVCNNF4.jpeg?width=640&crop=smart&auto=webp&s=5f3b00212008f49f11eedfc41e0e68ced9693d2b",
       "imageCredit": "Image via original publisher"
     }
   ]
