@@ -46,6 +46,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_6e9da27f42aa",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "76ers' Embiid (oblique) to miss at least 3 games",
+      "dek": "Joel Embiid will miss at least three games because of a strained right oblique, the 76ers said Saturday.",
+      "body": "Joel Embiid will miss at least three games because of a strained right oblique, the 76ers said Saturday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T17:53:37+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48065823/76ers-embiid-miss-least-3-games-oblique-strain",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6e9da27f42aa",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_7690fddaf5f2",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-25T15:50:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dd/live/21ea7fe0-1261-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c4d7d4fe9998",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Food delivery robot goes rogue, causes property damage at L.A. home",
-      "dek": "submitted by /u/TheM1ghtyBear [link] [comments]",
-      "body": "submitted by /u/TheM1ghtyBear [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T15:50:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1regv95/food_delivery_robot_goes_rogue_causes_property/",
-      "image": "https://external-preview.redd.it/ERgaKt0pqxemteAsKIg8jEkZ229-K7hJHvdeBcUh5PY.jpeg?width=640&crop=smart&auto=webp&s=0a5557d4737ffda0c30690a3d7461ff87f8a23a2",
       "imageCredit": "Image via original publisher"
     }
   ]
