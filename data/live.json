@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T10:24:46+00:00",
+  "generatedAt": "2026-02-28T10:47:43+00:00",
   "items": [
+    {
+      "id": "latest_18aa57279464",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Trump announces 'major combat operations' in Iran",
+      "dek": "US President Donald Trump accuses the Iranian regime of waging an \"unending campaign of bloodshed and mass murder targeting the United States\".",
+      "body": "US President Donald Trump accuses the Iranian regime of waging an \"unending campaign of bloodshed and mass murder targeting the United States\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T09:57:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c1d60wvz9zko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebb3/live/baf4efa0-148b-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_61346870f035",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-28T07:54:35+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/clyx9eprwreo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72cd/live/ef166790-1478-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2805e20ffa1d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US military used laser to take down Border Protection drone",
-      "dek": "submitted by /u/ArthurPeabody [link] [comments]",
-      "body": "submitted by /u/ArthurPeabody [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T05:38:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rguews/us_military_used_laser_to_take_down_border/",
-      "image": "https://external-preview.redd.it/Iwq7FT3FsILIFGWlFwOOGpEES00hZuW5lNR4ow_fr2U.jpeg?width=640&crop=smart&auto=webp&s=72b8eedc0ee6b1eeb6c00c94e5081af2765298bb",
       "imageCredit": "Image via original publisher"
     }
   ]

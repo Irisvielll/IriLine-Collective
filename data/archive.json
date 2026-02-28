@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_2805e20ffa1d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "US military used laser to take down Border Protection drone",
+      "dek": "submitted by /u/ArthurPeabody [link] [comments]",
+      "body": "submitted by /u/ArthurPeabody [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T05:38:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rguews/us_military_used_laser_to_take_down_border/",
+      "image": "https://external-preview.redd.it/Iwq7FT3FsILIFGWlFwOOGpEES00hZuW5lNR4ow_fr2U.jpeg?width=640&crop=smart&auto=webp&s=72b8eedc0ee6b1eeb6c00c94e5081af2765298bb",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9aea062e27df",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-25T07:50:35+00:00",
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/48022684/college-football-freshmen-top-recruits-pressure-2026-season",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bba5cfb8ceee",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_751beb8a247b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Judge, Soto or Tatis? Buster Olney ranks baseball's best corner outfielders",
-      "dek": "Do any fast-rising young outfielders beat out these two New York sluggers on our top 10? Let's find out.",
-      "body": "Do any fast-rising young outfielders beat out these two New York sluggers on our top 10? Let's find out.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T07:47:24+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47900609/mlb-2026-buster-olney-top-10-ranking-corner-outfielders-judge-soto-tatis-carroll",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_751beb8a247b",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
