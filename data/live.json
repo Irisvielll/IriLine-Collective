@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T20:49:08+00:00",
+  "generatedAt": "2026-02-28T21:21:51+00:00",
   "items": [
+    {
+      "id": "meme_94f01200539d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man accused of using taco seasoning packets to steal $40,000 from Target",
+      "dek": "submitted by /u/AlphaSixRomeo [link] [comments]",
+      "body": "submitted by /u/AlphaSixRomeo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T21:03:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhdypu/man_accused_of_using_taco_seasoning_packets_to/",
+      "image": "https://external-preview.redd.it/YpKJwodWDiawo_GeVkbDcO-M1BjdRvCqXVLz-tWbCsM.jpeg?width=640&crop=smart&auto=webp&s=1efd63607b555083d934ff723a7cc3b49c788990",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_0f94179e3462",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f435/live/78689930-14d0-11f1-b106-cbf633dcab7a.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d40468753130",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Florida Congressman’s Freudian Slip, “Operation Epic Furry”",
-      "dek": "Operation Epic Furry? Could be interesting. submitted by /u/azbeeking [link] [comments]",
-      "body": "Operation Epic Furry? Could be interesting. submitted by /u/azbeeking [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T19:07:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhb1v2/florida_congressmans_freudian_slip_operation_epic/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d40468753130",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
