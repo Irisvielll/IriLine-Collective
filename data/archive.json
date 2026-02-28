@@ -91,6 +91,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_989d726a948f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ten years into his UFC career, Brandon Moreno still thinks he can be a three-time champion",
+      "dek": "One more run at the flyweight title would cap an already historic career for Mexican MMA pioneer Brandon Moreno.",
+      "body": "One more run at the flyweight title would cap an already historic career for Mexican MMA pioneer Brandon Moreno.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T08:04:56+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/48046079/ufc-mexico-city-headliner-brandon-moreno-wants-three-champ",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_989d726a948f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_c14ca47ec157",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -734,6 +749,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgdu8v/over_half_of_americans_say_health_care_a_weeklong/",
       "image": "https://external-preview.redd.it/onymE4cyZQePE06t4dmzj_pV4PvUcHTY-VVz-soeQwE.jpeg?width=640&crop=smart&auto=webp&s=bb24bcd5de102bc0637d93199f2ef0c36377a4be",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_261ce823ecb9",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Power Rankings: Stakes are high for UCLA, two teams rejoin the list",
+      "dek": "UCLA is on the brink of a perfect league record with its matchup Sunday against USC.",
+      "body": "UCLA is on the brink of a perfect league record with its matchup Sunday against USC.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-27T17:48:10+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48024952/womens-college-basketball-2025-2026-power-rankings-big-ten-ucla",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_261ce823ecb9",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_d804e20a07ed",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/betting/golf/story/_/id/48025658/golf-pga-tour-betting-2026-cognizant-classic-palm-beaches",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d33da73ef2c2",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_44bd9058e4d4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Champions League's biggest upsets: Bodo/Glimt join list of giant killers",
-      "dek": "Norwegian minnows Bodo/Glimt pulled off one of the biggest Champions League upsets ever by eliminating Inter. Here are 10 more major shocks.",
-      "body": "Norwegian minnows Bodo/Glimt pulled off one of the biggest Champions League upsets ever by eliminating Inter. Here are 10 more major shocks.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T09:14:04+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48030782/champions-leagues-biggest-upsets-bodoglimt-join-list-giant-killers",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_44bd9058e4d4",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_f534afd29704",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Asia’s soft power has been growing for years. But ‘Chinamaxxing’is different",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T08:59:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1re87jf/asias_soft_power_has_been_growing_for_years_but/",
-      "image": "https://external-preview.redd.it/4u2hgaSOL81D3jOV5E1jc2XlwUtstjydTF-58TbMcTA.jpeg?width=640&crop=smart&auto=webp&s=889d1eae9aa5d9bdd54167212460f3a60291e10d",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
