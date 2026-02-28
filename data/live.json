@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T07:56:02+00:00",
+  "generatedAt": "2026-02-28T08:33:21+00:00",
   "items": [
+    {
+      "id": "latest_c14ca47ec157",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Smoke rises in Tehran as explosions heard across country",
+      "dek": "The BBC's Jon Donnison in Jerusalem reports as Trump says \"major combat operations\" have begun.",
+      "body": "The BBC's Jon Donnison in Jerusalem reports as Trump says \"major combat operations\" have begun.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T07:54:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/clyx9eprwreo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72cd/live/ef166790-1478-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2805e20ffa1d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-28T05:15:23+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgtziw/biden_flies_commercial_from_reagan_national/",
       "image": "https://external-preview.redd.it/I2sKtjUo35s5cXY1e2etkDl92Jxp9wCyxoNz62UC6T0.jpeg?width=640&crop=smart&auto=webp&s=d111bb1eb0153e1fa402c38e17186b73d6637b77",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a794c231bfa0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Callers to Washington state hotline press 2 for Spanish and get accented AI English instead",
-      "dek": "submitted by /u/Famous-Register-2814 [link] [comments]",
-      "body": "submitted by /u/Famous-Register-2814 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T05:11:40+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgtx0y/callers_to_washington_state_hotline_press_2_for/",
-      "image": "https://external-preview.redd.it/3nL0sNqcErO4yRP10-RBUf3z4x4oTfmhmaC8bVCNNF4.jpeg?width=640&crop=smart&auto=webp&s=5f3b00212008f49f11eedfc41e0e68ced9693d2b",
       "imageCredit": "Image via original publisher"
     }
   ]
