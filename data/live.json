@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-02-28T08:59:48+00:00",
+  "generatedAt": "2026-02-28T09:35:42+00:00",
   "items": [
+    {
+      "id": "latest_61346870f035",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What we know about the joint US-Israel attack on Iran",
+      "dek": "Donald Trump has described \"major combat operations\", with explosions heard across Iran.",
+      "body": "Donald Trump has described \"major combat operations\", with explosions heard across Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T09:12:50+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a2e/live/4a810e90-147f-11f1-b958-e37187297895.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c14ca47ec157",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-28T05:38:45+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rguews/us_military_used_laser_to_take_down_border/",
       "image": "https://external-preview.redd.it/Iwq7FT3FsILIFGWlFwOOGpEES00hZuW5lNR4ow_fr2U.jpeg?width=640&crop=smart&auto=webp&s=72b8eedc0ee6b1eeb6c00c94e5081af2765298bb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9aea062e27df",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Biden flies commercial from Reagan National Airport and winds up stuck in delays like everyone else",
-      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
-      "body": "submitted by /u/HowLongIsThi [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T05:15:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgtziw/biden_flies_commercial_from_reagan_national/",
-      "image": "https://external-preview.redd.it/I2sKtjUo35s5cXY1e2etkDl92Jxp9wCyxoNz62UC6T0.jpeg?width=640&crop=smart&auto=webp&s=d111bb1eb0153e1fa402c38e17186b73d6637b77",
       "imageCredit": "Image via original publisher"
     }
   ]
