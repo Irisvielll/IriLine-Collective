@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_54643af81662",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bill Clinton on Jeffrey Epstein: 'I saw nothing, and I did nothing wrong'",
+      "dek": "submitted by /u/HimelTy [link] [comments]",
+      "body": "submitted by /u/HimelTy [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T14:43:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rh4d8j/bill_clinton_on_jeffrey_epstein_i_saw_nothing_and/",
+      "image": "https://external-preview.redd.it/JcBmZ-5bWK5DE7ddbCFCJelVWChm9jP3vSRZEOlZL5g.jpeg?width=640&crop=smart&auto=webp&s=9a06b93da89441185de86b8705d51e74c325e819",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_208d6dbdcac9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb92/live/eb1973c0-1230-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_50f7fb55cad8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Bain: NFL teams focused on play, not arm length",
-      "dek": "Defensive end Rueben Bain Jr. said no team has mentioned arm length to him during his interviews, focusing on his play instead.",
-      "body": "Defensive end Rueben Bain Jr. said no team has mentioned arm length to him during his interviews, focusing on his play instead.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T12:24:04+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48033088/rueben-bain-jr-says-nfl-teams-focused-play-not-arm-length",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_50f7fb55cad8",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
