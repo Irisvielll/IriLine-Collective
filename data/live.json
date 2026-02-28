@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T11:20:08+00:00",
+  "generatedAt": "2026-02-28T11:41:47+00:00",
   "items": [
     {
       "id": "meme_cec92bff80db",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "meme_732c90443c7b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Leeds pub offers free beer after 25p pint deemed 'irresponsible'",
+      "dek": "submitted by /u/HiDDENk00l [link] [comments]",
+      "body": "submitted by /u/HiDDENk00l [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T10:26:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgz92g/leeds_pub_offers_free_beer_after_25p_pint_deemed/",
+      "image": "https://external-preview.redd.it/VcIaeTc3CgCP5jtcvaDrKprZADQgE8ER3kPuyE9_SmY.jpeg?width=640&crop=smart&auto=webp&s=cc0c1563fba4abf9f8883e554c87fe76c901618d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_18aa57279464",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-02-28T09:57:05+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c1d60wvz9zko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebb3/live/baf4efa0-148b-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_61346870f035",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What we know about the joint US-Israel attack on Iran",
-      "dek": "Donald Trump has described \"major combat operations\", with explosions heard across Iran.",
-      "body": "Donald Trump has described \"major combat operations\", with explosions heard across Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T09:12:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a2e/live/4a810e90-147f-11f1-b958-e37187297895.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
