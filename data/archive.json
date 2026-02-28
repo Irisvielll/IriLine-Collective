@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_0a71e1a9e2d1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
+      "dek": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain.",
+      "body": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-02-28T12:41:49+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dea/live/4d759f00-1496-11f1-94cd-7564c887587c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_40056d6c161f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1reail6/marvel_rivals_fans_demand_shutdown_of_a_website/",
       "image": "https://external-preview.redd.it/jAFZ9RqSGoU0B_B5yLHcL3IXmwv5GvakkC3rplJOc4E.jpeg?width=640&crop=smart&auto=webp&s=0e73d6c027a4c6e97e8132bb2e9bda210eee7615",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_fb579453b445",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Pens' Crosby put on IR, to miss at least 4 weeks",
-      "dek": "Pittsburgh Penguins captain Sidney Crosby will miss at least four weeks after he was moved to injured reserve, the team announced Wednesday.",
-      "body": "Pittsburgh Penguins captain Sidney Crosby will miss at least four weeks after he was moved to injured reserve, the team announced Wednesday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T11:07:43+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48032582/penguins-sidney-crosby-put-ir-miss-least-4-weeks",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fb579453b445",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
