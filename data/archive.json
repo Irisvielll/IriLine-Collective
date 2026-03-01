@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_50bb13e4bdb2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran says US and Israel strikes hit school killing 108",
+      "dek": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops.",
+      "body": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T02:34:04+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/8fad6fc0-14f4-11f1-aec6-05623088f9a7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ae70c7f0d5a8",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-25T20:32:01+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48035776/vinicius-jr-brings-star-power-worries-abound-real-madrid-champions-league",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_731819faeb29",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c20d150b684a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Devils honor Jack Hughes as NHL play resumes",
-      "dek": "U.S. Olympic hero Jack Hughes was honored by the Devils before their game Wednesday night against the Sabres.",
-      "body": "U.S. Olympic hero Jack Hughes was honored by the Devils before their game Wednesday night against the Sabres.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T20:28:20+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48037313/devils-honor-jack-hughes-golden-olympic-goal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c20d150b684a",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
