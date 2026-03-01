@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_05f443c3a4e8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A Possible Upside of a Bitter N.Y.C. Winter? There Might Be Fewer Rats.",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T03:27:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhmllv/a_possible_upside_of_a_bitter_nyc_winter_there/",
+      "image": "https://external-preview.redd.it/3lhm8t_lnqZxl7kxD6-4y3y2yINAW5B8yptd6Qwr0fM.png?width=640&crop=smart&auto=webp&s=468a06fd58665586e7bbfb948f4205fddac9ccdd",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_0ab4eacdf1ec",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rep47y/armed_ice_officer_in_portland_called_911_during/",
       "image": "https://external-preview.redd.it/okx935XETlN_TVMAWU-Hmj97rwclktvpik_JbKiDoJ8.jpeg?width=640&crop=smart&auto=webp&s=9e22b5b27b35972bb8919fc57f5eb7f39d17a0e6",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_40f732ae8635",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "UCL talking points: Madrid, PSG or Italian football -- who is worse off?",
-      "dek": "And then there were 16. Two Italian giants are out, and Real Madrid and Paris Saint-Germain only eked through their playoffs. So who has what it takes to win th",
-      "body": "And then there were 16. Two Italian giants are out, and Real Madrid and Paris Saint-Germain only eked through their playoffs. So who has what it takes to win the Champions League?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T20:32:01+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48035109/champions-league-talking-points-madrid-psg-italian-football-worse-off",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_40f732ae8635",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
