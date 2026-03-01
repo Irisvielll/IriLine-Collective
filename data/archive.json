@@ -136,6 +136,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_608cff62e4ab",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Draft guide: Rankings, tips, strategy, stats and more",
+      "dek": "All the rankings, projections, cheat sheets, strategy and analysis you need for the 2026 fantasy baseball season.",
+      "body": "All the rankings, projections, cheat sheets, strategy and analysis you need for the 2026 fantasy baseball season.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T11:27:51+00:00",
+      "sourceUrl": "https://www.espn.com/fantasy/baseball/story/_/id/47683716/espn-mlb-2026-fantasy-baseball-draft-guide-rankings-analysis-projections-cheat-sheets",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_608cff62e4ab",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_4edd0536bcff",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2380/live/fed26270-126a-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_b0447337d886",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Paris Saint-Germain's Champions League title defense on shaky ground",
-      "dek": "Luis Enrique's defending champs looked a shadow of their former selves, only just edging past Monaco.",
-      "body": "Luis Enrique's defending champs looked a shadow of their former selves, only just edging past Monaco.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T00:04:12+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48039500/paris-saint-germains-champions-league-title-defense-shaky-ground",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b0447337d886",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
