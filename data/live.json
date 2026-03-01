@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-01T19:02:40+00:00",
+  "generatedAt": "2026-03-01T19:34:04+00:00",
   "items": [
+    {
+      "id": "latest_1d45ff73ad61",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+      "dek": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
+      "body": "Iran's surviving leaders are in crisis mode, battling to project security as US and Israel strikes continue.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T18:05:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bd/live/dfbdff70-1594-11f1-9199-ed1f26c0ffa2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_4118b4c6ac8c",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-01T15:30:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ri046n/vatican_removes_salty_white_film_coating/",
       "image": "https://external-preview.redd.it/aTvNK943L8SSAOrjDtmuztHiq8QfbpV1tkWGkvJNBNo.jpeg?width=640&crop=smart&auto=webp&s=9956516fdfba6aa8c5775a4b3a1fd6f223765789",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0011e7eb086f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "North Korea's Kim gifts rifles to officials and his daughter takes aim after party congress",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T15:25:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ri0025/north_koreas_kim_gifts_rifles_to_officials_and/",
-      "image": "https://external-preview.redd.it/ixzVFL3Ok9C-XfRS0W6J3KgZuTLzFbMuomtZCjh2sQs.jpeg?width=640&crop=smart&auto=webp&s=52e7119c8a21e20e0f88ac094cfb6a77551d1120",
       "imageCredit": "Image via original publisher"
     }
   ]
