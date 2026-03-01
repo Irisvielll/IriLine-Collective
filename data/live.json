@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-01T04:54:30+00:00",
+  "generatedAt": "2026-03-01T05:52:46+00:00",
   "items": [
+    {
+      "id": "meme_bf3e52eeab22",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "WA lawmakers advancing bill restricting employers from microchipping workers",
+      "dek": "submitted by /u/Thick_Composer9842 [link] [comments]",
+      "body": "submitted by /u/Thick_Composer9842 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T05:28:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhoy6c/wa_lawmakers_advancing_bill_restricting_employers/",
+      "image": "https://external-preview.redd.it/0r4GZ8-CDU7zsvFgI84Zy_ppOKuKnwkMEo6TQkuQwwQ.jpeg?width=640&crop=smart&auto=webp&s=57f22b1f15d09fc5eae37988c81abfc785fc8e9c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_05f443c3a4e8",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-01T02:34:04+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/042f/live/8fad6fc0-14f4-11f1-aec6-05623088f9a7.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ae70c7f0d5a8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: How US-Israel strikes on Iran unfolded",
-      "dek": "Iran launched retaliatory attacks in the Middle East after US-Israel strikes across the country.",
-      "body": "Iran launched retaliatory attacks in the Middle East after US-Israel strikes across the country.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T02:23:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/clyv5rnd8r0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a7/live/7804ee30-14f8-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
