@@ -91,6 +91,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_f8fc237a7204",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "L.A. Kings fire coach Hiller; name Smith interim",
+      "dek": "The Kings have fired coach Jim Hiller after two seasons and named associate head coach D.J. Smith as the team's interim. Los Angeles is three points out of a wi",
+      "body": "The Kings have fired coach Jim Hiller after two seasons and named associate head coach D.J. Smith as the team's interim. Los Angeles is three points out of a wild-card spot.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T13:11:09+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48073695/los-angeles-kings-fire-coach-jim-hiller-promote-dj-smith",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f8fc237a7204",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_e6b3389d82b8",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Man United up to third as Sesko's hot streak of crucial goals continues",
+      "dek": "Man United are flying and so is Benjamin Sesko, whose match-winning strike against Crystal Palace is just the latest in a run of important goals.",
+      "body": "Man United are flying and so is Benjamin Sesko, whose match-winning strike against Crystal Palace is just the latest in a run of important goals.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T12:56:10+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48071280/manchester-united-third-benjamin-sesko-hot-streak-crucial-goals-continues",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e6b3389d82b8",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_a58afb1d26a4",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-26T02:01:06+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5566/live/93fa3b30-12b0-11f1-836e-2d4c9511f83a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_7338478cc962",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Quenneville second NHL coach to reach 1K wins",
-      "dek": "Joel Quenneville joined Scotty Bowman in the exclusive club when his Ducks rallied to beat the Oilers on Wednesday night.",
-      "body": "Joel Quenneville joined Scotty Bowman in the exclusive club when his Ducks rallied to beat the Oilers on Wednesday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T01:56:46+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48040259/joel-quenneville-becomes-second-nhl-coach-1000-wins",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7338478cc962",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_0b7f1b085628",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sperm swim more quickly in summer, study finds",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T01:53:11+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rex58i/sperm_swim_more_quickly_in_summer_study_finds/",
-      "image": "https://external-preview.redd.it/LvmiWOUh40lu3ICPalI6s9uasyxBHhVRn2g12GlOIww.jpeg?width=640&crop=smart&auto=webp&s=d213c2d9d207cb52e19ee6d7a5b2042851dd0271",
       "imageCredit": "Image via original publisher"
     }
   ]
