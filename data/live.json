@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-01T14:42:22+00:00",
+  "generatedAt": "2026-03-01T14:57:51+00:00",
   "items": [
+    {
+      "id": "latest_a6111ff7879e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The months-long, US-Israeli mission to find and kill Iran's Supreme Leader",
+      "dek": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
+      "body": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T14:45:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f5/live/a2c58af0-1578-11f1-a582-31c179a7c5b4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8473e64eb537",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-01T13:52:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhxsve/ncert_indias_supreme_court_bans_textbook_for/",
       "image": "https://external-preview.redd.it/Wvc1Vlh217MRFFuwPLdiv77m88BNmHKwIeWh72cYYbw.jpeg?width=640&crop=smart&auto=webp&s=4a2b6625ee5a379067f412775e3f7c996450cf94",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bedb19fdedf9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Cardinal had phone during secret conclave to elect Pope",
-      "dek": "The secret conclave that elected Pope Leo head ‌of the Catholic Church was interrupted when one of the 133 cardinals involved was found carrying a mobile phone,",
-      "body": "The secret conclave that elected Pope Leo head ‌of the Catholic Church was interrupted when one of the 133 cardinals involved was found carrying a mobile phone, a massive security breach. submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T13:22:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhx6hi/cardinal_had_phone_during_secret_conclave_to/",
-      "image": "https://external-preview.redd.it/My0rSic8MLU2KB8jZIR5DIrUvFZ6JrCOH_tWegPpwpU.jpeg?width=640&crop=smart&auto=webp&s=7feebf17b5da46b4b5a49792eb65c61b615353d7",
       "imageCredit": "Image via original publisher"
     }
   ]
