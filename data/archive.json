@@ -136,6 +136,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_4edd0536bcff",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Cards' Marmol gets 2-year extension amid rebuild",
+      "dek": "Oliver Marmol, who has a 325-323 record as manager of the Cardinals over four seasons, has signed a two-year extension that includes a club option for 2029.",
+      "body": "Oliver Marmol, who has a 325-323 record as manager of the Cardinals over four seasons, has signed a two-year extension that includes a club option for 2029.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T10:32:46+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48072515/cardinals-oliver-marmol-agree-two-year-contract-extension",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4edd0536bcff",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_7c3098ed55f6",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48039500/paris-saint-germains-champions-league-title-defense-shaky-ground",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b0447337d886",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_09fd4191c599",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
-      "dek": "New evidence reveals what happened when 19 people were shot dead in Kathmandu last September.",
-      "body": "New evidence reveals what happened when 19 people were shot dead in Kathmandu last September.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T00:02:48+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/84548670-1258-11f1-b048-c9424b2cf5fd.png",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
