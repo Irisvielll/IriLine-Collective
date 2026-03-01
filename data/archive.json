@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_f75e76e9f34a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
+      "dek": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf.",
+      "body": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T12:12:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e41/live/7195dc90-155b-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e16027238d77",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -14,6 +29,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhvhit/viktor_orbáns_digital_messaging_strategy_february/",
       "image": "https://external-preview.redd.it/Dk2RKJmQ7qb0ovyJEUP96NrnAW6tyKPypeIMq0n4Hxg.jpeg?width=640&crop=smart&auto=webp&s=1b6a5b959a41af0194646bb007c55891178f7d69",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_7c3098ed55f6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ranking MLB's best at every position for 2026: Olney's top 10s",
+      "dek": "As a new baseball season approaches, we compare the elite at every spot on the diamond.",
+      "body": "As a new baseball season approaches, we compare the elite at every spot on the diamond.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T08:38:58+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/47921972/2026-buster-olney-top-10-mlb-players-best-every-position",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7c3098ed55f6",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_d23e4a767600",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-25T22:38:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1resdi0/tennessee_woman_says_hospital_canceled_her/",
       "image": "https://external-preview.redd.it/KamvgnXG4cZmDoO8W8ulYhyrHqRwZCVwb3A6wC0yMew.jpeg?width=640&crop=smart&auto=webp&s=3221a66e46371b9c22d7424f66bc997a6f83e371",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_049659066a63",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-      "dek": "BBC international correspondent Quentin Sommerville travelled to Culiacán in northern Sinaloa state following an explosion in violence.",
-      "body": "BBC international correspondent Quentin Sommerville travelled to Culiacán in northern Sinaloa state following an explosion in violence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T22:35:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/0ee28050-1298-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e32bd0153790",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "A New York City snowball fight gone wrong leaves Mayor Mamdani at odds with police",
-      "dek": "The NYPD is looking for four people they say injured officers with snowballs, in behavior the commisioner called \"disgraceful\".",
-      "body": "The NYPD is looking for four people they say injured officers with snowballs, in behavior the commisioner called \"disgraceful\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-25T22:16:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyxlgkj0k3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c67/live/bc8ddd80-127a-11f1-99aa-cbb51851ab36.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
