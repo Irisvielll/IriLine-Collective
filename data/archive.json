@@ -76,6 +76,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_172498e1f583",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Arsenal edge past 10-man Chelsea, stretch PL lead",
+      "dek": "Arsenal passed a major examination of their Premier League title credentials after Jurriën Timber and William Saliba both scored from corners in a 2-1 win over ",
+      "body": "Arsenal passed a major examination of their Premier League title credentials after Jurriën Timber and William Saliba both scored from corners in a 2-1 win over Chelsea.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T13:42:11+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/740871",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_172498e1f583",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_bedb19fdedf9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/espn/story/_/id/48040491/third-victim-dies-injuries-suffered-shooting-ri-rink",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d8417f56a2ca",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_2b284c481151",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
-      "dek": "The 33-year-old will still face federal charges in the US and is due to appear in court on Thursday.",
-      "body": "The 33-year-old will still face federal charges in the US and is due to appear in court on Thursday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T02:01:06+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5566/live/93fa3b30-12b0-11f1-836e-2d4c9511f83a.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
