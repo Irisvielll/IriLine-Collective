@@ -61,6 +61,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_7ad5535859eb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Arsenal riding corner kicks to title; Chelsea red-card problems continue",
+      "dek": "Arsenal may be the most dominant corner-kick team the Premier League has ever seen. Meanwhile, Chelsea keep hurting themselves with red cards.",
+      "body": "Arsenal may be the most dominant corner-kick team the Premier League has ever seen. Meanwhile, Chelsea keep hurting themselves with red cards.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T14:32:20+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48073847/arsenal-riding-corner-kicks-premier-league-title-chelsea-red-cards-continue",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7ad5535859eb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_8473e64eb537",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-26T05:25:54+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c0q3747jvnwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56bd/live/f858dfa0-12c4-11f1-96ff-ab92a506340d.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e1213ce161ce",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australian PM apologises after calling child sex abuse survivor and advocate 'difficult'",
-      "dek": "Former Australian of the Year Grace Tame said the word was a \"misogynist's code for a woman who won't comply\".",
-      "body": "Former Australian of the Year Grace Tame said the word was a \"misogynist's code for a woman who won't comply\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T04:43:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg3jvkpdn2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a305/live/c35f8f00-12bb-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
