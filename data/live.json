@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-01T16:59:22+00:00",
+  "generatedAt": "2026-03-01T17:31:27+00:00",
   "items": [
+    {
+      "id": "latest_4118b4c6ac8c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
+      "dek": "Two people were killed and 17 injured, with the suspected gunman also shot dead on the scene.",
+      "body": "Two people were killed and 17 injured, with the suspected gunman also shot dead on the scene.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-01T17:11:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d7/live/0ee313c0-1591-11f1-85e5-f3dff60d76ee.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f2dd330d7e6a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-01T15:25:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ri0025/north_koreas_kim_gifts_rifles_to_officials_and/",
       "image": "https://external-preview.redd.it/ixzVFL3Ok9C-XfRS0W6J3KgZuTLzFbMuomtZCjh2sQs.jpeg?width=640&crop=smart&auto=webp&s=52e7119c8a21e20e0f88ac094cfb6a77551d1120",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3f59100706f4",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Shia LaBeouf says 'gay people are scary to me' while claiming homophobia led to Mardi Gras arrest",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T15:23:30+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhzxs6/shia_labeouf_says_gay_people_are_scary_to_me/",
-      "image": "https://external-preview.redd.it/77vc2tgb3K1v20B8Po_Ov44MEY_5w4oCcW26GIDNDiU.jpeg?width=640&crop=smart&auto=webp&s=4a8cd51596821d6f5727a3c97f904ca2e57ce4ff",
       "imageCredit": "Image via original publisher"
     }
   ]
