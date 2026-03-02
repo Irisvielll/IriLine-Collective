@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-02T08:26:06+00:00",
+  "generatedAt": "2026-03-02T09:08:42+00:00",
   "items": [
+    {
+      "id": "meme_03497e528879",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Microsoft gets tired of “Microslop,” bans the word on its Discord, then locks the server after backlash",
+      "dek": "submitted by /u/WPHero [link] [comments]",
+      "body": "submitted by /u/WPHero [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T08:28:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rine5g/microsoft_gets_tired_of_microslop_bans_the_word/",
+      "image": "https://external-preview.redd.it/wGJVJwnnC6UprV2GPZq0ePdISmZ8o1hVNm-RxSaFJQs.jpeg?width=640&crop=smart&auto=webp&s=0e614e773673fe5edacaa84e7208b3ed9723f879",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4adb69734346",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-02T07:26:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rimej9/rajasthan_cow_hit_by_vande_bharat_train_falls_on/",
       "image": "https://external-preview.redd.it/8kF1POtHTcxuuHsB4UtnurCeBo-optx09p3rRbNfExE.jpeg?width=640&crop=smart&auto=webp&s=9f5c4ee73bb5e50802ae69bcdeca81a06a0755ac",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6ed4909a4ca2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
-      "dek": "The US star's best actor win for Sinners leaves the Oscars race too close to call.",
-      "body": "The US star's best actor win for Sinners leaves the Oscars race too close to call.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-02T05:08:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f4feca00-15f7-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
