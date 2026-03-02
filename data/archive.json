@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_bd45e75604ed",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "UK launches operation to support thousands of Britons in Middle East",
+      "dek": "submitted by /u/b-4v [link] [comments]",
+      "body": "submitted by /u/b-4v [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T02:47:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rih3ib/uk_launches_operation_to_support_thousands_of/",
+      "image": "https://external-preview.redd.it/ddsB35MgzDujZ4ZLPIGL_XsTXMsAK3OD3YxadLyGnyc.jpeg?width=640&crop=smart&auto=webp&s=1a50106c60e11c1564a6640b80b5993486595236",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_bbdd0a5af7f9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-26T13:42:25+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rfah78/the_talibans_new_penal_code_two_weeks_in_jail_for/",
       "image": "https://external-preview.redd.it/kjqvRWM2KZLjMmn0qaXHcNaq7z5k4mxKU9RcRIzDgko.jpeg?width=640&crop=smart&auto=webp&s=65e1ef49000a81574102db29f1b3b9c13db7ad02",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dd1c2bc2d731",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Singer D4vd confirmed as 'target' of investigation into murder of teen",
-      "dek": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
-      "body": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T13:06:54+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy9d57q09zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d68/live/950fc610-1301-11f1-8b4b-dbf73cd2a780.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
