@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-02T23:26:59+00:00",
+  "generatedAt": "2026-03-02T23:51:25+00:00",
   "items": [
+    {
+      "id": "meme_8a9a1a0d1828",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Private jet prices soar as wealthy scramble to leave Dubai",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T23:30:24+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rj8zxk/private_jet_prices_soar_as_wealthy_scramble_to/",
+      "image": "https://external-preview.redd.it/wEufL7wcNmL6l92SAiQe5rLb1XTbGmWDvWx3oLU1Ly0.png?width=640&crop=smart&auto=webp&s=ff7421e51149b8ba36c9a87f4dde7c6b85a67b4c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b4cb0f30c52c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: The third day of the US-Israeli war with Iran",
+      "dek": "A fast-moving day saw the conflict widen in the region, with strikes being traded between opposing sides.",
+      "body": "A fast-moving day saw the conflict widen in the region, with strikes being traded between opposing sides.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T23:21:16+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c23zrpvln04o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d82c/live/6efc9490-168e-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a2f2c2c13551",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-02T21:38:38+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rj63wm/melania_presides_over_un_security_council_meeting/",
       "image": "https://external-preview.redd.it/e-2MXNpfMMFCh_G487N6tc8njb3qDPOF8icrmPKIdYw.jpeg?width=640&crop=smart&auto=webp&s=04cf58506dfd92d9bc5d17e33aee599407fb5d3c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0511e2a267d6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Deckhand on 'Deadliest Catch' boat dies while fishing in Alaskan waters",
-      "dek": "submitted by /u/nbcnews [link] [comments]",
-      "body": "submitted by /u/nbcnews [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-02T21:33:55+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rj5zcu/deckhand_on_deadliest_catch_boat_dies_while/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_0511e2a267d6",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_03de81d7917e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
-      "dek": "Dubai’s reputation as a prosperous destination for expats and influencers has changed for some following Iranian strikes.",
-      "body": "Dubai’s reputation as a prosperous destination for expats and influencers has changed for some following Iranian strikes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-02T21:30:30+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c875rjd990go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f0/live/24c861a0-1676-11f1-86a9-7fad92622b3b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
