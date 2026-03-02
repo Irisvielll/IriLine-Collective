@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_412b9baa14ce",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+      "dek": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power.",
+      "body": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T18:16:14+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb2e/live/e103afb0-1661-11f1-b1a8-d97a7a8b24a4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_7d5957e06741",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-27T02:28:04+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rfub4b/male_neanderthals_and_female_humans_likely/",
       "image": "https://external-preview.redd.it/1ujiLrVWFBYYiJJzoJNfZSWt5HeWkmyaWH-yfEv2gas.jpeg?width=640&crop=smart&auto=webp&s=f7a3c2b8f443b536748e8144449229a9291a7334",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_8c48a1df4d2c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "China Deploys Thousands of Fishing Boats off Japan's Coast, and They Are Not There to Fish",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T02:26:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rfu9sj/china_deploys_thousands_of_fishing_boats_off/",
-      "image": "https://external-preview.redd.it/DNt0OB_c9iHqOrm2T41O811Xsi3WXVtnHRx2v94FqG0.jpeg?width=640&crop=smart&auto=webp&s=165bd6faf0918227551481a2e4d37bfc027170c0",
       "imageCredit": "Image via original publisher"
     }
   ]
