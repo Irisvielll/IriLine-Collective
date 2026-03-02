@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-02T21:35:06+00:00",
+  "generatedAt": "2026-03-02T22:02:12+00:00",
   "items": [
+    {
+      "id": "meme_a2f2c2c13551",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Melania presides over U.N. Security Council meeting as U.S. continues Iran strikes",
+      "dek": "submitted by /u/the-player-of-games [link] [comments]",
+      "body": "submitted by /u/the-player-of-games [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T21:38:38+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rj63wm/melania_presides_over_un_security_council_meeting/",
+      "image": "https://external-preview.redd.it/e-2MXNpfMMFCh_G487N6tc8njb3qDPOF8icrmPKIdYw.jpeg?width=640&crop=smart&auto=webp&s=04cf58506dfd92d9bc5d17e33aee599407fb5d3c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_0511e2a267d6",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
-      "id": "meme_07d3416b2cc6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "HBO Max and Paramount+ to Combine Into One Streaming Platform, Paramount Says HBO Brand Will ‘Operate With Independence",
-      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
-      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-02T21:26:48+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rj5smx/hbo_max_and_paramount_to_combine_into_one/",
-      "image": "https://external-preview.redd.it/Rz-l1Q52Y1UU_jeByTrZiJtdIulV19XNsg-sZBEMd6w.jpeg?width=640&crop=smart&auto=webp&s=9c1c235fd98451f59599801d6d819fec5b23fd14",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_859fb33a7f2b",
+      "id": "latest_03de81d7917e",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Watch: How the US-Israel war with Iran is jeopardising shipping",
-      "dek": "Ben Chu has been looking at what’s happened to marine traffic in the Strait of Hormuz, a key trade passage.",
-      "body": "Ben Chu has been looking at what’s happened to marine traffic in the Strait of Hormuz, a key trade passage.",
+      "title": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
+      "dek": "Dubai’s reputation as a prosperous destination for expats and influencers has changed for some following Iranian strikes.",
+      "body": "Dubai’s reputation as a prosperous destination for expats and influencers has changed for some following Iranian strikes.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-02T21:21:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cvgjnv2y90wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be67/live/afbc1970-1679-11f1-b048-c9424b2cf5fd.jpg",
+      "publishedAt": "2026-03-02T21:30:30+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c875rjd990go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f0/live/24c861a0-1676-11f1-86a9-7fad92622b3b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
