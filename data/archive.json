@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_bbdd0a5af7f9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Amazon investigating after Elgin disabled senior inundated with over 100 packages she didn't order",
+      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
+      "body": "submitted by /u/HowLongIsThi [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T02:37:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rigwbj/amazon_investigating_after_elgin_disabled_senior/",
+      "image": "https://external-preview.redd.it/UtRI17x9EawOy2EpJrvvbIHngjLee4LxyzyHHKjgezk.jpeg?width=640&crop=smart&auto=webp&s=44fed12a0602cc68409a485afe5df7a630f956df",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b62d3fca288b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-26T13:06:54+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy9d57q09zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d68/live/950fc610-1301-11f1-8b4b-dbf73cd2a780.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2a0b96fb50bc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Girl, 14, shot dead as South Africa's 'taxi wars' hit school",
-      "dek": "Violence has plagued South Africa's highly competitive and lucrative taxi industry for decades.",
-      "body": "Violence has plagued South Africa's highly competitive and lucrative taxi industry for decades.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-26T12:57:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c62gz17999eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a2/live/5e159e90-1307-11f1-bf20-f10c8e9eb926.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
