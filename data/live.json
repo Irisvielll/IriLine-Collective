@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-02T04:23:13+00:00",
+  "generatedAt": "2026-03-02T05:34:50+00:00",
   "items": [
+    {
+      "id": "latest_6ed4909a4ca2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Michael B Jordan upends Oscars race as Sinners wins big at Actor Awards",
+      "dek": "The US star's best actor win for Sinners leaves the Oscars race too close to call.",
+      "body": "The US star's best actor win for Sinners leaves the Oscars race too close to call.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-02T05:08:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyzklvk79yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f4feca00-15f7-11f1-9120-a910fc22c6ac.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_bd45e75604ed",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-02T02:37:48+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rigwbj/amazon_investigating_after_elgin_disabled_senior/",
       "image": "https://external-preview.redd.it/UtRI17x9EawOy2EpJrvvbIHngjLee4LxyzyHHKjgezk.jpeg?width=640&crop=smart&auto=webp&s=44fed12a0602cc68409a485afe5df7a630f956df",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b62d3fca288b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oil prices jump after ships attacked near Strait of Hormuz",
-      "dek": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-      "body": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-02T00:36:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ba/live/514ebed0-1578-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
