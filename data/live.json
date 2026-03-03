@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-03T09:56:22+00:00",
+  "generatedAt": "2026-03-03T10:44:53+00:00",
   "items": [
+    {
+      "id": "latest_4eb969a8b1c3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Six US soldiers killed in Iranian strike on Kuwait base",
+      "dek": "The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday.",
+      "body": "The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T09:57:59+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e49d/live/d906d780-16d7-11f1-af4f-2b99c383a185.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_0ddf818a6be3",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-03T07:38:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjj6lb/melania_makes_insulting_comments_while_presiding/",
       "image": "https://external-preview.redd.it/qxLYTWHfvYma6oXqTDTG5zg_f8etGBr8gEVXyvk_ggE.jpeg?width=640&crop=smart&auto=webp&s=d6d13054188503d8c135623ab25617aa10b513ed",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c0f330e8e893",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "U.S. Troops Were Told Iran War Is for “Armageddon,” Return of Jesus",
-      "dek": "And Jesus will finally come, holding the true Epstein files in his holy hands submitted by /u/doninside [link] [comments]",
-      "body": "And Jesus will finally come, holding the true Epstein files in his holy hands submitted by /u/doninside [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T07:28:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjj11j/us_troops_were_told_iran_war_is_for_armageddon/",
-      "image": "https://external-preview.redd.it/0X6YLOJcoWpqRU98GHZcUiQU9GwDuVvexMZpq_i9lWA.jpeg?width=640&crop=smart&auto=webp&s=abb06eecb0e091bb7f32ef0a8edbf4cf893a5d45",
       "imageCredit": "Image via original publisher"
     }
   ]
