@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8d7ceb201aad",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump threatens to halt trade with Spain over military base access",
+      "dek": "Trump lashed out after Spain barred the US from using its military bases to carry out strikes on Iran.",
+      "body": "Trump lashed out after Spain barred the US from using its military bases to carry out strikes on Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T19:48:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb3/live/bc4c7ca0-1739-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_425440bd6018",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgjmyh/como_italian_city_90_armed_soldiers_and_40_police/",
       "image": "https://external-preview.redd.it/3CFM6jwNfW3sUKHdTVqbmEAIfJJnBCqg5idlOozdSZ8.png?width=640&crop=smart&auto=webp&s=8ef159ab09983e98ee35c2ff95e12a9ffdd2a425",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_46eb4013c504",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: New WNBPA proposal offers concessions",
-      "dek": "The Women's National Basketball Players' Association submitted a new counterproposal to the WNBA on Friday evening with some concessions on revenue share and ho",
-      "body": "The Women's National Basketball Players' Association submitted a new counterproposal to the WNBA on Friday evening with some concessions on revenue share and housing, a source told ESPN on Friday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T21:11:51+00:00",
-      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48058040/new-wnbpa-proposal-includes-revenue-sharing-housing-concessions-sources-say",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_46eb4013c504",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
