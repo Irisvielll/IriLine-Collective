@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-03T05:32:50+00:00",
+  "generatedAt": "2026-03-03T06:31:47+00:00",
   "items": [
+    {
+      "id": "meme_d9cc5af2c0aa",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "France to boost nuclear arsenal and extend deterrence to European allies",
+      "dek": "submitted by /u/b-4v [link] [comments]",
+      "body": "submitted by /u/b-4v [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T05:59:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjhigu/france_to_boost_nuclear_arsenal_and_extend/",
+      "image": "https://external-preview.redd.it/izYsaqrYgRsuL-c8fskmNtWWmv0DsU_leBlCvHVzpfA.jpeg?width=640&crop=smart&auto=webp&s=907dfaa0b0813f2662ce16997b59889495456080",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6008b335e6ba",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjfes8/just_in_iran_warns_the_united_states_will_no/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c1569d68477a",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_807282c4efa7",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Latino politician was asked to repeat himself ‘in English’ — while speaking English",
-      "dek": "submitted by /u/AdvancedInstruction [link] [comments]",
-      "body": "submitted by /u/AdvancedInstruction [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T03:07:02+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rje107/latino_politician_was_asked_to_repeat_himself_in/",
-      "image": "https://external-preview.redd.it/sgiQq1ayG8KNkDXHhosOS5OOGAsp2gAU08beD8kG9Zs.jpeg?width=640&crop=smart&auto=webp&s=1a4227beb302d9a63936b3cd1fa7acf6d859f3c8",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
