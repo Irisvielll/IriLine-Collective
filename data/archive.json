@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_99adec5038b1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "JD Vance Calls Himself the Coolest Vice President in History & Brags About It",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T02:17:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjcxep/jd_vance_calls_himself_the_coolest_vice_president/",
+      "image": "https://external-preview.redd.it/0ud4d_ttl56ladxRICow3y0FkjqHhni8e6le9FwCTnU.jpeg?width=640&crop=smart&auto=webp&s=8e425483f4ac599b335e953c77fea43e4949c5f9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ea507a708e76",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,6 +44,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjbcyo/john_bolton_says_hegseth_needs_attitude/",
       "image": "https://external-preview.redd.it/aWCz7KTqiD5cG-PtvemmWjdNQ57B41EfzaFZKjv0vwg.jpeg?width=640&crop=smart&auto=webp&s=21066e1f3f710fe55e4bbf7ceaa5ee2498229967",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_2f67272c3c5c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "No. 2 Arizona tops ISU for outright Big 12 title",
+      "dek": "No. 2 Arizona clinched the outright Big 12 regular-season title with a 73-57 win over No. 6 Iowa State on Monday night.",
+      "body": "No. 2 Arizona clinched the outright Big 12 regular-season title with a 73-57 win over No. 6 Iowa State on Monday night.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T00:08:19+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48086249/no-2-arizona-tops-iowa-state-win-outright-big-12-title",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2f67272c3c5c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_9407912de934",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-27T09:14:47+00:00",
       "sourceUrl": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83fafdb16d69",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_397718d30a09",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Source: Bills re-signing special teamer Franklin",
-      "dek": "The Buffalo Bills are re-signing special teams player and safety Sam Franklin Jr. to a three-year deal, a source told ESPN's Jeremy Fowler.",
-      "body": "The Buffalo Bills are re-signing special teams player and safety Sam Franklin Jr. to a three-year deal, a source told ESPN's Jeremy Fowler.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T08:32:30+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48052991/source-bills-re-signing-core-special-teamer-sam-franklin-jr",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_397718d30a09",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_6c349a0eb378",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Premier League Power Rankings: Chelsea up, Liverpool down in ratings of all 20 teams",
-      "dek": "ESPN's Premier League Power Rankings return to look at all 20 teams: Chelsea are up, Liverpool are down, and Crystal Palace are on fire.",
-      "body": "ESPN's Premier League Power Rankings return to look at all 20 teams: Chelsea are up, Liverpool are down, and Crystal Palace are on fire.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T08:25:52+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48038107/premier-league-power-rankings-rating-all-20-teams-february-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6c349a0eb378",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
