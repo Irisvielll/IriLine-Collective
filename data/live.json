@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-03T11:53:59+00:00",
+  "generatedAt": "2026-03-03T12:59:47+00:00",
   "items": [
+    {
+      "id": "latest_4be68f4305cd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "OpenAI changes deal with US military after backlash",
+      "dek": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.",
+      "body": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T11:51:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7073/live/0c673370-16f3-11f1-a694-e5c2b699acf9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3777328c21d0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "India's top court angry after junior judge cites fake AI-generated orders",
+      "dek": "In several recent instances, AI has disrupted court proceedings in India and elsewhere.",
+      "body": "In several recent instances, AI has disrupted court proceedings in India and elsewhere.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T11:34:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c178zzw780xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab1c/live/e75859a0-16fd-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_33a421538fac",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-03T10:30:12+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cr5l7zdnjgpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1671/live/e6785de0-16d1-11f1-be34-99a23f225661.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4eb969a8b1c3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Six US soldiers killed in Iranian strike on Kuwait base",
-      "dek": "The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday.",
-      "body": "The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T09:57:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e49d/live/d906d780-16d7-11f1-af4f-2b99c383a185.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0ddf818a6be3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oil and gas prices rise on new Iran threat to Gulf shipping",
-      "dek": "Iranian official threatens to \"set fire\" to any ships passing through the crucial Strait of Hormuz.",
-      "body": "Iranian official threatens to \"set fire\" to any ships passing through the crucial Strait of Hormuz.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T08:26:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce05/live/fa23a360-15cb-11f1-82b7-79a863688a9c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
