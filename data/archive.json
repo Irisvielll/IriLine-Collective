@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_857f4cf4e0dd",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "MRFF Inundated with Complaints of Gleeful Commanders Telling Troops Iran War is “Part of God’s Divine Plan” to Usher in the Return of Jesus Christ",
+      "dek": "submitted by /u/JackFunk [link] [comments]",
+      "body": "submitted by /u/JackFunk [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T20:10:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rk00dx/mrff_inundated_with_complaints_of_gleeful/",
+      "image": "https://external-preview.redd.it/zCT5LjsaUdE19rXxQQBVHuGnCryKPOvBz1waf4UL5M0.jpeg?width=640&crop=smart&auto=webp&s=fa54ed1bbcd285676488e35398616b58b2bce838",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8d7ceb201aad",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-27T23:01:06+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg5q6wq11no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7e/live/9c62b8a0-140a-11f1-9120-a910fc22c6ac.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e14f1c404674",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "dek": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.",
-      "body": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T22:52:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e0/live/32bf1ff0-1433-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

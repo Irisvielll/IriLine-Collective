@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-03T21:48:09+00:00",
+  "generatedAt": "2026-03-03T22:30:03+00:00",
   "items": [
+    {
+      "id": "latest_e183c997cf60",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "European allies rush to bolster Cyprus defences after drones target British base",
+      "dek": "The Cypriot government suspects the Iran-backed group Hezbollah in Lebanon targeted the UK's RAF Akrotiri base in Cyprus.",
+      "body": "The Cypriot government suspects the Iran-backed group Hezbollah in Lebanon targeted the UK's RAF Akrotiri base in Cyprus.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T22:10:09+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5597/live/893ae050-1747-11f1-95f3-4f8508781bec.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_131a371a861a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-03T20:28:59+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rk0ixd/spanish_taxi_driver_punches_drunk_irish_tourist/",
       "image": "https://external-preview.redd.it/NL2O8NXMs--3-tNVvf1SHIYy39F-_M2RNuTRECPnNUc.jpeg?width=640&crop=smart&auto=webp&s=8a23f14c8fd1b6820e00374012a70d91e4559201",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_857f4cf4e0dd",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "MRFF Inundated with Complaints of Gleeful Commanders Telling Troops Iran War is “Part of God’s Divine Plan” to Usher in the Return of Jesus Christ",
-      "dek": "submitted by /u/JackFunk [link] [comments]",
-      "body": "submitted by /u/JackFunk [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T20:10:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rk00dx/mrff_inundated_with_complaints_of_gleeful/",
-      "image": "https://external-preview.redd.it/zCT5LjsaUdE19rXxQQBVHuGnCryKPOvBz1waf4UL5M0.jpeg?width=640&crop=smart&auto=webp&s=fa54ed1bbcd285676488e35398616b58b2bce838",
       "imageCredit": "Image via original publisher"
     }
   ]
