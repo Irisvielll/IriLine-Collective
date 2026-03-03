@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-03T10:44:53+00:00",
+  "generatedAt": "2026-03-03T11:20:43+00:00",
   "items": [
+    {
+      "id": "latest_33a421538fac",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US sanctions Rwanda's military and top commanders over fighting in DR Congo",
+      "dek": "Rwanda accused Washington's move as “one sided” and politically motivated.",
+      "body": "Rwanda accused Washington's move as “one sided” and politically motivated.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T10:30:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr5l7zdnjgpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1671/live/e6785de0-16d1-11f1-be34-99a23f225661.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_4eb969a8b1c3",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-03T08:26:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce05/live/fa23a360-15cb-11f1-82b7-79a863688a9c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5ba1b8914791",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Melania makes 'insulting' comments while presiding over UN Security Council",
-      "dek": "submitted by /u/polopiko [link] [comments]",
-      "body": "submitted by /u/polopiko [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T07:38:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjj6lb/melania_makes_insulting_comments_while_presiding/",
-      "image": "https://external-preview.redd.it/qxLYTWHfvYma6oXqTDTG5zg_f8etGBr8gEVXyvk_ggE.jpeg?width=640&crop=smart&auto=webp&s=d6d13054188503d8c135623ab25617aa10b513ed",
       "imageCredit": "Image via original publisher"
     }
   ]

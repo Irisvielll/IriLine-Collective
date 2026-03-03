@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_5ba1b8914791",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Melania makes 'insulting' comments while presiding over UN Security Council",
+      "dek": "submitted by /u/polopiko [link] [comments]",
+      "body": "submitted by /u/polopiko [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T07:38:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjj6lb/melania_makes_insulting_comments_while_presiding/",
+      "image": "https://external-preview.redd.it/qxLYTWHfvYma6oXqTDTG5zg_f8etGBr8gEVXyvk_ggE.jpeg?width=640&crop=smart&auto=webp&s=d6d13054188503d8c135623ab25617aa10b513ed",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c0f330e8e893",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-27T10:47:47+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8a/live/93468770-13b4-11f1-9ab4-edb1bbd74a92.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b373fb7ad50d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
-      "dek": "Sweden's defence minister says there is likely a \"strong link\" between the drone and a Russian naval vessel in the area.",
-      "body": "Sweden's defence minister says there is likely a \"strong link\" between the drone and a Russian naval vessel in the area.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T10:34:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/454d/live/35ad2980-13c2-11f1-8c68-835571867502.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
