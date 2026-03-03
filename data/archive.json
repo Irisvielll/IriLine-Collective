@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_1780ae4249e4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "World Cup playoff tickets on sale for less than $17",
+      "dek": "Tickets for the playoffs in Mexico that will determine two of the final World Cup berths are being sold by FIFA for less than $17.",
+      "body": "Tickets for the playoffs in Mexico that will determine two of the final World Cup berths are being sold by FIFA for less than $17.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T18:19:47+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48092692/world-cup-2026-playoff-tickets-sale-fifa-price",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1780ae4249e4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_02265b932e32",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-27T23:42:38+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48058403/jake-fiegen-hits-game-winning-3-pointer-cornell-beats-yale",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5fc1d80d3fcc",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_373baedddb93",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Prochazka-Ulberg to vie for title as Pereira vacates",
-      "dek": "The UFC announced a vacant light heavyweight title bout between Jiri Prochazka and Carlos Ulberg at UFC 327, meaning former champ Alex Pereira has vacated his b",
-      "body": "The UFC announced a vacant light heavyweight title bout between Jiri Prochazka and Carlos Ulberg at UFC 327, meaning former champ Alex Pereira has vacated his belt.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T23:42:38+00:00",
-      "sourceUrl": "https://www.espn.com/mma/story/_/id/48059111/prochazka-ulberg-title-bout-set-ufc-327-pereira-vacates-belt",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_373baedddb93",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
