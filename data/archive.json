@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_d8e01049a2ac",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Toyota Once Used a Fake Dining Room Set to Teach Executives How Big Americans Are",
+      "dek": "submitted by /u/TripleShotPls [link] [comments]",
+      "body": "submitted by /u/TripleShotPls [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T17:52:38+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjw6qk/toyota_once_used_a_fake_dining_room_set_to_teach/",
+      "image": "https://external-preview.redd.it/c4mkB9obitJu41kXxYTKW2nz7LMHCyRegdUoUxTgHXU.jpeg?width=640&crop=smart&auto=webp&s=a6df3786c7918da4f3f8400337a07a54d9b4b63a",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fe399ff08a61",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -89,6 +104,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rjsghj/mexican_drug_lord_el_mencho_buried_in_golden/",
       "image": "https://external-preview.redd.it/iIkIPkjRfjdM6jvq9bLxIZRVX22akUvbMJQnEQP7H3M.jpeg?width=640&crop=smart&auto=webp&s=1bd3239c0d82bf9557f89eac6ddc8cfcd4f6ab3c",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_2c6c5f2a63f4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "USGA names national amateur awards after Tiger",
+      "dek": "The USGA announced that the winner of the U.S. Amateur now will receive the Tiger Woods Medal, while the U.S. Junior Amateur champ will get the Tiger Woods Trop",
+      "body": "The USGA announced that the winner of the U.S. Amateur now will receive the Tiger Woods Medal, while the U.S. Junior Amateur champ will get the Tiger Woods Trophy.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T14:37:21+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48091192/winners-usga-amateur-events-get-tiger-woods-medal-trophy",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c6c5f2a63f4",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_54a701684740",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-02-27T20:28:48+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c5ygl45g6x1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9995/live/acf94360-141d-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7d60c9a85d2c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Roblox will be the focus of special with former To Catch a Predator host Chris Hansen",
-      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T20:12:40+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rghie9/roblox_will_be_the_focus_of_special_with_former/",
-      "image": "https://external-preview.redd.it/vOUtARYIJMzUJo6_cwKM6FeTuxNTPrcub2zaLaAqf70.jpeg?width=640&crop=smart&auto=webp&s=f6b05bec74407edb6a445ed26213ac7ae9b6e87b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_82e36aaa839f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Obnoxious' AI chatbot talked about its mother, customers say",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T20:01:47+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgh895/obnoxious_ai_chatbot_talked_about_its_mother/",
-      "image": "https://external-preview.redd.it/hTNC4N3K7mSKSl6_gHhOEsJ2xIKhGBDKiyPodkXaEYw.jpeg?width=640&crop=smart&auto=webp&s=7e68a3705f967c528442c9a017d5574c265e1ceb",
       "imageCredit": "Image via original publisher"
     }
   ]
