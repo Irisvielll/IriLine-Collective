@@ -91,6 +91,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_713e8df67852",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Iowa St. discontinues women's gymnastics team",
+      "dek": "Iowa State is ending its women's gymnastics program. The school's AD called the move \"the right decision for our athletics program and our student athletes,\" ci",
+      "body": "Iowa State is ending its women's gymnastics program. The school's AD called the move \"the right decision for our athletics program and our student athletes,\" citing a pattern of issues within the program.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T17:36:41+00:00",
+      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48092623/iowa-state-discontinues-troubled-women-gymnastics-program",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_713e8df67852",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_fe399ff08a61",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mma/story/_/id/48059111/prochazka-ulberg-title-bout-set-ufc-327-pereira-vacates-belt",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_373baedddb93",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_ea84337412d2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "These filmmakers know exactly how to get you hooked on bizarre one-minute dramas",
-      "dek": "The business depends on packing a punch right away because the first five to 10 episodes are free.",
-      "body": "The business depends on packing a punch right away because the first five to 10 episodes are free.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T23:01:06+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg5q6wq11no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f7e/live/9c62b8a0-140a-11f1-9120-a910fc22c6ac.png",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
