@@ -76,6 +76,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_10ac3fc5412a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Jets place franchise tag on star RB Hall",
+      "dek": "The Jets placed their franchise tag on running back Breece Hall ahead of Tuesday's deadline, sources told ESPN.",
+      "body": "The Jets placed their franchise tag on running back Breece Hall ahead of Tuesday's deadline, sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T11:57:47+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48090048/sources-jets-place-franchise-tag-star-rb-breece-hall",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_10ac3fc5412a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_f25149bf5edc",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Madrid's Rodrygo (torn ACL) to miss World Cup",
+      "dek": "Real Madrid on Tuesday confirmed that forward Rodrygo has a torn ACL and a lateral meniscus rupture on his right knee, injuries that are likely to mean he will ",
+      "body": "Real Madrid on Tuesday confirmed that forward Rodrygo has a torn ACL and a lateral meniscus rupture on his right knee, injuries that are likely to mean he will miss this summer's World Cup with Brazil.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T11:57:47+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48089822/real-madrid-rodrygo-torn-acl-season-miss-world-cup",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f25149bf5edc",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_4be68f4305cd",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78fa/live/580d5810-13f9-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f39eb54eb74f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Pokémon cards are finally becoming accessible to kids again as Japan’s speculative bubble collapses",
-      "dek": "submitted by /u/CaptLeaderLegend26 [link] [comments]",
-      "body": "submitted by /u/CaptLeaderLegend26 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T16:52:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgc0tu/pokémon_cards_are_finally_becoming_accessible_to/",
-      "image": "https://external-preview.redd.it/1XPXGWMUUIsU1LSP96nP03S3EB7C0ajPl1Z9Yi9SEcQ.jpeg?width=640&crop=smart&auto=webp&s=dfecad9cad498d794675b8632282bd4e90ce19d3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_f5828d5e6e9f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: NFLPA has finalists for exec. director gig",
-      "dek": "The NFLPA has narrowed down its search for a permanent executive director, sources told ESPN, with current interim David White, and former player president JC T",
-      "body": "The NFLPA has narrowed down its search for a permanent executive director, sources told ESPN, with current interim David White, and former player president JC Tretter among the finalists.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-27T16:50:00+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48056426/nflpa-finalists-executive-director-job-sources-say",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f5828d5e6e9f",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
