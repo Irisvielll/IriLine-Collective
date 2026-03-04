@@ -451,6 +451,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_488292a630d4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Fears over food shortages in Tehran as residents worry about length of war",
+      "dek": "Locals tell BBC Persian they are worried about the availability of groceries and price increases as strikes continue to hit the capital.",
+      "body": "Locals tell BBC Persian they are worried about the availability of groceries and price increases as strikes continue to hit the capital.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-03T18:01:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdr2ep48r33o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2c7/live/383ae4f0-1712-11f1-a977-831dd3cb5c6e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_0a78fbbecf1d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47204818/mens-college-basketball-joe-lunardi-bracketology-watch-guide-2026-march-madness",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5ea8c7a093f3",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_61346870f035",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What we know about the joint US-Israel attack on Iran",
-      "dek": "Donald Trump has described \"major combat operations\", with explosions heard across Iran.",
-      "body": "Donald Trump has described \"major combat operations\", with explosions heard across Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T09:12:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a2e/live/4a810e90-147f-11f1-b958-e37187297895.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
