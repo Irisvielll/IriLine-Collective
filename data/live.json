@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-04T11:36:10+00:00",
+  "generatedAt": "2026-03-04T11:59:18+00:00",
   "items": [
+    {
+      "id": "meme_0304fcb672ec",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "TikTok says it won't encrypt DMs claiming it puts users at risk",
+      "dek": "submitted by /u/Crayonstheman [link] [comments]",
+      "body": "submitted by /u/Crayonstheman [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T11:45:38+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkjc0x/tiktok_says_it_wont_encrypt_dms_claiming_it_puts/",
+      "image": "https://external-preview.redd.it/MlfyzpiEvzQs_ZVvZ19suAVHTivC0TbNTBhSwS0EUb8.jpeg?width=640&crop=smart&auto=webp&s=790b3ec81a56cf87f66a8306fbded67d0d0a2e23",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_0e899cd0fa60",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-04T08:37:38+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1e/live/981def10-17a4-11f1-8ced-99544f08eb33.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_61346870f035",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why did US and Israel attack Iran and how long could the war last?",
-      "dek": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
-      "body": "Iran has carried out strikes against Israel, across the Gulf and against a British base in Cyprus in retaliation.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T07:32:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0290/live/8dad96d0-1712-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
