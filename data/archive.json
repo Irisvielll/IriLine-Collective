@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_51c99107b4fe",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kentucky man accused of sex crimes against roadkill deer",
+      "dek": "submitted by /u/chefchris346 [link] [comments]",
+      "body": "submitted by /u/chefchris346 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T20:03:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkvwkt/kentucky_man_accused_of_sex_crimes_against/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_51c99107b4fe",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_2b9a8633d9d9",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -194,6 +209,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkpk39/rajasthan_india_cow_hit_by_vande_bharat_train/",
       "image": "https://external-preview.redd.it/8kF1POtHTcxuuHsB4UtnurCeBo-optx09p3rRbNfExE.jpeg?width=640&crop=smart&auto=webp&s=9f5c4ee73bb5e50802ae69bcdeca81a06a0755ac",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d287ef8e0475",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Source: Pats to release Diggs after one season",
+      "dek": "The Patriots plan to release wide receiver Stefon Diggs, a source confirmed to ESPN.",
+      "body": "The Patriots plan to release wide receiver Stefon Diggs, a source confirmed to ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T15:48:37+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48102428/source-patriots-release-wr-stefon-diggs-one-season",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d287ef8e0475",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_cc6b3a283171",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhydxg/fda_to_offer_bonus_payments_to_staffers_who/",
       "image": "https://external-preview.redd.it/q4lzB0RexXKaGsLAHHpl2GTz2Zy1eQ_Unkg5LXIpCWI.jpeg?width=640&crop=smart&auto=webp&s=bb606d7cf1d35555bafd7eec955fd483100a6c76",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_eda47052a3a1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "NCERT: India's Supreme Court bans textbook for referring to judicial corruption",
-      "dek": "submitted by /u/Cool_Net_3796 [link] [comments]",
-      "body": "submitted by /u/Cool_Net_3796 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T13:52:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhxsve/ncert_indias_supreme_court_bans_textbook_for/",
-      "image": "https://external-preview.redd.it/Wvc1Vlh217MRFFuwPLdiv77m88BNmHKwIeWh72cYYbw.jpeg?width=640&crop=smart&auto=webp&s=4a2b6625ee5a379067f412775e3f7c996450cf94",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_172498e1f583",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Arsenal edge past 10-man Chelsea, stretch PL lead",
-      "dek": "Arsenal passed a major examination of their Premier League title credentials after Jurriën Timber and William Saliba both scored from corners in a 2-1 win over ",
-      "body": "Arsenal passed a major examination of their Premier League title credentials after Jurriën Timber and William Saliba both scored from corners in a 2-1 win over Chelsea.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T13:42:11+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/740871",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_172498e1f583",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
