@@ -106,6 +106,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_6e1a69320025",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Celebrating Holi - the Hindu festival brings its array of colours to India and elsewhere",
+      "dek": "The Hindu festival, which celebrates the victory of good over evil, also marks the end of winter.",
+      "body": "The Hindu festival, which celebrates the victory of good over evil, also marks the end of winter.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T00:59:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cq6qvvnj1jvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a31/live/91a31190-16de-11f1-8420-a53022a9aaa5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_3a974a827800",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -118,6 +133,21 @@
       "publishedAt": "2026-03-04T00:53:03+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c5yk5yw49nqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc34/live/32b23bb0-1775-11f1-a5ef-4971833a915b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_873a0525cc25",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Goodbye officer, hello touchscreen - a vision for policing in Ethiopia",
+      "dek": "A project to introduce unmanned sites is part of a broader adoption of digital technologies.",
+      "body": "A project to introduce unmanned sites is part of a broader adoption of digital technologies.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T00:40:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjd9jgnrdpko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0859/live/e0c86b70-1711-11f1-b048-c9424b2cf5fd.png",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48062232/inter-miami-invited-white-house-mark-mls-cup-win-source",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_59a9e9aaebc0",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_cec92bff80db",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Ransomware payment rate drops to record low as attacks surge",
-      "dek": "submitted by /u/VosGezaus [link] [comments]",
-      "body": "submitted by /u/VosGezaus [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T10:39:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgzgma/ransomware_payment_rate_drops_to_record_low_as/",
-      "image": "https://external-preview.redd.it/x5hpH4VPtZBfoe3kvYHRnJtw1vPh9Df4foUjuvbF3yE.jpeg?width=640&crop=smart&auto=webp&s=190f723608541f0b81e3010a914e7b7100f1ed4e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_732c90443c7b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Leeds pub offers free beer after 25p pint deemed 'irresponsible'",
-      "dek": "submitted by /u/HiDDENk00l [link] [comments]",
-      "body": "submitted by /u/HiDDENk00l [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T10:26:34+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rgz92g/leeds_pub_offers_free_beer_after_25p_pint_deemed/",
-      "image": "https://external-preview.redd.it/VcIaeTc3CgCP5jtcvaDrKprZADQgE8ER3kPuyE9_SmY.jpeg?width=640&crop=smart&auto=webp&s=cc0c1563fba4abf9f8883e554c87fe76c901618d",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
