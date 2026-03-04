@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_46ff7958aa35",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Korea woman and doctors guilty of murder of newborn baby",
+      "dek": "The case has gripped South Korea, where there is no regulation on how far into pregnancy an abortion can take place.",
+      "body": "The case has gripped South Korea, where there is no regulation on how far into pregnancy an abortion can take place.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T05:43:03+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2k88j5x9wdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2153/live/540ef910-1761-11f1-88d2-67d07890e17a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_8477bdc097cb",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-28T12:07:56+00:00",
       "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b9a2520423fd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_59a9e9aaebc0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Source: MLS champs Miami get White House invite",
-      "dek": "Inter Miami has received an invitation to attend the White House to celebrate the team's 2025 Major League Soccer Cup triumph, a club source confirmed to ESPN.",
-      "body": "Inter Miami has received an invitation to attend the White House to celebrate the team's 2025 Major League Soccer Cup triumph, a club source confirmed to ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T12:02:38+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48062232/inter-miami-invited-white-house-mark-mls-cup-win-source",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_59a9e9aaebc0",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
