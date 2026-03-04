@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_a87f221f764d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man sets hair on fire at University MTR Station",
+      "dek": "submitted by /u/systemerror33 [link] [comments]",
+      "body": "submitted by /u/systemerror33 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T07:15:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkew8m/man_sets_hair_on_fire_at_university_mtr_station/",
+      "image": "https://external-preview.redd.it/aZvNTM6gftatHLvL-7giz9KdkpbUhx8eEQnesT3z7g8.jpeg?width=640&crop=smart&auto=webp&s=8732168f508faff7ec34470abee9638697b11816",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_46ff7958aa35",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-02-28T12:08:40+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/47809690/bubble-watch-mens-ncaa-tournament-march-madness-bracket-predictions-2026",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5e2e688057d2",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b9a2520423fd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Betting buzz: Kon Knueppel overtakes Cooper Flagg as NBA Rookie of the Year favorite",
-      "dek": "Kon Knueppel's hot play has shaken up the Rookie of the Year odds, as the Hornets' star passes Cooper Flagg as the favorite.",
-      "body": "Kon Knueppel's hot play has shaken up the Rookie of the Year odds, as the Hornets' star passes Cooper Flagg as the favorite.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T12:07:56+00:00",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/40159558/betting-buzz-latest-sports-betting-odds-updates-changes-line-moves-industry-intel",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b9a2520423fd",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
