@@ -211,6 +211,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_96255aca2919",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NCAA tourneys to require player availability info",
+      "dek": "For the men's and women's NCAA tournaments, teams must submit initial availability reports the night before a game and provide updates two hours prior to the sc",
+      "body": "For the men's and women's NCAA tournaments, teams must submit initial availability reports the night before a game and provide updates two hours prior to the scheduled tipoff.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T14:36:32+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48101693/ncaa-require-availability-reports-tournament-teams",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_96255aca2919",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_7d680adf4744",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "World Baseball Classic odds: Team USA favored over Japan, Dominican Republic",
+      "dek": "Odds for all 20 teams to win their pool group and to win the World Baseball Classic, which begins March 4.",
+      "body": "Odds for all 20 teams to win their pool group and to win the World Baseball Classic, which begins March 4.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T14:31:14+00:00",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47900058/world-baseball-classic-odds",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7d680adf4744",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_76646d47f4dd",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-01T12:18:04+00:00",
       "sourceUrl": "https://www.espn.com/college-sports/story/_/id/47949356/2026-ncaa-men-hockey-tournament-frozen-four-bubble-watch",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f47a64eddb78",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_f75e76e9f34a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
-      "dek": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf.",
-      "body": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T12:12:02+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e41/live/7195dc90-155b-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_5dd5202f4a90",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Vikings to trade or cut Jones, Hargrave",
-      "dek": "The Vikings have informed running back Aaron Jones and defensive tackle Javon Hargrave that, barring a trade, they will be released at the start of the 2026 lea",
-      "body": "The Vikings have informed running back Aaron Jones and defensive tackle Javon Hargrave that, barring a trade, they will be released at the start of the 2026 league year, sources told ESPN's Adam Schefter.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T12:08:53+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48073269/sources-vikings-trade-cut-aaron-jones-javon-hargrave",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5dd5202f4a90",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
