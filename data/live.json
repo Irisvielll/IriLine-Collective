@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-04T14:08:45+00:00",
+  "generatedAt": "2026-03-04T14:58:10+00:00",
   "items": [
+    {
+      "id": "latest_76646d47f4dd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nigerian doctors suspended over death of author Chimamanda Ngozi Adichie's son",
+      "dek": "The author's 21-month-old son died in January after complications during medical procedures at a private hospital in Lagos.",
+      "body": "The author's 21-month-old son died in January after complications during medical procedures at a private hospital in Lagos.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T14:17:14+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp8rrk5ngngo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/f2da8020-17c8-11f1-96f2-bf3adf077467.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_624bb94cac23",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-04T13:45:45+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkltrm/tooele_woman_arrested_after_allegedly_serving/",
       "image": "https://external-preview.redd.it/pn7FwKhP1SJHWqOt_s_YPUk0M5xDtT4pQBqNBqt4BlM.jpeg?width=640&crop=smart&auto=webp&s=50f7dc1209cd2c17876a87b51fbab1da15036055",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c68a2a655c7b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
-      "dek": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial.",
-      "body": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T13:13:08+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c89kkykg39yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4baf/live/b98d77b0-17bd-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

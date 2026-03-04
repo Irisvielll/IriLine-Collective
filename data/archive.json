@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_c68a2a655c7b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
+      "dek": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial.",
+      "body": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T13:13:08+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c89kkykg39yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4baf/live/b98d77b0-17bd-11f1-9120-a910fc22c6ac.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_53abcf26bd6a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -74,6 +89,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b49/live/15b504e0-17aa-11f1-a2ea-c9162e82aeaa.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_50b42a8c73f3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Source: Bolts to cut Becton, save $9.7M on cap",
+      "dek": "The Chargers plan to release guard Mekhi Becton in a move that will save them $9.7 million against the salary cap, a source told ESPN's Jeremy Fowler.",
+      "body": "The Chargers plan to release guard Mekhi Becton in a move that will save them $9.7 million against the salary cap, a source told ESPN's Jeremy Fowler.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T09:23:19+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48098931/source-chargers-release-mekhi-becton-cost-cutting-move",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_50b42a8c73f3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_f1873823a0f2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Power Rankings: How Champ Week can help or hurt the top teams",
+      "dek": "Teams have one last chance to improve their projected seed -- or protect their spot in the top 16.",
+      "body": "Teams have one last chance to improve their projected seed -- or protect their spot in the top 16.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T09:11:37+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48091132/womens-college-basketball-2025-2026-power-rankings-champ-week-stakes",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f1873823a0f2",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_096a88489c6c",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rheg2h/bulloch_county_man_found_competent_to_stand_trial/",
       "image": "https://external-preview.redd.it/QZqM338NwHdd_UBWyCySM3uVv8EuUH2pNa4ToTEDrT0.png?width=640&crop=smart&auto=webp&s=f2a90cc5e20609bce7451b03b3943d5c0c873f2c",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_94f01200539d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man accused of using taco seasoning packets to steal $40,000 from Target",
-      "dek": "submitted by /u/AlphaSixRomeo [link] [comments]",
-      "body": "submitted by /u/AlphaSixRomeo [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T21:03:30+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rhdypu/man_accused_of_using_taco_seasoning_packets_to/",
-      "image": "https://external-preview.redd.it/YpKJwodWDiawo_GeVkbDcO-M1BjdRvCqXVLz-tWbCsM.jpeg?width=640&crop=smart&auto=webp&s=1efd63607b555083d934ff723a7cc3b49c788990",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_43fb746a50dc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "MSU's Thompson blazes combine-best 4.26 in 40",
-      "dek": "Mississippi State's Brenen Thompson clocked a 4.26-second 40-yard dash Saturday, the third fastest by a wide receiver at the combine since 2003.",
-      "body": "Mississippi State's Brenen Thompson clocked a 4.26-second 40-yard dash Saturday, the third fastest by a wide receiver at the combine since 2003.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T21:02:07+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48066932/mississippi-state-thompson-clocks-426-40-nfl-combine",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_43fb746a50dc",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2568cf5048e2",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Kerr walks back comments on Porzingis' diagnosis",
-      "dek": "Warriors center Kristaps Porzingis will miss a fourth straight game on Saturday night due to general illness.",
-      "body": "Warriors center Kristaps Porzingis will miss a fourth straight game on Saturday night due to general illness.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-02-28T21:02:07+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48067180/warriors-porzingis-sits-fourth-straight-game-illness",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2568cf5048e2",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
