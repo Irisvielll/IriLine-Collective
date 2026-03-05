@@ -196,6 +196,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_e945ec995727",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Man pleads guilty in athlete home burglaries case",
+      "dek": "Alexander Esteban Huaiquil Chavez, a member of a theft group comprising Chilean nationals that burglarized the homes of athletes across the United States in 202",
+      "body": "Alexander Esteban Huaiquil Chavez, a member of a theft group comprising Chilean nationals that burglarized the homes of athletes across the United States in 2024, pleaded guilty to interstate transportation of stolen property on Wednesday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T18:54:25+00:00",
+      "sourceUrl": "https://www.espn.com/espn/story/_/id/48104437/man-pleads-guilty-2024-athlete-home-burglaries-case",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e945ec995727",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_747ab5f21571",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Follow live: USWNT faces off against Canada in 2026 SheBelieves Cup",
+      "dek": "null",
+      "body": "null",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-04T18:52:00+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401846989/canada-united-states",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_747ab5f21571",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_51c8b887e0ab",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48076977/knicks-stifle-streaking-spurs-high-level-defense",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d0a7cbcfe55a",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_8fac90a341ca",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "How succession works in Iran and who could be the country's next supreme leader",
-      "dek": "submitted by /u/b-4v [link] [comments]",
-      "body": "submitted by /u/b-4v [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T20:27:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ri834d/how_succession_works_in_iran_and_who_could_be_the/",
-      "image": "https://external-preview.redd.it/lMrM2dFxu7O61OYGzFCT0xSwwvCX6bg0B2U2K_mVFd0.jpeg?width=640&crop=smart&auto=webp&s=25f326335ad6cee2be98537cccfbded5b8f69572",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_81d05fe04970",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Fairhope penis costume protestor's lawyer says new charges violate First Amendment",
-      "dek": "The video is pretty wild submitted by /u/GetOffMyGrassBrats [link] [comments]",
-      "body": "The video is pretty wild submitted by /u/GetOffMyGrassBrats [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-01T20:19:28+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ri7v8u/fairhope_penis_costume_protestors_lawyer_says_new/",
-      "image": "https://external-preview.redd.it/-9vVycb2C04PxRNqNzpRazVrUamfnJsDmZT_Il3ejJE.jpeg?width=640&crop=smart&auto=webp&s=a8af7a4db841ec3141d4a868fbb98d2504096a5d",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
