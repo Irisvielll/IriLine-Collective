@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_906c10fd7ed7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A medical journal says the case reports it has published for 25 years are, in fact, fiction",
+      "dek": "submitted by /u/Zestyclose_Year5254 [link] [comments]",
+      "body": "submitted by /u/Zestyclose_Year5254 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-05T01:46:46+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rl4h31/a_medical_journal_says_the_case_reports_it_has/",
+      "image": "https://external-preview.redd.it/I-OS-Qn4Z6UhYOh3ROHUfl9unnMIr6pm0660CwhrgZE.png?width=640&crop=smart&auto=webp&s=afab980fde8da9ddb73180c419b949843e5b22e8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_75af49d5935b",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-02T01:33:24+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cj3286ym802o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/def3/live/24fc5210-15f6-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b62d3fca288b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oil prices jump after ships attacked near Strait of Hormuz",
-      "dek": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-      "body": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-02T00:36:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ba/live/514ebed0-1578-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
