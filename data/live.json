@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-05T08:22:13+00:00",
+  "generatedAt": "2026-03-05T09:06:29+00:00",
   "items": [
+    {
+      "id": "latest_b0a20090413e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
+      "dek": "Tehran's strikes come amid speculation that the US wants Iranian Kurdish groups to join the fight against Iran.",
+      "body": "Tehran's strikes come amid speculation that the US wants Iranian Kurdish groups to join the fight against Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-05T08:18:19+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bef/live/d1a7a8c0-1867-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3cfc9a024edf",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-05T02:43:24+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rl5q9e/wa_corruption_and_crime_commission_left_itself/",
       "image": "https://external-preview.redd.it/lvPI4erie_6vTP8AoQO-FvbIV7EG19j2W_560q-boGk.jpeg?width=640&crop=smart&auto=webp&s=a9663d13b9c7b641c825954be9e20fd6eaa9dba8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_223b5e81aee3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "China sets lowest economic growth target since 1991",
-      "dek": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
-      "body": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-05T02:40:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed5/live/1991f5e0-1837-11f1-ba88-6716190c5c39.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
