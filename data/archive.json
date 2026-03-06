@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_bf3c3ae9e895",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Las Vegas police: Tourist stole, tortured flamingo at iconic Strip hotel",
+      "dek": "TW: Animal abuse w/ photos submitted by /u/No_Service1 [link] [comments]",
+      "body": "TW: Animal abuse w/ photos submitted by /u/No_Service1 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T17:06:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmjora/las_vegas_police_tourist_stole_tortured_flamingo/",
+      "image": "https://external-preview.redd.it/JwxPZ1Y3Y5OuxZqeb3vOqstazanquRQ_dcaGf9Mr1Tc.png?width=640&crop=smart&auto=webp&s=66fc703ac1997df96ceed212e6bc51343fdb56b0",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_67f42bd8cc8a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -104,6 +119,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmeeel/saskatchewan_roughriders_seek_someone_who_is/",
       "image": "https://external-preview.redd.it/9_hlyChc23FJhBSbaBWq6jHdeGpu09uHR5WvQtcfruw.jpeg?width=640&crop=smart&auto=webp&s=1ab14a8063921a2c6a84065b53f37599a065e59a",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_8f4291027355",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ogunbowale arrested following Unrivaled title win",
+      "dek": "Dallas Wings guard Arike Ogunbowale was arrested and charged with misdemeanor battery in Miami early Thursday morning after she allegedly punched a man in the f",
+      "body": "Dallas Wings guard Arike Ogunbowale was arrested and charged with misdemeanor battery in Miami early Thursday morning after she allegedly punched a man in the face, according to police records.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T13:25:32+00:00",
+      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48123063/arike-ogunbowale-arrested-battery-unrivaled-win",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8f4291027355",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_4087db37cb5c",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-03T15:08:38+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/cd70zp0v3g4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1480/live/ae113e70-170f-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_2c6c5f2a63f4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "USGA names national amateur awards after Tiger",
-      "dek": "The USGA announced that the winner of the U.S. Amateur now will receive the Tiger Woods Medal, while the U.S. Junior Amateur champ will get the Tiger Woods Trop",
-      "body": "The USGA announced that the winner of the U.S. Amateur now will receive the Tiger Woods Medal, while the U.S. Junior Amateur champ will get the Tiger Woods Trophy.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T14:37:21+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48091192/winners-usga-amateur-events-get-tiger-woods-medal-trophy",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c6c5f2a63f4",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_54a701684740",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mafia boss behind notorious murders in Italy dies behind bars in Milan",
-      "dek": "\"Nitto\" Santapaola was believed to have masterminded the murder of one of Italy's most famous anti-mafia prosecutors in 1992.",
-      "body": "\"Nitto\" Santapaola was believed to have masterminded the murder of one of Italy's most famous anti-mafia prosecutors in 1992.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T13:51:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1kglr2dvk9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0017/live/87f70bc0-16f1-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

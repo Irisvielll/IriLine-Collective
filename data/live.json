@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-06T17:52:56+00:00",
+  "generatedAt": "2026-03-06T18:49:02+00:00",
   "items": [
+    {
+      "id": "latest_98fbd4504703",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Beirut evacuees 'sleeping in tents and cars'",
+      "dek": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
+      "body": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T18:37:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c7/live/93fdf710-1987-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e1d8497cc870",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-06T17:18:40+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmk0ym/girl_scouts_leaders_displeased_after_troop_sells/",
       "image": "https://external-preview.redd.it/U7WrlUhoyzWnGwSd7IloWlGq6BRVLQeETPFdTYMPmqw.jpeg?width=640&crop=smart&auto=webp&s=8526c5ceeb1316ccc86f9386588c0b8359653be3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bf3c3ae9e895",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Las Vegas police: Tourist stole, tortured flamingo at iconic Strip hotel",
-      "dek": "TW: Animal abuse w/ photos submitted by /u/No_Service1 [link] [comments]",
-      "body": "TW: Animal abuse w/ photos submitted by /u/No_Service1 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T17:06:20+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmjora/las_vegas_police_tourist_stole_tortured_flamingo/",
-      "image": "https://external-preview.redd.it/JwxPZ1Y3Y5OuxZqeb3vOqstazanquRQ_dcaGf9Mr1Tc.png?width=640&crop=smart&auto=webp&s=66fc703ac1997df96ceed212e6bc51343fdb56b0",
       "imageCredit": "Image via original publisher"
     }
   ]
