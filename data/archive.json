@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_5adb1633ecae",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Girl Scouts leaders displeased after troop sells cookies outside dispensary",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T17:18:40+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmk0ym/girl_scouts_leaders_displeased_after_troop_sells/",
+      "image": "https://external-preview.redd.it/U7WrlUhoyzWnGwSd7IloWlGq6BRVLQeETPFdTYMPmqw.jpeg?width=640&crop=smart&auto=webp&s=8526c5ceeb1316ccc86f9386588c0b8359653be3",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_bf3c3ae9e895",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -44,6 +59,36 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmgmgt/from_killing_her_dog_to_luxury_jets_six_times/",
       "image": "https://external-preview.redd.it/OVzsn2dmRyCmFFwxBp-h8rtuURo7LQc5JeXbUb3d9CE.jpeg?width=640&crop=smart&auto=webp&s=2f3c78f7fb74a5a3f1b96eff72308d03e9172f19",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_f8609b1d50e5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Fired Michigan coach Moore reaches plea deal",
+      "dek": "Fired Michigan football coach Sherrone Moore pleaded no contest to two misdemeanors to resolve a felony home invasion case. The deal was struck on the same day ",
+      "body": "Fired Michigan football coach Sherrone Moore pleaded no contest to two misdemeanors to resolve a felony home invasion case. The deal was struck on the same day that a judge planned to hear a challenge to Moore's arrest in December.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T15:05:39+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48123821/fired-michigan-coach-sherrone-moore-pleads-no-contest",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f8609b1d50e5",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_0d24b8947c2c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Cup Final regular Perry heads back to Lightning",
+      "dek": "Corey Perry is heading back to the Lightning after a trade from the Kings.",
+      "body": "Corey Perry is heading back to the Lightning after a trade from the Kings.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T15:05:39+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48124196/final-regular-corey-perry-heading-back-lightning",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0d24b8947c2c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_50455184de83",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-03-03T16:37:14+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48043945/2026-nfl-free-agency-top-100-players-ranking-available-hendrickson-willis",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_009d4f41ea87",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_eb2417518d3f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Tracking free agency: Updates on re-signings, trades, cuts and rumors",
-      "dek": "NFL free agency opens with the legal negotiating window on March 9. Here's the latest intel.",
-      "body": "NFL free agency opens with the legal negotiating window on March 9. Here's the latest intel.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T16:37:14+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eb2417518d3f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_f4449cf7077d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Branch latest 5-star hoops recruit to choose BYU",
-      "dek": "Top-10 senior Bruce Branch III has committed to BYU, giving coach Kevin Young his third consecutive recruiting class with a five-star recruit.",
-      "body": "Top-10 senior Bruce Branch III has committed to BYU, giving coach Kevin Young his third consecutive recruiting class with a five-star recruit.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T16:19:40+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48091999/bruce-branch-iii-latest-5-star-recruit-choose-byu",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f4449cf7077d",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_06b0c0f575d9",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "New NHL cap rules frustrating teams at deadline",
-      "dek": "Some NHL executives and player agents told ESPN that they're frustrated by the impact that the new salary cap rules have had ahead of Friday's trade deadline.",
-      "body": "Some NHL executives and player agents told ESPN that they're frustrated by the impact that the new salary cap rules have had ahead of Friday's trade deadline.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T16:19:40+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48092018/nhl-gms-frustrated-new-salary-cap-rules-trade-deadline",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_06b0c0f575d9",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
