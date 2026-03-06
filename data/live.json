@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-06T22:39:01+00:00",
+  "generatedAt": "2026-03-06T23:01:42+00:00",
   "items": [
+    {
+      "id": "meme_9f08ba4a5c6f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Nintendo Suing U.S. Government Over Tariffs",
+      "dek": "submitted by /u/StellarOwl [link] [comments]",
+      "body": "submitted by /u/StellarOwl [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T22:49:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmssfn/nintendo_suing_us_government_over_tariffs/",
+      "image": "https://external-preview.redd.it/neVvTR11BJ0dyDbXlf_9zcWqnjvasBXRo5go44tsAQk.jpeg?width=640&crop=smart&auto=webp&s=46025b1b464cf8fbc22070f4df2461546a145125",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_387892e6659e",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmnr5u/no_more_crying_in_the_kitchen_thanks_to_onion/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_3b2e9e0c12ed",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_98fbd4504703",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Beirut evacuees 'sleeping in tents and cars'",
-      "dek": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
-      "body": "Some residents in the Beirut suburb of Dahieh have left their homes amid ongoing air strikes by Israel.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T18:37:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cg4g0gl23z4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c7/live/93fdf710-1987-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
