@@ -76,6 +76,51 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_9028d14e20d6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sole Iranian Paralympian to miss out on Games",
+      "dek": "Iranian athlete Aboulfazl Khatibi will not compete at the Milan Cortina Paralympic Games because he can't safely travel to Italy amid the intensifying Middle Ea",
+      "body": "Iranian athlete Aboulfazl Khatibi will not compete at the Milan Cortina Paralympic Games because he can't safely travel to Italy amid the intensifying Middle East war, the International Paralympic Committee said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T09:28:04+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/48121345/iran-aboulfazl-khatibi-compete-milan-paralympics",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9028d14e20d6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_6ba97918dcf4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "'Baby Jokic': What makes Cameron Boozer unstoppable in his pursuit of greatness",
+      "dek": "The star freshman has led teams to championships throughout his basketball career. Can he do it again for Duke?",
+      "body": "The star freshman has led teams to championships throughout his basketball career. Can he do it again for Duke?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T09:14:06+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48116184/cameron-boozer-unstoppable-championships-duke",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6ba97918dcf4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_8a2103da1352",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Men's Bracketology: Potential bid thieves to watch in Champ Week",
+      "dek": "Last year, we had no bid thieves -- but as Champ Week gets underway, plenty of teams look vulnerable.",
+      "body": "Last year, we had no bid thieves -- but as Champ Week gets underway, plenty of teams look vulnerable.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T08:56:18+00:00",
+      "sourceUrl": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a2103da1352",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_13115aff0dfd",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48083760/mens-college-basketball-2026-national-title-8-contenders-357-losers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_74111aad5305",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_90001778de79",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Rahm accuses World Tour of 'extorting' players",
-      "dek": "LIV's Jon Rahm on Tuesday accused the DP World Tour of attempting to \"extort\" golfers and said he won't commit to competing in six events on the European tour e",
-      "body": "LIV's Jon Rahm on Tuesday accused the DP World Tour of attempting to \"extort\" golfers and said he won't commit to competing in six events on the European tour each season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T10:46:06+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48088787/jon-rahm-accuses-dp-world-tour-extorting-players",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_90001778de79",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_146ad5286b3a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "2-time gold medalist to swim in Enhanced Games",
-      "dek": "Two-time Olympic gold medalist Hunter Armstrong plans to swim in the PED-friendly Enhanced Games while still pursuing hopes to compete in the 2028 Olympics.",
-      "body": "Two-time Olympic gold medalist Hunter Armstrong plans to swim in the PED-friendly Enhanced Games while still pursuing hopes to compete in the 2028 Olympics.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T10:46:06+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/48084723/olympic-swimmer-hunter-armstrong-joins-enhanced-games",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_146ad5286b3a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_33a421538fac",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US sanctions Rwanda's military and top commanders over fighting in DR Congo",
-      "dek": "Rwanda accused Washington's move as “one sided” and politically motivated.",
-      "body": "Rwanda accused Washington's move as “one sided” and politically motivated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T10:30:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cr5l7zdnjgpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1671/live/e6785de0-16d1-11f1-be34-99a23f225661.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
