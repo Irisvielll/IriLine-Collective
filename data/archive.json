@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_4d246ca1ceff",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump sets his sights on crisis-hit Cuba after Iran action",
+      "dek": "The US president has claimed the Cuban authorities “want to make a deal so bad”.",
+      "body": "The US president has claimed the Cuban authorities “want to make a deal so bad”.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T19:50:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c14m5mj055jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e19/live/086b4680-198c-11f1-a8c7-d931bb8f99d4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_3b2e9e0c12ed",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-03T18:30:31+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48092750/arizona-cardinals-kyler-murray-minnesota-vikings-draft-jimmy-garoppolo",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4d95aae38fb4",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1780ae4249e4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "World Cup playoff tickets on sale for less than $17",
-      "dek": "Tickets for the playoffs in Mexico that will determine two of the final World Cup berths are being sold by FIFA for less than $17.",
-      "body": "Tickets for the playoffs in Mexico that will determine two of the final World Cup berths are being sold by FIFA for less than $17.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T18:19:47+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48092692/world-cup-2026-playoff-tickets-sale-fifa-price",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1780ae4249e4",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

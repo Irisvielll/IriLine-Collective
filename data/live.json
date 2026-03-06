@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-06T23:41:54+00:00",
+  "generatedAt": "2026-03-06T23:59:13+00:00",
   "items": [
+    {
+      "id": "meme_b96a75b0b9ae",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Ships in Gulf declare themselves Chinese to dodge attack",
+      "dek": "submitted by /u/franglish9265 [link] [comments]",
+      "body": "submitted by /u/franglish9265 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T23:40:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmu1q7/ships_in_gulf_declare_themselves_chinese_to_dodge/",
+      "image": "https://external-preview.redd.it/bKfJ8_kHDpKHdALmxCDe3Dt3bQ5wX0d7zNAyDGRA6Jo.png?width=640&crop=smart&auto=webp&s=2b8b988cb267be10b09ea11d9966eedae6253b5c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_9f08ba4a5c6f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-06T22:31:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmsci9/pokémon_condemns_white_house_for_using_its_imagery/",
       "image": "https://external-preview.redd.it/QGlweIvVmvjrqNKInbbgwO3YzYKDo5soTc-asQ9TEmQ.jpeg?width=640&crop=smart&auto=webp&s=2099fc17a710478236240da2fc418cf499a6ac13",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4d246ca1ceff",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump sets his sights on crisis-hit Cuba after Iran action",
-      "dek": "The US president has claimed the Cuban authorities “want to make a deal so bad”.",
-      "body": "The US president has claimed the Cuban authorities “want to make a deal so bad”.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T19:50:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c14m5mj055jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e19/live/086b4680-198c-11f1-a8c7-d931bb8f99d4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
