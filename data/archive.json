@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_5759a8930e9d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
+      "dek": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes.",
+      "body": "Suspected Islamist militants reportedly seized control of a village for two days before being forced out by troops and air strikes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T17:06:14+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2a/live/65fc4b90-1974-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_67f42bd8cc8a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -44,6 +59,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmicio/youtuber_roasted_for_claiming_he_is_stranded_due/",
       "image": "https://external-preview.redd.it/9nb1r4RZeV-s0cGZ0to4F_5BYmbAGnaG8tY3CeDf5Xo.png?width=640&crop=smart&auto=webp&s=2e253ee05f133aff4c527fbae292eeae0238d92f",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_3a1dd5173ed6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Isles land Blues captain Schenn for playoff push",
+      "dek": "The Islanders have acquired Brayden Schenn in trade that sends Jonathan Drouin, two picks and a prospect back to the Blues. Schenn, 34, had served as St. Louis'",
+      "body": "The Islanders have acquired Brayden Schenn in trade that sends Jonathan Drouin, two picks and a prospect back to the Blues. Schenn, 34, had served as St. Louis' captain for the past three seasons.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-06T15:51:48+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48124479/islanders-land-blues-captain-brayden-schenn-playoff-push",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3a1dd5173ed6",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_014512ede7c0",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cpv87wwmd0lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b90c/live/3e86f3e0-1720-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ef2f3cff3efd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Andrew gives up lease on Crown Estate property",
-      "dek": "The former Prince Andrew hands back a property in Ascot, with lease documents showing an annual rent of £13,000.",
-      "body": "The former Prince Andrew hands back a property in Ascot, with lease documents showing an annual rent of £13,000.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T16:51:53+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd9gepe7z4yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1959/live/d3fa6520-1724-11f1-9818-d31fae74aa0f.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_009d4f41ea87",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ranking the NFL's top 100 free agents: Which players should land big contracts?",
-      "dek": "Could Kenneth Walker III, Trey Hendrickson, Jauan Jennings and Malik Willis get a lot of interest from teams? Let's stack the best free agents.",
-      "body": "Could Kenneth Walker III, Trey Hendrickson, Jauan Jennings and Malik Willis get a lot of interest from teams? Let's stack the best free agents.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-03T16:37:14+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48043945/2026-nfl-free-agency-top-100-players-ranking-available-hendrickson-willis",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_009d4f41ea87",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
