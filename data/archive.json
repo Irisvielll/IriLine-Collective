@@ -76,6 +76,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_3ce7b6aacac6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UFC 326: Live results, analysis for Holloway vs. Oliveira 2",
+      "dek": "Brett Okamoto, Andreas Hale and Jeff Wagenheim relay results and live analysis from UFC 326 in Las Vegas.",
+      "body": "Brett Okamoto, Andreas Hale and Jeff Wagenheim relay results and live analysis from UFC 326 in Las Vegas.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T16:58:33+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/48091127/ufc-326-live-results-analysis-bmf-title-max-holloway-vs-charles-oliveira-2",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3ce7b6aacac6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_bd282f665c47",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkql0l/pregnant_womens_brains_shed_grey_matter_to_prime/",
       "image": "https://external-preview.redd.it/D6TKpRiZ2MEQFshDERwC2jFE3MQvlLmN_tnSE0gWHXg.jpeg?width=640&crop=smart&auto=webp&s=fd091d19e642b57599b4b22e990bea4fa49ac6b1",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_f8f7802e4477",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "College football coaching legend Holtz dies at 89",
-      "dek": "Lou Holtz, the quick-witted college football coach who led Notre Dame to a national championship in 1988 and burnished his reputation as a master at rebuilding ",
-      "body": "Lou Holtz, the quick-witted college football coach who led Notre Dame to a national championship in 1988 and burnished his reputation as a master at rebuilding programs, has died at the age 89, his family said Wednesday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T16:44:20+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48103098/legendary-football-coach-commentator-lou-holtz-dies-89",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f8f7802e4477",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
