@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-07T22:50:03+00:00",
+  "generatedAt": "2026-03-07T23:23:35+00:00",
   "items": [
+    {
+      "id": "latest_e5327d9ccab4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Dancers loved practising in this Singapore walkway. Then the complaints came",
+      "dek": "In super-organised Singapore, disputes over public space are a battle between control and chaos.",
+      "body": "In super-organised Singapore, disputes over public space are a battle between control and chaos.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T23:11:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c38/live/d5992c60-1966-11f1-a1cd-a71e69f1cf89.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_b2c21d30fdaa",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-07T21:26:11+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnlvf1/patients_say_measles_worse_than_expected_as_utah/",
       "image": "https://external-preview.redd.it/_kEnBTjRQRzaIUCpeiLvZUdPYtj9NQwxgflbmMbxe5Q.jpeg?width=640&crop=smart&auto=webp&s=7c8404d840715e265c33ac78ddbad4bd9eb88c24",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_54226ecf34bb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
-      "dek": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
-      "body": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T19:16:44+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
