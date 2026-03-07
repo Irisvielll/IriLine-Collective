@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_6b2ab5995718",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Invasive earthworms are rapidly changing northern U.S. forests",
+      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
+      "body": "submitted by /u/HowLongIsThi [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T17:02:25+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnf3mm/invasive_earthworms_are_rapidly_changing_northern/",
+      "image": "https://external-preview.redd.it/4AfUaZkpoBA2JVEvrO5VF77FW3nYz42o699K7Q6xXbM.jpeg?width=640&crop=smart&auto=webp&s=47a581b047d4500cf06fa40500fecc287f8edf8d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_cb158d1929a8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -44,6 +59,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_04c03294734a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "St. Bonaventure's Schmidt to retire, sources say",
+      "dek": "St. Bonaventure head coach Mark Schmidt is expected to retire after this season, sources told ESPN's Pete Thamel. Schmidt, 63, is the all-time wins leader in pr",
+      "body": "St. Bonaventure head coach Mark Schmidt is expected to retire after this season, sources told ESPN's Pete Thamel. Schmidt, 63, is the all-time wins leader in program history.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T13:42:43+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48133601/sources-st-bonaventure-mark-schmidt-expected-retire",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_04c03294734a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_bb03dd0f1bce",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Rory withdraws from Bay Hill with back spasms",
+      "dek": "Rory McIlroy withdrew from the third round of the Arnold Palmer Invitational on Saturday when he felt muscle spasms in his back that were not going away.",
+      "body": "Rory McIlroy withdrew from the third round of the Arnold Palmer Invitational on Saturday when he felt muscle spasms in his back that were not going away.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T13:42:43+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48133475/rory-mcilroy-withdraws-bay-hill-back-spasms",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bb03dd0f1bce",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_2bcfc099e1f4",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-03-04T14:55:30+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg11pne0rro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54e2/live/04843b80-17cf-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_96255aca2919",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NCAA tourneys to require player availability info",
-      "dek": "For the men's and women's NCAA tournaments, teams must submit initial availability reports the night before a game and provide updates two hours prior to the sc",
-      "body": "For the men's and women's NCAA tournaments, teams must submit initial availability reports the night before a game and provide updates two hours prior to the scheduled tipoff.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T14:36:32+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48101693/ncaa-require-availability-reports-tournament-teams",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_96255aca2919",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_7d680adf4744",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "World Baseball Classic odds: Team USA favored over Japan, Dominican Republic",
-      "dek": "Odds for all 20 teams to win their pool group and to win the World Baseball Classic, which begins March 4.",
-      "body": "Odds for all 20 teams to win their pool group and to win the World Baseball Classic, which begins March 4.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T14:31:14+00:00",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/47900058/world-baseball-classic-odds",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7d680adf4744",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_76646d47f4dd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nigerian doctors suspended over death of author Chimamanda Ngozi Adichie's son",
-      "dek": "The author's 21-month-old son died in January after complications during medical procedures at a private hospital in Lagos.",
-      "body": "The author's 21-month-old son died in January after complications during medical procedures at a private hospital in Lagos.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T14:17:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cp8rrk5ngngo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/f2da8020-17c8-11f1-96f2-bf3adf077467.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
