@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-07T07:48:47+00:00",
+  "generatedAt": "2026-03-07T08:33:11+00:00",
   "items": [
+    {
+      "id": "latest_c962de8b4f8f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russian strike on Kharkiv apartment block kills seven",
+      "dek": "Ukraine President Volodymyr Zelensky says ten other people - including children - are injured as rescuers continue to search through rubble.",
+      "body": "Ukraine President Volodymyr Zelensky says ten other people - including children - are injured as rescuers continue to search through rubble.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T07:54:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e4/live/782b0310-19f6-11f1-bd6f-8f561353e15e.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5893d4e92531",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-07T06:00:32+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rn23wz/fatbikes_are_wreaking_havoc_in_sydneys_wealthy/",
       "image": "https://external-preview.redd.it/0Ee-pIgas8aHsrFPL-Lytf9rG0EsnE4xZGfkRhu0O5k.jpeg?width=640&crop=smart&auto=webp&s=0ab34eba149bbb71b5970b0f22371723a9727359",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_98fc0cc4d5d6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Samsung renames its internet browser from \"Internet\" to \"Browser\"",
-      "dek": "submitted by /u/lightspeedCEO [link] [comments]",
-      "body": "submitted by /u/lightspeedCEO [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T03:10:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmyqoq/samsung_renames_its_internet_browser_from/",
-      "image": "https://external-preview.redd.it/Va_-ldM9s0CvmOVcgNWTbj0b6cXS-EJf5r7qOxO8bio.jpeg?width=640&crop=smart&auto=webp&s=61628baea28f547caf93d06424c87eb728870934",
       "imageCredit": "Image via original publisher"
     }
   ]
