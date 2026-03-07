@@ -76,6 +76,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_adfcfcd0d668",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Eagles, DT Davis reach 3-year extension",
+      "dek": "The Eagles and DT Jordan Davis have reached agreement on a three-year, $78 million extension that includes $65 million guaranteed.",
+      "body": "The Eagles and DT Jordan Davis have reached agreement on a three-year, $78 million extension that includes $65 million guaranteed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T14:39:38+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48134138/sources-eagles-dt-jordan-davis-reach-3-year-extension",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_adfcfcd0d668",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_2f615460aad8",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-04T15:17:50+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa45/live/822c3050-17cb-11f1-96f2-bf3adf077467.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e5c4159fbb68",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "NBA player misses first game since 2021 after waking up from a nap with an injury",
-      "dek": "submitted by /u/nbcnews [link] [comments]",
-      "body": "submitted by /u/nbcnews [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T15:05:15+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkns98/nba_player_misses_first_game_since_2021_after/",
-      "image": "https://external-preview.redd.it/1DbblZntn3I2pGZ03FZgXGwgf_St-Fhda2RfJFV7snw.jpeg?width=640&crop=smart&auto=webp&s=5dd746266f36c20e44c05264c8c3e165784faf95",
       "imageCredit": "Image via original publisher"
     }
   ]
