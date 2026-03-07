@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-07T19:01:36+00:00",
+  "generatedAt": "2026-03-07T19:33:28+00:00",
   "items": [
+    {
+      "id": "latest_54226ecf34bb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+      "dek": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+      "body": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T19:16:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a7caebab2577",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+      "dek": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
+      "body": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T19:09:19+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f39/live/79a3db40-1a55-11f1-83d5-4db8b4c1972d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_541aa406c218",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-07T18:37:07+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnhkti/us_ambassador_to_canada_requests_apology_for/",
       "image": "https://external-preview.redd.it/bGvmwJY-3MeIbr75FihOFV1UhtEUanyGjt41imRtJA0.jpeg?width=640&crop=smart&auto=webp&s=43cf777eeaa612c9e70a1a3f116b2e745a0c33c6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9cb434647b55",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Federal Prosecutor Used Fabricated Quotes in Court Filing",
-      "dek": "submitted by /u/nosotros_road_sodium [link] [comments]",
-      "body": "submitted by /u/nosotros_road_sodium [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T17:18:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnfiok/federal_prosecutor_used_fabricated_quotes_in/",
-      "image": "https://external-preview.redd.it/-OPJQF6mRrushX7dbzX8Xbj4kIbUHBYESnBNsDreHzQ.jpeg?width=640&crop=smart&auto=webp&s=29f007c7b7c245482dfea3478222562794ffcaa0",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7d0b4ff5dd96",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rapper-politician Balendra Shah set to be Nepal's next prime minister",
-      "dek": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
-      "body": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T17:02:29+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740d/live/6f99d390-1a3f-11f1-bbcf-6dca17345a4c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
