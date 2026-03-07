@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_4e3bcaec0e05",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Americans Taxpayers Will Pay $1,242 Indirectly to Replenish the Arsenal After 7 Days of Netanyahu's War",
+      "dek": "submitted by /u/Head_Oven_3671 [link] [comments]",
+      "body": "submitted by /u/Head_Oven_3671 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T12:30:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rn8to9/americans_taxpayers_will_pay_1242_indirectly_to/",
+      "image": "https://external-preview.redd.it/jJs-wY6A1DAiqYpbUn8FPg6mIGxnobQtjYBOkWQRoAk.jpeg?width=640&crop=smart&auto=webp&s=4de9b2febafd55055c854d8d9a6bf6ec36de5e5d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_18df130da074",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rn6bvj/us_weighs_lifting_russian_oil_sanctions_as_iran/",
       "image": "https://external-preview.redd.it/3GjK5fsDN-w50HzXEMhIjnKUroRez_mKjiJJ9KQ22-k.jpeg?width=640&crop=smart&auto=webp&s=29665472dffb502bd3682ee46e4c1fc584396c74",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_ff9ce88d7af1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Russell takes pole as Mercedes looks dominant",
+      "dek": "George Russell delivered on his status as the world championship favorite by taking a crushing pole position.",
+      "body": "George Russell delivered on his status as the world championship favorite by taking a crushing pole position.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T09:18:30+00:00",
+      "sourceUrl": "https://www.espn.com/f1/story/_/id/48098499/australian-grand-prix-qualifying-george-russell-seizes-opening-pole-mercedes-dominate-qualifying-melbourne",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ff9ce88d7af1",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_d31ab5c6bb4d",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b49/live/15b504e0-17aa-11f1-a2ea-c9162e82aeaa.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_247cf38facec",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Dallas reworks Dak, Lamb deals, now under cap",
-      "dek": "The Cowboys have gotten under the $301.2 million salary cap on Wednesday by restructuring the contracts of Dak Prescott, CeeDee Lamb and Tyler Smith, according ",
-      "body": "The Cowboys have gotten under the $301.2 million salary cap on Wednesday by restructuring the contracts of Dak Prescott, CeeDee Lamb and Tyler Smith, according to sources.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T10:47:26+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48099901/sources-cowboys-rework-prescott-lamb-smith-deals-now-cap",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_247cf38facec",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c1e8b3931501",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Jeremiyah Love at No. 4? Why the Titans could take electrifying Notre Dame RB",
-      "dek": "Tennessee came away impressed from the combine with the draft's top running back prospect.",
-      "body": "Tennessee came away impressed from the combine with the draft's top running back prospect.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T10:09:01+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48083611/tennessee-titans-draft-fourth-pick-notre-dame-jeremiyah-love-running-back",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c1e8b3931501",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
