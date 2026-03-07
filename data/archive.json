@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_73adb5b1b56d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Ukraine helps US fight off drone attacks",
+      "dek": "submitted by /u/davida_usa [link] [comments]",
+      "body": "submitted by /u/davida_usa [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T13:09:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rn9kqy/ukraine_helps_us_fight_off_drone_attacks/",
+      "image": "https://external-preview.redd.it/f1P--DwSY_gg0CEQHMs0LTOhYyfrbnfUKL7aZVKm0aw.jpeg?width=640&crop=smart&auto=webp&s=3c672db5f0d3310563da240171ed58c6674569ed",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_4e3bcaec0e05",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-04T11:11:52+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48090427/what-hearing-days-ahead-nhl-trade-deadline-friday-march-6",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ecb44262d33c",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_909c5b126ffe",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ex-Packers STC Bisaccia added to Clemson staff",
-      "dek": "Former Green Bay Packers special teams coordinator Rich Bisaccia will take on the same role at the college ranks with Clemson.",
-      "body": "Former Green Bay Packers special teams coordinator Rich Bisaccia will take on the same role at the college ranks with Clemson.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T11:08:27+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48099957/clemson-hires-former-packers-special-teams-coordinator-bisaccia",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_909c5b126ffe",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
