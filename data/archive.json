@@ -76,6 +76,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_8f2de99636b1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Suzuki's 2 HRs power unbeaten Japan to WBC win",
+      "dek": "Defending champion Japan hit four home runs -- two by Chicago Cubs slugger Seiya Suzuki -- to beat Korea 8-6 on Saturday and stay undefeated in Pool C of the Wo",
+      "body": "Defending champion Japan hit four home runs -- two by Chicago Cubs slugger Seiya Suzuki -- to beat Korea 8-6 on Saturday and stay undefeated in Pool C of the World Baseball Classic.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T09:43:01+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48131607/seiya-suzuki-homers-twice-japan-overpowers-south-korea-wbc",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8f2de99636b1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_ff9ce88d7af1",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/48099957/clemson-hires-former-packers-special-teams-coordinator-bisaccia",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_909c5b126ffe",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_0e899cd0fa60",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africa's long-serving former defence minister and former Robben Island prisoner dies",
-      "dek": "Mosiuoa Lekota was imprisoned with former South African President Nelson Mandela on Robben Island.",
-      "body": "Mosiuoa Lekota was imprisoned with former South African President Nelson Mandela on Robben Island.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T10:55:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b49/live/15b504e0-17aa-11f1-a2ea-c9162e82aeaa.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
