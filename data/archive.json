@@ -271,6 +271,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_49336b033da1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Steve Emt's incredible story: From UConn basketball to three-time Paralympian",
+      "dek": "Former UConn basketball player Steve Emt was paralyzed in a car accident at 25. Then he discovered his immense skill in Paralympic curling.",
+      "body": "Former UConn basketball player Steve Emt was paralyzed in a car accident at 25. Then he discovered his immense skill in Paralympic curling.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T14:46:43+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/48125815/paralympics-2026-milan-cortina-steve-emt-wheelchair-curling",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_49336b033da1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_adfcfcd0d668",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-04T17:19:06+00:00",
       "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/740878",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c9c235571d21",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_935bde622ecc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Rodgers still undecided despite McCarthy's hire",
-      "dek": "Veteran QB Aaron Rodgers says he remains undecided on his playing status for next season despite Steelers hiring Mike McCarthy, who he won a Super Bowl with in ",
-      "body": "Veteran QB Aaron Rodgers says he remains undecided on his playing status for next season despite Steelers hiring Mike McCarthy, who he won a Super Bowl with in Green Bay.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T17:19:06+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48103235/rodgers-future-remains-unclear-steelers-mccarthy-hire",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_935bde622ecc",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
