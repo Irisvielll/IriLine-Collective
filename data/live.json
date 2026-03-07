@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-07T21:43:59+00:00",
+  "generatedAt": "2026-03-07T21:56:02+00:00",
   "items": [
+    {
+      "id": "meme_b2c21d30fdaa",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Ashley Guillard: TikTok tarot reader ordered to pay $10m over false predictions about Idaho murders",
+      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T21:47:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnmdvk/ashley_guillard_tiktok_tarot_reader_ordered_to/",
+      "image": "https://external-preview.redd.it/mScjwDVLN4Y4x6TOHC-5VYSFIahXNTuaAmdparNSQi0.jpeg?width=640&crop=smart&auto=webp&s=ec9fc667783232ce6283f6b69ba7487feb71b18b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e85fce0c6a30",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-07T19:16:44+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a7caebab2577",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
-      "dek": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
-      "body": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T19:09:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f39/live/79a3db40-1a55-11f1-83d5-4db8b4c1972d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
