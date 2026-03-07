@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_2bcfc099e1f4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Could drones inside classrooms prevent school shootings? A company is testing it",
+      "dek": "submitted by /u/IneffectiveMilkshake [link] [comments]",
+      "body": "submitted by /u/IneffectiveMilkshake [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T13:10:27+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rn9lu7/could_drones_inside_classrooms_prevent_school/",
+      "image": "https://external-preview.redd.it/HzjY0XivvsYRV5DRXRXuuIkSbMfh-WieqFiKmql9uWg.png?width=640&crop=smart&auto=webp&s=b9b46c052db13e3df237040bca80b0a6afa85165",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_73adb5b1b56d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -74,6 +89,36 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rn8h7i/bear_penis_to_remain_on_bernese_coat_of_arms/",
       "image": "https://external-preview.redd.it/Nrv7axpbUzPy52PQCA-ZHlDxXUfiJ3tCM6qSIcK8XAc.jpeg?width=640&crop=smart&auto=webp&s=15b7db8f231c0308cf633731f228c85b1e661ca6",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d343833ddaf0",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "With quadruple bid still on, Arsenal's Arteta still learning art of rotation",
+      "dek": "Mikel Arteta has one of Arsenal's strongest ever squads. But, with four competitions in play, he is still learning how to rotate.",
+      "body": "Mikel Arteta has one of Arsenal's strongest ever squads. But, with four competitions in play, he is still learning how to rotate.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T10:58:47+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48131850/arsenal-edge-mansfield-fa-cup-arteta-learning-art-rotation",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d343833ddaf0",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_ef55f76d34f2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Detry shares LIV lead with Rahm after travel assist",
+      "dek": "Thomas Detry was among eight players from LIV Golf stuck in the Middle East amid the Israeli-U.S. attacks on Iran. Jon Rahm arranged a flight to get them to Hon",
+      "body": "Thomas Detry was among eight players from LIV Golf stuck in the Middle East amid the Israeli-U.S. attacks on Iran. Jon Rahm arranged a flight to get them to Hong Kong for the LIV event. Now Detry and Rahm are tied for the lead going into the final round.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T10:56:44+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48132185/rahm-helped-detry-get-hong-kong-now-share-liv-lead",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ef55f76d34f2",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_e847c101afa3",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkjc0x/tiktok_says_it_wont_encrypt_dms_claiming_it_puts/",
       "image": "https://external-preview.redd.it/MlfyzpiEvzQs_ZVvZ19suAVHTivC0TbNTBhSwS0EUb8.jpeg?width=640&crop=smart&auto=webp&s=790b3ec81a56cf87f66a8306fbded67d0d0a2e23",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_73c6e0f747a4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Aryna Sabalenka announces her engagement to Georgios Frangulis",
-      "dek": "The news drew congratulations from players like Carlos Alcaraz, Novak Djokovic and Amanda Anisimova.",
-      "body": "The news drew congratulations from players like Carlos Alcaraz, Novak Djokovic and Amanda Anisimova.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T11:27:54+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/48099211/aryna-sabalenka-engagement-georgios-frangulis",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_73c6e0f747a4",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_a401dca7452a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wembanyama reflects on recent visit to see Alaska's northern lights",
-      "dek": "The San Antonio Spurs star visited Alaska to see the northern lights after the All-Star break.",
-      "body": "The San Antonio Spurs star visited Alaska to see the northern lights after the All-Star break.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T11:27:54+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48095989/victor-wembanyama-alaska-northern-lights-visit-nba-san-antonio-spurs",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a401dca7452a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ecb44262d33c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vincent Trocheck? Aggressive Sabres? What we're hearing days ahead of the NHL trade deadline",
-      "dek": "With the trade deadline set for Friday, it has been fairly quiet this week. But all it takes is one big deal to get things moving.",
-      "body": "With the trade deadline set for Friday, it has been fairly quiet this week. But all it takes is one big deal to get things moving.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T11:11:52+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48090427/what-hearing-days-ahead-nhl-trade-deadline-friday-march-6",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ecb44262d33c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
