@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_ab5ed6f99b67",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NHL playoff watch: Who will win the Pacific Division title?",
+      "dek": "It's Golden Knights-Oilers at 9:30 p.m. on ESPN. Plus, full playoff projections, draft lottery standings and more.",
+      "body": "It's Golden Knights-Oilers at 9:30 p.m. on ESPN. Plus, full playoff projections, draft lottery standings and more.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T07:32:31+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48136188/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ab5ed6f99b67",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_fe545a5f1076",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -28,6 +43,21 @@
       "publishedAt": "2026-03-08T07:24:44+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48111448/nfl-free-agency-news-latest-wrs-rbs-pierce-crosby",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f719908abf98",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_d1e5dda36295",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "The pride and power of Iowa State basketball's Audi Crooks",
+      "dek": "Audi Crooks hears the haters. But Iowa State's star inherited resilience from her mom and joy from her dad. Her high-scoring game is the ultimate counterpoint.",
+      "body": "Audi Crooks hears the haters. But Iowa State's star inherited resilience from her mom and joy from her dad. Her high-scoring game is the ultimate counterpoint.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T07:22:06+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48122774/iowa-state-women-basketball-audi-crooks-praise-criticism-ncaa-tournament",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d1e5dda36295",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rl054p/alleged_sexual_abuser_max_landis_to_develop_new/",
       "image": "https://external-preview.redd.it/52M-yhEnXdKPliZF-DgbHe5-_PdDsOHLH7JA3eWOcBI.jpeg?width=640&crop=smart&auto=webp&s=8433cbc43ea37caadb5bd767b5583709abb26a7e",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_18b5ed5572f7",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Emma Hayes' USWNT vision for 2027 World Cup is becoming clear",
-      "dek": "After so much experimentation, how the USWNT will look under Emma Hayes at the 2027 Women's World Cup is becoming evident.",
-      "body": "After so much experimentation, how the USWNT will look under Emma Hayes at the 2027 Women's World Cup is becoming evident.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T22:38:26+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48106232/emma-hayes-uswnt-vision-2027-world-cup-becoming-clear",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_18b5ed5572f7",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_a0c4bf7da148",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "20 camels disqualified for Botox and lip fillers at beauty contest",
-      "dek": "submitted by /u/PauloPatricio [link] [comments]",
-      "body": "submitted by /u/PauloPatricio [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T22:16:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkzflb/20_camels_disqualified_for_botox_and_lip_fillers/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a0c4bf7da148",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
