@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_054ec1abaafb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man dies after allegedly cutting off his own penis in downtown Los Angeles",
+      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
+      "body": "submitted by /u/HowLongIsThi [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T18:38:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1roclxp/man_dies_after_allegedly_cutting_off_his_own/",
+      "image": "https://external-preview.redd.it/y1nGmqclYj58NXHaN5cHb3O_YhJx8mH1C32AYqcD5DI.png?width=640&crop=smart&auto=webp&s=e8f66a3aca28d493e9cfa53d866bc38f7d3b2e53",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ae621518511a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-05T07:21:16+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48084180/nba-all-contract-team-brunson-knicks-avdija-johnson-15-player-roster",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4e7153cdec5f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_0e103ad48c90",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "World Baseball Classic preview: Power Rankings, most likely MVPs and how far each team could go",
-      "dek": "Can anyone challenge Team USA? Which stars will shine brightest? Here's everything you need for the 2026 WBC.",
-      "body": "Can anyone challenge Team USA? Which stars will shine brightest? Here's everything you need for the 2026 WBC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-05T07:14:08+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48102138/2026-world-baseball-classic-preview-wbc-power-rankings-united-states-dominican-republic-japan",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0e103ad48c90",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
