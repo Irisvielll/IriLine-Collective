@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-08T10:59:56+00:00",
+  "generatedAt": "2026-03-08T11:30:26+00:00",
   "items": [
+    {
+      "id": "meme_1bacc732ab2d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Texas fracker turned escort says repression allowed business to flourish",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T11:19:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ro2ebg/texas_fracker_turned_escort_says_repression/",
+      "image": "https://external-preview.redd.it/hBQblt8Y6Zkwwx_GlGnqJ1-wz3AaR4WES8bhnEss6Dw.png?width=640&crop=smart&auto=webp&s=18704563e26221c21ba94434ca391fef89e02981",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_71252d1e8f4f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "UK does not 'agree with Trump on every issue' - Cooper",
+      "dek": "Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.",
+      "body": "Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T11:13:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/2b81ba20-1ade-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d9b647690cf5",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6522/live/279c1e80-1abd-11f1-9120-a910fc22c6ac.png",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_696eeb1201c7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'This is a moment of grave peril' - UN humanitarian chief",
-      "dek": "UN Humanitarian Affairs Lead Tom Fletcher speaks to the BBC about the conflict in the Middle East.",
-      "body": "UN Humanitarian Affairs Lead Tom Fletcher speaks to the BBC about the conflict in the Middle East.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T07:05:27+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83bc/live/5c5ad820-1abb-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_2f162adcd899",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Transfer rumors, news: Real Madrid join Arsenal in race for Tonali",
-      "dek": "Real Madrid have taken an interest in Newcastle's Sandro Tonali, while Bernardo Silva is set to leave Man City. Transfer Talk has the latest.",
-      "body": "Real Madrid have taken an interest in Newcastle's Sandro Tonali, while Bernardo Silva is set to leave Man City. Transfer Talk has the latest.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T06:37:58+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48141371/transfer-rumors-news-real-madrid-join-arsenal-race-newcastle-sandro-tonali",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2f162adcd899",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
