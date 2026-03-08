@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_1850451329eb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "'LOL THATS IT?': MMA fighters react to UFC White House card",
+      "dek": "The polarizing fight card generated online comments from stars such as Conor McGregor and Sean O'Malley.",
+      "body": "The polarizing fight card generated online comments from stars such as Conor McGregor and Sean O'Malley.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T01:53:37+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/48139423/ufc-white-house-social-media-reaction-conor-mcgregor-sean-omalley",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1850451329eb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_72f6f13b8d14",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-04T20:10:05+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkw35i/us_troops_told_iran_war_is_gods_plan_to_trigger/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_9dcfffbb581c",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_51c99107b4fe",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kentucky man accused of sex crimes against roadkill deer",
-      "dek": "submitted by /u/chefchris346 [link] [comments]",
-      "body": "submitted by /u/chefchris346 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T20:03:21+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkvwkt/kentucky_man_accused_of_sex_crimes_against/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_51c99107b4fe",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
