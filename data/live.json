@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-08T04:20:22+00:00",
+  "generatedAt": "2026-03-08T05:28:53+00:00",
   "items": [
+    {
+      "id": "latest_85552c729bc9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Explosion reported outside US embassy in Oslo, police say",
+      "dek": "Police sent \"large resources\" to the embassy at 01:00 local time after reports of an explosion.",
+      "body": "Police sent \"large resources\" to the embassy at 01:00 local time after reports of an explosion.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T05:18:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b4/live/2d368920-1aa9-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_ddbd77f15993",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Arrest In Joliet Over Pizza Puffs And Deodorant Unravels In Court",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T04:10:09+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnutqr/arrest_in_joliet_over_pizza_puffs_and_deodorant/",
+      "image": "https://external-preview.redd.it/shm1WfJ3Pqv6qBi5yCiH4iVZTg1NRaTtTKDtPx7ymM8.jpeg?width=640&crop=smart&auto=webp&s=bcd71a27675befefb4402f7fe895e2fddad5f715",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_96dfcf6565dd",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-08T02:57:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cq6qq6q2692o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b83/live/a88a83f0-18c5-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_72f6f13b8d14",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Spectacular images reveal unique sea creatures and corals off Caribbean islands",
-      "dek": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures.",
-      "body": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T01:38:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgmllk32g72o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c38/live/36d191f0-1978-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_50e4004bd56a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Google’s AI chatbot allegedly told user to stage ‘mass casualty attack,’ wrongful death suit claims",
-      "dek": "submitted by /u/franglish9265 [link] [comments]",
-      "body": "submitted by /u/franglish9265 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T01:12:34+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnr52d/googles_ai_chatbot_allegedly_told_user_to_stage/",
-      "image": "https://external-preview.redd.it/VU_1JLCYpKofyEmIXtNfttrIb2396R1D5-Z6F6p-UZc.jpeg?width=640&crop=smart&auto=webp&s=0eb1fe290b361d595e8ac0dcc14e14ca3fa4a396",
       "imageCredit": "Image via original publisher"
     }
   ]
