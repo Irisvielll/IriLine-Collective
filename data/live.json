@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-08T11:53:58+00:00",
+  "generatedAt": "2026-03-08T12:51:29+00:00",
   "items": [
+    {
+      "id": "meme_0792ba14c553",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Forget the U.S. Navy, the best protection for ships traveling through the Strait of Hormuz may be claiming to be a 'Chinese' or 'Muslim' vessel",
+      "dek": "submitted by /u/Street_Anon [link] [comments]",
+      "body": "submitted by /u/Street_Anon [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T12:45:18+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ro3zyx/forget_the_us_navy_the_best_protection_for_ships/",
+      "image": "https://external-preview.redd.it/itx99RXSVxLwji0KttQBkPdOXbNCy9NuDsxfIOni-dU.jpeg?width=640&crop=smart&auto=webp&s=556eafa639b6b3cd33bfc8c5722111101e333ee6",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_1bacc732ab2d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-08T11:13:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/2b81ba20-1ade-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d9b647690cf5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "War fuels debate in Cyprus over UK military bases",
-      "dek": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
-      "body": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T08:03:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6522/live/279c1e80-1abd-11f1-9120-a910fc22c6ac.png",
       "imageCredit": "Image via original publisher"
     }
   ]
