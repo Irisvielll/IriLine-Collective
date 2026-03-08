@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T10:00:11+00:00",
+  "generatedAt": "2026-03-08T10:44:02+00:00",
   "items": [
     {
       "id": "latest_d9b647690cf5",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_85552c729bc9",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_2f162adcd899",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Explosion reported outside US embassy in Oslo, police say",
-      "dek": "Police sent \"large resources\" to the embassy at 01:00 local time after reports of an explosion.",
-      "body": "Police sent \"large resources\" to the embassy at 01:00 local time after reports of an explosion.",
+      "category": "SPORTS",
+      "title": "Transfer rumors, news: Real Madrid join Arsenal in race for Tonali",
+      "dek": "Real Madrid have taken an interest in Newcastle's Sandro Tonali, while Bernardo Silva is set to leave Man City. Transfer Talk has the latest.",
+      "body": "Real Madrid have taken an interest in Newcastle's Sandro Tonali, while Bernardo Silva is set to leave Man City. Transfer Talk has the latest.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T05:18:15+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b4/live/2d368920-1aa9-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-03-08T06:37:58+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48141371/transfer-rumors-news-real-madrid-join-arsenal-race-newcastle-sandro-tonali",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2f162adcd899",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
