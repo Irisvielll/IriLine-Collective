@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-08T07:59:28+00:00",
+  "generatedAt": "2026-03-08T08:43:24+00:00",
   "items": [
+    {
+      "id": "latest_d9b647690cf5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "War fuels debate in Cyprus over UK military bases",
+      "dek": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
+      "body": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T08:03:40+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6522/live/279c1e80-1abd-11f1-9120-a910fc22c6ac.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_696eeb1201c7",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-08T05:18:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b4/live/2d368920-1aa9-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ddbd77f15993",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Arrest In Joliet Over Pizza Puffs And Deodorant Unravels In Court",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T04:10:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnutqr/arrest_in_joliet_over_pizza_puffs_and_deodorant/",
-      "image": "https://external-preview.redd.it/shm1WfJ3Pqv6qBi5yCiH4iVZTg1NRaTtTKDtPx7ymM8.jpeg?width=640&crop=smart&auto=webp&s=bcd71a27675befefb4402f7fe895e2fddad5f715",
       "imageCredit": "Image via original publisher"
     }
   ]
