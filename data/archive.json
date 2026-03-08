@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_a3e8dbd513c1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Iraq coach begs FIFA to reschedule its WC playoff",
+      "dek": "Graham Arnold is asking FIFA to come to Iraq's aid as the conflict between neighboring Iran and the United States threatens to derail his plans to help his team",
+      "body": "Graham Arnold is asking FIFA to come to Iraq's aid as the conflict between neighboring Iran and the United States threatens to derail his plans to help his team to its first World Cup in 40 years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T19:44:39+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48148224/iraq-coach-arnold-begs-fifa-reschedule-wc-playoff",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a3e8dbd513c1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_6517c40c5ba7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rlevd4/kash_patel_has_turned_the_fbi_into_his/",
       "image": "https://external-preview.redd.it/8NHWc3zKPTWZ4Ng4LQWssPNIKps0ISVd1cV3JW8N8KM.jpeg?width=640&crop=smart&auto=webp&s=660c8252a7c4667c1ccbf8895e6e0e61c7717542",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_5848a7ee23ce",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Lendeborg, Stirtz, more: This season's 25 best transfers",
-      "dek": "Yaxel Lendeborg's influence on Michigan is evident, but who else has made an impact with new teams?",
-      "body": "Yaxel Lendeborg's influence on Michigan is evident, but who else has made an impact with new teams?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-05T09:41:18+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48101602/mens-college-basketball-transfers-ranking-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5848a7ee23ce",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
