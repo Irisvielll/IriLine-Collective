@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_9438e22c2175",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UFC 326 takeaways: Is this the end of the BMF title?",
+      "dek": "The BMF legacy is used to a certain type of fight that Holloway vs. Oliveira just didn't bring.",
+      "body": "The BMF legacy is used to a certain type of fight that Holloway vs. Oliveira just didn't bring.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T03:37:13+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/48140433/charles-oliveira-vs-max-holloway-end-bmf-title",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9438e22c2175",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_96dfcf6565dd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Weight-loss treatments boom as Kenyan attitudes to beauty change",
+      "dek": "Kenyan celebrities are driving a surge in weight‑loss and cosmetic procedures, sparking criticism and concerns.",
+      "body": "Kenyan celebrities are driving a surge in weight‑loss and cosmetic procedures, sparking criticism and concerns.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T02:57:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cq6qq6q2692o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b83/live/a88a83f0-18c5-11f1-9120-a910fc22c6ac.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_1850451329eb",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -14,6 +44,21 @@
       "sourceUrl": "https://www.espn.com/mma/story/_/id/48139423/ufc-white-house-social-media-reaction-conor-mcgregor-sean-omalley",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1850451329eb",
       "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_900e1983780b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Huge flames in Tehran after air strikes on oil depots",
+      "dek": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
+      "body": "Social media footage shows flames leaping into the air and plumes of smoke above the city's skyline.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T01:42:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c7vj9redqz2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/408b/live/894741b0-1a8f-11f1-9120-a910fc22c6ac.jpg",
+      "imageCredit": "Image via original publisher"
     },
     {
       "id": "latest_72f6f13b8d14",
@@ -854,6 +899,21 @@
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48132185/rahm-helped-detry-get-hong-kong-now-share-liv-lead",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ef55f76d34f2",
       "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_71807717ad8e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Moment of drone strike close to Dubai Airport",
+      "dek": "Video filmed by a witness and verified by the BBC shows a drone crashing close to the airport.",
+      "body": "Video filmed by a witness and verified by the BBC shows a drone crashing close to the airport.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-07T10:31:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c5yr734zml3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d54/live/acd24b00-1a1e-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
     },
     {
       "id": "meme_e847c101afa3",
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b81/live/030ef110-1805-11f1-8e87-a113cec66a1c.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_269bd78d328a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'I think she's coming back': Djokovic buzzes about Serena Williams' possible return",
-      "dek": "Novak Djokovic said he thought Wimbledon would be a great potential site for Serena Williams to officially make her return.",
-      "body": "Novak Djokovic said he thought Wimbledon would be a great potential site for Serena Williams to officially make her return.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T20:53:49+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/48105563/novak-djokovic-serena-williams-potential-return-tennis",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_269bd78d328a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_51db358a6656",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Misty Roberts found guilty of having sex with teen while serving as DeRidder mayor",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T20:21:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkwdra/misty_roberts_found_guilty_of_having_sex_with/",
-      "image": "https://external-preview.redd.it/nB9wasojsmBbMhG5iT08EiCudOaFgCYE250Xukprx-0.jpeg?width=640&crop=smart&auto=webp&s=e0ccec05a33b4a97c5ae51f2e5d747f04aaa1f0a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_ae99916fedba",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Have two potential Manchester City players ended the club's title hopes?",
-      "dek": "Morgan Gibbs-White and Elliot Anderson might have just dented Man City's chances of winning the league.",
-      "body": "Morgan Gibbs-White and Elliot Anderson might have just dented Man City's chances of winning the league.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T20:13:44+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48104212/have-two-manchester-city-targets-ended-clubs-title-hopes",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ae99916fedba",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_9dcfffbb581c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US troops told Iran war is 'God's plan' to trigger Armageddon, watchdog says",
-      "dek": "submitted by /u/Far_Act7426 [link] [comments]",
-      "body": "submitted by /u/Far_Act7426 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-04T20:10:05+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rkw35i/us_troops_told_iran_war_is_gods_plan_to_trigger/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_9dcfffbb581c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
