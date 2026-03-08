@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-08T12:51:29+00:00",
+  "generatedAt": "2026-03-08T13:40:19+00:00",
   "items": [
+    {
+      "id": "meme_1aefb86279f2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "U.S. weighs sending special forces to seize Iran's nuclear stockpile",
+      "dek": "submitted by /u/S00THING_S0UNDS [link] [comments]",
+      "body": "submitted by /u/S00THING_S0UNDS [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-08T13:27:22+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ro4vdj/us_weighs_sending_special_forces_to_seize_irans/",
+      "image": "https://external-preview.redd.it/hrlQVbolLIzx7U3fou_M2qRz3u3UuLzcKLZjZz6ZsAg.jpeg?width=640&crop=smart&auto=webp&s=b8d962789fac338427d38e4f9dbf04ee47ca3be1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_0792ba14c553",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-08T11:19:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ro2ebg/texas_fracker_turned_escort_says_repression/",
       "image": "https://external-preview.redd.it/hBQblt8Y6Zkwwx_GlGnqJ1-wz3AaR4WES8bhnEss6Dw.png?width=640&crop=smart&auto=webp&s=18704563e26221c21ba94434ca391fef89e02981",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_71252d1e8f4f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "UK does not 'agree with Trump on every issue' - Cooper",
-      "dek": "Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.",
-      "body": "Foreign Secretary Yvette Cooper has hit back at President Trump's criticism of the UK response to the conflict in Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T11:13:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cd03py027vyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/2b81ba20-1ade-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
