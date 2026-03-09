@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_ed24b815e5ae",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Commanders land Oweh on 4-year, $100M deal",
+      "dek": "Former Chargers defensive end Odafe Oweh, who has 17.5 sacks since 2024, has agreed with the Commanders on a four-year, $100 million deal, his agents told ESPN.",
+      "body": "Former Chargers defensive end Odafe Oweh, who has 17.5 sacks since 2024, has agreed with the Commanders on a four-year, $100 million deal, his agents told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T16:26:29+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48155924/commanders-land-odafe-oweh-4-year-100m-deal-agents-say",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ed24b815e5ae",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_109f77fa03e2",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-06T08:56:18+00:00",
       "sourceUrl": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a2103da1352",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_13115aff0dfd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ranked: The 10 worst Premier League teams that spent too much money on being bad",
-      "dek": "Tottenham are on pace for Premier League relegation despite spending lots of cash. Where do they rank among the worst teams relative to spending?",
-      "body": "Tottenham are on pace for Premier League relegation despite spending lots of cash. Where do they rank among the worst teams relative to spending?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T08:50:33+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48111028/ranked-10-worst-premier-league-teams-relative-spending",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_13115aff0dfd",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
