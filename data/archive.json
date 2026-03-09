@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_13baa2b3f67e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Police warn of crocodiles \"absolutely everywhere\" after Australia floods",
+      "dek": "submitted by /u/damontoo [link] [comments]",
+      "body": "submitted by /u/damontoo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T18:17:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rp81is/police_warn_of_crocodiles_absolutely_everywhere/",
+      "image": "https://external-preview.redd.it/9_ZO9pGyHk4VqLRRxZjSUCh87lq-EXxMNxtlv0x0_zE.png?width=320&crop=smart&auto=webp&s=b7986ee7cdd4d06e6b44211a4c03619a0a28cb77",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_7fe14ccea1aa",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Philadelphia food stand overwhelmed when 600 tubs of onion dip mysteriously appear, prompting investigation",
+      "dek": "submitted by /u/321Brandon [link] [comments]",
+      "body": "submitted by /u/321Brandon [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T17:09:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rp62yh/philadelphia_food_stand_overwhelmed_when_600_tubs/",
+      "image": "https://external-preview.redd.it/3ORJhYC9qptmYjqqv8obJV0XjSs6gIXbnPiszxifY8Y.jpeg?width=640&crop=smart&auto=webp&s=47312525cc79b2ec02969fee50ad7388329e1bfe",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_1408dc545586",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-06T08:50:33+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48111028/ranked-10-worst-premier-league-teams-relative-spending",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_13115aff0dfd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e7e3c9dea2af",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The best teams in Europe: Can anybody touch Barcelona, Bayern?",
-      "dek": "As the calendar turns into March, we've seen more than enough in 2026 so far to rank the most in-form clubs.",
-      "body": "As the calendar turns into March, we've seen more than enough in 2026 so far to rank the most in-form clubs.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T08:50:33+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48109246/barcelona-bayern-munich-liverpool-arsenal-psg-soccer-europe-best-teams-power-ranking-bill-connelly",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e7e3c9dea2af",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ba2e46e7bff0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Source: Rams re-sign Curl in another DB splash",
-      "dek": "The Rams are re-signing safety Kam Curl to a three-year, $36 million contract, a source confirmed to ESPN.",
-      "body": "The Rams are re-signing safety Kam Curl to a three-year, $36 million contract, a source confirmed to ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T08:44:26+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48120998/source-rams-re-signing-kam-curl-3-year-36m-contract",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ba2e46e7bff0",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
