@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-09T14:12:37+00:00",
+  "generatedAt": "2026-03-09T15:12:44+00:00",
   "items": [
+    {
+      "id": "meme_cd8d7e29d718",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "New Zealand: Bag of cannabis and cash accidentally donated to NZ charity shop",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T14:53:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rp2brt/new_zealand_bag_of_cannabis_and_cash_accidentally/",
+      "image": "https://external-preview.redd.it/QNZFqKDf3pJhkCV1C5q0C4S5ZjIXkuPvSE9s3oh7Zzo.png?width=640&crop=smart&auto=webp&s=40cc90c1034c5e4d28470965b1fdb0af9978fd66",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_52aca889ac4f",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rp0f5k/surge_in_vpn_downloads_after_pornhub_blocks/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_78dfa1e15166",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_de9bccbde96c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Florida university probes racist \"Gooning in Agartha\" group chat tied to Republican official",
-      "dek": "submitted by /u/shoofinsmertz [link] [comments]",
-      "body": "submitted by /u/shoofinsmertz [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-09T13:14:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rozvut/florida_university_probes_racist_gooning_in/",
-      "image": "https://external-preview.redd.it/NV0KMv-PbjTsx8xks8uLOJ0eL-I1i5d0ONl_OWO1QKM.jpeg?width=640&crop=smart&auto=webp&s=e02d3066dec5e5938d592d9f7f87b937474e0395",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

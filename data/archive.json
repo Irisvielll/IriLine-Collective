@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_de9bccbde96c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Florida university probes racist \"Gooning in Agartha\" group chat tied to Republican official",
+      "dek": "submitted by /u/shoofinsmertz [link] [comments]",
+      "body": "submitted by /u/shoofinsmertz [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T13:14:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rozvut/florida_university_probes_racist_gooning_in/",
+      "image": "https://external-preview.redd.it/NV0KMv-PbjTsx8xks8uLOJ0eL-I1i5d0ONl_OWO1QKM.jpeg?width=640&crop=smart&auto=webp&s=e02d3066dec5e5938d592d9f7f87b937474e0395",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_da6e5199ee61",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -28,6 +43,21 @@
       "publishedAt": "2026-03-09T12:45:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8f/live/e2261460-1bab-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_4ed5e10e7bfa",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Why the Iran war is pushing up oil prices",
+      "dek": "As turmoil continues in the Middle East, the price of crude oil rose to more than $100 a barrel on Monday.",
+      "body": "As turmoil continues in the Middle East, the price of crude oil rose to more than $100 a barrel on Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T12:30:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cpv8342e3xvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d43c/live/0cb170c0-1bb2-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -106,6 +136,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_d159d51566ad",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: NFL labor talks with refs hit rough patch",
+      "dek": "The NFL's negotiations with the NFL Referees Association on a new collective bargaining agreement are not in a good place, sources told ESPN's Adam Schefter.",
+      "body": "The NFL's negotiations with the NFL Referees Association on a new collective bargaining agreement are not in a good place, sources told ESPN's Adam Schefter.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T10:51:38+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48152956/sources-mounting-frustration-nfl-labor-talks-referees",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d159d51566ad",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_b76780e99467",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -119,6 +164,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rowl2e/bag_containing_weed_and_cash_accidentally_donated/",
       "image": "https://external-preview.redd.it/EdcbViLRj3qRifghAvQAZsgyZMaxzYbzM4n0XpVcBTk.jpeg?width=640&crop=smart&auto=webp&s=5921b47d7382efde1f0a63a1713c3e8d3da5265e",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_c5ef889fe842",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NFL free agency grades: Who won the Ravens-Raiders trade involving Maxx Crosby?",
+      "dek": "We're handing out report cards on big moves, including the Ravens dealing two first-rounders for Maxx Crosby.",
+      "body": "We're handing out report cards on big moves, including the Ravens dealing two first-rounders for Maxx Crosby.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T10:20:55+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47911726/2026-nfl-free-agency-grades-signings-trades-latest-best-worst-deals-draft-outlook",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c5ef889fe842",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_490b5f1b206f",
@@ -4438,66 +4498,6 @@
       "publishedAt": "2026-03-06T00:45:16+00:00",
       "sourceUrl": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2026-women-college-basketball-projections",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83fafdb16d69",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_6a2638351438",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "These women fought in Ethiopia's last civil war and warn against another one",
-      "dek": "Female fighters recall how the conflict in the northern Tigray destroyed their lives, as fears grow that fighting could resume.",
-      "body": "Female fighters recall how the conflict in the northern Tigray destroyed their lives, as fears grow that fighting could resume.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T00:05:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cyv959eyjgjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a03a/live/b57855e0-17c3-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4f24520a4498",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Florida college Republicans group chat reveals racist texts: ‘Avoid the coloreds like the plague’",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-05T23:53:11+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rly1ef/florida_college_republicans_group_chat_reveals/",
-      "image": "https://external-preview.redd.it/DhCWhDEv4uzvwdLmp1Cla8tJPNq9BZC5UFyeDQhySys.png?width=640&crop=smart&auto=webp&s=1b730b3f3dd722abeb77dcf327169c83efb55cf2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_677c13be7d1e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "LeBron bests Kareem for most made FG in history",
-      "dek": "LeBron James made the 15,838th FG of his career on Thursday night, passing Kareem Abdul-Jabbar for the most made field goals in NBA history.",
-      "body": "LeBron James made the 15,838th FG of his career on Thursday night, passing Kareem Abdul-Jabbar for the most made field goals in NBA history.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-05T23:37:43+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48117860/lebron-james-passes-kareem-abdul-jabbar-most-made-fg-nba-history",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_677c13be7d1e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b1c29c98b8a4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Source: DE Hunter gets $40M deal from Texans",
-      "dek": "The Texans agreed to a one-year, $40 million contract extension with defensive end Danielle Hunter, a source confirmed to ESPN.",
-      "body": "The Texans agreed to a one-year, $40 million contract extension with defensive end Danielle Hunter, a source confirmed to ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-05T23:37:43+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48117978/de-danielle-hunter-texans-agree-1-year-40m-deal-source-says",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b1c29c98b8a4",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
