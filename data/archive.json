@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_b0cef05f9cce",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Literally Anybody Else is on the ballot for North Richland Hills mayor",
+      "dek": "submitted by /u/AudibleNod [link] [comments]",
+      "body": "submitted by /u/AudibleNod [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T15:42:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rp3moo/literally_anybody_else_is_on_the_ballot_for_north/",
+      "image": "https://external-preview.redd.it/-8h7XhaRzgVKLClc_p8SLys8ZRDpSnD98T1GmopPxFU.png?width=640&crop=smart&auto=webp&s=6709003c56f5c0d55331b8dc3cb100504215ae8a",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c8ecfcd69f5a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -74,6 +89,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/crl4wx8ydxeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f953/live/5d9ad480-1bb3-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_b434069ee169",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Men's AP Top 25 poll reaction: Florida, Houston enter top five ahead of Selection Sunday",
+      "dek": "The final AP poll before Selection Sunday has a new top 5 -- though Duke, Arizona and Michigan stay top 3.",
+      "body": "The final AP poll before Selection Sunday has a new top 5 -- though Duke, Arizona and Michigan stay top 3.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T13:40:34+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48153215/ap-mens-college-basketball-top-25-poll-reaction-2025-2026-week-18",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b434069ee169",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_78dfa1e15166",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-06T07:25:14+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48112059/mlb-2026-wbc-world-baseball-classic-insurance-faq-trout-puerto-rico-bad-bunny",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eaf56ef507b1",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b413a4e32dbe",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Charter flights, team dinners and rivals bonding: Inside Team USA's WBC arrival",
-      "dek": "Here's how the most talented team on the planet has come together so quickly for the WBC.",
-      "body": "Here's how the most talented team on the planet has come together so quickly for the WBC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T07:25:04+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48113465/2026-world-baseball-classic-team-usa-wbc-arrival-aaron-judge-kyle-schwarber-cal-raleigh",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b413a4e32dbe",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_68804ea4bb27",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "White: 'No issues' with Hearn after Aspinall deal",
-      "dek": "Dana White has \"no issues\" with Tom Aspinall signing a business deal with Eddie Hearn and denied ever questioning his champion's eye injury.",
-      "body": "Dana White has \"no issues\" with Tom Aspinall signing a business deal with Eddie Hearn and denied ever questioning his champion's eye injury.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T07:24:41+00:00",
-      "sourceUrl": "https://www.espn.com/ufc/story/_/id/48119348/dana-white-no-issues-eddie-hearn-tom-aspinall-business-deal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_68804ea4bb27",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
