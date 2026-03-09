@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_2d2fadc72404",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bear penis to remain on Bernese coat of arms",
+      "dek": "submitted by /u/Sudden-Ad-4281 [link] [comments]",
+      "body": "submitted by /u/Sudden-Ad-4281 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T09:07:08+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rov841/bear_penis_to_remain_on_bernese_coat_of_arms/",
+      "image": "https://external-preview.redd.it/Nrv7axpbUzPy52PQCA-ZHlDxXUfiJ3tCM6qSIcK8XAc.jpeg?width=640&crop=smart&auto=webp&s=15b7db8f231c0308cf633731f228c85b1e661ca6",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_dcad70b065ca",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48114155/unc-star-caleb-wilson-not-cleared-duke-rematch-looms",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_81589d7b5eec",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_cb77a139d850",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Britney Spears arrested in California",
-      "dek": "Court documents show she was arrested in Ventura County on Wednesday night.",
-      "body": "Court documents show she was arrested in Ventura County on Wednesday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-05T15:46:41+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c877/live/8306c1b0-18a3-11f1-b048-c9424b2cf5fd.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
