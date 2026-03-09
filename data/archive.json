@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_97431bfc775f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Government Still Leads as Nation's Top Problem",
+      "dek": "submitted by /u/rmuktader [link] [comments]",
+      "body": "submitted by /u/rmuktader [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T22:09:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rpehj2/government_still_leads_as_nations_top_problem/",
+      "image": "https://external-preview.redd.it/EVj9rWyGuJ0eaHGYuQmnMaubl5KTkVHkiVSkjG3OjCw.jpeg?width=640&crop=smart&auto=webp&s=5359dc34a602b0aa637559db4f164c6bb87cd523",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c4f0b342a923",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/48123063/arike-ogunbowale-arrested-battery-unrivaled-win",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8f4291027355",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_4087db37cb5c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Indonesia to ban social media and other online platforms for under 16s",
-      "dek": "It is the latest country to curb young people's access to digital spaces to try and protect them from abuse.",
-      "body": "It is the latest country to curb young people's access to digital spaces to try and protect them from abuse.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T13:25:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fba/live/81485cb0-194f-11f1-b402-73299da4d55f.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
