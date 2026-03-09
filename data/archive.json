@@ -91,6 +91,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_8a2103da1352",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Men's Bracketology: Champ Week chaos is alive and well",
+      "dek": "True to form, the early conference tournaments have provided upsets and some unexpected champions.",
+      "body": "True to form, the early conference tournaments have provided upsets and some unexpected champions.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T18:57:50+00:00",
+      "sourceUrl": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2026-march-madness-men-field-predictions",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a2103da1352",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_5ea8c7a093f3",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-06T13:25:12+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fba/live/81485cb0-194f-11f1-b402-73299da4d55f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f7272d56a7ed",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man believed Google’s AI chatbot was his wife. It told him to kill himself, lawsuit says",
-      "dek": "submitted by /u/JackFunk [link] [comments]",
-      "body": "submitted by /u/JackFunk [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T13:14:17+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmdnql/man_believed_googles_ai_chatbot_was_his_wife_it/",
-      "image": "https://external-preview.redd.it/JJS-m3sY1AGWwioMe4MHm7YgVUH7nnBoQ5LcH9z-4RY.jpeg?width=640&crop=smart&auto=webp&s=e5db716192cf254d275df45423f8a77dcf11a92f",
       "imageCredit": "Image via original publisher"
     }
   ]
