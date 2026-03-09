@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-09T07:39:24+00:00",
+  "generatedAt": "2026-03-09T08:26:42+00:00",
   "items": [
+    {
+      "id": "latest_81c8c430464c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australia urged to protect Iranian women's football team as they prepare to fly home",
+      "dek": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
+      "body": "Concern has grown for team after one critic called them 'wartime traitors' for failing to salute during the Iranian anthem.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T06:51:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c3/live/bcb59ac0-1b83-11f1-adbd-33f1e217b4d9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8be9f911293d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-09T03:31:05+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ropfpk/japan_govt_survey_finds_just_10_of_workers_want/",
       "image": "https://external-preview.redd.it/r0gFGHEwLdqwnZvf47AF3DTNu9uCIZ64f6tAcS4Aknw.jpeg?width=640&crop=smart&auto=webp&s=119df9b259d0f880528fb5bfd1761b770e5e2498",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4e34a4c5b81b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australians must prove they are over 18 to access porn under new laws",
-      "dek": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
-      "body": "Sites such as Pornhub and RedTube must verify the ages of all users or risk million-dollar fines.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-09T03:02:04+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy92qpv424o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc2/live/c22c8030-1b61-11f1-89f6-bf092b2a7205.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
