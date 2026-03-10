@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T08:00:05+00:00",
+  "generatedAt": "2026-03-10T08:57:01+00:00",
   "items": [
+    {
+      "id": "meme_d744a074d71d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Senior Year (12th standard) Indian students Rickrolled en masse by QR code in finals exam.",
+      "dek": "This is arguably the largest and most critical board exam in the school system. The QR authentication code appeared in the Math question paper. submitted by /u/",
+      "body": "This is arguably the largest and most critical board exam in the school system. The QR authentication code appeared in the Math question paper. submitted by /u/AisleSeatJunkie [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T08:12:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rpr444/senior_year_12th_standard_indian_students/",
+      "image": "https://external-preview.redd.it/bjhtwsrxsHDthzd37maAn8YCFCwZs93Z5DOzndV5x-c.jpeg?width=640&crop=smart&auto=webp&s=900a997425d3acfc45a0ad0d8d4621ac26c41f5f",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a1ae8ba8a2f1",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-10T02:57:54+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a83/live/e7db4240-1c00-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6e6bb349ccbe",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
-      "dek": "The war's price, measured in damage to the economy and in political costs to Trump, is still coming into view.",
-      "body": "The war's price, measured in damage to the economy and in political costs to Trump, is still coming into view.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T02:37:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3c/live/b96cf070-1c28-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
