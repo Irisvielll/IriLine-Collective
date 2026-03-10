@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T22:38:07+00:00",
+  "generatedAt": "2026-03-10T23:00:53+00:00",
   "items": [
+    {
+      "id": "meme_7d133766342f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Boss repeatedly shouted 'potato' at Irish employee",
+      "dek": "submitted by /u/4DollarsALB [link] [comments]",
+      "body": "submitted by /u/4DollarsALB [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T22:49:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqc8le/boss_repeatedly_shouted_potato_at_irish_employee/",
+      "image": "https://external-preview.redd.it/js66cRPj4o1U8PddjoOIUo8LGDahC7AHy7sMYrD1yCI.png?width=640&crop=smart&auto=webp&s=833c306ad37fb2b677eeb385bd98c8fed6fc2a70",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_912726c14082",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-10T21:36:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqabpi/lpss_classrooms_required_to_post_10_commandments/",
       "image": "https://external-preview.redd.it/SdrQoedZoXwl72O5gUpZyuVjQkZF8zAQtf1UFrEe0Co.jpeg?width=640&crop=smart&auto=webp&s=167a377b12e26db22c5aa41c0a748f5540716b6c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2a4644efede1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "At least six dead in Switzerland bus fire",
-      "dek": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
-      "body": "Police do not yet know the cause of the fire in the western Fribourg canton, which also injured a number of people.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T21:29:30+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529d/live/cb394860-1cc5-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
