@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T08:57:01+00:00",
+  "generatedAt": "2026-03-10T09:52:56+00:00",
   "items": [
+    {
+      "id": "meme_e82f698cac10",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "It’s time to speak out against the unchecked growth of satellite mega constellations",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T09:13:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rps1vj/its_time_to_speak_out_against_the_unchecked/",
+      "image": "https://external-preview.redd.it/JNPVQpFPxDrm9J-O3tmO64C_FszBLGoSUaDRgAdK6w0.png?width=640&crop=smart&auto=webp&s=d7a27b0b9776e8db6ee80ff2c77a1efbefe4ebe0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d744a074d71d",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_a1ae8ba8a2f1",
+      "id": "latest_0ea96d921474",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "China exports surge in first two months of the year despite Trump tariffs",
-      "dek": "The jump in shipments puts the world's second largest economy on track to top the record-breaking annual trade surplus it saw in 2025.",
-      "body": "The jump in shipments puts the world's second largest economy on track to top the record-breaking annual trade surplus it saw in 2025.",
+      "title": "Madagascar military leader dissolves government in surprise move",
+      "dek": "Col Randrianirina, who seized power last year, did not give a reason for dissolving his government.",
+      "body": "Col Randrianirina, who seized power last year, did not give a reason for dissolving his government.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T06:16:02+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5a/live/9e9a05c0-1c33-11f1-b268-3b95e9433703.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3947e3c364ff",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home",
-      "dek": "The city's police commissioner said one of the suspects said he wanted the attack to be \"even larger\" than the Boston Marathon bombing.",
-      "body": "The city's police commissioner said one of the suspects said he wanted the attack to be \"even larger\" than the Boston Marathon bombing.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T02:57:54+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a83/live/e7db4240-1c00-11f1-9120-a910fc22c6ac.jpg",
+      "publishedAt": "2026-03-10T07:48:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c39wywm298lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54fc/live/646407a0-1c4e-11f1-99c5-cd874f3356a2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
