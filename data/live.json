@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T13:02:50+00:00",
+  "generatedAt": "2026-03-10T14:07:48+00:00",
   "items": [
+    {
+      "id": "meme_a3dd3d78991b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Passenger removed from flight to FLL had set timer to pray for Ramadan: Southwest Airlines",
+      "dek": "submitted by /u/state_issued [link] [comments]",
+      "body": "submitted by /u/state_issued [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T13:47:11+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rpxdkx/passenger_removed_from_flight_to_fll_had_set/",
+      "image": "https://external-preview.redd.it/mPBkzQZUcpTRbNRV6teOBmH9VE40eAVuktlwKB9IdQE.jpeg?width=640&crop=smart&auto=webp&s=8b7c8f06b0fce3702ebe9b6d1e22b701973272c3",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2a1c9cff47c1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-10T12:30:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy8lrq9rg2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9786/live/92e86e50-1c7a-11f1-a7bf-efb6e72f87e6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fc18317539cb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Lebanon calls for talks with Israel on plan to end Hezbollah conflict",
-      "dek": "President Aoun outlines a path towards \"permanent security and stability\", as Israeli strikes targeting Hezbollah continue.",
-      "body": "President Aoun outlines a path towards \"permanent security and stability\", as Israeli strikes targeting Hezbollah continue.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T12:00:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd9g5p3ppxlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b0/live/25083e30-1c73-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
