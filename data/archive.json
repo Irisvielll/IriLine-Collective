@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_cb7a2539087c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Federal officers barred from unleashing indiscriminate force on ICE protesters in Portland",
+      "dek": "submitted by /u/voxadam [link] [comments]",
+      "body": "submitted by /u/voxadam [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T02:11:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rpkdao/federal_officers_barred_from_unleashing/",
+      "image": "https://external-preview.redd.it/ErCHmJKZuNiFq2U7tXNrON1aAYW-TRWlnUyG_LKaTNU.jpeg?width=640&crop=smart&auto=webp&s=634d27a423d620dc8bdaa0c32d5ac85288b01e52",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_f55778f199ea",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -313,6 +328,21 @@
       "publishedAt": "2026-03-09T21:36:33+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rpdl7i/nba_cancels_atlanta_hawks_planned_magic_city/",
       "image": "https://external-preview.redd.it/YT8xDmsKGBMHSgk4kifcpsA0CTn9Gu-H8a0T8xmAuNs.jpeg?width=640&crop=smart&auto=webp&s=22c002a7274f2665a7c2a9f9de3ff3e8b9cd0047",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_9d29614bf86f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Anthropic sues US government for calling it a risk",
+      "dek": "The artificial intelligence company has been in a public fight with US government leaders over use of its tools like Claude",
+      "body": "The artificial intelligence company has been in a public fight with US government leaders over use of its tools like Claude",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-09T21:33:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60e/live/959b25c0-1bcb-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-06T17:34:21+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmkgvw/travel_influencer_nonstop_dan_says_hes_stranded/",
       "image": "https://external-preview.redd.it/DtU33EpIUfWEuZT0HjaSFpsq3i_350BWb4MmLE_lCEE.jpeg?width=640&crop=smart&auto=webp&s=2b90bdc8558628d2415f91ccd0c5c218492e97c2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_6137b2fe6035",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Avalanche bring Kadri back in swap with Flames",
-      "dek": "The Avalanche have re-acquired forward Nazem Kadri in a trade with the Flames. Kadri won a Stanley Cup with Colorado in the 2021-22 season, but left for Calgary",
-      "body": "The Avalanche have re-acquired forward Nazem Kadri in a trade with the Flames. Kadri won a Stanley Cup with Colorado in the 2021-22 season, but left for Calgary as a free agent that offseason.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T17:33:18+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48125752/avalanche-bring-nazem-kadri-back-trade-flames",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6137b2fe6035",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_5adb1633ecae",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Girl Scouts leaders displeased after troop sells cookies outside dispensary",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-06T17:18:40+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rmk0ym/girl_scouts_leaders_displeased_after_troop_sells/",
-      "image": "https://external-preview.redd.it/U7WrlUhoyzWnGwSd7IloWlGq6BRVLQeETPFdTYMPmqw.jpeg?width=640&crop=smart&auto=webp&s=8526c5ceeb1316ccc86f9386588c0b8359653be3",
       "imageCredit": "Image via original publisher"
     }
   ]

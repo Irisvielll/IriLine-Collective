@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T06:29:51+00:00",
+  "generatedAt": "2026-03-10T07:25:32+00:00",
   "items": [
+    {
+      "id": "latest_a1ae8ba8a2f1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "China exports surge in first two months of the year despite Trump tariffs",
+      "dek": "The jump in shipments puts the world's second largest economy on track to top the record-breaking annual trade surplus it saw in 2025.",
+      "body": "The jump in shipments puts the world's second largest economy on track to top the record-breaking annual trade surplus it saw in 2025.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T06:16:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5a/live/9e9a05c0-1c33-11f1-b268-3b95e9433703.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_3947e3c364ff",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-10T02:37:46+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3c/live/b96cf070-1c28-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_cb7a2539087c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Federal officers barred from unleashing indiscriminate force on ICE protesters in Portland",
-      "dek": "submitted by /u/voxadam [link] [comments]",
-      "body": "submitted by /u/voxadam [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T02:11:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rpkdao/federal_officers_barred_from_unleashing/",
-      "image": "https://external-preview.redd.it/ErCHmJKZuNiFq2U7tXNrON1aAYW-TRWlnUyG_LKaTNU.jpeg?width=640&crop=smart&auto=webp&s=634d27a423d620dc8bdaa0c32d5ac85288b01e52",
       "imageCredit": "Image via original publisher"
     }
   ]
