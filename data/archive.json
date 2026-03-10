@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_f098a64613f2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Palantir’s lethal AI weaponry deployed to find chairs for US government staff",
+      "dek": "submitted by /u/pinky_Shy [link] [comments]",
+      "body": "submitted by /u/pinky_Shy [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T21:11:13+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rq9mvh/palantirs_lethal_ai_weaponry_deployed_to_find/",
+      "image": "https://external-preview.redd.it/9BTQ1up-mDWzPfoG7HbuPuLuZCFVxWxpCHPJVDghJwU.jpeg?width=640&crop=smart&auto=webp&s=eae94267601f4c421327c7925a30dcb4dd95a184",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_84024e37c21a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_04c03294734a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "St. Bonaventure's Schmidt to retire, sources say",
-      "dek": "St. Bonaventure head coach Mark Schmidt is expected to retire after this season, sources told ESPN's Pete Thamel. Schmidt, 63, is the all-time wins leader in pr",
-      "body": "St. Bonaventure head coach Mark Schmidt is expected to retire after this season, sources told ESPN's Pete Thamel. Schmidt, 63, is the all-time wins leader in program history.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T13:42:43+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48133601/sources-st-bonaventure-mark-schmidt-expected-retire",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_04c03294734a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

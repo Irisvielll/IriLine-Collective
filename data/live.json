@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T21:58:40+00:00",
+  "generatedAt": "2026-03-10T22:38:07+00:00",
   "items": [
+    {
+      "id": "latest_912726c14082",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Large parts of Dresden to be evacuated after 250kg WW2 bomb found",
+      "dek": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
+      "body": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T21:36:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4a/live/231635c0-1cc1-11f1-8452-d983fe428cc5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_60517d271e6c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-10T21:29:30+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529d/live/cb394860-1cc5-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f098a64613f2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Palantir’s lethal AI weaponry deployed to find chairs for US government staff",
-      "dek": "submitted by /u/pinky_Shy [link] [comments]",
-      "body": "submitted by /u/pinky_Shy [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T21:11:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rq9mvh/palantirs_lethal_ai_weaponry_deployed_to_find/",
-      "image": "https://external-preview.redd.it/9BTQ1up-mDWzPfoG7HbuPuLuZCFVxWxpCHPJVDghJwU.jpeg?width=640&crop=smart&auto=webp&s=eae94267601f4c421327c7925a30dcb4dd95a184",
       "imageCredit": "Image via original publisher"
     }
   ]
