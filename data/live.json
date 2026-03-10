@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T17:10:24+00:00",
+  "generatedAt": "2026-03-10T18:00:50+00:00",
   "items": [
+    {
+      "id": "meme_98582ae9706b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Erika Kirk appointed to Air Force Academy board",
+      "dek": "submitted by /u/RUNPROGRAMSENTIONAUT [link] [comments]",
+      "body": "submitted by /u/RUNPROGRAMSENTIONAUT [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T17:57:32+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rq455m/erika_kirk_appointed_to_air_force_academy_board/",
+      "image": "https://external-preview.redd.it/O5g4yLVoSfWYVpmQqrFtn7-QM9PdxR-thBPQH6Y4o0Y.jpeg?width=640&crop=smart&auto=webp&s=f7a2121485cee4ae56b3156764fbf53ae52a85f0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_df5420c26691",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-10T16:50:07+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rq27p8/unprepared_to_defend_against_iranian_drones_us/",
       "image": "https://external-preview.redd.it/nUZ83QpsR-F5MHiI3qu21cHWvo3ast7ZZLOTvna6-Y0.jpeg?width=640&crop=smart&auto=webp&s=7fe03dfecf3e69ae05ffec22d64bf84464dcc2c8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b34f860115c6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Italy buys rare Caravaggio portrait for €30m",
-      "dek": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
-      "body": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T15:18:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b2/live/f0aecbb0-1c98-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
