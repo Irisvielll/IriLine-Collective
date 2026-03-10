@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-10T15:09:59+00:00",
+  "generatedAt": "2026-03-10T16:15:08+00:00",
   "items": [
+    {
+      "id": "latest_b34f860115c6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Italy buys rare Caravaggio portrait for €30m",
+      "dek": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
+      "body": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-10T15:18:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b2/live/f0aecbb0-1c98-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f4e98d6d709c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-10T14:35:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rpylov/exclusive_meta_acquires_moltbook_the_social/",
       "image": "https://external-preview.redd.it/dlWiObN9-kIPGr5w3t3qiKI6tcOtG35qN000ad90Tak.jpeg?width=640&crop=smart&auto=webp&s=e196d8573635915d544b77e5dab783bed62ee48c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3a9a5f7d91bd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Syrian ex-colonel in court on crimes against humanity charge",
-      "dek": "Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.",
-      "body": "Salem Michel Al-Salem, accused of crimes committed in Syria in 2011 and 2012, has been named for the first time.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T14:17:37+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cedz4jp379wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6db/live/34223f40-1c7f-11f1-a7bf-efb6e72f87e6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
