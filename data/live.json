@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-11T09:06:56+00:00",
+  "generatedAt": "2026-03-11T10:00:28+00:00",
   "items": [
+    {
+      "id": "latest_48d3bef8f585",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "India's top court allows removal of life support of man in vegetative state",
+      "dek": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
+      "body": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-11T09:28:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd12/live/42396a40-f1e1-11f0-b373-d7bde4e9f067.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_20cb7e45cd7a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-11T08:12:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqnuyf/asias_soft_power_has_been_growing_for_years_but/",
       "image": "https://external-preview.redd.it/4u2hgaSOL81D3jOV5E1jc2XlwUtstjydTF-58TbMcTA.jpeg?width=640&crop=smart&auto=webp&s=889d1eae9aa5d9bdd54167212460f3a60291e10d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_76e20d1ee727",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sarah Game tells voters not to put her party first after split with Sarah Game Fair Go candidate (and former captain of the Adelaide Crows), Chris McDermott",
-      "dek": "submitted by /u/LurkingMars [link] [comments]",
-      "body": "submitted by /u/LurkingMars [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T07:30:12+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqn723/sarah_game_tells_voters_not_to_put_her_party/",
-      "image": "https://external-preview.redd.it/RJ-6B23YQPvnA5BBNeHlJZjNojMFD095BzkeVpEJOlU.jpeg?width=640&crop=smart&auto=webp&s=e21164b2165d682aaf6f67c8cba1d29a5c50331e",
       "imageCredit": "Image via original publisher"
     }
   ]
