@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_9fd774b78947",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Fan attends wrong football stadium 366 miles away",
+      "dek": "submitted by /u/farseer6 [link] [comments]",
+      "body": "submitted by /u/farseer6 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-11T19:36:52+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rr3x60/fan_attends_wrong_football_stadium_366_miles_away/",
+      "image": "https://external-preview.redd.it/If6cMy-s3Gmpe3Kabjz1ALiwkLcBwbf366NPnsU1eDw.jpeg?width=640&crop=smart&auto=webp&s=4d5601fcbe97015740959bad2fede2e9ea5c0a2d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_8d5a84390d43",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -104,6 +119,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cd7/live/59400920-1d64-11f1-8078-f393eb24ebf7.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_fbd088087c8a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ex-Fins OLB Chubb gets 3-year deal with Bills",
+      "dek": "Pass rusher Bradley Chubb reached agreement on a three-year, $43.5 million deal worth up to $52.5 million that includes $29 million guaranteed with the Bills, a",
+      "body": "Pass rusher Bradley Chubb reached agreement on a three-year, $43.5 million deal worth up to $52.5 million that includes $29 million guaranteed with the Bills, agent Erik Burkhardt told ESPN's Adam Schefter.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-11T16:41:08+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48176802/ex-dolphins-olb-bradley-chubb-gets-3-year-deal-bills",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fbd088087c8a",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_c21918c6bc0c",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1roicjp/as_ruby_franke_children_beg_to_close_abuse/",
       "image": "https://external-preview.redd.it/-nHJ95Wes4ZmMOAmRNNn0m4bTAYs-JiwgdRmt72b9ic.jpeg?width=640&crop=smart&auto=webp&s=9825f1e2953e7ed5d585a1f230bbb3730dd37e36",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cf36d7e3c529",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
-      "dek": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
-      "body": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T21:51:48+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae4/live/262c84f0-1878-11f1-8f1d-d7bdb1ea156f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_62acfa433fff",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Rams reach record deal with McDuffie",
-      "dek": "The Los Angeles Rams and All-Pro cornerback Trent McDuffie reached agreement on a record four-year, $124 million extension that includes $100 million guaranteed",
-      "body": "The Los Angeles Rams and All-Pro cornerback Trent McDuffie reached agreement on a record four-year, $124 million extension that includes $100 million guaranteed, sources told ESPN's Adam Schefter on Sunday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-08T21:35:28+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48148479/sources-trent-mcduffie-rams-reach-4-year-124m-extension",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_62acfa433fff",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
