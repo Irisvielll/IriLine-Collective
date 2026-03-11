@@ -496,6 +496,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_eb2417518d3f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Live tracking NFL free agency: Updates on signings, trades, cuts",
+      "dek": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen.",
+      "body": "We're following NFL free agency signings, trades, cuts, contract restructures and other moves as they happen.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-11T14:25:57+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/47899175/2026-nfl-free-agency-tracker-live-updates-signings-trades-cuts-contracts-rumors",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eb2417518d3f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_27a0acd1272b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-09T01:09:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1romc7j/the_sheep_dog_turned_life_drawing_model/",
       "image": "https://external-preview.redd.it/ZC12PvIhuTzUh7xjsBkNC74XjBAjGV343oWYmmDDDPA.jpeg?width=640&crop=smart&auto=webp&s=9db1e462816fee828d7fb5924383ec95fcb18902",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8b520c055eb7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bitter times for cocoa farmers as chocolate market slumps",
-      "dek": "Chocolate bars may have shot up in price but West Africa's cocoa farmers are facing economic ruin.",
-      "body": "Chocolate bars may have shot up in price but West Africa's cocoa farmers are facing economic ruin.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-09T00:40:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c93jdk1yy3zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb5/live/e53c1680-1422-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
