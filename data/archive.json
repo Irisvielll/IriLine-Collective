@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_a0730695f6b2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Avs upset after MacKinnon ejected for goalie injury",
+      "dek": "The Avalanche sharply disagreed with the officials' decision to give star center Nathan MacKinnon a game misconduct for goalie interference in their 4-3 loss to",
+      "body": "The Avalanche sharply disagreed with the officials' decision to give star center Nathan MacKinnon a game misconduct for goalie interference in their 4-3 loss to the Oilers on Tuesday night.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-11T02:21:54+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48170969/avalanche-upset-nathan-mackinnon-ejection-goalie-interference-loss-oilers",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a0730695f6b2",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_d524a241cf49",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -43,6 +58,21 @@
       "publishedAt": "2026-03-11T01:51:31+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqgokz/galesville_woman_charged_after_breaking_into_home/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d524a241cf49",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_9c1819c9f2e0",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Barnwell makes sense of the called-off Maxx Crosby trade: What happens in the aftermath?",
+      "dek": "Four days after agreeing to trade for the Raiders edge rusher, the Ravens backed out. Will he still get dealt? Which teams might be in, and who else is affected",
+      "body": "Four days after agreeing to trade for the Raiders edge rusher, the Ravens backed out. Will he still get dealt? Which teams might be in, and who else is affected here?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-11T01:41:25+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48168497/2026-nfl-free-agency-maxx-crosby-trade-backed-physical-raiders-ravens-edge-rushers",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9c1819c9f2e0",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mma/story/_/id/48138882/ufc-white-house-card-led-topuria-gaethje-pereira-gane",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_70c3359d1a55",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_b2c21d30fdaa",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Ashley Guillard: TikTok tarot reader ordered to pay $10m over false predictions about Idaho murders",
-      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
-      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T21:47:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnmdvk/ashley_guillard_tiktok_tarot_reader_ordered_to/",
-      "image": "https://external-preview.redd.it/mScjwDVLN4Y4x6TOHC-5VYSFIahXNTuaAmdparNSQi0.jpeg?width=640&crop=smart&auto=webp&s=ec9fc667783232ce6283f6b69ba7487feb71b18b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e85fce0c6a30",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Patients say measles 'worse than expected' as Utah hits 350+ infections, doctors say",
-      "dek": "submitted by /u/its_a_bear_dance [link] [comments]",
-      "body": "submitted by /u/its_a_bear_dance [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-07T21:26:11+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rnlvf1/patients_say_measles_worse_than_expected_as_utah/",
-      "image": "https://external-preview.redd.it/_kEnBTjRQRzaIUCpeiLvZUdPYtj9NQwxgflbmMbxe5Q.jpeg?width=640&crop=smart&auto=webp&s=7c8404d840715e265c33ac78ddbad4bd9eb88c24",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
