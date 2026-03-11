@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-11T11:47:38+00:00",
+  "generatedAt": "2026-03-11T13:02:36+00:00",
   "items": [
+    {
+      "id": "latest_a48d51f2a1ad",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "G7 welcomes potential record release of oil reserves as prices surge",
+      "dek": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "body": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-11T12:07:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_191852a26eea",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_1fb99652896e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Major breaking: Epstein Survivors just announced they will release their own list:",
-      "dek": "This would be the biggest Onion this year if the survirors start blasting the list. submitted by /u/Muted-Raisin-2645 [link] [comments]",
-      "body": "This would be the biggest Onion this year if the survirors start blasting the list. submitted by /u/Muted-Raisin-2645 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T10:55:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqqjs5/major_breaking_epstein_survivors_just_announced/",
-      "image": "https://external-preview.redd.it/Gr0ZNr2fmmwSpCZiIVDp1YFY-5w3DVpSbw3aau_Op1M.jpeg?width=640&crop=smart&auto=webp&s=ee53d3d538b7b9d77aa5a6310cff9fbf2937d293",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dd56be4d43b9",
+      "id": "latest_8c983222392c",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Canadian PM Mark Carney inches closer to majority, as fourth MP defects to Liberals",
-      "dek": "Lori Idlout, formerly of the NDP, has become the latest lawmaker in the current parliament to cross the floor.",
-      "body": "Lori Idlout, formerly of the NDP, has become the latest lawmaker in the current parliament to cross the floor.",
+      "title": "Ukraine says it has hit Russian 'missile component' plant",
+      "dek": "Russia says the attack hit civilians and could not have been carried out without British help.",
+      "body": "Russia says the attack hit civilians and could not have been carried out without British help.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T10:39:02+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0e5jwz0703o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8323/live/9ee99e90-1cf2-11f1-bb35-653e5995a61a.jpg",
+      "publishedAt": "2026-03-11T11:16:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckg1eqw30l9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e77/live/9d9a8680-1d38-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
