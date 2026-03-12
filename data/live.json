@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-12T04:21:38+00:00",
+  "generatedAt": "2026-03-12T05:34:57+00:00",
   "items": [
+    {
+      "id": "latest_7af17789339d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Noma head chef resigns from restaurant amid abuse allegations",
+      "dek": "René Redzepi had previously apologised after ex-employees of the Danish restaurant accused him of creating a toxic work environment.",
+      "body": "René Redzepi had previously apologised after ex-employees of the Danish restaurant accused him of creating a toxic work environment.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T04:09:16+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e00/live/374fa660-1dbc-11f1-ab28-9b4059b178c6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_aaaf6c0e9b8f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bodies of two Chinese backpackers found in Australian floodwaters",
+      "dek": "The pair had been reported missing on Tuesday after failing to reach their destination.",
+      "body": "The pair had been reported missing on Tuesday after failing to reach their destination.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T04:03:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2k872k980po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/2c461f50-1dc2-11f1-beb9-01b83e355edc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d3a8247fd4d4",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-12T04:00:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rrgja5/officer_having_anxiety_attack_took_ambulance_sent/",
       "image": "https://external-preview.redd.it/L0emjXE_XQLe9pkAF9nslMxhPcfMDgqu_KqIdfObQow.jpeg?width=640&crop=smart&auto=webp&s=c203b7ed1691c4df4c2e5639239784da91660d3d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_aa9b7d80ff15",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
-      "dek": "It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway.",
-      "body": "It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T03:04:24+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7f186850-1db8-11f1-9502-59ba76ba5db5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b367408497d5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Head priest of Episcopal Church in Pittsburgh accused of stealing baseball cards from Walmart",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T02:45:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rrexzc/head_priest_of_episcopal_church_in_pittsburgh/",
-      "image": "https://external-preview.redd.it/oWW6J_lAJmLL45epCTr3JCVH974WhXhI_i7AzIhg2Tk.jpeg?width=640&crop=smart&auto=webp&s=a6eb007a4b532a92e8e2354902aac510d7ad34ec",
       "imageCredit": "Image via original publisher"
     }
   ]
