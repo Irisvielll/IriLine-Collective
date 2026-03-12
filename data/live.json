@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-12T06:34:39+00:00",
+  "generatedAt": "2026-03-12T07:35:01+00:00",
   "items": [
+    {
+      "id": "latest_137490e227ef",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "War in Ukraine spills into Hungarian election campaign",
+      "dek": "Hungary is going to the polls soon and Prime Minister Viktor Orbán has one public enemy in his sights - Ukraine's president.",
+      "body": "Hungary is going to the polls soon and Prime Minister Viktor Orbán has one public enemy in his sights - Ukraine's president.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T06:00:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crm8rxwyyz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19fd/live/c59dc9e0-1d69-11f1-9120-a910fc22c6ac.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7af17789339d",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-12T04:03:00+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c2k872k980po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/2c461f50-1dc2-11f1-beb9-01b83e355edc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d3a8247fd4d4",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Officer having anxiety attack took ambulance sent for man dying from police shooting, report says",
-      "dek": "submitted by /u/fresh_exciting [link] [comments]",
-      "body": "submitted by /u/fresh_exciting [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T04:00:49+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rrgja5/officer_having_anxiety_attack_took_ambulance_sent/",
-      "image": "https://external-preview.redd.it/L0emjXE_XQLe9pkAF9nslMxhPcfMDgqu_KqIdfObQow.jpeg?width=640&crop=smart&auto=webp&s=c203b7ed1691c4df4c2e5639239784da91660d3d",
       "imageCredit": "Image via original publisher"
     }
   ]
