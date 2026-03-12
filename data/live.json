@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-12T22:37:40+00:00",
+  "generatedAt": "2026-03-12T23:00:38+00:00",
   "items": [
+    {
+      "id": "meme_4b77d90496ae",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Giant underground pipe mysteriously rises over 30 feet, bursting through road in Japan: \"I can't believe this\"",
+      "dek": "submitted by /u/philmn [link] [comments]",
+      "body": "submitted by /u/philmn [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T22:30:51+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rs5i3p/giant_underground_pipe_mysteriously_rises_over_30/",
+      "image": "https://external-preview.redd.it/nR307Nl7n1OBk8ZQPsWtV0p1_uTkRMRRoBiKd_0HxxY.jpeg?width=640&crop=smart&auto=webp&s=75ae0bec64db71e5f40822665d36413b2c283df5",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d74610c841d4",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-12T20:36:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rs2fj4/selfish_sperm_hijack_overdrive_gene_to_kill/",
       "image": "https://external-preview.redd.it/VZVSz_A4BSacLjplHw2te3mIdzIJuZHkakCr2b3Q780.jpeg?width=640&crop=smart&auto=webp&s=9e41a363b5574f33fa9d1f61c429fe3ff63e3b47",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6a27503c72b9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israeli military drops charges against soldiers accused of abusing Palestinian detainee",
-      "dek": "The Israeli military's top lawyer cites \"exceptional circumstances\" for dropping the case involving a Palestinian man held at Sde Teiman military prison.",
-      "body": "The Israeli military's top lawyer cites \"exceptional circumstances\" for dropping the case involving a Palestinian man held at Sde Teiman military prison.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T20:36:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cm2xrz71zm3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec60/live/ce9fc140-1e4c-11f1-a2e6-b3517c784faa.png",
       "imageCredit": "Image via original publisher"
     }
   ]
