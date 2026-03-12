@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-12T14:32:36+00:00",
+  "generatedAt": "2026-03-12T15:40:45+00:00",
   "items": [
+    {
+      "id": "meme_8eae01742a9f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Philadelphia family court judge charged with assaulting his wife and daughter",
+      "dek": "submitted by /u/livefreeordont [link] [comments]",
+      "body": "submitted by /u/livefreeordont [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T15:13:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rrtg44/philadelphia_family_court_judge_charged_with/",
+      "image": "https://external-preview.redd.it/oZbiZsjAOG8maC5-yho8ko_3rQ9QP8UYBzJFzKhFsH4.jpeg?width=640&crop=smart&auto=webp&s=68726bd00a5493ca672bfc743f4b044d1a237d70",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_593c4ae5ad36",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-12T14:12:29+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rrrueq/runners_are_discovering_they_can_churn_butter_on/",
       "image": "https://external-preview.redd.it/7a0fhDMHk9oS3RMVWEMJo4ymxKvXKI4uxLWY990-4nQ.jpeg?width=640&crop=smart&auto=webp&s=7c7d06012355d8cbcc39e66c3dc248210dccdd7d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6a8103d20487",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nineteen jailed over deadly Moscow concert attack",
-      "dek": "Gunmen opened fire at Crocus City Concert hall near Moscow in 2024, killing 149 and injuring more than 500.",
-      "body": "Gunmen opened fire at Crocus City Concert hall near Moscow in 2024, killing 149 and injuring more than 500.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T13:29:01+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0j5lx75vg3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cde5/live/b07e1900-1e10-11f1-8753-7d33c5bf0351.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
