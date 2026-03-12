@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-12T09:08:35+00:00",
+  "generatedAt": "2026-03-12T10:00:41+00:00",
   "items": [
+    {
+      "id": "meme_f3031c023b02",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Roy man accused of shooting friend in head while doing quick draw drills",
+      "dek": "submitted by /u/StemCellPirate [link] [comments]",
+      "body": "submitted by /u/StemCellPirate [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T08:35:04+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rrl8co/roy_man_accused_of_shooting_friend_in_head_while/",
+      "image": "https://external-preview.redd.it/tBZXMd7lpUpHbX_gngm_rleGlt8Vxb0idhU1a3dS6lw.jpeg?width=640&crop=smart&auto=webp&s=cb3e47e1414c6770c11c3d41faca62b035929e3b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_137490e227ef",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-12T04:09:16+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c07jr2pe5j9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e00/live/374fa660-1dbc-11f1-ab28-9b4059b178c6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_aaaf6c0e9b8f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bodies of two Chinese backpackers found in Australian floodwaters",
-      "dek": "The pair had been reported missing on Tuesday after failing to reach their destination.",
-      "body": "The pair had been reported missing on Tuesday after failing to reach their destination.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T04:03:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2k872k980po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/2c461f50-1dc2-11f1-beb9-01b83e355edc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

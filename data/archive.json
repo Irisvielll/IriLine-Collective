@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_aaaf6c0e9b8f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bodies of two Chinese backpackers found in Australian floodwaters",
+      "dek": "The pair had been reported missing on Tuesday after failing to reach their destination.",
+      "body": "The pair had been reported missing on Tuesday after failing to reach their destination.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T04:03:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2k872k980po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ba/live/2c461f50-1dc2-11f1-beb9-01b83e355edc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d3a8247fd4d4",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-09T09:51:35+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48152343/sources-packers-trading-dl-rashan-gary-cowboys",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3471cb3adb28",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_115f3b3f1082",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Dolphins trade DB Fitzpatrick to Jets",
-      "dek": "The Dolphins are sending Minkah Fitzpatrick to the Jets in exchange for the 2026 seventh-round pick from the Chargers, sources told ESPN's Adam Schefter.",
-      "body": "The Dolphins are sending Minkah Fitzpatrick to the Jets in exchange for the 2026 seventh-round pick from the Chargers, sources told ESPN's Adam Schefter.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-09T09:51:35+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48152286/sources-dolphins-trade-minkah-fitzpatrick-jets",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_115f3b3f1082",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
