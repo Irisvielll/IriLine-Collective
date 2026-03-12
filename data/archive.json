@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_2363f549c04b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "British man charged in Dubai for alleged filming of Iranian missiles",
+      "dek": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "body": "submitted by /u/Cute-Beyond-8133 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T20:25:47+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rs24ez/british_man_charged_in_dubai_for_alleged_filming/",
+      "image": "https://external-preview.redd.it/EenxodpwGC7ZhLUkc77qFpiiixvyU81oNYRg377fTOU.jpeg?width=640&crop=smart&auto=webp&s=a95d32f8026259053e486d628918259c2178bcb1",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_70f381623969",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -104,6 +119,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cpqw0jgn5xgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ef/live/9f700d20-1e25-11f1-ae25-5d55e47d8760.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_f520686925b1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "No Canada: Hughes hypes up Team USA for WBC",
+      "dek": "Jack Hughes, who scored the golden goal vs. Canada in the Winter Olympics, sent \"a nice little fire-up message\" to Team USA ahead of its WBC quarterfinal vs. Ca",
+      "body": "Jack Hughes, who scored the golden goal vs. Canada in the Winter Olympics, sent \"a nice little fire-up message\" to Team USA ahead of its WBC quarterfinal vs. Canada.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-12T17:40:26+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48187529/jack-hughes-hypes-team-usa-ahead-wbc-matchup-vs-canada",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f520686925b1",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_ef04aed8d70e",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c6271gxpdkzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb9/live/79696fc0-1c15-11f1-ac19-759eff7f5cf1.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_847952f9c624",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Has Hollywood golden boy Timothée Chalamet lost his shine?",
-      "dek": "Is the backlash against Timothée Chalamet about more than his views on ballet and opera?",
-      "body": "Is the backlash against Timothée Chalamet about more than his views on ballet and opera?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T00:09:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20lyk1lpn2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd89/live/7c5baa20-1bc7-11f1-964c-87b629a369ca.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_52f80e1d77c7",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Judge, Anthony power Team USA over Mexico",
-      "dek": "Aaron Judge hit a two-run homer and Roman Anthony added a three-run blast in a big third inning to lead the U.S. over Mexico in the WBC.",
-      "body": "Aaron Judge hit a two-run homer and Roman Anthony added a three-run blast in a big third inning to lead the U.S. over Mexico in the WBC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T00:01:18+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48159522/aaron-judge-roman-anthony-lead-team-usa-mexico-wbc",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_52f80e1d77c7",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
