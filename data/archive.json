@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_88a2f1bbc4d6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Guards at Alligator Alcatraz are now wearing Grim Reaper patches: report",
+      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
+      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T06:53:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rsg72v/guards_at_alligator_alcatraz_are_now_wearing_grim/",
+      "image": "https://external-preview.redd.it/FxCzEYAlkln_lAfIg4iBC249InWkCiqJ4HgBmI61r5w.jpeg?width=640&crop=smart&auto=webp&s=278fc87bab5f2177384cbe9a616ad04373bc670c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_68c3cc891727",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-10T12:59:17+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48163223/sources-te-dawson-knox-stays-bills-new-3-year-deal",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fbbac3ccac24",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_906020610036",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Kerr again calls for league to shorten season",
-      "dek": "Golden State Warriors coach Steve Kerr said Monday that the NBA would be better off if it shaved games off its 82-game schedule, echoing previous comments he ha",
-      "body": "Golden State Warriors coach Steve Kerr said Monday that the NBA would be better off if it shaved games off its 82-game schedule, echoing previous comments he has made about the pace of play and long season affecting its quality and competitiveness.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T12:59:17+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48163624/playing-10-games-less-season-improve-league",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_906020610036",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
