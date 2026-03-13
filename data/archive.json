@@ -31,6 +31,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_ec99de9c3924",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Big 12 to swap LED glass court for hardwood",
+      "dek": "The Big 12 will transition back to a traditional hardwood court for the remainder of its conference tournament at T-Mobile Center after the innovative LED glass",
+      "body": "The Big 12 will transition back to a traditional hardwood court for the remainder of its conference tournament at T-Mobile Center after the innovative LED glass court it was using led to some slipping and grip issues for players.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T01:08:49+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48191727/big-12-swap-led-glass-court-hardwood-semis-final",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ec99de9c3924",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_f00a1c4351b3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Leafs star Matthews (knee) injured in 'dirty play'",
+      "dek": "Maple Leafs captain Auston Matthews left Thursday night against Anaheim after a knee-on-knee hit from Ducks defenseman Radko Gudas.",
+      "body": "Maple Leafs captain Auston Matthews left Thursday night against Anaheim after a knee-on-knee hit from Ducks defenseman Radko Gudas.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T01:08:49+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48189663/maple-leafs-auston-matthews-exits-knee-knee-hit",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f00a1c4351b3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_a8ed6714fee0",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-10T11:27:55+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21a/live/b079eeb0-1c6d-11f1-8206-178b2777dfa1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_777a021ef8c4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Georgia voters to pick replacement for Marjorie Taylor Greene in special election",
-      "dek": "The shadow of Greene, who resigned from Congress after a rift with the president, looms large over a crowded contest.",
-      "body": "The shadow of Greene, who resigned from Congress after a rift with the president, looms large over a crowded contest.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T10:47:08+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c77ey1v7jrzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb5/live/d44a7660-1c05-11f1-801d-ed3cff6bf876.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_80ea72f606b7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Uber rolls out women-only option in the US",
-      "dek": "The feature allows both women riders and drivers to be matched with other women for trips on the ride-sharing app.",
-      "body": "The feature allows both women riders and drivers to be matched with other women for trips on the ride-sharing app.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T10:34:11+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2gvrzwdr7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0278/live/b218da00-1c5f-11f1-b8c2-59d98cecc063.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
