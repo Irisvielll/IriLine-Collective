@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-13T22:55:42+00:00",
+  "generatedAt": "2026-03-13T23:31:17+00:00",
   "items": [
+    {
+      "id": "latest_aa7cb1415450",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Xi's anti-corruption drive began 14 years ago. Why are the purges still going?",
+      "dek": "Critics say Xi's purges reveal a ruthless drive for absolute loyalty and total control of the military.",
+      "body": "Critics say Xi's purges reveal a ruthless drive for absolute loyalty and total control of the military.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T23:08:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ea/live/99535ca0-1f09-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6718cf98256b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-13T22:02:39+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fe8cddd95b9d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pink Floyd guitar sold for record-breaking $14.6m",
-      "dek": "The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon.",
-      "body": "The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T21:50:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f395/live/d7cb3440-1f1c-11f1-b5ee-ad10117609fa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

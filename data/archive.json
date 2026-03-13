@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_fe8cddd95b9d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Pink Floyd guitar sold for record-breaking $14.6m",
+      "dek": "The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon.",
+      "body": "The guitar was used by David Gilmour on some of Pink Floyd's best-known albums, including Dark Side of the Moon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T21:50:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f395/live/d7cb3440-1f1c-11f1-b5ee-ad10117609fa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_75df3f5f77f3",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/47011671/wnba-cba-negotiations-wnbpa-updates-latest-news",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dca1ce9843a7",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_9aa0ba9ec5de",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Australian designer Katie Perry wins trademark case against popstar Katy Perry in High Court",
-      "dek": "submitted by /u/CybergothiChe [link] [comments]",
-      "body": "submitted by /u/CybergothiChe [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T00:22:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqeln3/australian_designer_katie_perry_wins_trademark/",
-      "image": "https://external-preview.redd.it/929u9YE3-CBJz8-eA37h4Brilw7fQdApaClGdqZ5y8k.jpeg?width=640&crop=smart&auto=webp&s=509156f02351b942d5ca225d7eef95b39136acb7",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
