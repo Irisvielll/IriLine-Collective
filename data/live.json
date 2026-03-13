@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-13T11:18:30+00:00",
+  "generatedAt": "2026-03-13T11:52:52+00:00",
   "items": [
+    {
+      "id": "meme_b779e39fd5ec",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "US weather to go nuts with blizzard, polar vortex, heat dome, atmospheric river all at once",
+      "dek": "submitted by /u/xl_cr [link] [comments]",
+      "body": "submitted by /u/xl_cr [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T11:31:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rskt41/us_weather_to_go_nuts_with_blizzard_polar_vortex/",
+      "image": "https://external-preview.redd.it/4eIxktGlkZQY4A1P83kfp2-KiBbnNpS6o1n7yT1Ft4I.jpeg?width=640&crop=smart&auto=webp&s=c93f8672ab76902a91d3efb67a1e2c11b034d46d",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f216a6237e4b",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-13T10:26:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rsjn1s/first_humanoid_robot_arrested_after_startling_an/",
       "image": "https://external-preview.redd.it/BnrI8F5NE5ZvbvKp05m0AUm36E8D0RvSz3c0VCt798A.jpeg?width=640&crop=smart&auto=webp&s=8bd203514694f6f8fb8b7ce4e79414ce2ac5e23b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d623b28c6216",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘Happy (and safe) shooting!’ AI chatbots helped teen users plan violence in hundreds of tests",
-      "dek": "submitted by /u/ELECTRAFYRE [link] [comments]",
-      "body": "submitted by /u/ELECTRAFYRE [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T08:49:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rsi1o9/happy_and_safe_shooting_ai_chatbots_helped_teen/",
-      "image": "https://external-preview.redd.it/DHRQwzpXkKlEkheEo_0L-ujY9GmaKI8WPJpZY-XhhBA.jpeg?width=640&crop=smart&auto=webp&s=e40adb0d0a6ab749f9adb682a6bfb8c714f8e497",
       "imageCredit": "Image via original publisher"
     }
   ]
