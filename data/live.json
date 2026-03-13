@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-13T10:40:57+00:00",
+  "generatedAt": "2026-03-13T11:18:30+00:00",
   "items": [
+    {
+      "id": "latest_f216a6237e4b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
+      "dek": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
+      "body": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T10:43:21+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adff/live/62292740-1ec9-11f1-b048-c9424b2cf5fd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_785b0d82a767",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-13T08:49:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rsi1o9/happy_and_safe_shooting_ai_chatbots_helped_teen/",
       "image": "https://external-preview.redd.it/DHRQwzpXkKlEkheEo_0L-ujY9GmaKI8WPJpZY-XhhBA.jpeg?width=640&crop=smart&auto=webp&s=e40adb0d0a6ab749f9adb682a6bfb8c714f8e497",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_41d929a33d5e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US refuelling plane crashes in Iraq, military says",
-      "dek": "The US Central Command says rescue efforts are under way after a refuelling aircraft went down over western Iraq.",
-      "body": "The US Central Command says rescue efforts are under way after a refuelling aircraft went down over western Iraq.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T08:04:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/a0e799b0-1e6c-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
