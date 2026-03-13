@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-13T02:47:51+00:00",
+  "generatedAt": "2026-03-13T04:44:41+00:00",
   "items": [
+    {
+      "id": "meme_d8c53cdd4b6d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "DOJ refuses to address fully redacted, 300+ page Epstein file",
+      "dek": "submitted by /u/RevWaldo [link] [comments]",
+      "body": "submitted by /u/RevWaldo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T03:45:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rscsl7/doj_refuses_to_address_fully_redacted_300_page/",
+      "image": "https://external-preview.redd.it/qau1fyQBUwEyCOBYLkiDOCaAp3rn1uiIydJgoi6jqBg.jpeg?width=640&crop=smart&auto=webp&s=48576124da3e2c6071339190e826793b0a377305",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e0d484c453fe",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-13T01:47:54+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef99/live/95e4bc80-1d79-11f1-801d-ed3cff6bf876.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_29c900855582",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "UK MPs 'deeply troubled' by BBC World Service funding uncertainty",
-      "dek": "The current funding agreement between the BBC and the government expires at the end of this month.",
-      "body": "The current funding agreement between the BBC and the government expires at the end of this month.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T01:47:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1l76581d0ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba71/live/68876740-1e2a-11f1-ae25-5d55e47d8760.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
