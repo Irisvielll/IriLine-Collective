@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_07fc03f5f124",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "France returns sacred 'talking drum' looted during colonial rule to Ivory Coast",
+      "dek": "The move forms part of a broader process of returning cultural artefacts to African countries that started in 2017.‎",
+      "body": "The move forms part of a broader process of returning cultural artefacts to African countries that started in 2017.‎",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T13:11:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7446/live/acf80b00-1eca-11f1-84c5-132fa5d854db.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_5deb2d909a29",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Britons should not take photos of strikes in UAE, embassy warns",
+      "dek": "submitted by /u/Srihari_stan [link] [comments]",
+      "body": "submitted by /u/Srihari_stan [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T12:24:11+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rslvc3/britons_should_not_take_photos_of_strikes_in_uae/",
+      "image": "https://external-preview.redd.it/FIgnfe5k9nZZxvNx8ukVQCY4iSO9C0ua-_OFanmHdi0.jpeg?width=640&crop=smart&auto=webp&s=86e71e4e6f6b7af964d8816feb8b332c6bb16c75",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_86797897868b",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-10T16:42:31+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_a42cdeaf740e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Champions League live updates: Newcastle host Barça, Atleti host Spurs",
-      "dek": "Enjoy all the updates from Tuesday's UEFA Champions League round of 16 matches, including Newcastle vs. Barcelona and Atlético Madrid vs Tottenham.",
-      "body": "Enjoy all the updates from Tuesday's UEFA Champions League round of 16 matches, including Newcastle vs. Barcelona and Atlético Madrid vs Tottenham.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T15:36:51+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48114435/champions-league-live-updates-newcastle-united-barcelona-atletico-madrid-tottenham-atalanta-bayern-munich",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a42cdeaf740e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_b34f860115c6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Italy buys rare Caravaggio portrait for €30m",
-      "dek": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
-      "body": "The purchase is part of wider plans to prevent major artworks from being bought by private collectors.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-10T15:18:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b2/live/f0aecbb0-1c98-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
