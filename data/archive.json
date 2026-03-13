@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_75df3f5f77f3",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "NYC taco shop sued for causing injuries due to spicy salsa: lawsuit",
+      "dek": "submitted by /u/SlovakSlovakia [link] [comments]",
+      "body": "submitted by /u/SlovakSlovakia [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T21:24:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rt08eh/nyc_taco_shop_sued_for_causing_injuries_due_to/",
+      "image": "https://external-preview.redd.it/9HbAGH-AXFPIEw3RjkFOYCYnSxBYFSN7KIJs8v-sJP0.jpeg?width=640&crop=smart&auto=webp&s=349a3f033d7a6d0b720aaf20296ff33a029603f1",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_0d80c09c4d21",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rqeln3/australian_designer_katie_perry_wins_trademark/",
       "image": "https://external-preview.redd.it/929u9YE3-CBJz8-eA37h4Brilw7fQdApaClGdqZ5y8k.jpeg?width=640&crop=smart&auto=webp&s=509156f02351b942d5ca225d7eef95b39136acb7",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_95f05d38ea7f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "All the records Adebayo set in his stunning 83-point night",
-      "dek": "Heat big man Bam Adebayo just put up the second-highest scoring game in NBA history, with 83 points.",
-      "body": "Heat big man Bam Adebayo just put up the second-highest scoring game in NBA history, with 83 points.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T00:14:07+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48168945/bam-adebayo-miami-heat-scores-83-points-single-nba-game-numbers-records-kobe-wilt",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_95f05d38ea7f",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
