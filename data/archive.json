@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_5607a9096657",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Priest faces $500,000 in fines for feeding homeless amid lawsuit",
+      "dek": "submitted by /u/Perezvon42 [link] [comments]",
+      "body": "submitted by /u/Perezvon42 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T12:22:46+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rti1v0/priest_faces_500000_in_fines_for_feeding_homeless/",
+      "image": "https://external-preview.redd.it/WDmW76I731D1pMfBZ5sjfIhew3i8A1Gb-azkkk0vAgo.jpeg?width=640&crop=smart&auto=webp&s=b4fae9e838d8dc6abca677190201ab45580f8b2b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e5d30a8f4440",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -44,6 +59,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecce/live/0a54bbc0-1f86-11f1-b048-c9424b2cf5fd.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_650a198e55e0",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Verstappen: Every lap in Red Bull is survival mode",
+      "dek": "Max Verstappen said every lap is survival mode with his Red Bull at the moment as he cannot control the car, a situation that is \"just really not how it should ",
+      "body": "Max Verstappen said every lap is survival mode with his Red Bull at the moment as he cannot control the car, a situation that is \"just really not how it should be.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T09:06:48+00:00",
+      "sourceUrl": "https://www.espn.com/f1/story/_/id/48203066/chinese-grand-prix-max-verstappen-claims-every-lap-red-bull-survival-qualifying-eighth",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_650a198e55e0",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_ba0eb6466e01",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48173518/why-baltimore-ravens-landed-trey-hendrickson-maxx-crosby-failed-trade",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6023c223e6a5",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d4e66832df90",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Rolapp envisions ambitious changes for PGA Tour",
-      "dek": "CEO Brian Rolapp outlined a bold future for the PGA Tour on Wednesday, listing the possibility of relegation, a revamped schedule and match play in the playoffs",
-      "body": "CEO Brian Rolapp outlined a bold future for the PGA Tour on Wednesday, listing the possibility of relegation, a revamped schedule and match play in the playoffs among the changes being considered.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T12:10:13+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48174318/relegation-enhanced-postseason-part-rolapp-pga-tour-vision",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d4e66832df90",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_a48d51f2a1ad",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "G7 welcomes potential record release of oil reserves as prices surge",
-      "dek": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "body": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T12:07:11+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
