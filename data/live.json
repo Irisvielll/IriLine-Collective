@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-14T11:29:20+00:00",
+  "generatedAt": "2026-03-14T11:49:40+00:00",
   "items": [
+    {
+      "id": "meme_cee3ed0bf52e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "RAM kits are now sold with one fake RAM stick alongside a real one to create a performance illusion — 1+1 'value pack' offers desperate psychological relief as the memory shortage worsens",
+      "dek": "TL;DR: A 1+1 value pack to be offered, having 1 functioning RAM and 1 fake, feelgood, shell. submitted by /u/Significant-Colour [link] [comments]",
+      "body": "TL;DR: A 1+1 value pack to be offered, having 1 functioning RAM and 1 fake, feelgood, shell. submitted by /u/Significant-Colour [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T11:41:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rth928/ram_kits_are_now_sold_with_one_fake_ram_stick/",
+      "image": "https://external-preview.redd.it/JM613HdGlaqP1PRpKs43PLICCtZFHnwpwCwX7cDKkME.jpeg?width=640&crop=smart&auto=webp&s=966cd558c33934e86c2a677d86d3a43363fdf1cd",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ba0eb6466e01",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c8d/live/c299f6d0-1f79-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_170aa5c3b449",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Which NFL teams have improved the most in free agency? Five rosters that made the best moves",
-      "dek": "We picked out the teams that took the biggest steps forward this week through their signings and other moves -- including the 49ers.",
-      "body": "We picked out the teams that took the biggest steps forward this week through their signings and other moves -- including the 49ers.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T07:21:59+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48196399/2026-nfl-free-agency-best-signings-trades-moves-most-improved-teams",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_170aa5c3b449",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
