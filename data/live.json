@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-13T23:31:17+00:00",
+  "generatedAt": "2026-03-14T00:00:01+00:00",
   "items": [
+    {
+      "id": "meme_60368a71f864",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The archaeological discovery of the century: a city resembling Atlantis has been found at the bottom of a lake",
+      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
+      "body": "submitted by /u/HowLongIsThi [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-13T23:28:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rt3d6z/the_archaeological_discovery_of_the_century_a/",
+      "image": "https://external-preview.redd.it/zxWLifIbsOpHT49H0Y1rxloPXA1Lh4s43xcLgUeLEiY.jpeg?width=640&crop=smart&auto=webp&s=cede97c47cc7d017e49c52ceb560d777ad6b0f1a",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_aa7cb1415450",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-13T22:32:53+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rt1zb6/us_forecasts_blizzard_polar_vortex_heat_dome_and/",
       "image": "https://external-preview.redd.it/4eIxktGlkZQY4A1P83kfp2-KiBbnNpS6o1n7yT1Ft4I.jpeg?width=640&crop=smart&auto=webp&s=c93f8672ab76902a91d3efb67a1e2c11b034d46d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ae609e029ec4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
-      "dek": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
-      "body": "A group of fighters based in Iraq say they are \"ready to go home\", as they face drone attacks from Tehran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T22:02:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ff/live/57adba20-1ef5-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
