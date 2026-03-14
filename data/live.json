@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-14T18:57:22+00:00",
+  "generatedAt": "2026-03-14T19:33:21+00:00",
   "items": [
+    {
+      "id": "meme_95d9722ddf14",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Head priest of Episcopal Church in Pittsburgh accused of stealing baseball cards from Walmart",
+      "dek": "submitted by /u/imanchats [link] [comments]",
+      "body": "submitted by /u/imanchats [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T19:11:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rts0ur/head_priest_of_episcopal_church_in_pittsburgh/",
+      "image": "https://external-preview.redd.it/vZIeayrn4fv1xmQUks80xcEn32l60M380Dd1Mo9BnpU.jpeg?width=640&crop=smart&auto=webp&s=de90183880c39657540a415cccf4600df23231b2",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5e7c7c48dc3a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-14T18:10:51+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtqgma/mans_blue_skin_ae_panic_was_just_bed_sheet_dye/",
       "image": "https://external-preview.redd.it/9F9b651NWVfS2gwCylFMbG-AllUNrC4wLjuGaaETsKk.jpeg?width=640&crop=smart&auto=webp&s=4fc889a1750ebca7fe21ad6c44189ad29bf163cc",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_96c846f3ef9a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "German philosopher and social critic Jürgen Habermas dies at 96",
-      "dek": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life.",
-      "body": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T18:02:15+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crk8yxd2g0no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bae/live/b15cff00-1fcb-11f1-9c85-1d495aee893e.png",
       "imageCredit": "Image via original publisher"
     }
   ]
