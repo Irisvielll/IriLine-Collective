@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_42f4656556ba",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Hegseth says don't 'worry' about Strait of Hormuz, but US needs time to counter Iran's stranglehold",
+      "dek": "submitted by /u/color_natural_3679 [link] [comments]",
+      "body": "submitted by /u/color_natural_3679 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T06:27:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtc2sn/hegseth_says_dont_worry_about_strait_of_hormuz/",
+      "image": "https://external-preview.redd.it/a6PQyxpZmDxEkVy_s1cqR536ngOBGuai0ykYfvhKK_0.jpeg?width=640&crop=smart&auto=webp&s=2a015ebde7b137ea60e80c761e38a079855ac1c6",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_46cf0c97d671",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48173404/nfl-explores-adding-game-thanksgiving-eve-source-says",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fbabe7150ccf",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_48d3bef8f585",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "India's top court allows removal of life support of man in vegetative state",
-      "dek": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
-      "body": "Harish Rana has been in a vegetative state since 2013, when he fell from a balcony and suffered head injuries.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T09:28:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd12/live/42396a40-f1e1-11f0-b373-d7bde4e9f067.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

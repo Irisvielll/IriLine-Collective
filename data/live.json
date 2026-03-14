@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T09:05:06+00:00",
+  "generatedAt": "2026-03-14T09:48:54+00:00",
   "items": [
     {
       "id": "meme_ba0eb6466e01",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_0637f9d59e11",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Explosion at Amsterdam Jewish school 'a deliberate attack' says mayor",
+      "dek": "Security had been increased at Jewish public institutions following an earlier incident in Rotterdam.",
+      "body": "Security had been increased at Jewish public institutions following an earlier incident in Rotterdam.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T08:11:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c8d/live/c299f6d0-1f79-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_4c2872f12a8b",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtcu1v/hamas_urges_iran_to_stop_targeting_neighboring/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_4c2872f12a8b",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_42f4656556ba",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hegseth says don't 'worry' about Strait of Hormuz, but US needs time to counter Iran's stranglehold",
-      "dek": "submitted by /u/color_natural_3679 [link] [comments]",
-      "body": "submitted by /u/color_natural_3679 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T06:27:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtc2sn/hegseth_says_dont_worry_about_strait_of_hormuz/",
-      "image": "https://external-preview.redd.it/a6PQyxpZmDxEkVy_s1cqR536ngOBGuai0ykYfvhKK_0.jpeg?width=640&crop=smart&auto=webp&s=2a015ebde7b137ea60e80c761e38a079855ac1c6",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
