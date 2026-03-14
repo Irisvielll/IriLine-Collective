@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-14T08:38:52+00:00",
+  "generatedAt": "2026-03-14T09:05:06+00:00",
   "items": [
+    {
+      "id": "meme_ba0eb6466e01",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "UFC fighters to train FBI agents",
+      "dek": "submitted by /u/likeguitarsolo [link] [comments]",
+      "body": "submitted by /u/likeguitarsolo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T08:50:09+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtef3w/ufc_fighters_to_train_fbi_agents/",
+      "image": "https://external-preview.redd.it/8cAjQln8ZcONyCUAN8QY1SsHwIs9I5QP3ArzH3-cW0M.jpeg?width=640&crop=smart&auto=webp&s=6fe4adb9a3cddc513b8208c7871afef5ba58da4b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4c2872f12a8b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-14T06:27:41+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtc2sn/hegseth_says_dont_worry_about_strait_of_hormuz/",
       "image": "https://external-preview.redd.it/a6PQyxpZmDxEkVy_s1cqR536ngOBGuai0ykYfvhKK_0.jpeg?width=640&crop=smart&auto=webp&s=2a015ebde7b137ea60e80c761e38a079855ac1c6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_46cf0c97d671",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-      "dek": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
-      "body": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T05:59:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c670/live/c49e5040-141e-11f1-963a-55716ece1b4d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
