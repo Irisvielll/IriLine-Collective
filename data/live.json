@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-14T15:34:19+00:00",
+  "generatedAt": "2026-03-14T15:58:13+00:00",
   "items": [
+    {
+      "id": "latest_d70a5df560a2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kennedy Center head steps down after tumultuous year",
+      "dek": "The Trump ally's departure comes as the centre prepares to shut down for a two-year renovation.",
+      "body": "The Trump ally's departure comes as the centre prepares to shut down for a two-year renovation.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T15:31:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy7jlgez0ljo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e2/live/2571f740-1fba-11f1-b198-cd0b73acfd9d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_132e5deed6cd",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-14T15:10:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtluwf/toronto_man_accused_of_playing_hitler_speech/",
       "image": "https://external-preview.redd.it/vvbAJbxwrL9qJl_OtkzssZsyopmHqfAGn3PHsYM74zU.jpeg?width=640&crop=smart&auto=webp&s=b9a3a1524e326e6c109b1ed121d986aa04a2f822",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e16984a55313",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "$250K worth of male sex toys left Los Angeles, never made it to Dallas: A ‘Handy’ heist?",
-      "dek": "submitted by /u/StemCellPirate [link] [comments]",
-      "body": "submitted by /u/StemCellPirate [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T14:46:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtl9i2/250k_worth_of_male_sex_toys_left_los_angeles/",
-      "image": "https://external-preview.redd.it/1C8hMBuyHnLeuYbFlZoY27n8WuDZTs3XDSMCiLDWtVo.png?width=640&crop=smart&auto=webp&s=7673d44364ff03dcf3c02ac43e329790bdad6d3f",
       "imageCredit": "Image via original publisher"
     }
   ]
