@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-14T16:41:52+00:00",
+  "generatedAt": "2026-03-14T17:03:29+00:00",
   "items": [
+    {
+      "id": "meme_58a389a9efbc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Slain Supreme Leader Was Secret Fan of American Looksmaxxing Influencer, Sources Say",
+      "dek": "submitted by /u/DoraEnzo [link] [comments]",
+      "body": "submitted by /u/DoraEnzo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T16:52:09+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtoeg0/slain_supreme_leader_was_secret_fan_of_american/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_58a389a9efbc",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_edc486a4dae9",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-14T16:22:11+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtnn94/male_shoe_anxiety_hits_the_oval_office/",
       "image": "https://external-preview.redd.it/_-vvl85sIgGHQUzlbQjsvNLnNxaxt7_BbOHmkkgGBOw.jpeg?width=640&crop=smart&auto=webp&s=c4f4a7885e947d4f40865355560972e8e3478906",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d70a5df560a2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kennedy Center head steps down after tumultuous year",
-      "dek": "The Trump ally's departure comes as the centre prepares to shut down for a two-year renovation.",
-      "body": "The Trump ally's departure comes as the centre prepares to shut down for a two-year renovation.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T15:31:01+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy7jlgez0ljo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e2/live/2571f740-1fba-11f1-b198-cd0b73acfd9d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
