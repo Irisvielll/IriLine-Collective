@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_95d9722ddf14",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Head priest of Episcopal Church in Pittsburgh accused of stealing baseball cards from Walmart",
+      "dek": "submitted by /u/imanchats [link] [comments]",
+      "body": "submitted by /u/imanchats [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T19:11:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rts0ur/head_priest_of_episcopal_church_in_pittsburgh/",
+      "image": "https://external-preview.redd.it/vZIeayrn4fv1xmQUks80xcEn32l60M380Dd1Mo9BnpU.jpeg?width=640&crop=smart&auto=webp&s=de90183880c39657540a415cccf4600df23231b2",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_5e7c7c48dc3a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -74,6 +89,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6242/live/c74b5b30-1fcc-11f1-9c85-1d495aee893e.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_a6c846da4abc",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Leafs want Gudas punished more for Matthews hit",
+      "dek": "The Maple Leafs believe the NHL didn't go far enough in punishing Ducks defenseman Radko Gudas for the hit that ended Auston Matthews' season.",
+      "body": "The Maple Leafs believe the NHL didn't go far enough in punishing Ducks defenseman Radko Gudas for the hit that ended Auston Matthews' season.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T16:52:16+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48207266/leafs-call-harsher-punishment-gudas-hit-matthews",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a6c846da4abc",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_58a389a9efbc",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rr3x60/fan_attends_wrong_football_stadium_366_miles_away/",
       "image": "https://external-preview.redd.it/If6cMy-s3Gmpe3Kabjz1ALiwkLcBwbf366NPnsU1eDw.jpeg?width=640&crop=smart&auto=webp&s=4d5601fcbe97015740959bad2fede2e9ea5c0a2d",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_8d5a84390d43",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Zack Polanski stood by breast enlargment hypnosis claim",
-      "dek": "submitted by /u/m1n3c7afty [link] [comments]",
-      "body": "submitted by /u/m1n3c7afty [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T19:34:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rr3ubd/zack_polanski_stood_by_breast_enlargment_hypnosis/",
-      "image": "https://external-preview.redd.it/WVWrifA9whqAD0v8piY3XvzhjT8i9rUYhDGWuxhY_1c.jpeg?width=640&crop=smart&auto=webp&s=1237cd9ecf8f6962ca96cfb4750233336e7ae07e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_087a6b0c0aff",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Valverde's hat trick was the cherry on top of Madrid's performance vs. Man City",
-      "dek": "Federico Valverde's hat trick have put Real Madrid in pole position to advance to the Champions League quarterfinals, leaving Manchester City with a huge task a",
-      "body": "Federico Valverde's hat trick have put Real Madrid in pole position to advance to the Champions League quarterfinals, leaving Manchester City with a huge task at home next week.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T19:22:47+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48178056/federico-valverdes-hat-trick-steals-show-real-madrid-dominate-manchester-city",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_087a6b0c0aff",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
