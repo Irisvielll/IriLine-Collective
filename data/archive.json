@@ -121,6 +121,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_43db7564ffcb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Irsay collection nets more than $93M at auction",
+      "dek": "An expansive memorabilia collection belonging to late Indianapolis Colts owner Jim Irsay has brought in more than $93 million via auction with Christie's.",
+      "body": "An expansive memorabilia collection belonging to late Indianapolis Colts owner Jim Irsay has brought in more than $93 million via auction with Christie's.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T13:00:45+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48205033/jim-irsay-memorabilia-collection-nets-93m-auction",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_43db7564ffcb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_852b7f151ab6",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-11T15:41:25+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48176012/iowa-state-sends-arizona-state-hurley-home-big-12-blowout",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d638c0af4c05",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_16115cc5823c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vikings keep RB Jones on restructured $5.6M deal",
-      "dek": "Veteran running back Aaron Jones Sr. has restructured his deal with the Minnesota Vikings and won't be released, agent Drew Rosenhaus told ESPN.",
-      "body": "Veteran running back Aaron Jones Sr. has restructured his deal with the Minnesota Vikings and won't be released, agent Drew Rosenhaus told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T15:41:25+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48176019/vikings-keep-aaron-jones-fold-restructured-1-year-deal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_16115cc5823c",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
