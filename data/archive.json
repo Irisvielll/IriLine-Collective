@@ -76,6 +76,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_c55e217d0b6d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "VAR review: Why Arsenal should have had a penalty vs. Everton",
+      "dek": "Why didn't VAR intervene after Michael Keane stepped on Kai Havertz's Achilles?",
+      "body": "Why didn't VAR intervene after Michael Keane stepped on Kai Havertz's Achilles?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-14T19:12:24+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48207780/var-review-why-arsenal-had-penalty-vs-everton",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c55e217d0b6d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_95d9722ddf14",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-11T21:36:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rr79us/un_security_council_passes_resolution_condemning/",
       "image": "https://external-preview.redd.it/iYRR5vsSmRvbx09nlJXhh6O0IGCFmXp8EpGmoDEJ-44.jpeg?width=320&crop=smart&auto=webp&s=834281f04aee37743be6cf15ffce5c3b93b06fe1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fc00adb26841",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
-      "dek": "Leo Brent Bozell apologises after weighing in on a dispute rooted in the country's apartheid past.",
-      "body": "Leo Brent Bozell apologises after weighing in on a dispute rooted in the country's apartheid past.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-11T21:30:16+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c14m1vzmxz3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4851/live/cbbb8f20-1d72-11f1-a77a-39b849d4606b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
