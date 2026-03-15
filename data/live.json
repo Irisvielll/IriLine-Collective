@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-15T15:01:50+00:00",
+  "generatedAt": "2026-03-15T15:44:33+00:00",
   "items": [
+    {
+      "id": "meme_73f7cabb82a9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Lawsuit Alleges DOGE Cancelled $349,000 HVAC Grant to Museum after ChatGPT Flagged It As DEI",
+      "dek": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "body": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T15:14:36+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ruglk0/lawsuit_alleges_doge_cancelled_349000_hvac_grant/",
+      "image": "https://external-preview.redd.it/44xFZA3VjRS_lKi3vGzZlZkneu-1mnUDJWONbY6hlu8.jpeg?width=640&crop=smart&auto=webp&s=ab20e45a3b0fa0b7c9240c02631fbc2a4cce95a2",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d884cab8ed68",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-15T12:27:57+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a271/live/4efd7d50-2064-11f1-9947-33b977ba9407.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_93d3a525dd2a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
-      "dek": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
-      "body": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T12:00:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/889d/live/bdc18c80-2065-11f1-99b3-4b0aa65020b6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
