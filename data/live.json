@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-15T16:02:03+00:00",
+  "generatedAt": "2026-03-15T16:49:23+00:00",
   "items": [
+    {
+      "id": "latest_f3377d8ab2ec",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French police detain brothers over 'lethal and antisemitic' plot",
+      "dek": "A loaded gun, hydrochloric acid and an Islamic State flag were found in their car, prosecutors say.",
+      "body": "A loaded gun, hydrochloric acid and an Islamic State flag were found in their car, prosecutors say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T16:12:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e0/live/93234490-2084-11f1-8af0-cf4f458e05d4.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_73f7cabb82a9",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-15T13:34:34+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rue6rh/zach_braff_denies_he_is_dating_ai_chatbot/",
       "image": "https://external-preview.redd.it/_uVKmUmUKgkVcpTsS_-dF1MicBE4gNpkefPqIlvCWcc.jpeg?width=640&crop=smart&auto=webp&s=5401cd2621c0cb78715fc14e2f649f2382b33973",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b4f525104aa4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ugandan opposition leader goes abroad after two months in hiding",
-      "dek": "Uganda's military chief has said Bobi Wine is wanted \"dead or alive\", although some ministers have denied he is being sought.",
-      "body": "Uganda's military chief has said Bobi Wine is wanted \"dead or alive\", although some ministers have denied he is being sought.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T12:27:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy8vk24wyvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a271/live/4efd7d50-2064-11f1-9947-33b977ba9407.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
