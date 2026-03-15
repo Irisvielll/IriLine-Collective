@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-15T19:16:57+00:00",
+  "generatedAt": "2026-03-15T19:49:34+00:00",
   "items": [
+    {
+      "id": "meme_02c8dc78003c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Animated ‘Firefly’ Reboot in Development From Nathan Fillion, 20th TV Animation",
+      "dek": "They Can't Take the Sky from Me! submitted by /u/Pandering_Poofery [link] [comments]",
+      "body": "They Can't Take the Sky from Me! submitted by /u/Pandering_Poofery [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T19:42:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1runkxc/animated_firefly_reboot_in_development_from/",
+      "image": "https://external-preview.redd.it/TM-oYnrWKTS9_NUDVeB0lASotAZLNshg_ADgb7CtT34.jpeg?width=640&crop=smart&auto=webp&s=8249d2504c1526d9b8dae2433f560bf67c0759e6",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_da82bf53368a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-15T19:02:33+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rumjq0/woman_charged_with_identity_theft_after_posting/",
       "image": "https://external-preview.redd.it/w23hHFPrDJcMO9kkHq3KRoGjRRG0pZL0OmsmYuWe7V8.jpeg?width=640&crop=smart&auto=webp&s=3ce649bf34e8bb6eb5b51125c974bd83e930360f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_12db38a40364",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Sweden detains captain of Russian shadow fleet ship",
-      "dek": "The skipper of the Sea Owl One is suspected of producing forged documents when it was boarded by coast guard.",
-      "body": "The skipper of the Sea Owl One is suspected of producing forged documents when it was boarded by coast guard.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T18:40:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cpqwg0yej04o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/8518c9d0-209b-11f1-9cdb-3b5a9df6c45b.png",
       "imageCredit": "Image via original publisher"
     }
   ]
