@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_cdfaac7feeb2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Para gold nets U.S. historic hockey sweep in Italy",
+      "dek": "Three weeks after the United States beat Canada in the Olympic hockey finals, the Americans overcame their neighbors again to win Paralympic gold and complete t",
+      "body": "Three weeks after the United States beat Canada in the Olympic hockey finals, the Americans overcame their neighbors again to win Paralympic gold and complete the three-peat at Milan Cortina.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T13:27:21+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/story/_/id/48215106/us-hockey-completes-historic-sweep-olympics-paralympics",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cdfaac7feeb2",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_b4f525104aa4",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-12T10:52:17+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cp857gy1843o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a07/live/56bf2f90-1df1-11f1-a719-d5d170d20a8c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_178731bde9c2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Death toll from Ethiopia floods and landslides rises to more than 60",
-      "dek": "Forecasters say storms are becoming more intense in the region, partly due to global warming.",
-      "body": "Forecasters say storms are becoming more intense in the region, partly due to global warming.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T10:33:24+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce947x4m0e1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb8c/live/cb0afa10-1d41-11f1-8a7a-4725a6287ab3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
