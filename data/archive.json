@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_70b7263a31a3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Missed Utah Valley alley-oop gives WAC to CBU",
+      "dek": "No. 2 seed Cal Baptist beat top-seeded Utah Valley 63-61 to win the final Western Athletic Conference tournament after the Wolverines' Isaac Davis missed a pote",
+      "body": "No. 2 seed Cal Baptist beat top-seeded Utah Valley 63-61 to win the final Western Athletic Conference tournament after the Wolverines' Isaac Davis missed a potential tying alley-oop dunk with three seconds left.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T09:49:17+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48213681/cal-baptist-wins-wac-utah-valley-misses-tying-alley-oop",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_70b7263a31a3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_31cd9ae7c793",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cn87ndvklr2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec93/live/1d303d50-1e00-11f1-abaa-852583acb905.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_100361d475c1",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Judge card sets modern mark with $5.2M sale",
-      "dek": "A 2013 Aaron Judge one-of-one signed card sold for $5.2 million, eclipsed the previous record of $3.936 million for a 2009 Mike Trout card.",
-      "body": "A 2013 Aaron Judge one-of-one signed card sold for $5.2 million, eclipsed the previous record of $3.936 million for a 2009 Mike Trout card.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T10:23:22+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48182377/aaron-judge-1-1-card-sells-52m-modern-day-record",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_100361d475c1",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
