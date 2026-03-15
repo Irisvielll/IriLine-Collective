@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_2bc96bc0e026",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A tourist sued a taqueria over spicy salsa. A judge says spice is 'the point.'",
+      "dek": "submitted by /u/Legitimate_Point1535 [link] [comments]",
+      "body": "submitted by /u/Legitimate_Point1535 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T04:26:22+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ru4nom/a_tourist_sued_a_taqueria_over_spicy_salsa_a/",
+      "image": "https://external-preview.redd.it/tAMbhPK6h-0MyaOwquGXMQOaq1R-YygmSErNDZyl4Q8.jpeg?width=640&crop=smart&auto=webp&s=0af3736e702561ed53f55a00e6b682bc7bcb7951",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_435deb0b6208",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-12T07:17:59+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48174347/mlb-2026-offseason-free-agency-trades-continuity-running-back-yankees-phillies",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_392beab2bf9e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_8d030d2a7f2d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NHL playoff watch: Is Stars-Oilers a conference finals preview?",
-      "dek": "Here are updated Stanley Cup playoff projections, draft lottery standings and more.",
-      "body": "Here are updated Stanley Cup playoff projections, draft lottery standings and more.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T07:07:55+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48178354/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8d030d2a7f2d",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

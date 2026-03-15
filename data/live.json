@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-15T08:04:48+00:00",
+  "generatedAt": "2026-03-15T08:55:16+00:00",
   "items": [
+    {
+      "id": "latest_9b82e08c62b4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US names six crew killed in refuelling plane crash in Iraq",
+      "dek": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
+      "body": "The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T08:08:30+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ebe/live/ecfa4850-203f-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_1aa15ded99f1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-15T05:28:56+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ru5t6k/italy_ruling_tells_millions_with_italian_roots/",
       "image": "https://external-preview.redd.it/5-dNrZEg_JgPMN23lgkpwPT3dRcZt1blS-GEjqBBjrY.jpeg?width=640&crop=smart&auto=webp&s=073acee9c1e4d438911e1b9db33b54c608bf5a2b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2bc96bc0e026",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "A tourist sued a taqueria over spicy salsa. A judge says spice is 'the point.'",
-      "dek": "submitted by /u/Legitimate_Point1535 [link] [comments]",
-      "body": "submitted by /u/Legitimate_Point1535 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T04:26:22+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ru4nom/a_tourist_sued_a_taqueria_over_spicy_salsa_a/",
-      "image": "https://external-preview.redd.it/tAMbhPK6h-0MyaOwquGXMQOaq1R-YygmSErNDZyl4Q8.jpeg?width=640&crop=smart&auto=webp&s=0af3736e702561ed53f55a00e6b682bc7bcb7951",
       "imageCredit": "Image via original publisher"
     }
   ]
