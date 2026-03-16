@@ -61,6 +61,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_d945571c9f8b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "D.R. frustrated by blown call, but 'part of the game'",
+      "dek": "Two hours after a blown ball-strike call ended the Dominican Republic's World Baseball Classic, players emerged from the team's clubhouse with smiles, music and",
+      "body": "Two hours after a blown ball-strike call ended the Dominican Republic's World Baseball Classic, players emerged from the team's clubhouse with smiles, music and a message.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-16T02:29:59+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48220531/dominican-republic-frustrated-game-ending-blown-ball-strike-call-semifinal-loss-team-usa-world-baseball-classic",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d945571c9f8b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_046a40f70ebe",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -313,6 +328,21 @@
       "publishedAt": "2026-03-15T21:10:39+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rupxhp/after_lots_of_clucking_springville_to_allow_more/",
       "image": "https://external-preview.redd.it/3jQ5wxfdmAlzOTNwpPmE9KEL0k_Uhpv4oKFL0tCup68.jpeg?width=640&crop=smart&auto=webp&s=1158e31d0cb31ab2e450b5e2d5a105f68eef18fc",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_891d4432164b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
+      "dek": "US officials previously said the man accused of ramming a truck full of explosives into a synagogue had recently lost family in Lebanon.",
+      "body": "US officials previously said the man accused of ramming a truck full of explosives into a synagogue had recently lost family in Lebanon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-15T20:47:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f414/live/76d71040-20a3-11f1-af9b-29fbcd800e69.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48189285/steven-pearl-says-auburn-deserves-ncaa-berth-sec-exit",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_38bd241a85f3",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_fe7b91a2edf8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'Rusty' Rory struggles at Sawgrass, but back OK",
-      "dek": "Rory McIlroy said rustiness, and not his back, was the bigger issue Thursday as he shot 2-over 74 in the first round of the Players Championship.",
-      "body": "Rory McIlroy said rustiness, and not his back, was the bigger issue Thursday as he shot 2-over 74 in the first round of the Players Championship.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T22:03:49+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48189280/rusty-rory-mcilroy-shoots-2-72-players-championship",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fe7b91a2edf8",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_d74610c841d4",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Diego Pavia getting advice from Johnny Manziel ahead of 2026 NFL Draft",
-      "dek": "submitted by /u/ToschePowerConverter [link] [comments]",
-      "body": "submitted by /u/ToschePowerConverter [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-12T21:51:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rs4h7g/diego_pavia_getting_advice_from_johnny_manziel/",
-      "image": "https://external-preview.redd.it/POSlnvYvu24UwdEqbTYKhZWE2qj-doNOjS5eB_l2hY0.jpeg?width=640&crop=smart&auto=webp&s=725b23c46f05dae77d048cd6bace47128a8328c1",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
