@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-16T21:04:43+00:00",
+  "generatedAt": "2026-03-16T21:54:27+00:00",
   "items": [
+    {
+      "id": "meme_6bcadc2f7477",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Fox News uses a headline that Hegseth ranted about during demands for a more ‘patriotic press’",
+      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
+      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-16T21:32:58+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rvmzuc/fox_news_uses_a_headline_that_hegseth_ranted/",
+      "image": "https://external-preview.redd.it/WRkFBhyBJzfUk9rM6dsYM_ue7UZeg5xzsRHXKYC3oCc.jpeg?width=640&crop=smart&auto=webp&s=c678366e4497f2a8b133e6bd35a49af51cf51dc1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_0780d072af05",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c23zj1e0lxmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a71/live/d9d3b7d0-2174-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ce9d2528d93c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Former professor jailed for making meth",
-      "dek": "submitted by /u/FearMyCock [link] [comments]",
-      "body": "submitted by /u/FearMyCock [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-16T19:59:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rvkdg3/former_professor_jailed_for_making_meth/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_ce9d2528d93c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
