@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_88b0123c109a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sri Lanka declares Wednesdays off as Asian countries try to conserve fuel",
+      "dek": "This is the latest in a series of measures undertaken by Asian countries which rely on oil from the Gulf.",
+      "body": "This is the latest in a series of measures undertaken by Asian countries which rely on oil from the Gulf.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T04:17:14+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g5n58rlnzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1920/live/3f8dfc30-21ab-11f1-9bdf-83bdc0466ec5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_49c5dad24885",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Millions without electricity as Cuba's power grid collapses",
+      "dek": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
+      "body": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T03:46:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9a/live/40383730-21b1-11f1-a6e3-e18bc6084cb3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d003a31943fc",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-13T19:26:47+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rsx2uf/bc_man_sent_family_member_to_impersonate_him_at/",
       "image": "https://external-preview.redd.it/BYJgoRB_tdsklTiM-3ihfx0xgSPuXQlCwFZ29qZluqc.jpeg?width=640&crop=smart&auto=webp&s=d629d49c577407e681351acbd52e12b0e44bf677",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_358e478824ec",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Grandmother jailed for 6 months after AI error linked her to a crime in a state she had never even visited, lawyers say",
-      "dek": "submitted by /u/Large_banana_hammock [link] [comments]",
-      "body": "submitted by /u/Large_banana_hammock [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T19:25:17+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rsx1d3/grandmother_jailed_for_6_months_after_ai_error/",
-      "image": "https://external-preview.redd.it/vaviyAx0s1Kzt3AJoWjxqwjyq46LrOB-IqN1xIPt3mU.png?width=640&crop=smart&auto=webp&s=d0ff80fa267b7bb7af68d19722736e58698e9009",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ef4c87e7c36f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "House Republicans threaten to oppose Senate bills until SAVE America Act passes",
-      "dek": "submitted by /u/Anoth3rDude [link] [comments]",
-      "body": "submitted by /u/Anoth3rDude [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T19:09:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rswltz/house_republicans_threaten_to_oppose_senate_bills/",
-      "image": "https://external-preview.redd.it/xoAZI3q4JrJBi8hXowiT6K_ySayUiNoU-_rvs7T-SJE.jpeg?width=640&crop=smart&auto=webp&s=6a1b5a25273e17a0a30fda8e7e6dedc4f676d966",
       "imageCredit": "Image via original publisher"
     }
   ]

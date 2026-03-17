@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-17T05:03:10+00:00",
+  "generatedAt": "2026-03-17T06:13:36+00:00",
   "items": [
+    {
+      "id": "meme_edfe26900d8d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Woman who wrote a book on grief after husband's death found guilty of murdering him",
+      "dek": "submitted by /u/jesterman101 [link] [comments]",
+      "body": "submitted by /u/jesterman101 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T05:38:08+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rvy2gd/woman_who_wrote_a_book_on_grief_after_husbands/",
+      "image": "https://external-preview.redd.it/0NtuAmEimY0lcC2ucIrnZYXwq64dMzLfV6npKrpOb4s.jpeg?width=320&crop=smart&auto=webp&s=c2c08c4de0e9ac6b7070af337093b1297e97d485",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6d3021231090",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_88b0123c109a",
+      "id": "latest_84cdd5627686",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Sri Lanka declares Wednesdays off as Asian countries try to conserve fuel",
-      "dek": "This is the latest in a series of measures undertaken by Asian countries which rely on oil from the Gulf.",
-      "body": "This is the latest in a series of measures undertaken by Asian countries which rely on oil from the Gulf.",
+      "title": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
+      "dek": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger.",
+      "body": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T04:17:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g5n58rlnzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1920/live/3f8dfc30-21ab-11f1-9bdf-83bdc0466ec5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_49c5dad24885",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Millions without electricity as Cuba's power grid collapses",
-      "dek": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
-      "body": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T03:46:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c07j40dyx53o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9a/live/40383730-21b1-11f1-a6e3-e18bc6084cb3.jpg",
+      "publishedAt": "2026-03-17T04:41:58+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e6/live/3bb5cd40-21ba-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
