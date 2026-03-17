@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T20:04:16+00:00",
+  "generatedAt": "2026-03-17T20:57:25+00:00",
   "items": [
     {
       "id": "meme_5c291d28d160",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_50733cfd5a20",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Florida bill to ban marrying first cousins fails to pass",
-      "dek": "submitted by /u/omgfakeusername [link] [comments]",
-      "body": "submitted by /u/omgfakeusername [link] [comments]",
+      "id": "sports_6c75b88789c4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Barnwell: The Broncos are all-in, and the Dolphins are all-out ... but does either strategy make sense?",
+      "dek": "Denver traded its first-round pick to Miami for Jaylen Waddle. Are the Broncos legit Super Bowl contenders? Are the Dolphins rebuilding in a smart way?",
+      "body": "Denver traded its first-round pick to Miami for Jaylen Waddle. Are the Broncos legit Super Bowl contenders? Are the Dolphins rebuilding in a smart way?",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T16:41:14+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rwbsmc/florida_bill_to_ban_marrying_first_cousins_fails/",
-      "image": "https://external-preview.redd.it/m0KNR3Oook9dE1bTooLT0TYnScviBfaux40H4OhPSGo.jpeg?width=640&crop=smart&auto=webp&s=096c09aef67794863d40db8c0f70ed17b0310415",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-03-17T16:47:51+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48231367/2026-nfl-free-agency-jaylen-waddle-broncos-dolphins-barnwell-all-rebuild-receiver",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6c75b88789c4",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
