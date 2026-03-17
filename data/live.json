@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-17T22:34:35+00:00",
+  "generatedAt": "2026-03-17T23:05:28+00:00",
   "items": [
+    {
+      "id": "meme_093e3a91a7cb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Toledo Police to promote sergeant disciplined for sexually harassing fellow officers",
+      "dek": "submitted by /u/Le-Pepper [link] [comments]",
+      "body": "submitted by /u/Le-Pepper [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T22:35:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rwlugr/toledo_police_to_promote_sergeant_disciplined_for/",
+      "image": "https://external-preview.redd.it/ox9GMoMQpGT8S5ZU7CEkIj5jEuUfirJk8FapwLHvnoY.jpeg?width=640&crop=smart&auto=webp&s=f9c6ac2a0a968dc484fb08ed3e31280fb8b95882",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5c291d28d160",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2090/live/10ef2a40-2230-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c70981fdba1e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Morocco given AFCON title after Senegal 'forfeit'",
-      "dek": "Morocco was stunningly awarded the Africa Cup of Nations title on Tuesday by appeals judges that overturned Senegal's victory in a chaotic final in January.",
-      "body": "Morocco was stunningly awarded the Africa Cup of Nations title on Tuesday by appeals judges that overturned Senegal's victory in a chaotic final in January.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T18:29:15+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48233884/senegal-afcon-final-morocco-winner-caf-overturn",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c70981fdba1e",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
