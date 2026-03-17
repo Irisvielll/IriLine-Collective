@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-17T06:13:36+00:00",
+  "generatedAt": "2026-03-17T07:31:10+00:00",
   "items": [
+    {
+      "id": "latest_bc6dc0766208",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Gas on the line: will the Iran war squeeze India's piped gas next?",
+      "dek": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+      "body": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T06:47:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj6dl175w01o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a248/live/ca970430-21c3-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_e32279fe16cf",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The Dictionary Sues OpenAI Over AI Training Data",
+      "dek": "submitted by /u/i-drake [link] [comments]",
+      "body": "submitted by /u/i-drake [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T06:34:15+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rvz0zd/the_dictionary_sues_openai_over_ai_training_data/",
+      "image": "https://external-preview.redd.it/zPl9ob8JBNmcOvCNaDVhJ56vEXSoncQpihKNM3Y-MUQ.jpeg?width=640&crop=smart&auto=webp&s=05addaeed42020a29a07ae954d66082f77b2fb1b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_edfe26900d8d",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-17T05:38:08+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rvy2gd/woman_who_wrote_a_book_on_grief_after_husbands/",
       "image": "https://external-preview.redd.it/0NtuAmEimY0lcC2ucIrnZYXwq64dMzLfV6npKrpOb4s.jpeg?width=320&crop=smart&auto=webp&s=c2c08c4de0e9ac6b7070af337093b1297e97d485",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_6d3021231090",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Afghan Soldier Who Served U.S. for a Decade Dies in ICE Custody, Leaving Six Children",
-      "dek": "submitted by /u/steevo [link] [comments]",
-      "body": "submitted by /u/steevo [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T04:52:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rvx996/afghan_soldier_who_served_us_for_a_decade_dies_in/",
-      "image": "https://external-preview.redd.it/llI_LL2pmzlZzKKr8PNWRuZRGyv1iHC2IA1jxa3IKSM.jpeg?width=640&crop=smart&auto=webp&s=4ea73a4e9c8bf7aa4f274eee51f9f8ea2613eda7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_84cdd5627686",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
-      "dek": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger.",
-      "body": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T04:41:58+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cpd8w5y0dpdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e6/live/3bb5cd40-21ba-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
