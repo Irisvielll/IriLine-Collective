@@ -226,6 +226,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "latest_a9ec9ac49f7d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mexico City breaks Guinness Record with giant football training session",
+      "dek": "Mexico City set a Guinness record for the largest football training session as 9,500 participants filled the capital’s Zocalo square ahead of World Cup.",
+      "body": "Mexico City set a Guinness record for the largest football training session as 9,500 participants filled the capital’s Zocalo square ahead of World Cup.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-16T17:23:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cy7jrymgpjyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/830b/live/c9dd7e00-215c-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_887e59faf48a",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-13T15:35:26+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35b0/live/50d502f0-1ee4-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a9393c527a9a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Michigan synagogue attack was 'hate, plain and simple', says governor",
-      "dek": "The FBI says it is investigating the incident as a \"targeted act of violence against the Jewish community\" but a motive for the crime remains unclear.",
-      "body": "The FBI says it is investigating the incident as a \"targeted act of violence against the Jewish community\" but a motive for the crime remains unclear.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-13T14:56:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ab/live/2db468c0-1ee8-11f1-9120-a910fc22c6ac.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
