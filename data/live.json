@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-17T18:11:28+00:00",
+  "generatedAt": "2026-03-17T19:29:41+00:00",
   "items": [
+    {
+      "id": "latest_0dd187869103",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+      "dek": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+      "body": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T18:45:54+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2090/live/10ef2a40-2230-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_50733cfd5a20",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-17T16:28:35+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rwbfn3/us_counterterror_center_head_resigns_over_iran/",
       "image": "https://external-preview.redd.it/cEeiTy-hOKc4Sz5SSfPxiEMxSQ17WGb2TvnsXOPu80o.jpeg?width=640&crop=smart&auto=webp&s=e7908fc682d422ee56b64f04bdaa47a6eb3e30d6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6d5992c34a09",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Water supply cut in Moldova after oil spill blamed on Russian strike in Ukraine",
-      "dek": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
-      "body": "Moldova has imposed a 15-day state of alert in the Dniester river basin as a precaution.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T16:10:06+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy98qnpg1jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91ac/live/15f950b0-21f9-11f1-9256-9b680459597d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
