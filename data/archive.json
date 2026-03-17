@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_23c2e4a7b672",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "University of Maryland researchers create device to track how often people fart",
+      "dek": "submitted by /u/Shiforains [link] [comments]",
+      "body": "submitted by /u/Shiforains [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T13:09:15+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rw62jg/university_of_maryland_researchers_create_device/",
+      "image": "https://external-preview.redd.it/i65KHr3BCjnuhALn9hWofc0Vanq7ivyCTkPz78JVmZ0.png?width=640&crop=smart&auto=webp&s=68dd277c403fff241ce8c21b2e027a0919d74183",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_3de1736433c3",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Deaf woman removed from Frontier flight for \"not listening\"",
+      "dek": "submitted by /u/kendrickshalamar [link] [comments]",
+      "body": "submitted by /u/kendrickshalamar [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T12:58:13+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rw5stj/deaf_woman_removed_from_frontier_flight_for_not/",
+      "image": "https://external-preview.redd.it/Wfl6pPdR7IDJtMcXo-NS-hPgQdfQtZiwwdXHAyG8Niw.jpeg?width=640&crop=smart&auto=webp&s=b1780e591c90b1997578f86b650c7ee24532bdf3",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_7b759457c63e",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -16,6 +46,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_b44098175764",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Men's tournament odds: Duke ahead of Michigan and Arizona to win it all",
+      "dek": "Who is favored to advance and win it all in the NCAA men's basketball tournament?",
+      "body": "Who is favored to advance and win it all in the NCAA men's basketball tournament?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T10:29:22+00:00",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/48216458/espn-ncaa-tournament-men-national-championship-final-four-elite-eight-teams",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b44098175764",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_d60231800d7a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Joe Lunardi's ultimate guide to men's March Madness 2026",
+      "dek": "ESPN's bracketologist shares what he really thinks about every team's chances in the NCAA tournament.",
+      "body": "ESPN's bracketologist shares what he really thinks about every team's chances in the NCAA tournament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T10:29:08+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48219697/joe-lunardi-mens-march-madness-ncaa-tournament-guide-2026",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d60231800d7a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_0680700fe9c3",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,6 +89,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f487/live/51e24310-21eb-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_8ad5f8d4e1cb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "What to watch in the semifinals",
+      "dek": "null",
+      "body": "null",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T10:18:47+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48230482/tgl-playoffs-watch-semifinals-boston-common-jupiter-links",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8ad5f8d4e1cb",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_8008699c94c6",
@@ -4424,81 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48196399/2026-nfl-free-agency-best-signings-trades-moves-most-improved-teams",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_170aa5c3b449",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2eea1d027585",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "From Team Japan to MLB stars: Who could be next to make the jump?",
-      "dek": "The World Baseball Classic has given fans a chance to see Japan's best players before they hit the majors. Here's who to keep an eye on this year.",
-      "body": "The World Baseball Classic has given fans a chance to see Japan's best players before they hit the majors. Here's who to keep an eye on this year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T07:16:36+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48185225/mlb-2026-wbc-world-baseball-classic-japan-future-stars",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2eea1d027585",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_4fcf9f3d677f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Risers and fallers: Filipowski, da Silva moving up; Flagg a problem during playoffs?",
-      "dek": "Tristan da Silva is on the rise, and should fantasy basketball managers keep players like Bennedict Mathurin and Cameron Johnson?",
-      "body": "Tristan da Silva is on the rise, and should fantasy basketball managers keep players like Bennedict Mathurin and Cameron Johnson?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T07:16:04+00:00",
-      "sourceUrl": "https://www.espn.com/fantasy/basketball/story/_/id/48195749/espn-fantasy-basketball-nba-risers-fallers-keep-cut-add",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4fcf9f3d677f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_4c2872f12a8b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hamas urges Iran to stop ‘targeting neighboring’ countries",
-      "dek": "submitted by /u/bestestopinion [link] [comments]",
-      "body": "submitted by /u/bestestopinion [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T07:11:58+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtcu1v/hamas_urges_iran_to_stop_targeting_neighboring/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_4c2872f12a8b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_42f4656556ba",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hegseth says don't 'worry' about Strait of Hormuz, but US needs time to counter Iran's stranglehold",
-      "dek": "submitted by /u/color_natural_3679 [link] [comments]",
-      "body": "submitted by /u/color_natural_3679 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T06:27:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtc2sn/hegseth_says_dont_worry_about_strait_of_hormuz/",
-      "image": "https://external-preview.redd.it/a6PQyxpZmDxEkVy_s1cqR536ngOBGuai0ykYfvhKK_0.jpeg?width=640&crop=smart&auto=webp&s=2a015ebde7b137ea60e80c761e38a079855ac1c6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_46cf0c97d671",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-      "dek": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
-      "body": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T05:59:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c670/live/c49e5040-141e-11f1-963a-55716ece1b4d.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
