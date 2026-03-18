@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_0cb70ec52f0e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Senegal stripped of AFCON title, Morocco declared champions",
+      "dek": "submitted by /u/bigus-_-dickus [link] [comments]",
+      "body": "submitted by /u/bigus-_-dickus [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T00:40:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rwp1mu/senegal_stripped_of_afcon_title_morocco_declared/",
+      "image": "https://external-preview.redd.it/4UxXFmd0s5I_anv_WOHcSkxCdwypJ9ER688MvqRJZas.jpeg?width=640&crop=smart&auto=webp&s=2613f5051de94d64a6e4a73f3bc437548fc4e93d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_f71d0f0a20fe",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -44,6 +59,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rwmz85/florida_bill_against_marrying_your_first_cousin/",
       "image": "https://external-preview.redd.it/qNUWzFNO7AFjLVmhf6z6-BoRzIoyeS9DVQzwUoDst-0.jpeg?width=640&crop=smart&auto=webp&s=c27cf99fbf316fc9eca4b05e112b9103941b170d",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d93346c5e8bb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Venezuela outduels USA to capture 1st WBC title",
+      "dek": "Venezuela won the World Baseball Classic for the first time, rebounding from Bryce Harper's tying home run in the eighth inning to beat the United States 3-2 Tu",
+      "body": "Venezuela won the World Baseball Classic for the first time, rebounding from Bryce Harper's tying home run in the eighth inning to beat the United States 3-2 Tuesday night on Eugenio Suárez's go-ahead double in the ninth.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-17T23:12:10+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48236241/venezuela-defeats-team-usa-final-win-2026-world-baseball-classic",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d93346c5e8bb",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_093e3a91a7cb",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-14T21:02:52+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rtuur7/man_sets_knuckle_hop_world_record/",
       "image": "https://external-preview.redd.it/v7Y-5fKjDUXuAm-oG3Smsu_G15-s9_7MqOvnozh5yo4.png?width=640&crop=smart&auto=webp&s=3219dd72a01d60e0db5def7d26203cd461ad323c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0e4d1d66cdf3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Three more Iran football team members change minds over asylum",
-      "dek": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
-      "body": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T20:48:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa81/live/e8928700-1fb3-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_518949934550",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
-      "dek": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
-      "body": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T20:33:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb39/live/d6514290-1fd9-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
