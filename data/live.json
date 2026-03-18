@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-18T11:59:17+00:00",
+  "generatedAt": "2026-03-18T13:46:36+00:00",
   "items": [
+    {
+      "id": "meme_463cab3d7ba7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "'A moment of silence for the 0.07%': Internet reacts as Kim Jong Un’s ‘perfect’ election marred by rare dissent",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T13:16:33+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rx3m4p/a_moment_of_silence_for_the_007_internet_reacts/",
+      "image": "https://external-preview.redd.it/Rb74DoKbXXVF2WgJzCG1yFm5dY28pmlnCQFjF_yAmcw.jpeg?width=640&crop=smart&auto=webp&s=b3b67a93f8bb7ec993c9988c9870fae37bfb9d18",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_c88c73c92907",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "World Health Organization Prepares for Nuclear Scenario, Including Weapons Use, in Iran",
+      "dek": "submitted by /u/AcademicShoe9128 [link] [comments]",
+      "body": "submitted by /u/AcademicShoe9128 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T12:10:36+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rx25by/world_health_organization_prepares_for_nuclear/",
+      "image": "https://external-preview.redd.it/ZfuYJhcg55MBBptY6hYwjZrhyxgvNIwixVUO0yq0z6w.jpeg?width=640&crop=smart&auto=webp&s=3913fee28a346b0df7cc2d6c596114b1d440cab0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_fedcc436d61a",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b0f/live/d8346f80-4ea9-11f0-9e07-7900e9cdda16.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_96a8e3279ba8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'I'm a sucker for a challenge': Why Moneyball pioneer chose to take on Coors Field",
-      "dek": "Paul DePodesta is back in baseball -- and plans to fix the Colorado Rockies.",
-      "body": "Paul DePodesta is back in baseball -- and plans to fix the Colorado Rockies.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T07:48:41+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48176507/mlb-2026-paul-depodesta-colorado-rockies-moneyball-coors-field",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_96a8e3279ba8",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_4ed481f1a42a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Trucks driver parked for mocking IndyCar racer",
-      "dek": "NASCAR driver Daniel Dye has been suspended -- the second known major penalty of his racing career -- for mocking IndyCar driver David Malukas during a recent l",
-      "body": "NASCAR driver Daniel Dye has been suspended -- the second known major penalty of his racing career -- for mocking IndyCar driver David Malukas during a recent livestream.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T07:41:07+00:00",
-      "sourceUrl": "https://www.espn.com/racing/nascar/story/_/id/48238034/nascar-suspends-daniel-dye-mockery-indycar-malukas",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4ed481f1a42a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
