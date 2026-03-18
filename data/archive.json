@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_50b4955b31a1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Newsmax: SAVE America Act’s likely failure 'is why people need guns in this country'",
+      "dek": "submitted by /u/Anoth3rDude [link] [comments]",
+      "body": "submitted by /u/Anoth3rDude [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T17:52:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxayz7/newsmax_save_america_acts_likely_failure_is_why/",
+      "image": "https://external-preview.redd.it/xDov3NdUfrN-PWNAk5Wh-TT-GyVAhNqDx3YXIPGzc3o.jpeg?width=640&crop=smart&auto=webp&s=ab6caf4f419a32813857d09786c46da9fc69b053",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_17e8345bad9b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Prof says U of Winnipeg experience worse than cancer, sues university and faculty association",
+      "dek": "submitted by /u/ageofnolight [link] [comments]",
+      "body": "submitted by /u/ageofnolight [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T17:37:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxajbq/prof_says_u_of_winnipeg_experience_worse_than/",
+      "image": "https://external-preview.redd.it/xAZ-jFI9pbpBvEN5xbMZn3vsy2EJMkwx7hGwJ0QBomo.jpeg?width=640&crop=smart&auto=webp&s=6d72d597139bfc6ff5947fade3eb2b6003fcab87",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_844a8fa00197",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Forty years after the last one was poached rhinos are back in the wild in Uganda",
+      "dek": "Hunting for the horns and meat, Ugandan poachers once wiped out the southern white rhinos from the country.",
+      "body": "Hunting for the horns and meat, Ugandan poachers once wiped out the southern white rhinos from the country.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T17:36:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d6/live/c469a150-22e8-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e64431d3728c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -149,6 +194,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7537/live/de9eac10-22e2-11f1-934f-036468834728.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_58e9bee4009e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Rory spares no expense with Masters dinner menu",
+      "dek": "Rory McIlroy hosts this year's Champions Dinner at the Masters, with his menu including wagyu filet mignon, seared salmon, glazed carrots and Vidalia onion ring",
+      "body": "Rory McIlroy hosts this year's Champions Dinner at the Masters, with his menu including wagyu filet mignon, seared salmon, glazed carrots and Vidalia onion rings.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T14:48:52+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48242047/rory-mcilroy-spares-no-expense-masters-champions-dinner",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_58e9bee4009e",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_a4c66ef45010",
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/ckgl5d3d3kjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e0/live/93234490-2084-11f1-8af0-cf4f458e05d4.png",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_b8dd29ea52ab",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vonn: 'I'm the only one that will decide my future'",
-      "dek": "Lindsey Vonn, who is recovering from a crash at the Olympics, said she's not ready to discuss her skiing future but \"I'm the only one that will decide my future",
-      "body": "Lindsey Vonn, who is recovering from a crash at the Olympics, said she's not ready to discuss her skiing future but \"I'm the only one that will decide my future.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T15:22:44+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/skiing/story/_/id/48215972/lindsey-vonn-not-ready-discuss-future-ski-racing",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b8dd29ea52ab",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_73f7cabb82a9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Lawsuit Alleges DOGE Cancelled $349,000 HVAC Grant to Museum after ChatGPT Flagged It As DEI",
-      "dek": "submitted by /u/AlwaysBlaze_ [link] [comments]",
-      "body": "submitted by /u/AlwaysBlaze_ [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T15:14:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ruglk0/lawsuit_alleges_doge_cancelled_349000_hvac_grant/",
-      "image": "https://external-preview.redd.it/44xFZA3VjRS_lKi3vGzZlZkneu-1mnUDJWONbY6hlu8.jpeg?width=640&crop=smart&auto=webp&s=ab20e45a3b0fa0b7c9240c02631fbc2a4cce95a2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_5e965efb3e68",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "McDavid calls on NHL to audit suspension process",
-      "dek": "Connor McDavid called on the NHL to investigate how it doles out suspensions in the wake of a controversial ban of just five games for Radko Gudas' hit on Austo",
-      "body": "Connor McDavid called on the NHL to investigate how it doles out suspensions in the wake of a controversial ban of just five games for Radko Gudas' hit on Auston Matthews.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T14:31:43+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48215760/connor-mcdavid-calls-nhl-audit-suspension-process",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5e965efb3e68",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ed6911f2f56b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Source: Messi had no say in cancelling Finalissima",
-      "dek": "Argentina captain Lionel Messi was left disappointed after the cancellation of the Finalissima, regarding the match as a vital competitive opportunity, a source",
-      "body": "Argentina captain Lionel Messi was left disappointed after the cancellation of the Finalissima, regarding the match as a vital competitive opportunity, a source confirmed to ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T14:31:42+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48215232/lionel-messi-not-involved-finalissima-spain-argentina-cancellation-wanted-world-cup-final-source",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ed6911f2f56b",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
