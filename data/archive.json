@@ -76,6 +76,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_bc46aef59bde",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Bucs' Licht: Evans earned right to sign elsewhere",
+      "dek": "Bucs GM Jason Licht said Wednesday that he does not \"feel betrayed\" by Mike Evans' departure to the Niners, saying that Evans \"earned the right to make this dec",
+      "body": "Bucs GM Jason Licht said Wednesday that he does not \"feel betrayed\" by Mike Evans' departure to the Niners, saying that Evans \"earned the right to make this decision.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T18:51:58+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48243657/bucs-gm-licht-says-evans-earned-right-sign-49ers",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bc46aef59bde",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_9b6690da81f1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-15T18:40:59+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cpqwg0yej04o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/8518c9d0-209b-11f1-9cdb-3b5a9df6c45b.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_54a61ff57aac",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "USPS honors lowrider culture with historic new stamp series",
-      "dek": "submitted by /u/S00THING_S0UNDS [link] [comments]",
-      "body": "submitted by /u/S00THING_S0UNDS [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T18:37:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rulvyx/usps_honors_lowrider_culture_with_historic_new/",
-      "image": "https://external-preview.redd.it/jsKG8HQNcF0JoYgLF0H3UUpOKx7yThMyNTmmYNL9R5A.jpeg?width=640&crop=smart&auto=webp&s=1c56fa29a5b0d4ea8c2cd7232dd8216519afdc0f",
       "imageCredit": "Image via original publisher"
     }
   ]
