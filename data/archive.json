@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_1730dcd5a037",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Afroman sued by Ohio deputies over music video showing raid of his home, says 'I got freedom of speech'",
+      "dek": "submitted by /u/nbcnews [link] [comments]",
+      "body": "submitted by /u/nbcnews [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T19:04:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxcyu8/afroman_sued_by_ohio_deputies_over_music_video/",
+      "image": "https://external-preview.redd.it/cPQsVCJImT0sYW1eppbfSY48qW5Z_u1Ce8M6hlnwNuM.jpeg?width=640&crop=smart&auto=webp&s=7beac40c5f7c4a87c7b48222f48152ad8c7f112e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_cd5c8e3ea656",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -164,6 +179,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595c/live/d5b5f0e0-22e2-11f1-9c64-25f36d76b36f.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_2c36f12387eb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ex-Bengals, Cowboys LB Wilson retires at 29",
+      "dek": "Former Bengals and Cowboys linebacker Logan Wilson announced his retirement from the NFL on Wednesday.",
+      "body": "Former Bengals and Cowboys linebacker Logan Wilson announced his retirement from the NFL on Wednesday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T16:46:27+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48242732/ex-bengals-cowboys-lb-logan-wilson-retires-29",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c36f12387eb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_f09a2aad248c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ex-CSUB assistant to face trial in pimping case",
+      "dek": "Kevin Mays, a former Cal State Bakersfield assistant basketball coach accused of pimping and other offenses, will face trial after a California judge ruled Wedn",
+      "body": "Kevin Mays, a former Cal State Bakersfield assistant basketball coach accused of pimping and other offenses, will face trial after a California judge ruled Wednesday that there is sufficient evidence to prosecute him.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T16:46:27+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48242735/ex-cal-state-bakersfield-assistant-face-trial-pimping-case",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f09a2aad248c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_823d32c9c68c",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48217804/duke-arizona-michigan-florida-top-seeds-men-tournament",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_015d8030b9e1",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_dc0d9dc8295e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How Iranians are evading internet blocks to contact family abroad",
-      "dek": "Iranians are finding tech-savvy ways to get through the regime's restrictions on phone and internet connections.",
-      "body": "Iranians are finding tech-savvy ways to get through the regime's restrictions on phone and internet connections.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T18:09:20+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckgl58y5943o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5548/live/584aed00-1d5f-11f1-9120-a910fc22c6ac.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_7fdc16c7f10c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sabalenka outlasts Rybakina for Indian Wells title",
-      "dek": "World No. 1 Aryna Sabalenka beat Elena Rybakina 3-6, 6-3, 7-6 (6) in the Indian Wells final Sunday.",
-      "body": "World No. 1 Aryna Sabalenka beat Elena Rybakina 3-6, 6-3, 7-6 (6) in the Indian Wells final Sunday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T17:39:49+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/48217347/aryna-sabalenka-outlasts-elena-rybakina-indian-wells-title",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7fdc16c7f10c",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_8f6d678f7c0b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Are there sharks in the Chicago River? What to know after fin sightings reported at river dyeing",
-      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
-      "body": "submitted by /u/HowLongIsThi [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T17:39:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rukc9v/are_there_sharks_in_the_chicago_river_what_to/",
-      "image": "https://external-preview.redd.it/-JdE5BbcuboNgaDD7ky_ZHmBxyaignuqTidWbmC2ts4.jpeg?width=640&crop=smart&auto=webp&s=03deae1ca5bbbb8cad05d9e2a71d4c735d26b200",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
