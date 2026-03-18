@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-18T19:36:44+00:00",
+  "generatedAt": "2026-03-18T20:20:12+00:00",
   "items": [
+    {
+      "id": "latest_7b5764ae7344",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israel destroys river bridges in southern Lebanon",
+      "dek": "The health ministry says that 968 people, including more than 100 children, have been killed since 2 March.",
+      "body": "The health ministry says that 968 people, including more than 100 children, have been killed since 2 March.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T19:40:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4928/live/23d29380-22f9-11f1-8620-17795c093e86.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_3580ee8a154c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Hittler faces Zielinski as French town election contest goes viral",
+      "dek": "submitted by /u/Firecracker048 [link] [comments]",
+      "body": "submitted by /u/Firecracker048 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T19:11:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxd5dp/hittler_faces_zielinski_as_french_town_election/",
+      "image": "https://external-preview.redd.it/y1KpNc4D6PMJt62mvJquWQoh3kMkYtT8PFLV-M1hDbI.jpeg?width=640&crop=smart&auto=webp&s=a0d21b9d7c5e62342cbad3b9ca74b161e7d97733",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_1730dcd5a037",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-18T19:04:34+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxcyu8/afroman_sued_by_ohio_deputies_over_music_video/",
       "image": "https://external-preview.redd.it/cPQsVCJImT0sYW1eppbfSY48qW5Z_u1Ce8M6hlnwNuM.jpeg?width=640&crop=smart&auto=webp&s=7beac40c5f7c4a87c7b48222f48152ad8c7f112e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_cd5c8e3ea656",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hittler faces Zielinski as French town election contest goes viral",
-      "dek": "submitted by /u/AravRAndG [link] [comments]",
-      "body": "submitted by /u/AravRAndG [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T19:01:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxcvkd/hittler_faces_zielinski_as_french_town_election/",
-      "image": "https://external-preview.redd.it/y1KpNc4D6PMJt62mvJquWQoh3kMkYtT8PFLV-M1hDbI.jpeg?width=640&crop=smart&auto=webp&s=a0d21b9d7c5e62342cbad3b9ca74b161e7d97733",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_8c4697bad570",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man uses counterfeit cash to bond out of jail; tells judge to \"keep the change\"",
-      "dek": "submitted by /u/Icy_Foot4728 [link] [comments]",
-      "body": "submitted by /u/Icy_Foot4728 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T19:00:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxctxm/man_uses_counterfeit_cash_to_bond_out_of_jail/",
-      "image": "https://external-preview.redd.it/jxNtD2NrbwXWpLoWxZuM7HT577ZXaUtDvxg2Kt3b0ns.png?width=640&crop=smart&auto=webp&s=a464ff377ea6d917b7a41544856231ea846536d0",
       "imageCredit": "Image via original publisher"
     }
   ]
