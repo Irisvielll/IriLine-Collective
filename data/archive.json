@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_5e37be778a58",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "From Cauldrons to Congress: Inside a Denver Ritual to Release the Epstein Files",
+      "dek": "submitted by /u/trash_begets_trash [link] [comments]",
+      "body": "submitted by /u/trash_begets_trash [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T06:16:13+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rww1s2/from_cauldrons_to_congress_inside_a_denver_ritual/",
+      "image": "https://external-preview.redd.it/brfNnPA5Ec4cpYkm0ZnWULfRibLkW9EXs4bfS6W8Fkk.jpeg?width=640&crop=smart&auto=webp&s=77bf769cbb5c33305c34efecd3b7f30a178bcc5a",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_8b9289cd50c5",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-14T23:27:12+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48210833/duke-holds-virginia-2nd-straight-acc-tournament-title",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d154a194a074",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5ca163feb72a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "St. John's routs UConn to defend Big East title",
-      "dek": "A tenacious defensive performance carried No. 13 St. John's to its second straight Big East tournament championship Saturday night with a 72-52 blowout of sixth",
-      "body": "A tenacious defensive performance carried No. 13 St. John's to its second straight Big East tournament championship Saturday night with a 72-52 blowout of sixth-ranked UConn at Madison Square Garden.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-14T23:27:12+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48209589/st-john-routs-uconn-2nd-straight-big-east-tourney-title",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5ca163feb72a",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

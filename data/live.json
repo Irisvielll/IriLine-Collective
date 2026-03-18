@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T10:12:13+00:00",
+  "generatedAt": "2026-03-18T11:10:52+00:00",
   "items": [
     {
       "id": "meme_23502896765d",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_a8ceb5bec8ee",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ex-reality TV star Holmes repeats Iditarod win",
+      "dek": "Former reality TV star Jessie Holmes cruised to a victory in the Iditarod, becoming the third competitor in the 54-year history of the race to repeat the year a",
+      "body": "Former reality TV star Jessie Holmes cruised to a victory in the Iditarod, becoming the third competitor in the 54-year history of the race to repeat the year after winning for the first time.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T07:05:40+00:00",
+      "sourceUrl": "https://www.espn.com/espn/story/_/id/48237894/former-reality-tv-star-jessie-holmes-repeats-iditarod-champ",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a8ceb5bec8ee",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_1dc543acae39",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-18T06:47:02+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rwwk2k/the_us_navy_decommissioned_middle_east/",
       "image": "https://external-preview.redd.it/WR-qQGbcnyejOp-oMc0Z1s6YfJf2jbuI68Lpaf_XFzQ.jpeg?width=640&crop=smart&auto=webp&s=5fd5be0599c034b6bbcf0b17bc57edeec4cc56b5",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5e37be778a58",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "From Cauldrons to Congress: Inside a Denver Ritual to Release the Epstein Files",
-      "dek": "submitted by /u/trash_begets_trash [link] [comments]",
-      "body": "submitted by /u/trash_begets_trash [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T06:16:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rww1s2/from_cauldrons_to_congress_inside_a_denver_ritual/",
-      "image": "https://external-preview.redd.it/brfNnPA5Ec4cpYkm0ZnWULfRibLkW9EXs4bfS6W8Fkk.jpeg?width=640&crop=smart&auto=webp&s=77bf769cbb5c33305c34efecd3b7f30a178bcc5a",
       "imageCredit": "Image via original publisher"
     }
   ]
