@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-19T08:55:27+00:00",
+  "generatedAt": "2026-03-19T09:46:53+00:00",
   "items": [
+    {
+      "id": "latest_33fe4378d30e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Three Palestinian women killed as missile debris hits West Bank beauty salon",
+      "dek": "Several other people were injured when shrapnel struck the beauty salon in Beit Awwa, in the southern West Bank.",
+      "body": "Several other people were injured when shrapnel struck the beauty salon in Beit Awwa, in the southern West Bank.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T09:13:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff7/live/3e74ba80-234c-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ec68f03a34cf",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-19T07:31:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rxty76/maybe_turning_war_into_a_casino_was_a_bad_idea/",
       "image": "https://external-preview.redd.it/7uaxuSvWRAgzg8Stv6LFPgz_llPwkIoN3qDCwscUplk.png?width=640&crop=smart&auto=webp&s=77624af4c9731ba75c5c75c2f93ca20154b32132",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e9500dadfde2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africans say criminal gangs are exploiting the water crisis",
-      "dek": "Residents of some areas have been without mains water for weeks.",
-      "body": "Residents of some areas have been without mains water for weeks.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T06:01:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9424/live/cbeeda40-22fb-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
