@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_3f0b025a91a8",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "R.I. team wins state title after tragic rink shooting",
+      "dek": "The R.I. high school hockey team that was on the ice during a mass shooting in the stands last month capped its season with a state title Wednesday, with Colin ",
+      "body": "The R.I. high school hockey team that was on the ice during a mass shooting in the stands last month capped its season with a state title Wednesday, with Colin Dorgan -- who lost 3 family members in the tragedy -- scoring the equalizer late in regulation.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T19:44:21+00:00",
+      "sourceUrl": "https://www.espn.com/espn/story/_/id/48243912/colin-dorgan-blackstone-valley-co-op-win-title-tragedy",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3f0b025a91a8",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_7b5764ae7344",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rumjq0/woman_charged_with_identity_theft_after_posting/",
       "image": "https://external-preview.redd.it/w23hHFPrDJcMO9kkHq3KRoGjRRG0pZL0OmsmYuWe7V8.jpeg?width=640&crop=smart&auto=webp&s=3ce649bf34e8bb6eb5b51125c974bd83e930360f",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_bdaf2db5f158",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "It's bracket time: Make your picks for the men's tournament",
-      "dek": "The field is set. Go region by region and round by round to choose a national champion.",
-      "body": "The field is set. Go region by region and round by round to choose a national champion.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-15T18:53:03+00:00",
-      "sourceUrl": "https://fantasy.espn.com/games/tournament-challenge-bracket-2026/?addata=tcmens2026_ncaam_web_CreateabracketP1Hero",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bdaf2db5f158",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
