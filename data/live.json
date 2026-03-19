@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-19T07:58:14+00:00",
+  "generatedAt": "2026-03-19T08:55:27+00:00",
   "items": [
+    {
+      "id": "latest_ec68f03a34cf",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
+      "dek": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
+      "body": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T08:42:38+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fb/live/1af857d0-2368-11f1-a48c-abe9601b2bbf.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dd311e4b6e08",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-19T06:01:49+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9424/live/cbeeda40-22fb-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_743541d45528",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How the Iran war has left Europe facing yet another energy crisis",
-      "dek": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
-      "body": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T05:59:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

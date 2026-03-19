@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_743541d45528",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How the Iran war has left Europe facing yet another energy crisis",
+      "dek": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
+      "body": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T05:59:49+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2972/live/788f41d0-22b7-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_4d0c5044876d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -838,6 +853,21 @@
       "publishedAt": "2026-03-18T17:36:05+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d6/live/c469a150-22e8-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_5427c2094e8d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sony removes 135,000 'deepfakes' of its artists' music",
+      "dek": "The company says the proliferation of AI has enabled people to upload fake songs to streaming sites.",
+      "body": "The company says the proliferation of AI has enabled people to upload fake songs to streaming sites.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-18T17:19:41+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a95a/live/f1684f00-22eb-11f1-abe1-05da6de99c2b.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-16T07:26:00+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48214393/nhl-2025-26-best-games-week-top-players-stanley-cup-playoffs",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fe8e18247d7a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_4a5ad419ab08",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Who will face the U.S. in the WBC final? Keys, X factors for Italy-Venezuela",
-      "dek": "We've got you covered with predictions, live updates and takeaways from the second semifinal in Miami.",
-      "body": "We've got you covered with predictions, live updates and takeaways from the second semifinal in Miami.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-16T07:23:36+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48194809/wbc-2026-venezuela-italy-semifinal-live-updates-analysis-takeaways",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4a5ad419ab08",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_9c1260148193",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ohtani sets another record? A 40/40 season for Soto? Handing out preseason Real or Not verdicts",
-      "dek": "We determine whether these eight MLB stars can actually reach new heights in 2026.",
-      "body": "We determine whether these eight MLB stars can actually reach new heights in 2026.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-16T07:22:58+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48216118/mlb-2026-real-not-predictions-history-records-set-ohtani-judge-skenes-soto",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9c1260148193",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
