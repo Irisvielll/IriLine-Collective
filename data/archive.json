@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_d12840423092",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "LeBron says no interest in Vegas expansion bid",
+      "dek": "LeBron James, who has publicly entertained the possibility of being part of an ownership group for a potential NBA expansion franchise in Las Vegas, said he no ",
+      "body": "LeBron James, who has publicly entertained the possibility of being part of an ownership group for a potential NBA expansion franchise in Las Vegas, said he no longer intends to pursue the venture.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T02:42:37+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48246442/lebron-says-no-plans-part-vegas-expansion-team-bid",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d12840423092",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_9fdccbcf7fb8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-16T06:10:55+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25a6/live/9833eb40-1efb-11f1-9120-a910fc22c6ac.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_76567377448c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ten killed in fire at India hospital intensive care unit",
-      "dek": "All the victims of the fire in Odisha state are patients, and 11 hospital staff are being treated for burns.",
-      "body": "All the victims of the fire in Odisha state are patients, and 11 hospital staff are being treated for burns.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-16T05:41:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c363gpe3exjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9596/live/605d6460-20ec-11f1-8ae1-350cbf96b578.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
