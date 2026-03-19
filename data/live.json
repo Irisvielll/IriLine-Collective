@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-19T22:30:09+00:00",
+  "generatedAt": "2026-03-19T22:59:11+00:00",
   "items": [
+    {
+      "id": "latest_52c35bff4f73",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+      "dek": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
+      "body": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T22:41:40+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a69/live/76b6af90-23db-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_922680626e56",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-19T22:07:17+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ce9mzn7k722o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb9/live/aeb455a0-23db-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c2f984b9ce44",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-      "dek": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
-      "body": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T21:52:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bd4/live/ce7b2b90-23d9-11f1-92f6-6d3dbba93239.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
