@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-19T14:28:08+00:00",
+  "generatedAt": "2026-03-19T15:24:29+00:00",
   "items": [
+    {
+      "id": "meme_93347bec9a15",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kid Rock ‘exposes himself to ridicule’ following savage Oscars mockery",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T14:37:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ry25ps/kid_rock_exposes_himself_to_ridicule_following/",
+      "image": "https://external-preview.redd.it/CrwaF_-D6DyOwUXbFejMTluvntKgek1sI0WJkjbQe1I.jpeg?width=640&crop=smart&auto=webp&s=fb64dc8b4303aa896355912f5e6645378ba38f9e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_cd6c26cc5f12",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-19T14:00:19+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvglew9p891o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a8f/live/71c98770-2398-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ad0c92445d75",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
-      "dek": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
-      "body": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T13:30:01+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49df/live/15d52190-2393-11f1-a59e-e9e4aab4fac7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

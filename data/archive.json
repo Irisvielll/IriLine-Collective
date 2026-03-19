@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ad0c92445d75",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Chad warns Sudan it will retaliate after drone strike on mourners kills 17",
+      "dek": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
+      "body": "President Idris Mahamat Déby orders the military to be on high alert and a \"total closure\" of the border.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T13:30:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0mjn0g708ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49df/live/15d52190-2393-11f1-a59e-e9e4aab4fac7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_01f70282f3a1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -89,6 +104,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/246b/live/cad7d570-237e-11f1-bdf1-7b521ec55fd1.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_cd4b3ad62293",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "WBC's success may lead to midseason tourney",
+      "dek": "MLB commissioner Rob Manfred says the continued growth and success of the World Baseball Classic could lead to a midseason competition in the future.",
+      "body": "MLB commissioner Rob Manfred says the continued growth and success of the World Baseball Classic could lead to a midseason competition in the future.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-19T10:50:23+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48248875/world-baseball-classic-success-lead-midseason-tournament",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cd4b3ad62293",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_2b287292c986",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cp32vy321r7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5816/live/88067c00-212c-11f1-821c-5783b4f9d6f9.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_9abdaa7f29cf",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Jets trade QB Fields to Chiefs for pick",
-      "dek": "The Jets have agreed to trade quarterback Justin Fields to the Chiefs, pending a physical, sources told ESPN's Adam Schefter on Monday.",
-      "body": "The Jets have agreed to trade quarterback Justin Fields to the Chiefs, pending a physical, sources told ESPN's Adam Schefter on Monday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-16T11:58:42+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48223114/jets-set-trade-qb-justin-fields-chiefs-sources-say",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9abdaa7f29cf",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_41692e06543b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Butler's Matta retires from coaching with 502 wins",
-      "dek": "Butler's Thad Matta, who had 502 wins and 13 NCAA tournament appearances in a career that also included stints at Xavier and Ohio State, is retiring from coachi",
-      "body": "Butler's Thad Matta, who had 502 wins and 13 NCAA tournament appearances in a career that also included stints at Xavier and Ohio State, is retiring from coaching.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-16T11:58:42+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48223237/butler-basketball-coach-thad-matta-announces-retirement",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_41692e06543b",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
