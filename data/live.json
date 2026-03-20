@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-20T19:49:54+00:00",
+  "generatedAt": "2026-03-20T20:34:22+00:00",
   "items": [
+    {
+      "id": "latest_d0bc78cacb74",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
+      "dek": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
+      "body": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-20T20:16:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e9/live/fb911740-248b-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_68a431676bf2",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-20T17:23:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rz2gri/the_us_weighs_lifting_iranian_oil_sanctions_to/",
       "image": "https://external-preview.redd.it/oO3Hwuudfu3OzbbJvL3a3U5hAa6pkmjUgy9myAeZZM0.jpeg?width=640&crop=smart&auto=webp&s=f3ef6aed8c0b67028f0b9d0ab4a1cd75a0a35070",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_16ff3959d399",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "England is facing an unprecedented invasion, the problem is, it’s octopuses, and they’re devouring everything in their path",
-      "dek": "Source: thewestsidejournal.com submitted by /u/ScarlettPuppy [link] [comments]",
-      "body": "Source: thewestsidejournal.com submitted by /u/ScarlettPuppy [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-20T17:02:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rz1wp8/england_is_facing_an_unprecedented_invasion_the/",
-      "image": "https://external-preview.redd.it/8bFbrXnWmrK3V7QmmB8IzGHtKgxfERuzn3B0bY3UszY.jpeg?width=640&crop=smart&auto=webp&s=fb4d2ed632eb99e4060e1d8025839b1859d12a7c",
       "imageCredit": "Image via original publisher"
     }
   ]
