@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-20T21:45:28+00:00",
+  "generatedAt": "2026-03-20T22:29:55+00:00",
   "items": [
+    {
+      "id": "meme_1c465a3438b5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Pittsburgh to close Public Schools for week of NFL Draft",
+      "dek": "submitted by /u/_Beets_By_Dwight_ [link] [comments]",
+      "body": "submitted by /u/_Beets_By_Dwight_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-20T21:43:08+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rz98ay/pittsburgh_to_close_public_schools_for_week_of/",
+      "image": "https://external-preview.redd.it/slrbQvArzHJ4B-3q0vy4yqeLWtsnnQvbwR33Ux1WmBQ.jpeg?width=640&crop=smart&auto=webp&s=20e1164dde4f5f55642e80cb3b18a20fa67149bc",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d0bc78cacb74",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rz3lmn/dancing_humanoid_robot_causes_chaos_at_busy/",
       "image": "https://external-preview.redd.it/uVW0o-78SfFyQcErAslbHeW23Q-BRdwriLgcxATIqmM.jpeg?width=640&crop=smart&auto=webp&s=dbcbc60b562ff4971435a931f30ebc6eb424469d",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_a163b9cf1bff",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "UCLA's Close hails Betts's mental health 'courage'",
-      "dek": "A day after UCLA's Lauren Betts opened up about her mental health journey, head coach Cori Close said she couldn't be \"more impressed and inspired\" by Betts' \"c",
-      "body": "A day after UCLA's Lauren Betts opened up about her mental health journey, head coach Cori Close said she couldn't be \"more impressed and inspired\" by Betts' \"courageous vulnerability.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-20T17:30:49+00:00",
-      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48261906/cori-close-hails-lauren-betts-courageous-vulnerability-mental-health",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a163b9cf1bff",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

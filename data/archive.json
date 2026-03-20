@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_a163b9cf1bff",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UCLA's Close hails Betts's mental health 'courage'",
+      "dek": "A day after UCLA's Lauren Betts opened up about her mental health journey, head coach Cori Close said she couldn't be \"more impressed and inspired\" by Betts' \"c",
+      "body": "A day after UCLA's Lauren Betts opened up about her mental health journey, head coach Cori Close said she couldn't be \"more impressed and inspired\" by Betts' \"courageous vulnerability.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-20T17:30:49+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48261906/cori-close-hails-lauren-betts-courageous-vulnerability-mental-health",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a163b9cf1bff",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_85432121b00a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-17T19:43:41+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48234427/psg-show-chelsea-takes-truly-part-europes-elite",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6778c05f0fec",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5ceaf04daa9b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Real Madrid deal latest blow to Guardiola's Champions League legacy",
-      "dek": "null",
-      "body": "null",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-17T19:43:41+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48233770/guardiola-champions-league-legacy-dealt-latest-blow-real-madrid",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5ceaf04daa9b",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
