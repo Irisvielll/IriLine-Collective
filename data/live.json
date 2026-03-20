@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-20T22:58:13+00:00",
+  "generatedAt": "2026-03-20T23:37:12+00:00",
   "items": [
+    {
+      "id": "latest_f5dbc608830e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Elon Musk misled Twitter investors, jury finds",
+      "dek": "A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
+      "body": "A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-20T22:55:41+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d41c/live/8e58b150-24af-11f1-934f-036468834728.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_91dabca21f61",
       "section": "latest",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_0880d8ba8b7b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "FEMA Official Claims He Was Teleported to Waffle House",
-      "dek": "submitted by /u/Efficient-Freedom517 [link] [comments]",
-      "body": "submitted by /u/Efficient-Freedom517 [link] [comments]",
+      "id": "latest_202927835002",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "dek": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+      "body": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-20T22:32:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzafwq/fema_official_claims_he_was_teleported_to_waffle/",
-      "image": "https://external-preview.redd.it/rCBEy8riMFRNOl3c6MzGSQVQdHZz-HPzVCvNcpUCec4.jpeg?width=640&crop=smart&auto=webp&s=2ffd9166dfe0a38169bd343224917d9608d49362",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1c465a3438b5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Pittsburgh to close Public Schools for week of NFL Draft",
-      "dek": "submitted by /u/_Beets_By_Dwight_ [link] [comments]",
-      "body": "submitted by /u/_Beets_By_Dwight_ [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-20T21:43:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rz98ay/pittsburgh_to_close_public_schools_for_week_of/",
-      "image": "https://external-preview.redd.it/slrbQvArzHJ4B-3q0vy4yqeLWtsnnQvbwR33Ux1WmBQ.jpeg?width=640&crop=smart&auto=webp&s=20e1164dde4f5f55642e80cb3b18a20fa67149bc",
+      "publishedAt": "2026-03-20T22:34:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df12/live/54d66e70-24ac-11f1-9e4f-af01f1e509c3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
