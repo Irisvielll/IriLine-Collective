@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-21T17:58:32+00:00",
+  "generatedAt": "2026-03-21T18:49:44+00:00",
   "items": [
+    {
+      "id": "meme_7a5745a52167",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "University of Maryland researchers create device to track how often people fart",
+      "dek": "submitted by /u/PioGreeff [link] [comments]",
+      "body": "submitted by /u/PioGreeff [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T18:40:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzz6q2/university_of_maryland_researchers_create_device/",
+      "image": "https://external-preview.redd.it/i65KHr3BCjnuhALn9hWofc0Vanq7ivyCTkPz78JVmZ0.png?width=640&crop=smart&auto=webp&s=68dd277c403fff241ce8c21b2e027a0919d74183",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f656abc4d0ae",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-21T16:11:58+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb6/live/5a505fe0-2534-11f1-bf08-9f83b61dd1a7.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fa050dde0e5d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-      "dek": "More than 230 people have been rescued so far, the authorities said on Friday.",
-      "body": "More than 230 people have been rescued so far, the authorities said on Friday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-21T16:09:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b574/live/09b69730-253d-11f1-9348-f3405f852bad.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
