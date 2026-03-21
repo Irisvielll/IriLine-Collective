@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_cb8336747cff",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "How often do people really fart? Scientists built smart underwear to find out",
+      "dek": "submitted by /u/PioGreeff [link] [comments]",
+      "body": "submitted by /u/PioGreeff [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T13:41:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzrshg/how_often_do_people_really_fart_scientists_built/",
+      "image": "https://external-preview.redd.it/3v2oks4sRO77MvAoicTo97cUCRuqfiUjkCeiC2Z7E34.jpeg?width=640&crop=smart&auto=webp&s=62bbe4669f5aff75e6a2cbfd4887a2d45ab3c393",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_9730d68da11d",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48240911/sidney-crosby-play-vs-canes-first-game-milan-injury",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_002830077d4e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_47d7ba59debf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Norway prosecutor asks for seven years' jail for crown princess's son in rape trial",
-      "dek": "Prosecutors in the trial of Marius Borg Høiby argue he should be found guilty of 39 of the 40 charges he is accused of.",
-      "body": "Prosecutors in the trial of Marius Borg Høiby argue he should be found guilty of 39 of the 40 charges he is accused of.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T12:44:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c74741pgleko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9be/live/b46fbe00-22d0-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

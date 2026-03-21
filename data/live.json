@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-21T15:58:49+00:00",
+  "generatedAt": "2026-03-21T16:40:35+00:00",
   "items": [
+    {
+      "id": "latest_fa050dde0e5d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+      "dek": "More than 230 people have been rescued so far, the authorities said on Friday.",
+      "body": "More than 230 people have been rescued so far, the authorities said on Friday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T16:09:50+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b574/live/09b69730-253d-11f1-9348-f3405f852bad.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_77dfd267777f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-21T13:52:46+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzs17t/airports_launch_food_drives_and_donations_to/",
       "image": "https://external-preview.redd.it/mESyjrOYmCvht1iPrFCeW7ZPI8flmAtwvOAlw1Ux3_4.jpeg?width=640&crop=smart&auto=webp&s=c9b8c30803ce299640ebeb7816351a4f860aee89",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_cb8336747cff",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "How often do people really fart? Scientists built smart underwear to find out",
-      "dek": "submitted by /u/PioGreeff [link] [comments]",
-      "body": "submitted by /u/PioGreeff [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-21T13:41:59+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzrshg/how_often_do_people_really_fart_scientists_built/",
-      "image": "https://external-preview.redd.it/3v2oks4sRO77MvAoicTo97cUCRuqfiUjkCeiC2Z7E34.jpeg?width=640&crop=smart&auto=webp&s=62bbe4669f5aff75e6a2cbfd4887a2d45ab3c393",
       "imageCredit": "Image via original publisher"
     }
   ]
