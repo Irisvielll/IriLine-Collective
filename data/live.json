@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-21T21:48:42+00:00",
+  "generatedAt": "2026-03-21T22:26:12+00:00",
   "items": [
+    {
+      "id": "latest_8107cfebe9a3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump administration at crossroads in US-Israel war with Iran",
+      "dek": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+      "body": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T22:12:04+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa8/live/c5a4f260-2557-11f1-932e-8b5a2fd820dc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a7ee5a7991b7",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzz6q2/university_of_maryland_researchers_create_device/",
       "image": "https://external-preview.redd.it/i65KHr3BCjnuhALn9hWofc0Vanq7ivyCTkPz78JVmZ0.png?width=640&crop=smart&auto=webp&s=68dd277c403fff241ce8c21b2e027a0919d74183",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c0d1be9941ef",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Doncic seeks custody petition dismissal",
-      "dek": "Luka Dončić has filed documents seeking the dismissal of a petition filed by his ex-fiancée that is pursuing child support and attorney fees over the former cou",
-      "body": "Luka Dončić has filed documents seeking the dismissal of a petition filed by his ex-fiancée that is pursuing child support and attorney fees over the former couple's child custody case, sources told ESPN's Dave McMenamin.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-21T17:41:45+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48271760/sources-doncic-seeking-dismissal-child-custody-petition",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c0d1be9941ef",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
