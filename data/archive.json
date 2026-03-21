@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_7a5745a52167",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "University of Maryland researchers create device to track how often people fart",
+      "dek": "submitted by /u/PioGreeff [link] [comments]",
+      "body": "submitted by /u/PioGreeff [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T18:40:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzz6q2/university_of_maryland_researchers_create_device/",
+      "image": "https://external-preview.redd.it/i65KHr3BCjnuhALn9hWofc0Vanq7ivyCTkPz78JVmZ0.png?width=640&crop=smart&auto=webp&s=68dd277c403fff241ce8c21b2e027a0919d74183",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_7fc0de92f08a",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-18T16:46:27+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48242732/ex-bengals-cowboys-lb-logan-wilson-retires-29",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c36f12387eb",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_f09a2aad248c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ex-CSUB assistant to face trial in pimping case",
-      "dek": "Kevin Mays, a former Cal State Bakersfield assistant basketball coach accused of pimping and other offenses, will face trial after a California judge ruled Wedn",
-      "body": "Kevin Mays, a former Cal State Bakersfield assistant basketball coach accused of pimping and other offenses, will face trial after a California judge ruled Wednesday that there is sufficient evidence to prosecute him.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T16:46:27+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48242735/ex-cal-state-bakersfield-assistant-face-trial-pimping-case",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f09a2aad248c",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
