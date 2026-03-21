@@ -16,6 +16,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_a13dcbc48204",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UFC London LIVE! Latest updates as Lerone Murphy fights Movsar Evloev",
+      "dek": "The UFC returns to London with two unbeaten fighters in Lerone Murphy and Movsar Evloev headlining the card and you can follow all the action live right here wi",
+      "body": "The UFC returns to London with two unbeaten fighters in Lerone Murphy and Movsar Evloev headlining the card and you can follow all the action live right here with ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T15:39:32+00:00",
+      "sourceUrl": "https://www.espn.com/ufc/story/_/id/48241803/ufc-london-latest-updates-lerone-murphy-movsar-evloev-michael-venom-page-luke-riley-shem-rock-o2",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a13dcbc48204",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_3551708fba33",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: UNC, Davis discussing future after loss",
+      "dek": "UNC officials are in discussions with coach Hubert Davis about the coach's future after another first-round loss in the NCAA tournament.",
+      "body": "UNC officials are in discussions with coach Hubert Davis about the coach's future after another first-round loss in the NCAA tournament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T15:24:26+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48270301/sources-unc-davis-discussing-future-tournament-loss",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3551708fba33",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_9c4c9b8472dc",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48242325/usc-lands-third-mcdonald-all-american-2026-collins",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c86d977a84e0",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_7095c6d8489f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hittler faces Zielinski as French town election contest goes viral",
-      "dek": "submitted by /u/Large_banana_hammock [link] [comments]",
-      "body": "submitted by /u/Large_banana_hammock [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T15:29:52+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rx7149/hittler_faces_zielinski_as_french_town_election/",
-      "image": "https://external-preview.redd.it/y1KpNc4D6PMJt62mvJquWQoh3kMkYtT8PFLV-M1hDbI.jpeg?width=640&crop=smart&auto=webp&s=a0d21b9d7c5e62342cbad3b9ca74b161e7d97733",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9c3b37803e22",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pair win Turing Award for computer encryption breakthrough",
-      "dek": "It is hoped Charles H Bennett and Gilles Brassard's work will make digital communications secure for decades ahead.",
-      "body": "It is hoped Charles H Bennett and Gilles Brassard's work will make digital communications secure for decades ahead.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T15:23:16+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2703/live/f9246120-22d7-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
