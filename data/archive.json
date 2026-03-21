@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_ff05e04df3be",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Arsenal winning Carabao Cup could mark end of Man City golden era",
+      "dek": "Sunday's Carabao Cup final could help tell us whether Arsenal can win the Premier League or if this might be the end for Pep Guardiola at Man City.",
+      "body": "Sunday's Carabao Cup final could help tell us whether Arsenal can win the Premier League or if this might be the end for Pep Guardiola at Man City.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T18:54:26+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48259278/arsenal-winning-carabao-cup-mark-end-pep-guardiola-manchester-city-golden-era",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ff05e04df3be",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_2d05e8e5c06b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "USC saved by review, then topples Clemson in OT",
+      "dek": "Saved by a review that nullified Clemson's buzzer-beater at the end of regulation, USC went on to win 71-67 in overtime to advance to the second round of the wo",
+      "body": "Saved by a review that nullified Clemson's buzzer-beater at the end of regulation, USC went on to win 71-67 in overtime to advance to the second round of the women's NCAA tournament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T18:49:40+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48272356/usc-outlasts-clemson-wild-finish-women-ncaa-tournament",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2d05e8e5c06b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_7a5745a52167",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/595c/live/d5b5f0e0-22e2-11f1-9c64-25f36d76b36f.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_38325ca9927d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Barça attack overpowers Newcastle, but can it keep covering for leaky defense?",
-      "dek": "Barça put seven past Newcastle on Wednesday, but their defense was alarming, and sterner Champions League opposition will better exploit that.",
-      "body": "Barça put seven past Newcastle on Wednesday, but their defense was alarming, and sterner Champions League opposition will better exploit that.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T17:04:02+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48242823/barcelona-attack-overpowers-newcastle-united-champions-league-keep-covering-leaky-defense",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_38325ca9927d",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2c36f12387eb",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ex-Bengals, Cowboys LB Wilson retires at 29",
-      "dek": "Former Bengals and Cowboys linebacker Logan Wilson announced his retirement from the NFL on Wednesday.",
-      "body": "Former Bengals and Cowboys linebacker Logan Wilson announced his retirement from the NFL on Wednesday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T16:46:27+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48242732/ex-bengals-cowboys-lb-logan-wilson-retires-29",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c36f12387eb",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
