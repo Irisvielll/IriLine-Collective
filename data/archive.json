@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_9b0789c37c9a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Reed in rare air with 31-27 night as UConn escapes",
+      "dek": "Tarris Reed Jr. had one of the most dominant performances in tournament history, posting 31 points and 27 rebounds on Friday night to help No. 2 seed UConn stav",
+      "body": "Tarris Reed Jr. had one of the most dominant performances in tournament history, posting 31 points and 27 rebounds on Friday night to help No. 2 seed UConn stave off an upset with an 82-71 win over Furman.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T07:12:30+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48266296/tarris-reed-31-27-night-helps-uconn-survive-ncaa-tournament",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9b0789c37c9a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_b89ad22fb94c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-18T09:30:59+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48233122/nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_138a975a3ba2",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_96a8e3279ba8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'I'm a sucker for a challenge': Why Moneyball pioneer chose to take on Coors Field",
-      "dek": "Paul DePodesta is back in baseball -- and plans to fix the Colorado Rockies.",
-      "body": "Paul DePodesta is back in baseball -- and plans to fix the Colorado Rockies.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T07:48:41+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48176507/mlb-2026-paul-depodesta-colorado-rockies-moneyball-coors-field",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_96a8e3279ba8",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
