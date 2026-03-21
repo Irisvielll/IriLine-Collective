@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_1813746d1c13",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "France takes 'appropriate measures' after sailor's jogging app exposes aircraft carrier's location",
+      "dek": "submitted by /u/thieh [link] [comments]",
+      "body": "submitted by /u/thieh [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T02:27:05+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzfty7/france_takes_appropriate_measures_after_sailors/",
+      "image": "https://external-preview.redd.it/Hf0cr9RghWkY0Wfr9R2mnnxRE_b-IaMSQp3hJbi_y8g.jpeg?width=640&crop=smart&auto=webp&s=6b8f37d775bd498121121508e5e4aeced32eb10b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_847eba7b928f",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-18T07:28:35+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48236577/coaches-predict-ncaa-tournament-champion-cinderellas-2026",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ac3cd51c8779",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5f51265d5603",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "60 ESPN personalities pick their men's Final Four, national champions",
-      "dek": "Sixteen teams are in the mix for our semifinal predictions, with one emerging as the clear title favorite.",
-      "body": "Sixteen teams are in the mix for our semifinal predictions, with one emerging as the clear title favorite.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T07:28:35+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48237100/final-four-national-championship-picks-predictions-march-madness-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5f51265d5603",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
