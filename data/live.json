@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-21T04:19:20+00:00",
+  "generatedAt": "2026-03-21T05:27:12+00:00",
   "items": [
+    {
+      "id": "latest_b89ad22fb94c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54",
+      "dek": "Brendon died of \"natural cases\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\".",
+      "body": "Brendon died of \"natural cases\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T04:42:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/e1ecfce0-24c8-11f1-ad78-bf5290e8c730.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_6088f441bb56",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-21T02:27:05+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzfty7/france_takes_appropriate_measures_after_sailors/",
       "image": "https://external-preview.redd.it/Hf0cr9RghWkY0Wfr9R2mnnxRE_b-IaMSQp3hJbi_y8g.jpeg?width=640&crop=smart&auto=webp&s=6b8f37d775bd498121121508e5e4aeced32eb10b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_847eba7b928f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Charlie Kirk’s ‘mentor’ and father of modern cheerleading dies after falling while playing pickleball: report",
-      "dek": "submitted by /u/HeStoleMyBalloons [link] [comments]",
-      "body": "submitted by /u/HeStoleMyBalloons [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-21T01:14:59+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzeaal/charlie_kirks_mentor_and_father_of_modern/",
-      "image": "https://external-preview.redd.it/THXuZOzkiJVC1xI75GY4a9vKzQKvgyBOf8--2x_C_lo.jpeg?width=640&crop=smart&auto=webp&s=ead02f15fdb23539b6a070fbe91b8cc86ef0f4fe",
       "imageCredit": "Image via original publisher"
     }
   ]
