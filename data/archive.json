@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_bfcba04455b6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+      "dek": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+      "body": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T08:54:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9be/live/f94c8cc0-24ff-11f1-ba46-637c713acadc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_e3ad31435ef5",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48238336/champions-league-biggest-comebacks-barcelona-liverpool-sporting-cp",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7aa42ee146da",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_fedcc436d61a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US judge orders Trump administration to reopen Voice of America",
-      "dek": "Some 85% of VOA staff were laid off by Trump who accused the international broadcaster of bias.",
-      "body": "Some 85% of VOA staff were laid off by Trump who accused the international broadcaster of bias.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T11:01:43+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce3g3j1y2ldo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b0f/live/d8346f80-4ea9-11f0-9e07-7900e9cdda16.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
