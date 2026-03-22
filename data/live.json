@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T11:56:10+00:00",
+  "generatedAt": "2026-03-22T12:59:18+00:00",
   "items": [
+    {
+      "id": "latest_1027ec5fd56a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sudan army denies carrying out hospital attack that killed 64 during Eid",
+      "dek": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+      "body": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T12:15:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905e/live/b28703c0-25e4-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_38e76a25b22c",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_ed89f4df84ea",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "BBC in Cuba as island plunged into darkness",
-      "dek": "More than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.",
-      "body": "More than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T08:40:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cj94jp3jmv8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb5d/live/4a0ef590-25c7-11f1-b1ce-2dccb029f244.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_9378dc86bb47",
+      "id": "sports_85b09cbad7c8",
       "section": "sports",
       "sectionLabel": "Sports",
       "type": "REAL",
       "category": "SPORTS",
-      "title": "'Nice hobby to have': Kentucky's Jayden Quaintance uses manga comics to fuel recovery in March Madness",
-      "dek": "The Kentucky forward has gotten into manga as a way to help time pass while he heals from injury.",
-      "body": "The Kentucky forward has gotten into manga as a way to help time pass while he heals from injury.",
+      "title": "Arozarena apologizes to Raleigh over WBC spat",
+      "dek": "Randy Arozarena says he has apologized to Cal Raleigh for the expletive-laced comments directed at his Mariners teammate earlier this month at the WBC.",
+      "body": "Randy Arozarena says he has apologized to Cal Raleigh for the expletive-laced comments directed at his Mariners teammate earlier this month at the WBC.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T07:41:27+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48273040/march-madness-2026-jayden-quaintance-kentucky-wildcats-manga",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9378dc86bb47",
+      "publishedAt": "2026-03-22T08:53:53+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48277418/randy-arozarena-says-apologized-cal-raleigh-wbc-spat",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_85b09cbad7c8",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
