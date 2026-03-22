@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T17:59:45+00:00",
+  "generatedAt": "2026-03-22T18:51:36+00:00",
   "items": [
+    {
+      "id": "latest_6fe69fb73cda",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "dek": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+      "body": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T18:37:07+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c916/live/320a6920-25fe-11f1-908a-2f9759ed819b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_cfa5a2e18433",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-22T17:38:48+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0rxat/episcopal_priest_accused_of_stealing_baseball/",
       "image": "https://external-preview.redd.it/M52zSza_mf5DA-6BZT1dXDiT9Mb8MrK_b09BzseGFR8.jpeg?width=640&crop=smart&auto=webp&s=9b62600441662194c7f31fe54ece143d5b2a5060",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2ed9f7f8ff18",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Why Spotify AI more than music will be the secret to keeping subscribers",
-      "dek": "submitted by /u/Jazzlike-Lunch5390 [link] [comments]",
-      "body": "submitted by /u/Jazzlike-Lunch5390 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T17:03:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0r0hz/why_spotify_ai_more_than_music_will_be_the_secret/",
-      "image": "https://external-preview.redd.it/0haecdt5GsmZ4NgKPRXXNqCwmnVY5hF7RPjcM8wC58U.jpeg?width=640&crop=smart&auto=webp&s=17375c904c228a505c0908621efd5a33c8bc7f53",
       "imageCredit": "Image via original publisher"
     }
   ]
