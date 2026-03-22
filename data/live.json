@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T11:36:32+00:00",
+  "generatedAt": "2026-03-22T11:56:10+00:00",
   "items": [
+    {
+      "id": "meme_38e76a25b22c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Independence PD: Barbies sold at Cargo Largo potentially contaminated with fentanyl",
+      "dek": "submitted by /u/plain_handle [link] [comments]",
+      "body": "submitted by /u/plain_handle [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T11:54:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0jpcv/independence_pd_barbies_sold_at_cargo_largo/",
+      "image": "https://external-preview.redd.it/ZOgwCVAazxenxxaXKhknLOtgspT6eFlciojTae6uMkg.png?width=640&crop=smart&auto=webp&s=7bdce664876d3887ad5da62ffed74d2ac0654a4e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ed89f4df84ea",
       "section": "latest",
@@ -17,34 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_c7c39f7f9539",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Independence police say Barbies possibly contaminated with fentanyl at Cargo Largo",
-      "dek": "submitted by /u/Lawfulash [link] [comments]",
-      "body": "submitted by /u/Lawfulash [link] [comments]",
+      "id": "sports_9378dc86bb47",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "'Nice hobby to have': Kentucky's Jayden Quaintance uses manga comics to fuel recovery in March Madness",
+      "dek": "The Kentucky forward has gotten into manga as a way to help time pass while he heals from injury.",
+      "body": "The Kentucky forward has gotten into manga as a way to help time pass while he heals from injury.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T04:42:59+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0cln2/independence_police_say_barbies_possibly/",
-      "image": "https://external-preview.redd.it/_4QK6FEVf3iEm-IdAQT2WGNBzcOQnF82fKpSJG7uhDE.jpeg?width=640&crop=smart&auto=webp&s=71e91cdc1acf266e6d3d1f4eb946b2ec46d61268",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_6e9c84bf74d4",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "A real possum appears among plush toy animals in Australian airport gift shop",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T02:21:39+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s09u99/a_real_possum_appears_among_plush_toy_animals_in/",
-      "image": "https://external-preview.redd.it/9a1eegP1jSsCwc6-gz6kmoMJWFQfVm8W2fwapWmRPXU.jpeg?width=640&crop=smart&auto=webp&s=a8a394d90b3afec9d08ba64b3e012d2cd19c7f7e",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-03-22T07:41:27+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48273040/march-madness-2026-jayden-quaintance-kentucky-wildcats-manga",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9378dc86bb47",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
