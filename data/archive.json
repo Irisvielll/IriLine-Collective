@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_dc945ac77b1e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Wrong 'answer' as Kentucky hit with historic loss",
+      "dek": "On Sunday, there was one stat that couldn't be easily dismissed -- the margin of defeat. The Wildcats' 19-point loss in an 82-63 defeat against Iowa State was K",
+      "body": "On Sunday, there was one stat that couldn't be easily dismissed -- the margin of defeat. The Wildcats' 19-point loss in an 82-63 defeat against Iowa State was Kentucky's largest defeat in an NCAA tournament game since 1972.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T19:15:24+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48282395/kentucky-suffer-historic-19-point-loss-iowa-state",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dc945ac77b1e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_ef2c66231956",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-19T10:14:58+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48244101/ucl-quarterfinal-predictions-preview-barcelona-real-madrid-arsenal-liverpool-bayern-munich-psg-bill-connelly",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4ee2e17bc5f3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b1fc90a773c6",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Cunningham out with collapsed lung",
-      "dek": "Pistons star Cade Cunningham has been diagnosed with a collapsed lung and is expected to miss an extended period of time, sources told ESPN.",
-      "body": "Pistons star Cade Cunningham has been diagnosed with a collapsed lung and is expected to miss an extended period of time, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T09:44:35+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48248405/sources-pistons-cade-cunningham-collapsed-lung",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b1fc90a773c6",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
