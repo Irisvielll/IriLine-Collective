@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T23:29:20+00:00",
+  "generatedAt": "2026-03-22T23:54:30+00:00",
   "items": [
+    {
+      "id": "latest_9735c0e2c84f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+      "dek": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
+      "body": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T23:27:59+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3729/live/c99fa820-2632-11f1-a403-5bd9c877f2f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_72f17ae63b81",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-22T21:38:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0y4mx/jason_statham_to_play_guy_who_steals_someones/",
       "image": "https://external-preview.redd.it/Gmct7Vvn0Nyk_sPHem1fGYri_ARGg3XuQG15bZeJ0UQ.jpeg?width=640&crop=smart&auto=webp&s=9e7b17cb3696b52f8b2653e4d34f42e864fc0bb6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_93711c2e326d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "What if Jesus was born in the Levant instead of Salt Lake City, Utah?",
-      "dek": "submitted by /u/Phallic_Carrot5715 [link] [comments]",
-      "body": "submitted by /u/Phallic_Carrot5715 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T20:47:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0wtqi/what_if_jesus_was_born_in_the_levant_instead_of/",
-      "image": "https://external-preview.redd.it/u5r4NekakvTSOx6u-z-Gsgu8DFP2B-kgBlJRAc8FNwI.jpeg?width=640&crop=smart&auto=webp&s=5974cbb68bc524bb84d9fc39152da8ea4d5fae2d",
       "imageCredit": "Image via original publisher"
     }
   ]
