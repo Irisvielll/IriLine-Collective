@@ -91,6 +91,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_6463521844d3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Pep: Man City cup win could boost Arsenal for title",
+      "dek": "Pep Guardiola has said he does not expect Manchester City's Carabao Cup victory over Arsenal to have any impact in the title race.",
+      "body": "Pep Guardiola has said he does not expect Manchester City's Carabao Cup victory over Arsenal to have any impact in the title race.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T17:11:47+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48280926/pep-guardiola-man-city-carabao-cup-final-victory-arsenal-premier-league-title-race",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6463521844d3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_a6db13e61b8e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: OKC star Williams to return vs. 76ers",
+      "dek": "Thunder star Jalen Williams will return from a nagging hamstring injury for Monday's road game against the 76ers, sources told ESPN.",
+      "body": "Thunder star Jalen Williams will return from a nagging hamstring injury for Monday's road game against the 76ers, sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T17:09:06+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48281282/sources-thunder-star-jalen-williams-return-vs-76ers",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a6db13e61b8e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_2ed9f7f8ff18",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff7/live/3e74ba80-234c-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ec68f03a34cf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "DR Congo and Rwanda agree to ease tensions after talks in US",
-      "dek": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
-      "body": "The conflict has persisted despite a peace deal signed by DR Congo and Rwanda in December.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T08:42:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c15x5ejgyl3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fb/live/1af857d0-2368-11f1-a48c-abe9601b2bbf.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_82855cb383dc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ranking the best deals of the offseason: 16 signings and trades that received an 'A' grade",
-      "dek": "We've graded more than 60 signings and trades over the past few weeks. But only 16 moves received top marks. We ranked those deals.",
-      "body": "We've graded more than 60 signings and trades over the past few weeks. But only 16 moves received top marks. We ranked those deals.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T08:19:02+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48226368/2026-nfl-free-agency-signings-ranking-best-deals-contracts-fits-values",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_82855cb383dc",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
