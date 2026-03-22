@@ -286,6 +286,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_dd7f06c0a14c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Did Australia's under-16s social media ban work?",
+      "dek": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
+      "body": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-21T19:06:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/ed588310-1d0c-11f1-801d-ed3cff6bf876.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_ff05e04df3be",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-18T19:44:21+00:00",
       "sourceUrl": "https://www.espn.com/espn/story/_/id/48243912/colin-dorgan-blackstone-valley-co-op-win-title-tragedy",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3f0b025a91a8",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_7ac226b3ac65",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "CFB spring buzz: Bama expectations, Texas upgrades and a freshman QB making waves",
-      "dek": "What we're hearing around college football from Florida to Oregon.",
-      "body": "What we're hearing around college football from Florida to Oregon.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T19:41:37+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48185193/college-football-spring-buzz-alabama-texas-freshman-qb",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7ac226b3ac65",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
