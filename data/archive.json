@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_24770d3043b6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Iowa man charged after admitting during sheriff's department job interview to viewing child pornography",
+      "dek": "It’s a tough job market submitted by /u/SgtHulkasBigToeJam [link] [comments]",
+      "body": "It’s a tough job market submitted by /u/SgtHulkasBigToeJam [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T16:48:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0qlpp/iowa_man_charged_after_admitting_during_sheriffs/",
+      "image": "https://external-preview.redd.it/RAy8X-J4NIqR6cwRnFg2p2oIFM6BRoR7yEBZxp9Q6dU.jpeg?width=640&crop=smart&auto=webp&s=876717b14822d476d92b17794f9b8174959d6c61",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_19291882ce3c",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c3v6k0l631vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d9/live/c31650a0-25f9-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_9cf1de2d14d0",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Cuse turns to ex-star McNamara as HC",
+      "dek": "Syracuse is working toward hiring Siena's Gerry McNamara as its next head coach, sources told ESPN.",
+      "body": "Syracuse is working toward hiring Siena's Gerry McNamara as its next head coach, sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T13:52:11+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48278903/sources-syracuse-hire-gerry-mcnamara-basketball-coach",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9cf1de2d14d0",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_5b723a779d96",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8dd/live/c1e897c0-2314-11f1-83bb-2f220ea2da92.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_bb5e10e3bf39",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Miami (Ohio) gets first tourney win since 1999",
-      "dek": "Miami (Ohio) beat SMU on Wednesday night in the First Four for its first NCAA tournament victory in 27 years.",
-      "body": "Miami (Ohio) beat SMU on Wednesday night in the First Four for its first NCAA tournament victory in 27 years.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T00:48:10+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48246028/miami-ohio-beats-smu-first-ncaa-tournament-win-1999",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bb5e10e3bf39",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ed5b9065dccd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Kerr to the point: Dubs 'going to be in the play-in'",
-      "dek": "After a sixth loss in seven games, Warriors coach Steve Kerr laid bare the cold reality his team has been facing as it hobbles toward the regular season's concl",
-      "body": "After a sixth loss in seven games, Warriors coach Steve Kerr laid bare the cold reality his team has been facing as it hobbles toward the regular season's conclusion: \"We're going to be in the play-in. We know that.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T00:48:10+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48245791/steve-kerr-says-warriors-know-going-play-in",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ed5b9065dccd",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
