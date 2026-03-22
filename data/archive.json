@@ -61,6 +61,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_aecf80a4d2cd",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Hockey world mourns loss of Wild reporter Pierce",
+      "dek": "Jessi Pierce, who covered the Wild as the correspondent for NHL.com for the past decade. and her three children were killed Saturday in a house fire in Minnesot",
+      "body": "Jessi Pierce, who covered the Wild as the correspondent for NHL.com for the past decade. and her three children were killed Saturday in a house fire in Minnesota.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T18:47:00+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48282269/nhl-reporter-jessi-pierce-3-children-die-house-fire",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_aecf80a4d2cd",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_6fe69fb73cda",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-19T09:44:35+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48248405/sources-pistons-cade-cunningham-collapsed-lung",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b1fc90a773c6",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1875a425b2dd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vikings bring back Wentz, adding to QB depth",
-      "dek": "The Vikings agreed to terms with quarterback Carson Wentz on a one-year deal Thursday, adding to their depth in a key year for them at the position.",
-      "body": "The Vikings agreed to terms with quarterback Carson Wentz on a one-year deal Thursday, adding to their depth in a key year for them at the position.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T09:44:35+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48248428/vikings-bring-back-carson-wentz-adding-qb-depth",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1875a425b2dd",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
