@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ad01b1dda037",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "National blackout hits Cuba for second time in a week",
+      "dek": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+      "body": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T02:02:40+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f79/live/464c5270-257e-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_22c29a0c7a78",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-18T20:15:20+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/47220729/messi-score-900th-goal-2026-reach-1000-pass-ronaldo",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c2d2ec31533a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_3f0b025a91a8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "R.I. team wins state title after tragic rink shooting",
-      "dek": "The R.I. high school hockey team that was on the ice during a mass shooting in the stands last month capped its season with a state title Wednesday, with Colin ",
-      "body": "The R.I. high school hockey team that was on the ice during a mass shooting in the stands last month capped its season with a state title Wednesday, with Colin Dorgan -- who lost 3 family members in the tragedy -- scoring the equalizer late in regulation.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-18T19:44:21+00:00",
-      "sourceUrl": "https://www.espn.com/espn/story/_/id/48243912/colin-dorgan-blackstone-valley-co-op-win-title-tragedy",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3f0b025a91a8",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

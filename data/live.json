@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-22T07:58:05+00:00",
+  "generatedAt": "2026-03-22T08:47:09+00:00",
   "items": [
+    {
+      "id": "latest_ed89f4df84ea",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "BBC in Cuba as island plunged into darkness",
+      "dek": "More than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.",
+      "body": "More than 10 million people are enduring power cuts after Cuba's national electrical grid collapsed again.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T08:40:50+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cj94jp3jmv8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb5d/live/4a0ef590-25c7-11f1-b1ce-2dccb029f244.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c7c39f7f9539",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-22T02:21:39+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s09u99/a_real_possum_appears_among_plush_toy_animals_in/",
       "image": "https://external-preview.redd.it/9a1eegP1jSsCwc6-gz6kmoMJWFQfVm8W2fwapWmRPXU.jpeg?width=640&crop=smart&auto=webp&s=a8a394d90b3afec9d08ba64b3e012d2cd19c7f7e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ad01b1dda037",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "National blackout hits Cuba for second time in a week",
-      "dek": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "body": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T02:02:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f79/live/464c5270-257e-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
