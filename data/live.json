@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-22T12:59:18+00:00",
+  "generatedAt": "2026-03-22T13:49:56+00:00",
   "items": [
+    {
+      "id": "meme_5b723a779d96",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T13:49:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0m4cg/ai_videos_of_sexualised_black_women_removed_from/",
+      "image": "https://external-preview.redd.it/cVennd4CXN4N80o2ma8FRpnhAiSq1Gk4nCmSDyWl32E.png?width=640&crop=smart&auto=webp&s=3d78f97a65da790cf3579a8c46686ca5fa995338",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_19c5df471b76",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Qatari and Turkish citizens die in military helicopter crash",
+      "dek": "Four Qatari military personnel, one Turkish serviceman and two technicians from a Turkish defence company were on board.",
+      "body": "Four Qatari military personnel, one Turkish serviceman and two technicians from a Turkish defence company were on board.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-22T13:35:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2v4k0xn9no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de05/live/d191bf30-25ee-11f1-a3f0-379050aefd37.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_1027ec5fd56a",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/905e/live/b28703c0-25e4-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_38e76a25b22c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Independence PD: Barbies sold at Cargo Largo potentially contaminated with fentanyl",
-      "dek": "submitted by /u/plain_handle [link] [comments]",
-      "body": "submitted by /u/plain_handle [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T11:54:48+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0jpcv/independence_pd_barbies_sold_at_cargo_largo/",
-      "image": "https://external-preview.redd.it/ZOgwCVAazxenxxaXKhknLOtgspT6eFlciojTae6uMkg.png?width=640&crop=smart&auto=webp&s=7bdce664876d3887ad5da62ffed74d2ac0654a4e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_85b09cbad7c8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Arozarena apologizes to Raleigh over WBC spat",
-      "dek": "Randy Arozarena says he has apologized to Cal Raleigh for the expletive-laced comments directed at his Mariners teammate earlier this month at the WBC.",
-      "body": "Randy Arozarena says he has apologized to Cal Raleigh for the expletive-laced comments directed at his Mariners teammate earlier this month at the WBC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T08:53:53+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48277418/randy-arozarena-says-apologized-cal-raleigh-wbc-spat",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_85b09cbad7c8",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
