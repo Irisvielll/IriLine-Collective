@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-23T06:00:44+00:00",
+  "generatedAt": "2026-03-23T07:39:17+00:00",
   "items": [
+    {
+      "id": "latest_ff09e17b1ed2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+      "dek": "An Air Canada Express plane suffered significant damage after the collision.",
+      "body": "An Air Canada Express plane suffered significant damage after the collision.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T07:27:20+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b020812c7cd8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The cutthroat battle for the US weight-loss drug market",
+      "dek": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+      "body": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T06:03:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8ac530c395f7",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-23T04:06:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0d4a983291e3",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "ASU free speech event canceled allegedly after Erika Kirk objects",
-      "dek": "submitted by /u/JackFunk [link] [comments]",
-      "body": "submitted by /u/JackFunk [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T03:55:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s16lab/asu_free_speech_event_canceled_allegedly_after/",
-      "image": "https://external-preview.redd.it/gGx5xfueYMFlcaRXQinqyeBW8_q0rRX3tIRoa6poSC0.png?width=640&crop=smart&auto=webp&s=a4df43e9b2ca118ea3ba8b82977ec77b69f97b4f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_10a0bd90f643",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Asia stocks slide as US and Iran threaten to intensify war",
-      "dek": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "body": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T03:00:32+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/4bbe7e40-265f-11f1-a935-2f8ae5ecc5e6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
