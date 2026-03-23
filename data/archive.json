@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_89aa20d54cf8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Maryland man with no arms or legs suspected of shooting passenger in head while driving his Tesla. UPDATE: Professional Quadruple Amputee Cornhole Player Arrested in Connection to Murder in Charles County",
+      "dek": "submitted by /u/omgfakeusername [link] [comments]",
+      "body": "submitted by /u/omgfakeusername [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T21:58:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1v0p5/maryland_man_with_no_arms_or_legs_suspected_of/",
+      "image": "https://external-preview.redd.it/w6QYB3gEo9bW3dIigKC4AZjdsoGWs9dTAkLObbgMkN8.png?width=320&crop=smart&auto=webp&s=e925e8410964b72baaf799087d60bc10ce36a593",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_061cbdaa4102",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-20T08:28:16+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48252049/queens-university-royals-buddy-dog-march-madness-ncaa-mens-basketball-tournament",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ca1d382de63e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_0fa4f085dd9b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Why DC coach expects Defenders to get every team's best shot",
-      "dek": "Defenders eager to defend title; new UFL owner opts for \"more intimate\" feel with smaller stadiums.",
-      "body": "Defenders eager to defend title; new UFL owner opts for \"more intimate\" feel with smaller stadiums.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-20T08:21:27+00:00",
-      "sourceUrl": "https://www.espn.com/united-football-league/story/_/id/48234600/ufl-2026-season-preview-shannon-harris-dc-defenders",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0fa4f085dd9b",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
