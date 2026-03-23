@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_67acce918f17",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "HK police can now demand phone passwords under new national security rules",
+      "dek": "Those who do not comply can be jailed for up to a year and fined up to HK$100,000 ($12,700; £9,600).",
+      "body": "Those who do not comply can be jailed for up to a year and fined up to HK$100,000 ($12,700; £9,600).",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T08:06:25+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2d/live/45166ad0-268c-11f1-82d0-fd391f4a7261.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ff09e17b1ed2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+      "dek": "An Air Canada Express plane suffered significant damage after the collision.",
+      "body": "An Air Canada Express plane suffered significant damage after the collision.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T07:27:20+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b020812c7cd8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The cutthroat battle for the US weight-loss drug market",
+      "dek": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+      "body": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T06:03:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_dfb70346a2f3",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-03-19T15:53:29+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48251453/tcu-backs-tough-talk-bounces-buckeyes-1st-round",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f4f9d654c599",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_39b5431adff7",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Follow live: No. 12 High Point pushing No. 5 Wisconsin in first round",
-      "dek": "null",
-      "body": "null",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T15:22:06+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/game?gameId=401856480",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_39b5431adff7",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_93347bec9a15",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kid Rock ‘exposes himself to ridicule’ following savage Oscars mockery",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T14:37:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ry25ps/kid_rock_exposes_himself_to_ridicule_following/",
-      "image": "https://external-preview.redd.it/CrwaF_-D6DyOwUXbFejMTluvntKgek1sI0WJkjbQe1I.jpeg?width=640&crop=smart&auto=webp&s=fb64dc8b4303aa896355912f5e6645378ba38f9e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_d41460d4496f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "LeBron, Doncic, Reaves questionable for Lakers",
-      "dek": "Lakers stars LeBron James, Luka Doncic and Austin Reaves are questionable for Thursday night's matchup against the Miami Heat.",
-      "body": "Lakers stars LeBron James, Luka Doncic and Austin Reaves are questionable for Thursday night's matchup against the Miami Heat.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-19T14:28:48+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48250543/lebron-doncic-reaves-questionable-lakers-thursday-vs-heat",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d41460d4496f",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

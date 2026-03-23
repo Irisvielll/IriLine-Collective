@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-23T09:45:35+00:00",
+  "generatedAt": "2026-03-23T10:53:04+00:00",
   "items": [
+    {
+      "id": "latest_fcead8ed77be",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kenyan police investigate alleged disappearance of ex-foreign minister",
+      "dek": "The reported disappearance of Raphael Tuju has led to claims he may have been abducted.",
+      "body": "The reported disappearance of Raphael Tuju has led to claims he may have been abducted.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T09:29:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d43/live/02e3b6a0-2690-11f1-82d0-fd391f4a7261.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2e389449e2e9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australia's ABC staff to go on strike for first time in 20 years",
+      "dek": "The 24-hour long strike is expected to disrupt live television and radio broadcasts.",
+      "body": "The 24-hour long strike is expected to disrupt live television and radio broadcasts.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T09:16:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c248597nqn8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae9/live/08caea40-2693-11f1-b5dd-c99b06386340.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dd0c075bfaac",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-23T08:26:33+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1b5fk/why_this_novel_now/",
       "image": "https://external-preview.redd.it/0Izj86zEp0a1by4ZaOWcPGe0QFztKFGG5QwHEKkLsyw.jpeg?width=640&crop=smart&auto=webp&s=1a570fdbdd0a062c8e04b9e2f62763767c86b104",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ff09e17b1ed2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
-      "dek": "An Air Canada Express plane suffered significant damage after the collision.",
-      "body": "An Air Canada Express plane suffered significant damage after the collision.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T07:27:20+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/0088fb90-2681-11f1-a32b-91a6d5286fbb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b020812c7cd8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The cutthroat battle for the US weight-loss drug market",
-      "dek": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
-      "body": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T06:03:48+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
