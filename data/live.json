@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-22T23:54:30+00:00",
+  "generatedAt": "2026-03-23T02:24:57+00:00",
   "items": [
+    {
+      "id": "latest_8da1ce649ec7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How a ban on religious symbols has triggered a Canadian constitutional debate",
+      "dek": "Quebec's law to regulate religious symbols goes to the Supreme Court in a constitutional test case.",
+      "body": "Quebec's law to regulate religious symbols goes to the Supreme Court in a constitutional test case.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T00:21:25+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/6a3723d0-22f0-11f1-86e6-55be72f96bf5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ca886ee2dd95",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Germany has a shortage of workers - so it's turning to India for help",
+      "dek": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
+      "body": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T00:03:25+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d7/live/472f0520-25dd-11f1-965f-2f5aaeeadad7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_9735c0e2c84f",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-22T23:27:59+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3729/live/c99fa820-2632-11f1-a403-5bd9c877f2f4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_72f17ae63b81",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why is Israel targeting Lebanon's bridges?",
-      "dek": "Israeli forces have been instructed to destroy the crossings over the Litani river that were being used by Hezbollah to send reinforcements.",
-      "body": "Israeli forces have been instructed to destroy the crossings over the Litani river that were being used by Hezbollah to send reinforcements.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T21:46:30+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/7cf761c0-2637-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e82b73ebf31a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Jason Statham to play guy who steals someone's bike in Jason Statham Stole My Bike",
-      "dek": "submitted by /u/Minifig81 [link] [comments]",
-      "body": "submitted by /u/Minifig81 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T21:38:30+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0y4mx/jason_statham_to_play_guy_who_steals_someones/",
-      "image": "https://external-preview.redd.it/Gmct7Vvn0Nyk_sPHem1fGYri_ARGg3XuQG15bZeJ0UQ.jpeg?width=640&crop=smart&auto=webp&s=9e7b17cb3696b52f8b2653e4d34f42e864fc0bb6",
       "imageCredit": "Image via original publisher"
     }
   ]
