@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-23T16:13:17+00:00",
+  "generatedAt": "2026-03-23T17:14:49+00:00",
   "items": [
+    {
+      "id": "meme_315410523ee5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Homicide suspect arrested in Lafayette after found dead in home",
+      "dek": "submitted by /u/Ant-Tea-Social [link] [comments]",
+      "body": "submitted by /u/Ant-Tea-Social [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T16:56:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1mhg9/homicide_suspect_arrested_in_lafayette_after/",
+      "image": "https://external-preview.redd.it/DD2a6hkGJcSdASOnFwiUpwCJ5U6aESjm4g9A2ci7i6E.jpeg?width=640&crop=smart&auto=webp&s=5803ee677d2760840888633bbb1e4e5c7688978d",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d0112424e0ce",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-23T15:29:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1k23s/amputee_cornhole_player_accused_of_murder/",
       "image": "https://external-preview.redd.it/ExYNRAzQq1KiPhuT_n06OcvEOSSs9vDeDyWW07TW3w8.jpeg?width=640&crop=smart&auto=webp&s=20cd4ca6cfe86db9dd81b686a6304208db858890",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_42eb56990b9f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "OnlyFans owner Leonid Radvinsky dies at 43",
-      "dek": "Leo Radvinsky became a billionaire after investing in the site, known for its pornographic content.",
-      "body": "Leo Radvinsky became a billionaire after investing in the site, known for its pornographic content.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T15:12:04+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c33le6yv7pno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f23/live/a7d7c1e0-26bf-11f1-8e76-0980f24c4126.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
