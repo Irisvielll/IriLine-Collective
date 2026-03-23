@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-23T20:42:43+00:00",
+  "generatedAt": "2026-03-23T21:21:16+00:00",
   "items": [
+    {
+      "id": "meme_706904ba6e3a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A professional cornhole player with no arms and legs has been accused of murder in Charles County.",
+      "dek": "I have many questions… submitted by /u/DetroitMM12 [link] [comments]",
+      "body": "I have many questions… submitted by /u/DetroitMM12 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T20:48:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1t3n0/a_professional_cornhole_player_with_no_arms_and/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_706904ba6e3a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_7087ba2f54fb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "UPDATE: Professional Quadruple Amputee Cornhole Player Arrested in Connection to Murder in Charles County",
+      "dek": "submitted by /u/kellconn [link] [comments]",
+      "body": "submitted by /u/kellconn [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-23T20:43:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1syqv/update_professional_quadruple_amputee_cornhole/",
+      "image": "https://external-preview.redd.it/w6QYB3gEo9bW3dIigKC4AZjdsoGWs9dTAkLObbgMkN8.png?width=320&crop=smart&auto=webp&s=e925e8410964b72baaf799087d60bc10ce36a593",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_0e73c7c1f1f3",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1svfu/the_corporate_bullshit_receptivity_scale/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_0e73c7c1f1f3",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_7f18a54aa6ee",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
-      "dek": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
-      "body": "Meloni vowed to press on after losing a vote on constitutional reform many turned into a referendum on her government.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T20:25:32+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed6/live/2df5bfd0-26f1-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_befeebf05265",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Amputee cornhole player accused of murder",
-      "dek": "submitted by /u/RoadWorkAhead9 [link] [comments]",
-      "body": "submitted by /u/RoadWorkAhead9 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T20:25:15+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1sgcm/amputee_cornhole_player_accused_of_murder/",
-      "image": "https://external-preview.redd.it/ExYNRAzQq1KiPhuT_n06OcvEOSSs9vDeDyWW07TW3w8.jpeg?width=640&crop=smart&auto=webp&s=20cd4ca6cfe86db9dd81b686a6304208db858890",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
