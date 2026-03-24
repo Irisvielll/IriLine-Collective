@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_1cea30560540",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A professional cornhole player and quadruple amputee is arrested for murder",
+      "dek": "submitted by /u/burkiniwax [link] [comments]",
+      "body": "submitted by /u/burkiniwax [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-24T21:55:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2rrox/a_professional_cornhole_player_and_quadruple/",
+      "image": "https://external-preview.redd.it/j6tZSok00o1kKDmVHSeM0m9-rRmLVXCgyVF68Ieg9x4.jpeg?width=640&crop=smart&auto=webp&s=b99562afe97c3be994e60f0be70d6b19746891f8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_812973ceb737",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1rzsrj6/2_men_accused_of_fathering_hundreds_of_kids/",
       "image": "https://external-preview.redd.it/CaasDyG8uALh5HoxUnLIxg1a0f1kY0yRMumLiZzDZY8.jpeg?width=320&crop=smart&auto=webp&s=cdee5bc665f8c292a09629faccb28600076e6086",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_786669099191",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Where is the real Liverpool? Maddening inconsistency continues",
-      "dek": "After a dominant midweek showing, Liverpool came crashing back to earth in the Premier League yet again.",
-      "body": "After a dominant midweek showing, Liverpool came crashing back to earth in the Premier League yet again.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-21T14:14:04+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48266823/where-real-liverpool-inconsistency-defines-their-season-premier-league",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_786669099191",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

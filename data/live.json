@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-24T23:04:19+00:00",
+  "generatedAt": "2026-03-24T23:46:38+00:00",
   "items": [
+    {
+      "id": "latest_837c49737686",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Journalists at Australia's national broadcaster to strike over pay and possible use of AI",
+      "dek": "Staff at the Australian Broadcasting Corporation will strike for the first time in 20 years.",
+      "body": "Staff at the Australian Broadcasting Corporation will strike for the first time in 20 years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-24T23:21:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa2/live/7858bf50-27d7-11f1-94c7-894c2c5c70c3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_339f26a2d91b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-24T22:07:40+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2s36l/quadruple_amputee_cornhole_player_fatally_shoots/",
       "image": "https://external-preview.redd.it/bIozUX6kr_7nwcgzbyqP0Ts6WGv8-t7apxHppI8bg5Y.png?width=640&crop=smart&auto=webp&s=6abd5ecf2c634514f4f632812282faa14cce0930",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1cea30560540",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "A professional cornhole player and quadruple amputee is arrested for murder",
-      "dek": "submitted by /u/burkiniwax [link] [comments]",
-      "body": "submitted by /u/burkiniwax [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T21:55:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2rrox/a_professional_cornhole_player_and_quadruple/",
-      "image": "https://external-preview.redd.it/j6tZSok00o1kKDmVHSeM0m9-rRmLVXCgyVF68Ieg9x4.jpeg?width=640&crop=smart&auto=webp&s=b99562afe97c3be994e60f0be70d6b19746891f8",
       "imageCredit": "Image via original publisher"
     }
   ]
