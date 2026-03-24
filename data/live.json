@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-24T07:43:20+00:00",
+  "generatedAt": "2026-03-24T08:34:22+00:00",
   "items": [
+    {
+      "id": "meme_c476aa4d3393",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Warning issued over possible fentanyl contamination of Barbie dolls sold at discount store",
+      "dek": "submitted by /u/StrwbryChcltMilkshke [link] [comments]",
+      "body": "submitted by /u/StrwbryChcltMilkshke [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-24T08:10:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s27s0b/warning_issued_over_possible_fentanyl/",
+      "image": "https://external-preview.redd.it/6QwgtknUTo5nDK73G4O_Qi3BQgCwSvWPw0xigJY_z8c.jpeg?width=640&crop=smart&auto=webp&s=48607e41cd2adc41e796e44c3a97562f452c8be8",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c785d611f8bd",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-24T05:58:19+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/705676c0-26ca-11f1-a4d4-99b68c75b55c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_40d7d477a7df",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
-      "dek": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
-      "body": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T05:56:42+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0703/live/0cf7f410-2741-11f1-9af6-5dbbd29883a0.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

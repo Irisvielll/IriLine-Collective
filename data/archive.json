@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_40d7d477a7df",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "China dials back on fuel price hikes to 'reduce burden' on drivers",
+      "dek": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
+      "body": "It comes as countries across the region are taking various measures to weather the soaring cost of fuel.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-24T05:56:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0703/live/0cf7f410-2741-11f1-9af6-5dbbd29883a0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_93119ebb8615",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48260303/mens-march-madness-scores-recaps-takeaways-ncaa-tournament-friday-2026",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6d4de9200e4e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_2e7912ed84da",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Officer reportedly leaks location of French aircraft carrier with Strava run",
-      "dek": "submitted by /u/plain_handle [link] [comments]",
-      "body": "submitted by /u/plain_handle [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-20T14:53:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ryyeq6/officer_reportedly_leaks_location_of_french/",
-      "image": "https://external-preview.redd.it/YpEoqGAl81Jf8b4I9Umbl72SG8xFwyg-CdEzqqmWx14.jpeg?width=640&crop=smart&auto=webp&s=36a9af432bc99cb7937548a323b4d6294d4c076d",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
