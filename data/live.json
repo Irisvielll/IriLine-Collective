@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-25T09:08:45+00:00",
+  "generatedAt": "2026-03-25T10:09:19+00:00",
   "items": [
+    {
+      "id": "latest_0d28167db50a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
+      "dek": "The President says the country will procure one million barrels of oil to add to the current stock.",
+      "body": "The President says the country will procure one million barrels of oil to add to the current stock.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T08:59:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f44/live/15117550-2826-11f1-a277-371340bb5d16.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_19801bc1233a",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-25T08:17:51+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e2/live/0c749460-281f-11f1-a79a-77e93010d956.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_57ca3abd17a9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man arrested after crossbow attack on stranger in Switzerland",
-      "dek": "submitted by /u/Sudden-Ad-4281 [link] [comments]",
-      "body": "submitted by /u/Sudden-Ad-4281 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T07:30:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s343fp/man_arrested_after_crossbow_attack_on_stranger_in/",
-      "image": "https://external-preview.redd.it/zNOyR2PLo4CV7ma3ziWwx_g7f44ygmWDWJKob7tOtZM.jpeg?width=640&crop=smart&auto=webp&s=e4cece41d3c768af8afb2acd53b8427d94b7d03e",
       "imageCredit": "Image via original publisher"
     }
   ]
