@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-25T13:20:55+00:00",
+  "generatedAt": "2026-03-25T14:40:49+00:00",
   "items": [
+    {
+      "id": "meme_1fbac89adba2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Pope Leo: James Webb telescope shows us what the Bible couldn’t",
+      "dek": "submitted by /u/Automatic_Subject463 [link] [comments]",
+      "body": "submitted by /u/Automatic_Subject463 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T14:35:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3ciy7/pope_leo_james_webb_telescope_shows_us_what_the/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_1fbac89adba2",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_452a2e94cbcf",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Catholic priests say charging them with sexual abuse violates their religious freedom",
+      "dek": "submitted by /u/LiquidSnake13 [link] [comments]",
+      "body": "submitted by /u/LiquidSnake13 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T14:29:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3cd7a/catholic_priests_say_charging_them_with_sexual/",
+      "image": "https://external-preview.redd.it/gjq4p167tPeLnum2dFfMjRSW4k3Wc2hxRZmaMevVZqg.jpeg?width=640&crop=smart&auto=webp&s=e465a1a78bfe346770dbeccd3a2928e9c8d4a1b5",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_fbe407557805",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-25T12:42:14+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7d/live/19831df0-283f-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b5404cbf6ba1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
-      "dek": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
-      "body": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T12:27:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1f/live/9a766e30-2830-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0cbc06d2764d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Talk show host Stephen Colbert to write new Lord of the Rings film",
-      "dek": "Colbert, who is a Tolkien superfan, will adapt an early section of the first Lord of the Rings novel.",
-      "body": "Colbert, who is a Tolkien superfan, will adapt an early section of the first Lord of the Rings novel.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T12:21:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c33ldp22833o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06df/live/70608690-2843-11f1-ac61-c943803d2ed3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
