@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_e4682598f9cb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Activist who pushed 2020 election fraud claims convicted of election fraud",
+      "dek": "He was exercising his free speech by claiming there is election fraud, then he went and committed election fraud to prove that election fraud was real. submitte",
+      "body": "He was exercising his free speech by claiming there is election fraud, then he went and committed election fraud to prove that election fraud was real. submitted by /u/--GrinAndBearIt-- [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T21:53:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3ome6/activist_who_pushed_2020_election_fraud_claims/",
+      "image": "https://external-preview.redd.it/CFjhMDPdEwxmhw5laZ2CjyCV-p6uC2ZD2tuYhP6A_Z0.jpeg?width=640&crop=smart&auto=webp&s=2918dd7dec5fbb09a50ca294bec9facd3ef958e2",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_1664abf77250",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -44,6 +59,36 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3kwht/composer_of_iconic_lion_king_chant_sues_comedian/",
       "image": "https://external-preview.redd.it/5xz3PKck4KigJA4CENw8C-zOuO-LUMa_cU08VS-D0Zw.jpeg?width=640&crop=smart&auto=webp&s=c5d29bef9c3bb6f82e3a8e992000c145e19c3e14",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_5b0370328694",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Macdonald: JSN deal rewards 'foundational' player",
+      "dek": "Seahawks GM John Schneider and coach Mike Macdonald said they felt comfortable giving Jaxon Smith-Njigba his record-setting extension because of his \"unique com",
+      "body": "Seahawks GM John Schneider and coach Mike Macdonald said they felt comfortable giving Jaxon Smith-Njigba his record-setting extension because of his \"unique combination\" of excellence on and off the field.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T19:21:50+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48307473/seahawks-tout-smith-njigba-record-deal-foundational-player",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5b0370328694",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_a34b5836b542",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Man United's big night might have disappointed, but it didn't dampen their spirit",
+      "dek": "It was a huge night for Manchester United in the UEFA Women's Champions League, but they will need to bounce back next week to make it even more historic.",
+      "body": "It was a huge night for Manchester United in the UEFA Women's Champions League, but they will need to bounce back next week to make it even more historic.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T19:18:24+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48307313/manchester-united-big-night-was-disappointing-not-their-spirit",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a34b5836b542",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_a828b653748a",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-03-22T20:24:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/8ccc1860-2624-11f1-aad6-2d605a562384.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1f0e8a6d5185",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
-      "dek": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
-      "body": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T20:23:07+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d43/live/a0b7c9f0-2629-11f1-aad6-2d605a562384.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_35eab28306ca",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Rare air: Tyler Reddick in elite club with Darlington win",
-      "dek": "The \"Track Too Tough To Tame\" tested Tyler Reddick in every way possible Sunday, and this year's top star in NASCAR naturally passed with flying colors for his ",
-      "body": "The \"Track Too Tough To Tame\" tested Tyler Reddick in every way possible Sunday, and this year's top star in NASCAR naturally passed with flying colors for his fourth victory of the season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T20:16:02+00:00",
-      "sourceUrl": "https://www.espn.com/racing/story/_/id/48282873/tyler-reddick-wins-darlington-4th-nascar-win-season",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_35eab28306ca",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_6635660477b5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "ICE agents will be deployed to U.S. airports on Monday: Homan",
-      "dek": "submitted by /u/Familiar-Sir-1415 [link] [comments]",
-      "body": "submitted by /u/Familiar-Sir-1415 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T20:00:48+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0vn02/ice_agents_will_be_deployed_to_us_airports_on/",
-      "image": "https://external-preview.redd.it/5x18ho2cBOnSkplhaGDLnn7Tv4cM98LqJC5ZyahIjL8.jpeg?width=640&crop=smart&auto=webp&s=3b97524a0ec40ec6267e2cddc86db36a1b6ec7fe",
       "imageCredit": "Image via original publisher"
     }
   ]
