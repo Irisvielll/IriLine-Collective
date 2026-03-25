@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b9110f8609f8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Democrats flip Florida seat that includes Trump's Mar-a-Lago home",
+      "dek": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+      "body": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T03:36:08+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/f1067cf0-27ee-11f1-9321-33bc3b2b38dc.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_6a0c8b50588c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-21T20:22:10+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a90d/live/1442a680-255b-11f1-b176-41b218f16189.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dd7f06c0a14c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Did Australia's under-16s social media ban work?",
-      "dek": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
-      "body": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-21T19:06:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2031/live/ed588310-1d0c-11f1-801d-ed3cff6bf876.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

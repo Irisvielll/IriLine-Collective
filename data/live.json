@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-25T04:32:11+00:00",
+  "generatedAt": "2026-03-25T05:47:34+00:00",
   "items": [
+    {
+      "id": "meme_d480655d9ab3",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Second delivery robot crashes into bus shelter, this time in Old Town",
+      "dek": "submitted by /u/SlavojVivec [link] [comments]",
+      "body": "submitted by /u/SlavojVivec [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T05:18:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s31ux3/second_delivery_robot_crashes_into_bus_shelter/",
+      "image": "https://external-preview.redd.it/qqMI-ASxwsAAjAt8DVUaMWc_qlr5X43LZHHdVGJDm6I.jpeg?width=640&crop=smart&auto=webp&s=2a8191d9e3b63ee01afb70b58d5721b6fee4ef97",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5015689aecbd",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-25T03:40:53+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b2/live/8887c5f0-27fb-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b9110f8609f8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Democrats flip Florida seat that includes Trump's Mar-a-Lago home",
-      "dek": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
-      "body": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T03:36:08+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7003/live/f1067cf0-27ee-11f1-9321-33bc3b2b38dc.png",
       "imageCredit": "Image via original publisher"
     }
   ]
