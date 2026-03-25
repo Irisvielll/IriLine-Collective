@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_901fff7e0949",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Major player' in alleged mistaken identity kidnap of Sydney grandfather charged",
+      "dek": "The 23-year-old is the third man to be charged in connection with the death of Chris Baghsarian.",
+      "body": "The 23-year-old is the third man to be charged in connection with the death of Chris Baghsarian.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T05:47:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cqxl825z839o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac21/live/c5c7fe40-1120-11f1-8b3d-a740410c025d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d480655d9ab3",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-21T23:01:07+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a746/live/54a9dcf0-256c-11f1-a10c-f7c2a7618727.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_425c18a09b4c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Police chase ends with state trooper in handcuffs after stop sticks deployed",
-      "dek": "submitted by /u/BillWilberforce [link] [comments]",
-      "body": "submitted by /u/BillWilberforce [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-21T22:50:51+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s057tz/police_chase_ends_with_state_trooper_in_handcuffs/",
-      "image": "https://external-preview.redd.it/kUXaVJTcIWEZBUliJudBJK4jf5XH9kgqu9BIFZHT-R8.jpeg?width=640&crop=smart&auto=webp&s=d9c8a9ace6d43890d16b65f4f418187a80cb7c56",
       "imageCredit": "Image via original publisher"
     }
   ]
