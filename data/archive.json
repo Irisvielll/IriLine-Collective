@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_b71478c74225",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Draymond: Hated and loved Wemby's MVP case",
+      "dek": "Warriors forward Draymond Green said he both \"hated\" and \"absolutely loved\" the MVP self-promotion from Spurs center Victor Wembanyama.",
+      "body": "Warriors forward Draymond Green said he both \"hated\" and \"absolutely loved\" the MVP self-promotion from Spurs center Victor Wembanyama.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-26T02:55:26+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48309988/green-wembanyama-state-importance-defense",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b71478c74225",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_431ed9051db0",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48282972/tyrese-haliburton-kentucky-iowa-state-troll",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9a7b8dea17e7",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_8da1ce649ec7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How a ban on religious symbols has triggered a Canadian constitutional debate",
-      "dek": "Quebec's law to regulate religious symbols goes to the Supreme Court in a constitutional test case.",
-      "body": "Quebec's law to regulate religious symbols goes to the Supreme Court in a constitutional test case.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T00:21:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaf/live/6a3723d0-22f0-11f1-86e6-55be72f96bf5.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
