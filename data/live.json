@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-26T10:06:59+00:00",
+  "generatedAt": "2026-03-26T11:12:01+00:00",
   "items": [
+    {
+      "id": "latest_9a31810c5d5d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zimbabwe says 15 nationals killed after being lured to fight for Russia",
+      "dek": "Zimbabwe says it is engaging the Russian government to repatriate bodies and bring home those still alive.",
+      "body": "Zimbabwe says it is engaging the Russian government to repatriate bodies and bring home those still alive.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-26T10:55:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyxevz45x9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8900/live/0288f700-2902-11f1-be8b-2136d1c912ba.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_58b56a52f1f5",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-26T09:00:31+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c4glxn24gd6o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e059/live/e7e726b0-28c5-11f1-9516-876fae3988b5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ecef752b16b7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How will the UK respond to US court verdict on social media?",
-      "dek": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, writes the BBC's polit",
-      "body": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, writes the BBC's political editor.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T09:00:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52cf/live/a0296270-28e3-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
