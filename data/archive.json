@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_8480746275d5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Sean Penn accepts Oscar made from Ukrainian rail cars destroyed by Russia",
+      "dek": "submitted by /u/splitopenandmelt11 [link] [comments]",
+      "body": "submitted by /u/splitopenandmelt11 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T21:57:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3opmw/sean_penn_accepts_oscar_made_from_ukrainian_rail/",
+      "image": "https://external-preview.redd.it/l_FBsw73PeVzrcB2nqmd9uEXSUVkNJVdwnL0TFcXtgc.jpeg?width=640&crop=smart&auto=webp&s=6e7b3a4c59c6cb4fd5658fedea7fec4c4f5355e2",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e4682598f9cb",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -44,6 +59,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3nciu/pediatrician_who_traded_sex_for_prescriptions/",
       "image": "https://external-preview.redd.it/QRQW3oQh4Kqld7RAoc3Tnf5s3FMoXubFcLDiiYjJxug.jpeg?width=640&crop=smart&auto=webp&s=6f2699bcddddccb17242ed7fd70466784d7bb377",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_80af0b7fdef6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Arizona's Lloyd brushes off UNC job speculation",
+      "dek": "Amid speculation he could be a candidate for the vacancy at North Carolina, Arizona coach Tommy Lloyd insisted all his attention is with his program ahead of Th",
+      "body": "Amid speculation he could be a candidate for the vacancy at North Carolina, Arizona coach Tommy Lloyd insisted all his attention is with his program ahead of Thursday's Sweet 16 game against Arkansas.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T19:40:32+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48307528/arizona-lloyd-brushes-unc-speculation-ahead-sweet-16",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_80af0b7fdef6",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_75907c0c478b",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-22T21:38:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0y4mx/jason_statham_to_play_guy_who_steals_someones/",
       "image": "https://external-preview.redd.it/Gmct7Vvn0Nyk_sPHem1fGYri_ARGg3XuQG15bZeJ0UQ.jpeg?width=640&crop=smart&auto=webp&s=9e7b17cb3696b52f8b2653e4d34f42e864fc0bb6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_93711c2e326d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "What if Jesus was born in the Levant instead of Salt Lake City, Utah?",
-      "dek": "submitted by /u/Phallic_Carrot5715 [link] [comments]",
-      "body": "submitted by /u/Phallic_Carrot5715 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T20:47:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s0wtqi/what_if_jesus_was_born_in_the_levant_instead_of/",
-      "image": "https://external-preview.redd.it/u5r4NekakvTSOx6u-z-Gsgu8DFP2B-kgBlJRAc8FNwI.jpeg?width=640&crop=smart&auto=webp&s=5974cbb68bc524bb84d9fc39152da8ea4d5fae2d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_85c5c5ee8b93",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hawaii storms have caused $1bn in damage, governor says",
-      "dek": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
-      "body": "The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T20:24:27+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/8ccc1860-2624-11f1-aad6-2d605a562384.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
