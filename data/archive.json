@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_cc2bfcb0095c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Oakland man has seizure, crashes car; then he was shot and robbed",
+      "dek": "submitted by /u/happy-cig [link] [comments]",
+      "body": "submitted by /u/happy-cig [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-26T19:26:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s4h8g2/oakland_man_has_seizure_crashes_car_then_he_was/",
+      "image": "https://external-preview.redd.it/Rc-TbKiT8uEEJzUXk6BStVfmgcIf_qdstz-v1xgAn8M.jpeg?width=640&crop=smart&auto=webp&s=f69fdbdada5fbb57d250db79c34d9b934a7d2313",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9a344c8234ff",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -89,6 +104,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e6/live/a68f56a0-2920-11f1-babf-516204a6f1ce.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_8e4662c8781b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Tonali, Keane goals send Italy to WC playoff final",
+      "dek": "Türkiye beat Romania 1-0 and will face either Slovakia or Kosovo for a spot at its first World Cup since a third-place run in 2002.",
+      "body": "Türkiye beat Romania 1-0 and will face either Slovakia or Kosovo for a spot at its first World Cup since a third-place run in 2002.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-26T17:53:25+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48313675/2026-world-cup-playoffs-uefa-turkiye-italy-wales-ukraine-sweden-ireland",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8e4662c8781b",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_3665980b9480",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-23T19:04:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e8/live/3b34c580-26e0-11f1-908d-0f187797fc2f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5d89d50d7afb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "British Airways Places Corpse In Galley For 13 Hours, Passengers Complain Of “Foul Smell”",
-      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T18:56:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1pxpd/british_airways_places_corpse_in_galley_for_13/",
-      "image": "https://external-preview.redd.it/EcgWMCUII1Z4b4Sj9vMNUdJxpHvcVE21RGPqQnvzQCs.jpeg?width=640&crop=smart&auto=webp&s=5965420175eea3974e718c236a3e257104a5a8e7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_477eff723ecd",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Mark Zuckerberg builds AI CEO to help him run Meta",
-      "dek": "submitted by /u/NeoBahamutX [link] [comments]",
-      "body": "submitted by /u/NeoBahamutX [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-23T18:37:55+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s1pfdp/mark_zuckerberg_builds_ai_ceo_to_help_him_run_meta/",
-      "image": "https://external-preview.redd.it/wtm4wDU7EFzgTsV6Q3_ve6nBnETvKn1kF2CDf-ReAoE.jpeg?width=640&crop=smart&auto=webp&s=6a7f50d0b98703fcfead2835ee9744b5a2b148b5",
       "imageCredit": "Image via original publisher"
     }
   ]
