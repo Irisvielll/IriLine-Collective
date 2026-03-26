@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_e6dc8c2570b5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "B.C. teacher suspended after dry ice explosion in classroom: regulator",
+      "dek": "submitted by /u/ubcstaffer123 [link] [comments]",
+      "body": "submitted by /u/ubcstaffer123 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-26T00:01:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3rv15/bc_teacher_suspended_after_dry_ice_explosion_in/",
+      "image": "https://external-preview.redd.it/AD7mP--dNdyHjZajQ019hDoYcxx911o039zyAk2HLjU.jpeg?width=320&crop=smart&auto=webp&s=44ea1e10fe13cae86d592b99686b8abaeb491abd",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_0fe2ca76161f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "U.S. quadruple amputee—and pro cornhole player—faces murder charges",
+      "dek": "submitted by /u/The_Virus360 [link] [comments]",
+      "body": "submitted by /u/The_Virus360 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-25T23:36:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3r9tf/us_quadruple_amputeeand_pro_cornhole_playerfaces/",
+      "image": "https://external-preview.redd.it/VQdpXHeW-VbPgEsU2k4e8LYIShrSjQsZjmfy23lGQ_w.png?width=640&crop=smart&auto=webp&s=80584026441e41521f96c6b8c378f6c353eb7bc9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_b536063cd3ac",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3729/live/c99fa820-2632-11f1-a403-5bd9c877f2f4.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_353a59765774",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Hyo Joo Kim edges Nelly Korda for wire-to-wire Founders win",
-      "dek": "Hyo Joo Kim held off Nelly Korda on Sunday at Sharon Heights to complete a wire-to-wire victory in the Fortinet Founders Cup.",
-      "body": "Hyo Joo Kim held off Nelly Korda on Sunday at Sharon Heights to complete a wire-to-wire victory in the Fortinet Founders Cup.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T22:27:37+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48284092/hyo-joo-kim-edges-nelly-korda-wins-lpga-tour-founders-cup",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_353a59765774",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_78bf368f5a76",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Iowa takes down defending champs UF in thriller",
-      "dek": "Alvaro Folgueiras nailed a 3-pointer with 4.5 seconds remaining, and Iowa eliminated defending national champion Florida in the second round of the men's NCAA t",
-      "body": "Alvaro Folgueiras nailed a 3-pointer with 4.5 seconds remaining, and Iowa eliminated defending national champion Florida in the second round of the men's NCAA tournament.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-22T21:56:28+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48283943/iowa-takes-no-1-florida-ncaa-tournament-thriller",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_78bf368f5a76",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
