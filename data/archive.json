@@ -61,6 +61,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_680bc7585590",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "ND's Hidalgo sets steals marks in Sweet 16 game",
+      "dek": "Notre Dame's Hannah Hidalgo set a pair of steals records during Friday's game against Vanderbilt, including the NCAA Division I mark for steals in a single seas",
+      "body": "Notre Dame's Hannah Hidalgo set a pair of steals records during Friday's game against Vanderbilt, including the NCAA Division I mark for steals in a single season.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T16:15:30+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48323288/notre-dame-hidalgo-breaks-two-steals-records-sweet-16-game",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_680bc7585590",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_83eecdb752f6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Baz, Orioles finalizing 5-year, $68M deal",
+      "dek": "Right-hander Shane Baz and the Orioles are finalizing a five-year, $68 million contract extension, sources told ESPN.",
+      "body": "Right-hander Shane Baz and the Orioles are finalizing a five-year, $68 million contract extension, sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T16:15:30+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48323231/pitcher-shane-baz-orioles-agree-5-year-68m-deal",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83eecdb752f6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_dccf62d91f81",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2gwrn/quadruple_amputee_professional_cornhole_player/",
       "image": "https://external-preview.redd.it/Cln1U1AaLLFM-1LcXm4ec7Tkep4CoSiYInOyXHzz5u0.png?width=640&crop=smart&auto=webp&s=47cef56fa4b640f2ff5298e04ec1ca79b11150a6",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c4b3e23a418f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NBA players' union calls for 65-game rule change",
-      "dek": "The NBPA is calling on the league to, at minimum, amend the 65-game rule for players to be eligible for end-of-season awards.",
-      "body": "The NBPA is calling on the league to, at minimum, amend the 65-game rule for players to be eligible for end-of-season awards.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T15:17:08+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48297741/nbpa-calls-65-game-rule-change-citing-cunningham-case",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c4b3e23a418f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_33395ed2ab89",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "76ers' George says mental health led to PED use",
-      "dek": "The Sixers' Paul George, who was suspended 25 games for a failed drug test, is set to return Wednesday when Philadelphia faces the Boston Celtics.",
-      "body": "The Sixers' Paul George, who was suspended 25 games for a failed drug test, is set to return Wednesday when Philadelphia faces the Boston Celtics.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T15:17:08+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48297535/76ers-paul-george-set-return-25-game-drug-suspension",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_33395ed2ab89",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
