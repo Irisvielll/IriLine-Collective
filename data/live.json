@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-27T18:36:01+00:00",
+  "generatedAt": "2026-03-27T19:29:38+00:00",
   "items": [
+    {
+      "id": "meme_24d17600e50c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The Feds Plan To Start Diluting Gasoline This May: Explained",
+      "dek": "submitted by /u/DonkeyFuel [link] [comments]",
+      "body": "submitted by /u/DonkeyFuel [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T19:08:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5dj2r/the_feds_plan_to_start_diluting_gasoline_this_may/",
+      "image": "https://external-preview.redd.it/nLb-ju8BbpcXmRPrVGL_lYHbwwTXlSj8xO-msLzRRDY.jpeg?width=640&crop=smart&auto=webp&s=352cd77530983464cea3d2d7bfc0ccf5eff487b1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_433fcf7daad7",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-27T16:48:19+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s59lwd/secret_service_agent_assigned_to_jill_biden/",
       "image": "https://external-preview.redd.it/9gcdoGTBcxwc4F9bEGXFzy7df2EUozY6_d6en0VMJYQ.jpeg?width=640&crop=smart&auto=webp&s=f1f6c2c5206fec9276b716c1f91ce30019e3dc52",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_392a752506d2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Three dead after helicopter crash in Hawaii",
-      "dek": "The helicopter, which was carrying one pilot and four passengers,crash-landed about 100 yards off a beach, officials say.",
-      "body": "The helicopter, which was carrying one pilot and four passengers,crash-landed about 100 yards off a beach, officials say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T16:38:42+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czxrkq5wdxxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/60b857e0-29fb-11f1-99ef-b5dfea7d5974.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
