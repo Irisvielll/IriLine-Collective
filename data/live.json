@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-27T16:36:20+00:00",
+  "generatedAt": "2026-03-27T17:35:31+00:00",
   "items": [
+    {
+      "id": "meme_2cc2eac9be42",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Secret Service agent assigned to Jill Biden accidentally shoots himself in leg at airport",
+      "dek": "https://apnews.com/article/jill-biden-secret-service-agent-injured-d5fa0cc9ec8959a0936c789f28f4199e submitted by /u/igetproteinfartsHELP [link] [comments]",
+      "body": "https://apnews.com/article/jill-biden-secret-service-agent-injured-d5fa0cc9ec8959a0936c789f28f4199e submitted by /u/igetproteinfartsHELP [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T16:48:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s59lwd/secret_service_agent_assigned_to_jill_biden/",
+      "image": "https://external-preview.redd.it/9gcdoGTBcxwc4F9bEGXFzy7df2EUozY6_d6en0VMJYQ.jpeg?width=640&crop=smart&auto=webp&s=f1f6c2c5206fec9276b716c1f91ce30019e3dc52",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_392a752506d2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Three dead after helicopter crash in Hawaii",
+      "dek": "The helicopter, which was carrying one pilot and four passengers,crash-landed about 100 yards off a beach, officials say.",
+      "body": "The helicopter, which was carrying one pilot and four passengers,crash-landed about 100 yards off a beach, officials say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T16:38:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czxrkq5wdxxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/60b857e0-29fb-11f1-99ef-b5dfea7d5974.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dccf62d91f81",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-27T16:02:58+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s58b88/fbi_director_kash_patels_personal_email_breached/",
       "image": "https://external-preview.redd.it/a-JM0ZQSLXOmuHbVnqCbQqjwMxFUgvhhIymT3vNZXNE.jpeg?width=640&crop=smart&auto=webp&s=d64edfd714de57388b86902466771dbaf8b3c81d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4d1f965f3fa5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Austria plans social media ban for under-14s",
-      "dek": "The move follows similar steps in other European countries, including France and Spain.",
-      "body": "The move follows similar steps in other European countries, including France and Spain.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T14:25:02+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac00/live/32ed6610-29e3-11f1-9def-51999882d8d7.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1fd0c140da61",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why is it so hard to pass through the Strait of Hormuz?",
-      "dek": "Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.",
-      "body": "Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T14:10:30+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e26/live/981c2660-29e4-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
