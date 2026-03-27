@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-27T17:35:31+00:00",
+  "generatedAt": "2026-03-27T18:36:01+00:00",
   "items": [
+    {
+      "id": "latest_433fcf7daad7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran-backed Handala hackers breach FBI director Kash Patel's emails",
+      "dek": "The Handala hacking group says the cyberattack is in retaliation for the FBI's recent seizure of the group's websites.",
+      "body": "The Handala hacking group says the cyberattack is in retaliation for the FBI's recent seizure of the group's websites.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T18:06:40+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2015bff0-2a07-11f1-af48-7dd725bb0b8b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2cc2eac9be42",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-27T16:38:42+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/czxrkq5wdxxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/60b857e0-29fb-11f1-99ef-b5dfea7d5974.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dccf62d91f81",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "FBI Director Kash Patel's personal email breached by hackers linked to Iran, sources say",
-      "dek": "submitted by /u/RecreationalTylenol [link] [comments]",
-      "body": "submitted by /u/RecreationalTylenol [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T16:02:58+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s58b88/fbi_director_kash_patels_personal_email_breached/",
-      "image": "https://external-preview.redd.it/a-JM0ZQSLXOmuHbVnqCbQqjwMxFUgvhhIymT3vNZXNE.jpeg?width=640&crop=smart&auto=webp&s=d64edfd714de57388b86902466771dbaf8b3c81d",
       "imageCredit": "Image via original publisher"
     }
   ]
