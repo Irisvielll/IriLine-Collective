@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_fd8b2a124878",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "CPAC crowd cheers for impeachment hearings: \"Wrong answer\"",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T19:33:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5e6ky/cpac_crowd_cheers_for_impeachment_hearings_wrong/",
+      "image": "https://external-preview.redd.it/ouemhgvsFk8DVDbruhK4I7Fnxuwr6vdG7GxiAep8Lns.jpeg?width=640&crop=smart&auto=webp&s=7d9660caf20ec2bfe4e852271754f99aad727f51",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_24d17600e50c",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,6 +44,51 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4099/live/2015bff0-2a07-11f1-af48-7dd725bb0b8b.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_273f9e0a4357",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Tiger arrested on suspicion of DUI after crash",
+      "dek": "Tiger Woods was arrested on suspicion of DUI following a car crash Friday in which he struck another vehicle and rolled his Land Rover, authorities said.",
+      "body": "Tiger Woods was arrested on suspicion of DUI following a car crash Friday in which he struck another vehicle and rolled his Land Rover, authorities said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T17:31:16+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48323862/tiger-woods-arrested-crash-scene-suspicion-dui-sheriff-says",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_273f9e0a4357",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_223148732e39",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Hidalgo nears quadruple-double as Irish advance",
+      "dek": "Hannah Hidalgo posts a triple-double and sets the record for the most steals in Division I history as Notre Dame knocks off Vanderbilt to reach the Elite Eight.",
+      "body": "Hannah Hidalgo posts a triple-double and sets the record for the most steals in Division I history as Notre Dame knocks off Vanderbilt to reach the Elite Eight.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T17:19:14+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48323791/hannah-hidalgo-triple-double-lifts-notre-dame-vandy",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_223148732e39",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_e12ac231ab2a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Raphinha ruled out 5 weeks in blow to Barcelona",
+      "dek": "Barcelona forward Raphinha faces five weeks on the sideline after suffering a hamstring injury while on international duty, the club have confirmed.",
+      "body": "Barcelona forward Raphinha faces five weeks on the sideline after suffering a hamstring injury while on international duty, the club have confirmed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T17:19:13+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48323145/raphinha-injury-barcelona-brazil-hamstring",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e12ac231ab2a",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_2cc2eac9be42",
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48298515/frank-thomas-files-suit-white-sox-nike-fanatics",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9c313ff1d458",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_01175edae08a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Quadruple amputee cornhole player accused of fatally shooting man while driving",
-      "dek": "submitted by /u/GloppyPlacentaBomb [link] [comments]",
-      "body": "submitted by /u/GloppyPlacentaBomb [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T16:26:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2im9b/quadruple_amputee_cornhole_player_accused_of/",
-      "image": "https://external-preview.redd.it/VShNJkMrSzqnV8NbyOf8ukFotR3mkpzDeKFh2obiSis.jpeg?width=640&crop=smart&auto=webp&s=90d9293baec67820932665824a2ed48b659b1693",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_611c7b5fa70b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "WNBA season may run to Nov. 21 under new CBA",
-      "dek": "Under the new WNBA collective bargaining agreement, the league is changing its latest possible end date to Nov. 21, which is nearly a month later than the previ",
-      "body": "Under the new WNBA collective bargaining agreement, the league is changing its latest possible end date to Nov. 21, which is nearly a month later than the previous deal, according to a document produced by the union and acquired by ESPN",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T16:12:41+00:00",
-      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48297943/wnba-season-end-late-nov-21-new-cba",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_611c7b5fa70b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_331bdd4290d0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran war shows norms of international conflicts have been upended",
-      "dek": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
-      "body": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T15:55:08+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8736/live/ddf8c990-278c-11f1-8c03-f7b8fcd8cabf.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_cb5f172ba0ff",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Quadruple amputee, professional cornhole player faces murder charges",
-      "dek": "submitted by /u/execon [link] [comments]",
-      "body": "submitted by /u/execon [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-24T15:26:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2gwrn/quadruple_amputee_professional_cornhole_player/",
-      "image": "https://external-preview.redd.it/Cln1U1AaLLFM-1LcXm4ec7Tkep4CoSiYInOyXHzz5u0.png?width=640&crop=smart&auto=webp&s=47cef56fa4b640f2ff5298e04ec1ca79b11150a6",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

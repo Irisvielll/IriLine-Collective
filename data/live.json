@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-27T20:55:49+00:00",
+  "generatedAt": "2026-03-27T21:37:39+00:00",
   "items": [
+    {
+      "id": "latest_e8579edb9395",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Tiger Woods charged with driving under influence after crash",
+      "dek": "Golfer Tiger Woods is charged with driving under the influence after a car crash in Florida, police say.",
+      "body": "Golfer Tiger Woods is charged with driving under the influence after a car crash in Florida, police say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T21:24:44+00:00",
+      "sourceUrl": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3313b5ca3d13",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-27T19:34:24+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5e7n3/mark_carney_describes_parts_of_nova_scotias/",
       "image": "https://external-preview.redd.it/FLPN8n2NSEL1OarPd2t4nDVs3vcDLXfNYb85oWSrnZw.jpeg?width=640&crop=smart&auto=webp&s=88aaf1d7202dfdd78ff4ddb8613b207466dc54a9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_fd8b2a124878",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "CPAC crowd cheers for impeachment hearings: \"Wrong answer\"",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T19:33:17+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5e6ky/cpac_crowd_cheers_for_impeachment_hearings_wrong/",
-      "image": "https://external-preview.redd.it/ouemhgvsFk8DVDbruhK4I7Fnxuwr6vdG7GxiAep8Lns.jpeg?width=640&crop=smart&auto=webp&s=7d9660caf20ec2bfe4e852271754f99aad727f51",
       "imageCredit": "Image via original publisher"
     }
   ]
