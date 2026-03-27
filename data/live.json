@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-27T08:29:54+00:00",
+  "generatedAt": "2026-03-27T09:30:56+00:00",
   "items": [
+    {
+      "id": "meme_3b1d23172517",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man accused of sexually assaulting woman in Easter Bunny costume at South Hills Village",
+      "dek": "submitted by /u/ham-and-egger [link] [comments]",
+      "body": "submitted by /u/ham-and-egger [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T08:32:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s4ydwd/man_accused_of_sexually_assaulting_woman_in/",
+      "image": "https://external-preview.redd.it/dP0sviDyuzRZK6uXFhuz7iBywrg7MdkAf9HlFiHO4vM.jpeg?width=640&crop=smart&auto=webp&s=b8a6b2b1fec9442a64f56ec6d3dcb6e87cb4723e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_647229f6dc9d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
+      "dek": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
+      "body": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T08:16:37+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g8w9d3j0xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f20/live/ad630fe0-29a1-11f1-b40f-3776659ce827.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5202bd1d5793",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-27T08:00:28+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4228/live/13aa63c0-29b1-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1da224924459",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Rawalpindi Bride arrested for aerial firing at her wedding",
-      "dek": "submitted by /u/MimirHinnVitru [link] [comments]",
-      "body": "submitted by /u/MimirHinnVitru [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:00:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s4xvfn/rawalpindi_bride_arrested_for_aerial_firing_at/",
-      "image": "https://external-preview.redd.it/vfpKBo3UNT-9swuWTGYReTPp83i76fQtmyyaz_gz0kY.jpeg?width=640&crop=smart&auto=webp&s=7a1f30f8ace5c71da5bcbc46aaffb5395111f140",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_01c6184e9f41",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Women secretly filmed, then ridiculed and abused online",
-      "dek": "Women in Kenya and Ghana tell the BBC about being approached by a Russian man who later posts videos of them without their consent.",
-      "body": "Women in Kenya and Ghana tell the BBC about being approached by a Russian man who later posts videos of them without their consent.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T07:20:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a45/live/17a85230-2839-11f1-9a69-b54c6c0e1db8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
