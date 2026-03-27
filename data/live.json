@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-27T10:31:57+00:00",
+  "generatedAt": "2026-03-27T11:28:57+00:00",
   "items": [
+    {
+      "id": "latest_e18c945cd29e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded",
+      "dek": "The late-night vote is a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.",
+      "body": "The late-night vote is a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-27T10:31:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ab/live/5cf32210-29c5-11f1-952c-77491ff53aff.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_565d38d773f8",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-27T10:04:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s4zvij/jackson_resident_has_had_it_with_petting_zoo/",
       "image": "https://external-preview.redd.it/0fWYi4Qn0zQEPUs0Egjenybw-Py1_4uTAJ-MZp1O3yo.jpeg?width=640&crop=smart&auto=webp&s=13db83dd0ce3adca9feaa0ef6ab7eecd45b79c4f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_69b5e02ac7bf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Marco Rubio meets G7 counterparts amid Iran war",
-      "dek": "It is the secretary of state's first foreign trip since the conflict began last month.",
-      "body": "It is the secretary of state's first foreign trip since the conflict began last month.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T09:34:32+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e231/live/5dbf9ad0-29ba-11f1-b09d-e9355cd4d8ae.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
