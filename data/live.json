@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-28T17:29:57+00:00",
+  "generatedAt": "2026-03-28T17:57:25+00:00",
   "items": [
+    {
+      "id": "latest_b38f2b4af0f2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "dek": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "body": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T17:48:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfbf/live/63449610-2ac1-11f1-934f-036468834728.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6fb4801bc3bb",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-28T16:29:43+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae2/live/71d50150-2ab8-11f1-ab33-637d871d691b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_21ba35b2e11e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sweet heist? Nestle says 12 tonnes of KitKat stolen",
-      "dek": "submitted by /u/PeasantLich [link] [comments]",
-      "body": "submitted by /u/PeasantLich [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T15:22:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s63705/sweet_heist_nestle_says_12_tonnes_of_kitkat_stolen/",
-      "image": "https://external-preview.redd.it/W2tD2db-4Vus_LC1NxTRWUG4IciEtGmyAacpyO6gLI4.jpeg?width=640&crop=smart&auto=webp&s=17db9f61d7d306ff13e104ec75f4fe90604127c4",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_21ba35b2e11e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Sweet heist? Nestle says 12 tonnes of KitKat stolen",
+      "dek": "submitted by /u/PeasantLich [link] [comments]",
+      "body": "submitted by /u/PeasantLich [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T15:22:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s63705/sweet_heist_nestle_says_12_tonnes_of_kitkat_stolen/",
+      "image": "https://external-preview.redd.it/W2tD2db-4Vus_LC1NxTRWUG4IciEtGmyAacpyO6gLI4.jpeg?width=640&crop=smart&auto=webp&s=17db9f61d7d306ff13e104ec75f4fe90604127c4",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5ca05894bdbc",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48303121/liv-golf-sued-vodka-distillery-trademark-infringement",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7fc85068702d",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_19801bc1233a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Shock as dozens of bodies, mostly infants, discovered in Kenya mass grave",
-      "dek": "Some of the 32 bodies, including 25 children, are believed to have come from local hospitals and mortuaries.",
-      "body": "Some of the 32 bodies, including 25 children, are believed to have come from local hospitals and mortuaries.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T08:41:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/771c79b0-2822-11f1-9fca-7da6a2456b50.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
