@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_c7b443db6e4f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NHL playoff watch: Guide to all 15 games on Showdown Saturday",
+      "dek": "With the postseason three weeks away, here's what to watch in each contest.",
+      "body": "With the postseason three weeks away, here's what to watch in each contest.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T07:30:59+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48322634/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c7b443db6e4f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_cb6e5173e563",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-25T05:18:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s31ux3/second_delivery_robot_crashes_into_bus_shelter/",
       "image": "https://external-preview.redd.it/qqMI-ASxwsAAjAt8DVUaMWc_qlr5X43LZHHdVGJDm6I.jpeg?width=640&crop=smart&auto=webp&s=2a8191d9e3b63ee01afb70b58d5721b6fee4ef97",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5015689aecbd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "OpenAI ends Disney partnership as it closes Sora video-making tool",
-      "dek": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.",
-      "body": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T04:01:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d9f/live/2ea0f110-27fb-11f1-85a2-496f64364e77.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
