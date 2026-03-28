@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_58a9f08d52a0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Composer behind ‘The Lion King' opening vocals sues comedian for $27M over ‘Circle of Life' joke",
+      "dek": "submitted by /u/Nero2t2 [link] [comments]",
+      "body": "submitted by /u/Nero2t2 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T18:37:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s68ac2/composer_behind_the_lion_king_opening_vocals_sues/",
+      "image": "https://external-preview.redd.it/9EIhExYITV7bYoyERi94uYoCRKvSspItfWUNmMJ_SbM.png?width=640&crop=smart&auto=webp&s=1eec4496bf9e36a9d4eae34ed3303c723563b87c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_df7789145889",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48304246/yankees-mariners-chasing-dodgers-world-series-odds",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a7eb85cf2601",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_4fabd4f1d95d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ghana demands compensation for slavery in landmark UN vote",
-      "dek": "Nations will vote on whether to designate the slave trade as \"the gravest crime against humanity\".",
-      "body": "Nations will vote on whether to designate the slave trade as \"the gravest crime against humanity\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T11:22:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff3/live/657f4e30-282c-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
