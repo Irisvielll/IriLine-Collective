@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_df7789145889",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+      "dek": "Retail and dining premises will have to shut by 21:00 each night for the next month to conserve power.",
+      "body": "Retail and dining premises will have to shut by 21:00 each night for the next month to conserve power.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T18:34:24+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9448/live/49777e70-2ad3-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_b9910530d67f",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-25T11:22:05+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ff3/live/657f4e30-282c-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4bd080e7ba5e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Fearless' Mel Schilling remembered by Married at First Sight co-star",
-      "dek": "Paul C Brunson pays an emotional tribute to his fellow TV relationship expert, who died on Tuesday.",
-      "body": "Paul C Brunson pays an emotional tribute to his fellow TV relationship expert, who died on Tuesday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T10:45:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdxd949dvqeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d77/live/a3ea7210-2833-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
