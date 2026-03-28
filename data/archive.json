@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_7254fd0b8042",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+      "dek": "The BBC's Hugo Bachega speaks to families in Beirut as more than a million people have been displaced in Lebanon.",
+      "body": "The BBC's Hugo Bachega speaks to families in Beirut as more than a million people have been displaced in Lebanon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T06:00:25+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beeb/live/375f83b0-29d7-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_491234a14af5",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-25T00:54:56+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2wa4t/chance_the_rapper_wins_35_in_lawsuit_against/",
       "image": "https://external-preview.redd.it/uTvOoaK5xfjAWVhDeffqTC_9vOrkM8UEaxjOBlLet3w.jpeg?width=640&crop=smart&auto=webp&s=5c1694b23877efd887a731c670dccab70b7b705c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_aa4312e8282c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Scientists Discover What Age Children Start Becoming ‘Cunning Little Liars’",
-      "dek": "submitted by /u/Signal-Lie-6785 [link] [comments]",
-      "body": "submitted by /u/Signal-Lie-6785 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T00:52:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s2w85m/scientists_discover_what_age_children_start/",
-      "image": "https://external-preview.redd.it/T6TQGrZ0QV5Ld-CD0nluQbZuVXS4SCEL5ri1ajtzU4I.png?width=640&crop=smart&auto=webp&s=36e1763559423b1c7b22420d85303ef6c0d750a0",
       "imageCredit": "Image via original publisher"
     }
   ]
