@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-28T18:52:24+00:00",
+  "generatedAt": "2026-03-28T19:30:35+00:00",
   "items": [
+    {
+      "id": "latest_b71b1efef564",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
+      "dek": "The Iran-backed group could bring a second crucial waterway to a standstill, writes Sebastian Usher.",
+      "body": "The Iran-backed group could bring a second crucial waterway to a standstill, writes Sebastian Usher.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T19:08:30+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7a/live/5f56a620-2ad9-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_58a9f08d52a0",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-28T18:34:24+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9448/live/49777e70-2ad3-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b9910530d67f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Panhandler says Halifax RCMP [police] impersonating them could discourage drivers from donating",
-      "dek": "submitted by /u/Immediate-Fault3319 [link] [comments]",
-      "body": "submitted by /u/Immediate-Fault3319 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T18:32:39+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6865n/panhandler_says_halifax_rcmp_police_impersonating/",
-      "image": "https://external-preview.redd.it/ayNdDHJx6jOoZBBAtdlYLx2eS53Kewys7VbT9-h827g.jpeg?width=640&crop=smart&auto=webp&s=6416d95049662076c5813cec31740527f8837c20",
       "imageCredit": "Image via original publisher"
     }
   ]

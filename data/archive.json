@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_b9910530d67f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Panhandler says Halifax RCMP [police] impersonating them could discourage drivers from donating",
+      "dek": "submitted by /u/Immediate-Fault3319 [link] [comments]",
+      "body": "submitted by /u/Immediate-Fault3319 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T18:32:39+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6865n/panhandler_says_halifax_rcmp_police_impersonating/",
+      "image": "https://external-preview.redd.it/ayNdDHJx6jOoZBBAtdlYLx2eS53Kewys7VbT9-h827g.jpeg?width=640&crop=smart&auto=webp&s=6416d95049662076c5813cec31740527f8837c20",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_099ecec8f0ed",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran-backed Houthis join war with attack against Israel",
+      "dek": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
+      "body": "There are fears the Iranian proxy may attack shipping in the Red Sea, adding to global economic woes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T18:18:32+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cd6l5n8jv4yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3340/live/d8ed27d0-2ac9-11f1-934f-036468834728.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b38f2b4af0f2",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -89,6 +119,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6cd/live/d9747150-2aaa-11f1-a0a3-89526fc96a3b.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_f27de81efb96",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Olson leads Michigan past Louisville into Elite 8",
+      "dek": "Olivia Olson's 19-point outing helped No. 2 Michigan defeat Louisville 71-52 on Saturday and advance to the Elite 8 in the Women's NCAA Tournament.",
+      "body": "Olivia Olson's 19-point outing helped No. 2 Michigan defeat Louisville 71-52 on Saturday and advance to the Elite 8 in the Women's NCAA Tournament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T15:10:17+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48331498/olivia-olson-19-leads-michigan-louisville-elite-8",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f27de81efb96",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_2cf37027da96",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-03-25T10:25:10+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48304069/butler-names-former-bulldogs-player-ronald-nored-new-coach",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_aa7d1c6eaed3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_3be4a3805fb4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NBA Power Rankings: The Thunder reign while East teams rise",
-      "dek": "Where our NBA insiders ranked all 30 teams as the regular season reaches the home stretch.",
-      "body": "Where our NBA insiders ranked all 30 teams as the regular season reaches the home stretch.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T09:38:34+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48296257/nba-power-rankings-thunder-reign-celtics-pistons-rise",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3be4a3805fb4",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_0d28167db50a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Marcos promises 'flow of oil' as Philippines declares energy emergency",
-      "dek": "The President says the country will procure one million barrels of oil to add to the current stock.",
-      "body": "The President says the country will procure one million barrels of oil to add to the current stock.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T08:59:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c3ex8ez3717o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f44/live/15117550-2826-11f1-a277-371340bb5d16.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_70ad23ee1260",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'He's everywhere at once': New manager Tony Vitello gets Giants to buy in",
-      "dek": "The first skipper to jump from college to MLB bounds into the season opener tonight vs. the Yankees.",
-      "body": "The first skipper to jump from college to MLB bounds into the season opener tonight vs. the Yankees.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T08:59:18+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48298030/san-francisco-giants-new-manager-tony-vitello-tennessee-volunteers-mlb-opening-day-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_70ad23ee1260",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
