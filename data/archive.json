@@ -76,6 +76,51 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_aab074919e1f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Rangers' deGrom (neck) scratched vs. Phillies",
+      "dek": "The Texas Rangers scratched pitcher Jacob deGrom from his scheduled start Saturday against the Phillies because of neck stiffness.",
+      "body": "The Texas Rangers scratched pitcher Jacob deGrom from his scheduled start Saturday against the Phillies because of neck stiffness.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T13:07:58+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48330721/rangers-scratch-jacob-degrom-stiff-neck-start-vs-phillies",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_aab074919e1f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_817256823a05",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "LeBron to LeBron Jr.: James duo makes history as first father-son teammates to record assist to each other",
+      "dek": "The father-son duo etched their names in the history books after the elder James found his son for a 3-pointer.",
+      "body": "The father-son duo etched their names in the history books after the elder James found his son for a 3-pointer.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T12:58:43+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48330204/lebron-bronny-james-los-angeles-lakers-history-father-son-assist",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_817256823a05",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_ecfe172f910d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Man City show why they are worthy WSL title winners as tired United wilt",
+      "dek": "Women's Super League champions-elect Manchester City thrashed second-place Man United to go 11 points clear and show why they are the best around.",
+      "body": "Women's Super League champions-elect Manchester City thrashed second-place Man United to go 11 points clear and show why they are the best around.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T12:57:35+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48329706/man-city-show-why-worthy-wsl-title-winners-tired-united-wilt",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ecfe172f910d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_33777a8786ad",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/771c79b0-2822-11f1-9fca-7da6a2456b50.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_6812497ed97a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "2026 MLB predictions: From playoffs and World Series to MVPs and Cy Youngs",
-      "dek": "Can the Dodgers three-peat? Will Skubal and Skenes win another Cy Young? Our experts make their predictions for the 2026 baseball season.",
-      "body": "Can the Dodgers three-peat? Will Skubal and Skenes win another Cy Young? Our experts make their predictions for the 2026 baseball season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T08:40:29+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48290428/mlb-2026-season-predictions-divisions-playoffs-world-series-mvp-cy-young-awards",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6812497ed97a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_6daaefed3dac",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Cost of the World Cup: How much might a USMNT fan spend to follow their team?",
-      "dek": "From tickets to hotels, how expensive is this summer's big event? Let's find out -- through the eyes of a USMNT fan on the trip of a lifetime.",
-      "body": "From tickets to hotels, how expensive is this summer's big event? Let's find out -- through the eyes of a USMNT fan on the trip of a lifetime.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T08:31:16+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48259964/cost-2026-world-cup-how-much-usmnt-fan-spend",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6daaefed3dac",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_0f60b9adba60",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "USMNT players on what Pochettino is like behind the scenes",
-      "dek": "It used to be \"inmates running the asylum,\" players tell ESPN, but Pochettino has transformed the culture.",
-      "body": "It used to be \"inmates running the asylum,\" players tell ESPN, but Pochettino has transformed the culture.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T08:31:16+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48281342/usmnt-players-pochettino-coach-exclusive-interviews-world-cup-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0f60b9adba60",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
