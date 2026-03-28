@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-28T02:55:09+00:00",
+  "generatedAt": "2026-03-28T04:53:17+00:00",
   "items": [
+    {
+      "id": "latest_491234a14af5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+      "dek": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+      "body": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T03:37:04+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/b76c9130-2a4d-11f1-8322-4318ee346f27.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_cb555789ded3",
       "section": "meme",
@@ -17,34 +32,19 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
-      "id": "meme_74067ff541c7",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "\"Five Nights at Epstein's\" video game sweeps US classrooms",
-      "dek": "submitted by /u/EdredTheOddestBear [link] [comments]",
-      "body": "submitted by /u/EdredTheOddestBear [link] [comments]",
+      "id": "latest_a316345b28d5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance",
+      "dek": "For half a century, BBC Russian had to fend off jammers. Now its website is blocked, but millions still read it.",
+      "body": "For half a century, BBC Russian had to fend off jammers. Now its website is blocked, but millions still read it.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T01:05:32+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5mhsj/five_nights_at_epsteins_video_game_sweeps_us/",
-      "image": "https://external-preview.redd.it/BgKJnVsEXQKpDRHT9J_7ug8Rh42_vk7GNHHZhnJi_2Q.jpeg?width=640&crop=smart&auto=webp&s=1c6ceb515dd6af8a82938606836f3ce3496a612d",
+      "publishedAt": "2026-03-28T01:37:21+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c3/live/c75ea270-2469-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_95649a2ce3ed",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Eye drops made from pig semen deliver cancer treatment to mice",
-      "dek": "submitted by /u/UsernameUndeclared [link] [comments]",
-      "body": "submitted by /u/UsernameUndeclared [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T00:40:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5lxo6/eye_drops_made_from_pig_semen_deliver_cancer/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_95649a2ce3ed",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
