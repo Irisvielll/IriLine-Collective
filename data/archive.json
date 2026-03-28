@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_cb6e5173e563",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Diaz thrills L.A. with trumpet entrance, 1st save",
+      "dek": "Dodgers closer Edwin Diaz said it was \"pretty fun\" hearing his entrance music at Dodger Stadium for the first time before he locked down his first save with his",
+      "body": "Dodgers closer Edwin Diaz said it was \"pretty fun\" hearing his entrance music at Dodger Stadium for the first time before he locked down his first save with his new team in Friday night's 5-4 win over the Diamondbacks.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T07:09:02+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48328202/diaz-thrills-dodger-stadium-trumpets-entrance-first-save",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cb6e5173e563",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_073f02123c89",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-25T04:01:57+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d9f/live/2ea0f110-27fb-11f1-85a2-496f64364e77.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5f7f486809c5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tough negotiations loom as Denmark's Social Democrats fail to secure a majority",
-      "dek": "The party, which has governed since 2019, gained the most votes but saw its weakest results in over a century.",
-      "body": "The party, which has governed since 2019, gained the most votes but saw its weakest results in over a century.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T03:40:53+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b2/live/8887c5f0-27fb-11f1-934f-036468834728.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
