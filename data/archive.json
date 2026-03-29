@@ -46,6 +46,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_7f38c99aa02b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Peyton Manning: Pat Summitt changed my life",
+      "dek": "Legendary NFL quarterback Peyton Manning recounts a career-changing meeting with Pat Summitt that he credits for sparking a lifelong friendship.",
+      "body": "Legendary NFL quarterback Peyton Manning recounts a career-changing meeting with Pat Summitt that he credits for sparking a lifelong friendship.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T07:21:38+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48312952/peyton-manning-salutes-pat-summitt-tennessee-lady-volunteers",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7f38c99aa02b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_d43fc6d9d89a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-25T21:53:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3ome6/activist_who_pushed_2020_election_fraud_claims/",
       "image": "https://external-preview.redd.it/CFjhMDPdEwxmhw5laZ2CjyCV-p6uC2ZD2tuYhP6A_Z0.jpeg?width=640&crop=smart&auto=webp&s=2918dd7dec5fbb09a50ca294bec9facd3ef958e2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1664abf77250",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "The seafood industry bets Americans will finally eat more fish if it looks more like meat",
-      "dek": "submitted by /u/Exponential-777 [link] [comments]",
-      "body": "submitted by /u/Exponential-777 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T21:45:33+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3oetx/the_seafood_industry_bets_americans_will_finally/",
-      "image": "https://external-preview.redd.it/jO5V9JagMHaud1XOaoGmg6o_VxwoXW6NVPEF_19rp0Y.jpeg?width=640&crop=smart&auto=webp&s=257efab553be738f48cdb405555a9c835113574c",
       "imageCredit": "Image via original publisher"
     }
   ]
