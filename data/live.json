@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-29T06:44:02+00:00",
+  "generatedAt": "2026-03-29T07:40:19+00:00",
   "items": [
+    {
+      "id": "meme_d43fc6d9d89a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "'Straight from source, no filter': White House launches mobile app for realtime updates",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T07:16:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6ohsf/straight_from_source_no_filter_white_house/",
+      "image": "https://external-preview.redd.it/QGpmcG_ZzEerNbUmNLnB3CdLHxpRkK54nOMWK-N7Lmg.jpeg?width=640&crop=smart&auto=webp&s=9bc02b5dca18ae00db3c290866cf6f9bced8fc09",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_064259dcaed8",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-29T05:16:27+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6mheq/hellmanns_manages_to_get_mayonnaise_classified_as/",
       "image": "https://external-preview.redd.it/5XnNuuStcc5jWB3pB8KH9CQcme5c3H9618URwWVcNLg.jpeg?width=640&crop=smart&auto=webp&s=730204d03719c7f64fdbf38a984896b5e7ba46f6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_6e0fd7f92ab7",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "TMZ wants photos of lawmakers vacationing ‘at your expense’ amid TSA shutdown",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T05:13:24+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6mfhc/tmz_wants_photos_of_lawmakers_vacationing_at_your/",
-      "image": "https://external-preview.redd.it/EYJN8UssJoF5sj_EHDU9QvFJ2nU_W2kgL5cIsa08p4A.jpeg?width=640&crop=smart&auto=webp&s=95f8240cb83387e9b6525712434fb4356e019454",
       "imageCredit": "Image via original publisher"
     }
   ]
