@@ -31,6 +31,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_b0ea0a6df661",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Tudor exits Spurs after 5-game PL winless streak",
+      "dek": "Tottenham Hotspur have parted ways with Igor Tudor amid a worrying battle to avoid relegation from the Premier League",
+      "body": "Tottenham Hotspur have parted ways with Igor Tudor amid a worrying battle to avoid relegation from the Premier League",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T11:02:20+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48120237/tottenham-igor-tudor-part-ways-club-deep-relegation-mire",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b0ea0a6df661",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_5fd713341dcf",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Alex Fitzpatrick joins brother Matt as Euro winner",
+      "dek": "Alex Fitzpatrick overcame a six-shot deficit with a blazing run of birdies Sunday to overcome Eugenio Chacarra with a 3-under 69 to win the Indian Open.",
+      "body": "Alex Fitzpatrick overcame a six-shot deficit with a blazing run of birdies Sunday to overcome Eugenio Chacarra with a 3-under 69 to win the Indian Open.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T11:02:20+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48338865/alex-fitzpatrick-rallies-6-shot-deficit-win-indian-open",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5fd713341dcf",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_64f7e0bdd0b8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48309988/green-wembanyama-state-importance-defense",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b71478c74225",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_431ed9051db0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Murray drops 53, Jokic nearly has 20-20-20 game",
-      "dek": "Jamal Murray scored 53 points and Nikola Jokic had 23 points, 21 rebounds and 19 assists as the Nuggets held off the Mavericks on Wednesday night.",
-      "body": "Jamal Murray scored 53 points and Nikola Jokic had 23 points, 21 rebounds and 19 assists as the Nuggets held off the Mavericks on Wednesday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T01:53:28+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48309525/murray-scores-53-jokic-nearly-20-20-20-game-nuggets-win",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_431ed9051db0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_cd4beafb5753",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
-      "dek": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
-      "body": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T00:41:16+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
