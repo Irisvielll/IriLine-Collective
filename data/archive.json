@@ -16,6 +16,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_b6a01dd6dd90",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Woodland wins Houston by 5 amid PTSD battle",
+      "dek": "Gary Woodland won the Houston Open by five shots on Sunday, his first PGA Tour victory since undergoing brain surgery in 2023.",
+      "body": "Gary Woodland won the Houston Open by five shots on Sunday, his first PGA Tour victory since undergoing brain surgery in 2023.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T18:42:51+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48342395/woodland-wins-houston-open-first-title-brain-surgery",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b6a01dd6dd90",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_c1d6459f316a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: St. John's inks Pitino to lucrative new deal",
+      "dek": "Rick Pitino has signed a new deal with St. John's that makes him the second-highest-paid coach in the Big East, sources told ESPN on Sunday, confirming a report",
+      "body": "Rick Pitino has signed a new deal with St. John's that makes him the second-highest-paid coach in the Big East, sources told ESPN on Sunday, confirming a report by NJ.com.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T18:42:51+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48342357/st-john-men-basketball-signs-rick-pitino-new-contract-making-second-highest-paid-coach-big-east",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c1d6459f316a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_c6eb24aaacec",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-26T09:50:10+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48311228/alabama-qb-ty-simpson-says-absolutely-1st-round-pick",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1b82ff2bf009",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_edd4c6c166eb",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "IOC bans transgender women from Olympics",
-      "dek": "Transgender women athletes are now excluded from the Olympics after the IOC agreed to a new eligibility policy Thursday that aligns with U.S. President Donald T",
-      "body": "Transgender women athletes are now excluded from the Olympics after the IOC agreed to a new eligibility policy Thursday that aligns with U.S. President Donald Trump's executive order on women's sports ahead of the 2028 Los Angeles Games.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T09:50:10+00:00",
-      "sourceUrl": "https://www.espn.com/olympics/story/_/id/48311534/transgender-women-banned-olympics-new-ioc-policy",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_edd4c6c166eb",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_de1e0ae4adaa",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How Arbeloa has won over doubters and reinvigorated Real Madrid's season",
-      "dek": "Whether it's the coach, the players, or both, Real Madrid have improved since Álvaro Arbeloa took over in January, and he could yet save their season.",
-      "body": "Whether it's the coach, the players, or both, Real Madrid have improved since Álvaro Arbeloa took over in January, and he could yet save their season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T09:48:31+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48304840/how-alvaro-arbeloa-won-doubters-given-real-madrid-hope-vinicius-junior-kylian-mbappe-jude-bellingham",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_de1e0ae4adaa",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
