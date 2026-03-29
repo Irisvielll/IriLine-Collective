@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-29T21:03:55+00:00",
+  "generatedAt": "2026-03-29T21:46:34+00:00",
   "items": [
+    {
+      "id": "latest_18419020a422",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Renoir, Cézanne and Matisse paintings stolen in Italian job",
+      "dek": "The paintings were taken from a museum in Parma by four masked men in the middle of the night, police say.",
+      "body": "The paintings were taken from a museum in Parma by four masked men in the middle of the night, police say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T21:29:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecbd/live/b03161d0-2bb4-11f1-a0a0-97bfc6191d57.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e4c2017be788",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-29T20:32:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s764om/if_you_buy_a_new_router_it_might_turn_into_a/",
       "image": "https://external-preview.redd.it/V58EZxDBnrCF1YOZpj0ssO7HIG6PaZdlNJAC-5BErEA.jpeg?width=640&crop=smart&auto=webp&s=28af03880caff35845991aea4f0051d4e0c7c63f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_07a283d02513",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
-      "dek": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
-      "body": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T19:37:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3667/live/fe0e0750-2ba0-11f1-a79a-77e93010d956.png",
       "imageCredit": "Image via original publisher"
     }
   ]
