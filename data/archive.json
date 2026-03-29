@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "sports_048440677621",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Gamecocks power past Sooners, into Elite Eight",
+      "dek": "Ta'Niya Latson scored 28 points, and Raven Johnson added 18 to help top-seed South Carolina beat No. 4 seed Oklahoma 94-68 on Saturday.",
+      "body": "Ta'Niya Latson scored 28 points, and Raven Johnson added 18 to help top-seed South Carolina beat No. 4 seed Oklahoma 94-68 on Saturday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T19:38:59+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48334053/south-carolina-powers-oklahoma-make-elite-eight",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_048440677621",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_d01c18a50a3a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "USMNT handed reality check by Doku, Belgium ahead of World Cup",
+      "dek": "Belgium provided a sobering assessment of where the USMNT currently stands, doling out a heavy 5-2 defeat that will leave Mauricio Pochettino with plenty to pon",
+      "body": "Belgium provided a sobering assessment of where the USMNT currently stands, doling out a heavy 5-2 defeat that will leave Mauricio Pochettino with plenty to ponder.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T19:19:24+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48333176/usmnt-handed-reality-check-doku-belgium-ahead-world-cup",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d01c18a50a3a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_0089b5ed3781",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Player ratings: Weah poor as USMNT suffer heavy Belgium defeat",
+      "dek": "It was a difficult game for the U.S. against Belgium, with Tim Weah struggling to make a positive impact.",
+      "body": "It was a difficult game for the U.S. against Belgium, with Tim Weah struggling to make a positive impact.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T19:19:24+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48332054/usmnt-usa-belgium-timothy-weah-player-ratings-2026-world-cup",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0089b5ed3781",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_b71b1efef564",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-03-25T13:25:40+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48299419/arsenal-teach-chelsea-champions-league-lesson-clinical-finishing",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_aa3407e2543d",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_fbe407557805",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Estonia and Latvia say territories hit by stray Ukrainian drones",
-      "dek": "The incidents occurred on the same night that Ukraine launched a massive attack on Russia's port of Ust-Luga, near the Estonian border.",
-      "body": "The incidents occurred on the same night that Ukraine launched a massive attack on Russia's port of Ust-Luga, near the Estonian border.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T12:42:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1eql309n12o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7d/live/19831df0-283f-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_fc468911116d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "KU's Self denies retirement rumors as 'bad info'",
-      "dek": "Kansas coach Bill Self denied rumors that he is planning to retire, telling the Kansas City Star that he remains undecided on his future with the Jayhawks.",
-      "body": "Kansas coach Bill Self denied rumors that he is planning to retire, telling the Kansas City Star that he remains undecided on his future with the Jayhawks.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T12:30:27+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48304810/kansas-coach-bill-self-denies-retirement-rumors-bad-info",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fc468911116d",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_54feeb503da3",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Flacco: Teams 'dumb' for not signing me to start",
-      "dek": "Joe Flacco is back with the Bengals as Joe Burrow's backup, but he isn't shy about voicing his belief that teams made a mistake by passing on him to be their st",
-      "body": "Joe Flacco is back with the Bengals as Joe Burrow's backup, but he isn't shy about voicing his belief that teams made a mistake by passing on him to be their starting quarterback.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T12:30:27+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48304474/bengals-joe-flacco-says-teams-dumb-not-signing-start",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_54feeb503da3",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

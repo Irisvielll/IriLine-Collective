@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-28T23:32:21+00:00",
+  "generatedAt": "2026-03-29T00:01:20+00:00",
   "items": [
+    {
+      "id": "meme_89165cbea19a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The Atlanta Braves decided to honor a hometown 9/11 hero before their game on the giant screen at Truist Park. Except they used an image of the plane hitting the tower over an American flag.",
+      "dek": "submitted by /u/Efficient-Freedom517 [link] [comments]",
+      "body": "submitted by /u/Efficient-Freedom517 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T23:44:04+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6fqmf/the_atlanta_braves_decided_to_honor_a_hometown/",
+      "image": "https://external-preview.redd.it/W2uZolNBnIKjlbIiJ8L-PdUPsJSHn7aHH6IZ48iu7Ow.jpeg?width=108&crop=smart&auto=webp&s=26a21d0cf5e4b7ecf2d7071d0ae4d7699d56eb16",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_903124e41098",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "India restoring a centuries-old royal kitchen that never stopped serving food",
+      "dek": "The royal kitchen still serves food, but the complex has been worn down by time.",
+      "body": "The royal kitchen still serves food, but the complex has been worn down by time.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-28T23:25:03+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj0vj36yd12o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9356/live/1f1f7bc0-28d8-11f1-875e-d98192245193.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d142f47d2f95",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/839b/live/13ea1e70-2aba-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_d01c18a50a3a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "USMNT handed reality check by Doku, Belgium ahead of World Cup",
-      "dek": "Belgium provided a sobering assessment of where the USMNT currently stands, doling out a heavy 5-2 defeat that will leave Mauricio Pochettino with plenty to pon",
-      "body": "Belgium provided a sobering assessment of where the USMNT currently stands, doling out a heavy 5-2 defeat that will leave Mauricio Pochettino with plenty to ponder.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T19:19:24+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48333176/usmnt-handed-reality-check-doku-belgium-ahead-world-cup",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d01c18a50a3a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_0089b5ed3781",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Player ratings: Weah poor as USMNT suffer heavy Belgium defeat",
-      "dek": "It was a difficult game for the U.S. against Belgium, with Tim Weah struggling to make a positive impact.",
-      "body": "It was a difficult game for the U.S. against Belgium, with Tim Weah struggling to make a positive impact.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T19:19:24+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48332054/usmnt-usa-belgium-timothy-weah-player-ratings-2026-world-cup",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0089b5ed3781",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
