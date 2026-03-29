@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-03-29T19:01:59+00:00",
+  "generatedAt": "2026-03-29T19:47:01+00:00",
   "items": [
+    {
+      "id": "latest_07a283d02513",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
+      "dek": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
+      "body": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T19:37:03+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3667/live/fe0e0750-2ba0-11f1-a79a-77e93010d956.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c6eb24aaacec",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-29T17:03:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s70l4v/pope_leo_god_does_not_listen_to_the_prayers_of/",
       "image": "https://external-preview.redd.it/XFyOyEEZfsgwcTU9hMP21UsKhLZK7dpsxyD5TkCIc5Q.jpeg?width=640&crop=smart&auto=webp&s=28462beba943b4fac6dfff733c770e7cd3d58b16",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9f464afe7dd7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
-      "dek": "Prime Minister Netanyahu said it was a safety measure following recent Iranian strikes.",
-      "body": "Prime Minister Netanyahu said it was a safety measure following recent Iranian strikes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T16:42:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3d/live/10b10f40-2b85-11f1-9b12-e7dc1d4ddef6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
