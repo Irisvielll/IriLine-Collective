@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_47ffd8ee28cc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
+      "dek": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights.",
+      "body": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T16:01:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b5/live/9be5f020-2956-11f1-98c5-01603f6fa96c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_10f0a67efb9f",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -74,6 +89,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b2/live/8fe83090-2b76-11f1-915e-076b1d4be1dd.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_5bb63c394bce",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Jays' Schneider finds letter, reassurance from Kerr",
+      "dek": "Blue Jays manager John Schneider received a handwritten letter from NBA coach Steve Kerr about how to deal with his World Series Game 7 heartbreak.",
+      "body": "Blue Jays manager John Schneider received a handwritten letter from NBA coach Steve Kerr about how to deal with his World Series Game 7 heartbreak.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T13:51:14+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48339822/blue-jays-john-schneider-gets-reassurance-steve-kerr",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5bb63c394bce",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_783b19a092d1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Former Vikings All-Pro safety Browner dies at 65",
+      "dek": "Joey Browner, the first defensive back selected by the Vikings in the first round and a member of the team's Ring of Honor, died Saturday at the age of 65.",
+      "body": "Joey Browner, the first defensive back selected by the Vikings in the first round and a member of the team's Ring of Honor, died Saturday at the age of 65.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T13:51:14+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48339783/vikings-ring-honor-member-joey-browner-dies-age-65",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_783b19a092d1",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_28d1800eaef4",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/48304802/college-football-2026-ranking-coach-performances-improve-decline",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d23b7ab88783",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_20e49f6ee394",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Top draft needs for all 32 NFL teams: We picked the biggest holes and prospects to target",
-      "dek": "Our NFL reporters listed the top three positional needs for all 32 teams at April's draft, and our draft experts found non-Round 1 fits to fill them.",
-      "body": "Our NFL reporters listed the top three positional needs for all 32 teams at April's draft, and our draft experts found non-Round 1 fits to fill them.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T07:38:31+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48303738/2026-nfl-draft-team-needs-depth-chart-holes-prospect-fits",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_20e49f6ee394",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b90780c83e69",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "An early look at 2027 NFL free agency: Which playmakers could be available next March?",
-      "dek": "Which top players might be available in next year's NFL free agency? We picked out 50 stars to keep an eye on.",
-      "body": "Which top players might be available in next year's NFL free agency? We picked out 50 stars to keep an eye on.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T07:37:10+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48287895/2027-nfl-free-agency-early-look-top-players-quarterbacks-available",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b90780c83e69",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_eed8a78a33b3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
-      "dek": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
-      "body": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T07:34:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef7/live/33194d00-28af-11f1-bb58-f7787f04c8ed.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
