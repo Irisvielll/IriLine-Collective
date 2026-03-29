@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_e4b85ceff631",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Vance says he’s ‘obsessed’ with UFO files, calls aliens ‘demons’",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T04:54:53+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6m3e5/vance_says_hes_obsessed_with_ufo_files_calls/",
+      "image": "https://external-preview.redd.it/1gEss0LWOx_8AiSAYR26VIB0whis9yhYsI4E963kerw.jpeg?width=640&crop=smart&auto=webp&s=c9d9deb7c962804b68c7faaf811b078c37ed72ad",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d5370cc94daf",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,6 +44,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6ixpl/ftc_targeting_dealers_for_advertising_unavailable/",
       "image": "https://external-preview.redd.it/-uFjqS9KkvLDGkQ-brQnFBCGjdXQmnM-VMbqLX7B76A.jpeg?width=640&crop=smart&auto=webp&s=fe0dc4b4056b36f90ba1bfe50db1a231b64df545",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d41035f8daeb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Easily out, Dodgers' Freeman tagged out with hug",
+      "dek": "With nowhere to run on the basepaths, the Dodgers' Freddie Freeman walked toward a smiling Ketel Marte, who tagged him out with a hug to end the second inning o",
+      "body": "With nowhere to run on the basepaths, the Dodgers' Freddie Freeman walked toward a smiling Ketel Marte, who tagged him out with a hug to end the second inning of Saturday night's game.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T01:33:05+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48336892/dodgers-freeman-laughs-being-tagged-marte-hug",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d41035f8daeb",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_0d5503c2a3a7",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3j0gr/suspect_with_bong_built_into_his_car_dashboard_is/",
       "image": "https://external-preview.redd.it/3gaMQvZFNeur3bpLXFeOn6OSc5jmsmMeW49l86Fbb6U.jpeg?width=640&crop=smart&auto=webp&s=a803a8f94ac80c3eb86a6d330f901461dff5deb1",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9e650e1651d3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Meta and Google found liable in landmark social media addiction trial",
-      "dek": "The verdict marks the end of a five-week trial on the addictive nature of social media platforms.",
-      "body": "The verdict marks the end of a five-week trial on the addictive nature of social media platforms.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T17:45:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a21d/live/fef5c380-1cdf-11f1-b4a6-b1a9fc5003ff.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_db4c2035b775",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Mbappé denies Madrid did MRI on wrong knee",
-      "dek": "Kylian Mbappé denied reports that his knee injury was misdiagnosed after Real Madrid's medical team mistakenly examined the wrong knee as it sought to treat the",
-      "body": "Kylian Mbappé denied reports that his knee injury was misdiagnosed after Real Madrid's medical team mistakenly examined the wrong knee as it sought to treat the problem.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-25T17:26:27+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48306534/kylian-mbappe-denies-real-madrid-did-mri-wrong-knee",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_db4c2035b775",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
