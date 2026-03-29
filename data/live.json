@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-29T16:02:22+00:00",
+  "generatedAt": "2026-03-29T16:52:11+00:00",
   "items": [
+    {
+      "id": "latest_9f464afe7dd7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
+      "dek": "Prime Minister Netanyahu said it was a safety measure following recent Iranian strikes.",
+      "body": "Prime Minister Netanyahu said it was a safety measure following recent Iranian strikes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T16:42:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3d/live/10b10f40-2b85-11f1-9b12-e7dc1d4ddef6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_47ffd8ee28cc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
+      "dek": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights.",
+      "body": "Avi Lewis's campaign platform focused on revitalising the struggling left-leaning party and prioritising workers' rights.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T16:01:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b5/live/9be5f020-2956-11f1-98c5-01603f6fa96c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_10f0a67efb9f",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-29T15:49:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6ynnw/battle_for_onlyfans_ownership_heats_up_after/",
       "image": "https://external-preview.redd.it/bkTVOMydUeqJd6KZ-FYhTHSpy5HaFhG2A5o8WABiTb4.png?width=640&crop=smart&auto=webp&s=414ad9577f09a1c99e11e391f97c3664d2ce1daa",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_aad31afb707a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
-      "dek": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation.",
-      "body": "France's anti-terrorism prosecutor's office said it had immediately taken over the investigation.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T15:33:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5b/live/84304ed0-2b81-11f1-9b12-e7dc1d4ddef6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f54ac5875b76",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two Australian states offer free public transport as war pushes up fuel prices",
-      "dek": "Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.",
-      "body": "Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T15:24:54+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb88/live/cc4aef60-2b7f-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
