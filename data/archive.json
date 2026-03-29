@@ -31,6 +31,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_2e5d88c331c1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UCLA rallies vs. Duke to make Women's Final Four",
+      "dek": "UCLA overcame a rare first-half deficit, battling back against an aggressive Duke defense to win 70-58 and advance to the women's Final Four.",
+      "body": "UCLA overcame a rare first-half deficit, battling back against an aggressive Duke defense to win 70-58 and advance to the women's Final Four.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T17:47:29+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48341780/ucla-rallies-vs-duke-make-women-final-four",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2e5d88c331c1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_afbfb60123ce",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-26T09:48:31+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48304840/how-alvaro-arbeloa-won-doubters-given-real-madrid-hope-vinicius-junior-kylian-mbappe-jude-bellingham",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_de1e0ae4adaa",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2f4945700e17",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Saudi Pro League, MLS or elsewhere: Where could Salah go next?",
-      "dek": "Mohamed Salah is leaving Liverpool as a legend, but where could he go next? Here are his options.",
-      "body": "Mohamed Salah is leaving Liverpool as a legend, but where could he go next? Here are his options.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T09:48:31+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48304674/mohamed-salah-leaving-liverpool-where-move-next",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2f4945700e17",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
