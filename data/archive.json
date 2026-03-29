@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_65ba6a04ed19",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Millions of grill brushes pulled from market over risk of 'serious internal injuries'",
+      "dek": "submitted by /u/powdersleaf [link] [comments]",
+      "body": "submitted by /u/powdersleaf [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T12:10:24+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6texh/millions_of_grill_brushes_pulled_from_market_over/",
+      "image": "https://external-preview.redd.it/hPhTslYZpFpPg3Ds_bgvlUAL1oliUwACnKQNoH2hqf4.jpeg?width=640&crop=smart&auto=webp&s=1dd92b9390de1207785fd125c6dc845c315557cc",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_6f85fbbc3156",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -163,6 +178,21 @@
       "publishedAt": "2026-03-29T07:22:17+00:00",
       "sourceUrl": "https://www.espn.com/boxing/story/_/id/48337529/moses-itauma-next-heavyweight-star-era-already-here",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b1fdee9712ce",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_6c47581110d3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Tyrell Fortune: Living to fight another day after they pronounced me dead",
+      "dek": "Bellator heavyweight Tyrell Fortune recalls the weight cut that nearly took his life and left him with a new outlook.",
+      "body": "Bellator heavyweight Tyrell Fortune recalls the weight cut that nearly took his life and left him with a new outlook.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T07:22:16+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/28731512/tyrell-fortune-living-fight-another-day-pronounced-dead",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6c47581110d3",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-26T00:41:16+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a0c9021fcf7e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Parents should monitor children '24/7' on Roblox, says developer",
-      "dek": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe.",
-      "body": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T00:31:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a7/live/4ba1f300-2877-11f1-831a-89df8c4bf49f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e6dc8c2570b5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "B.C. teacher suspended after dry ice explosion in classroom: regulator",
-      "dek": "submitted by /u/ubcstaffer123 [link] [comments]",
-      "body": "submitted by /u/ubcstaffer123 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T00:01:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s3rv15/bc_teacher_suspended_after_dry_ice_explosion_in/",
-      "image": "https://external-preview.redd.it/AD7mP--dNdyHjZajQ019hDoYcxx911o039zyAk2HLjU.jpeg?width=320&crop=smart&auto=webp&s=44ea1e10fe13cae86d592b99686b8abaeb491abd",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T14:04:48+00:00",
+  "generatedAt": "2026-03-29T14:53:07+00:00",
   "items": [
     {
       "id": "meme_f229a188c3d1",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_87a327032ea1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "African football chief resigns following row over Morocco-Senegal final",
+      "dek": "Veron Mosengo-Omba, a controversial figure, leaves at a turbulent time for African football.",
+      "body": "Veron Mosengo-Omba, a controversial figure, leaves at a turbulent time for African football.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T13:53:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b2/live/8fe83090-2b76-11f1-915e-076b1d4be1dd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_2d9ac2dd71bb",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-29T12:43:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6u3bw/grok_confuses_druskis_erika_kirk_spoof_with_the/",
       "image": "https://external-preview.redd.it/u39K70wbf_jtHRnwf9Fm4RMC1FmEmwAmTqdA3lAJ7GE.jpeg?width=640&crop=smart&auto=webp&s=4a77ccbd6dfbc9eae598d5da5c6193fc6f9ef4f8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_65ba6a04ed19",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Millions of grill brushes pulled from market over risk of 'serious internal injuries'",
-      "dek": "submitted by /u/powdersleaf [link] [comments]",
-      "body": "submitted by /u/powdersleaf [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T12:10:24+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s6texh/millions_of_grill_brushes_pulled_from_market_over/",
-      "image": "https://external-preview.redd.it/hPhTslYZpFpPg3Ds_bgvlUAL1oliUwACnKQNoH2hqf4.jpeg?width=640&crop=smart&auto=webp&s=1dd92b9390de1207785fd125c6dc845c315557cc",
       "imageCredit": "Image via original publisher"
     }
   ]
