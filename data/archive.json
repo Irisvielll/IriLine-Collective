@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_d56734a2b531",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
+      "dek": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
+      "body": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T21:38:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b738/live/291282e0-2c79-11f1-a75a-f95187682629.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_8d4d90f3ecb5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Gazan mother reunited with evacuated daughter after two years",
+      "dek": "The girl is among at least eight children who were premature newborns when they were evacuated during heavy fighting in Gaza at the start of the war.",
+      "body": "The girl is among at least eight children who were premature newborns when they were evacuated during heavy fighting in Gaza at the start of the war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T21:12:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czex10lngzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd01/live/b7950160-2c69-11f1-95ce-9bb916c6cb06.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e0dff2f45ce8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
+      "dek": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
+      "body": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T21:11:37+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4290/live/72065650-2c80-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_2382e2b70cfb",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -59,6 +104,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s80r71/yes_patrickmayonnaise_is_an_instrument_as/",
       "image": "https://external-preview.redd.it/FX0sWoqd84YDC9vjOTZlR96ZSJxUcRxvuz81i5cXtiI.jpeg?width=640&crop=smart&auto=webp&s=d7b6d32ccedd6461c28aa9333f9edb879dae6c65",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_8f6c4d6a7bd4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sabalenka excels, Sinner back on track and more takeaways from Indian Wells and Miami Open",
+      "dek": "The Sunshine Swing is complete -- who are the big winners? Who surprised? We break it all down.",
+      "body": "The Sunshine Swing is complete -- who are the big winners? Who surprised? We break it all down.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T19:25:04+00:00",
+      "sourceUrl": "https://www.espn.com/tennis/story/_/id/48350226/indian-wells-miami-open-top-takeaways",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8f6c4d6a7bd4",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_5c401d273da3",
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s4ydwd/man_accused_of_sexually_assaulting_woman_in/",
       "image": "https://external-preview.redd.it/dP0sviDyuzRZK6uXFhuz7iBywrg7MdkAf9HlFiHO4vM.jpeg?width=640&crop=smart&auto=webp&s=b8a6b2b1fec9442a64f56ec6d3dcb6e87cb4723e",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_17955242bde8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NBA playoff watch: Hawks look to remain red hot",
-      "dek": "Atlanta is up to fifth in the East. Plus, updated playoff projections and draft lottery standings.",
-      "body": "Atlanta is up to fifth in the East. Plus, updated playoff projections and draft lottery standings.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:25:08+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_17955242bde8",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_84b15d8e1936",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ted Ginn Jr., AJ McCarron and Chris Redman begin pro coaching careers in familiar spots",
-      "dek": "The UFL comes out swinging in Columbus, Louisville and Birmingham with familiar college stars as coaches.",
-      "body": "The UFL comes out swinging in Columbus, Louisville and Birmingham with familiar college stars as coaches.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:19:17+00:00",
-      "sourceUrl": "https://www.espn.com/united-football-league/story/_/id/48305579/ufl-2026-new-coaches",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_84b15d8e1936",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_21b8072bc0ad",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NHL Power Rankings: Each franchise's career playoff points leader",
-      "dek": "As the postseason approaches, who has the most points in each team's history?",
-      "body": "As the postseason approaches, who has the most points in each team's history?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:16:40+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48313514/nhl-power-rankings-2025-26-top-teams-players-poll-best-games-playoff-scoring",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_21b8072bc0ad",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_565360789b73",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NHL playoff watch: Projecting the Red Wings' postseason chances",
-      "dek": "Detroit is running out of time to climb back into a playoff spot. Plus, full postseason bracket projections.",
-      "body": "Detroit is running out of time to climb back into a playoff spot. Plus, full postseason bracket projections.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:16:40+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48313966/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_565360789b73",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
