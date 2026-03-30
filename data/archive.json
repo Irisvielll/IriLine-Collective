@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_f4073ba23d95",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Celebrating Laetare Sunday: Rejoicing in the Midst of Lent",
+      "dek": "submitted by /u/ArthurPeabody [link] [comments]",
+      "body": "submitted by /u/ArthurPeabody [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T01:24:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s7d0ys/celebrating_laetare_sunday_rejoicing_in_the_midst/",
+      "image": "https://external-preview.redd.it/dJ6z3CHY8gPYd8-YnyKwPX590_G_3w-Adg7qnaZHAt4.png?width=320&crop=smart&auto=webp&s=6c5c0de0c124c30630a11cb067d103bf2773ca9b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_9308cf6d3caf",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "'Gap' year? Celts win 50th as Brown jabs doubters",
+      "dek": "The Celtics are headed back to the playoffs thanks to another 50-win season. Not too bad for a \"gap\" year, according to Jaylen Brown.",
+      "body": "The Celtics are headed back to the playoffs thanks to another 50-win season. Not too bad for a \"gap\" year, according to Jaylen Brown.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T23:09:34+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48344348/jaylen-brown-pokes-fun-doubters-celtics-reach-50-wins",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9308cf6d3caf",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_fadb275e3a6d",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/48312312/caitlin-clark-indiana-fever-lebron-james-los-angeles-lakers-photographs",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_80a6551268a7",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_9f826dbce95c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "European Parliament gives conditional approval to EU-US trade deal",
-      "dek": "The agreement would see EU tariffs on US goods reduced to zero while US tariffs on EU imports set at 15%.",
-      "body": "The agreement would see EU tariffs on US goods reduced to zero while US tariffs on EU imports set at 15%.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T12:51:44+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c33l4e6vdrvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7961/live/6ac854e0-2912-11f1-8742-11d9a3760e0c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0c6277b7e809",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Karnataka Professor Proposes To Student In Front Of Class, Beaten On Campus",
-      "dek": "submitted by /u/kwentongskyblue [link] [comments]",
-      "body": "submitted by /u/kwentongskyblue [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T12:39:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s46bmn/karnataka_professor_proposes_to_student_in_front/",
-      "image": "https://external-preview.redd.it/37T6fXmhFTm29ejHdzaPHl-26tXHN9BdJPuQKIBzGBY.jpeg?width=640&crop=smart&auto=webp&s=49661dabdd859c9e983136293f6555e9b717ffe3",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
