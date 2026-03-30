@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-30T12:40:38+00:00",
+  "generatedAt": "2026-03-30T14:12:25+00:00",
   "items": [
+    {
+      "id": "meme_958308a54edc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Trophy turns up in German team's own basement after being reported stolen",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T14:07:46+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s7rll6/trophy_turns_up_in_german_teams_own_basement/",
+      "image": "https://external-preview.redd.it/7vReDktYXPGaiog4Sv0usDjKcV1jV2yi47jDIX0W-jM.jpeg?width=640&crop=smart&auto=webp&s=e077f97ae72bc0743705862fc9f80d8049d73a77",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_7852911b7765",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
+      "dek": "Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity",
+      "body": "Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T12:59:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/faaf16e0-2c3a-11f1-9d83-af3423d2a1a1.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_623f92cb7944",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-30T12:27:25+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a516/live/5f6b8700-2c34-11f1-b8c9-f5058c0aec9a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6a528fb7ddfb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "48-hour curfew imposed after attack on bar in Nigerian city",
-      "dek": "The raid led to revenge attacks in Jos, with 22 reported dead so far in one of the most volatile parts of the country.",
-      "body": "The raid led to revenge attacks in Jos, with 22 reported dead so far in one of the most volatile parts of the country.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T12:23:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/3c5c3dd0-2c2b-11f1-8768-1105331460e6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c269794abcdc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russia expels British diplomat over spying allegations",
-      "dek": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
-      "body": "A UK Foreign Office spokesman accused Russia of an \"aggressive and co-ordinated campaign of harassment against British diplomats\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T10:33:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e89/live/9a6bef20-2c1b-11f1-a4a0-8d864191ac73.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
