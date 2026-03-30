@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T21:57:46+00:00",
+  "generatedAt": "2026-03-30T22:47:07+00:00",
   "items": [
     {
       "id": "meme_c9a63fb4135f",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_d56734a2b531",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
+      "dek": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
+      "body": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T21:38:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b738/live/291282e0-2c79-11f1-a75a-f95187682629.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e0dff2f45ce8",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-03-30T21:11:37+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4290/live/72065650-2c80-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2382e2b70cfb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Barbie's dream fest? More like a nightmare warehouse, event attendees say",
-      "dek": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
-      "body": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T20:50:07+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s82wjd/barbies_dream_fest_more_like_a_nightmare/",
-      "image": "https://external-preview.redd.it/Fard-jSZgZjYkK7c0rJAOqDsaL03r0sHo2fUlnxtahs.jpeg?width=640&crop=smart&auto=webp&s=7d74cfe7732526ce5fb1db9ae0d0a3c5882bc85e",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_2382e2b70cfb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Barbie's dream fest? More like a nightmare warehouse, event attendees say",
+      "dek": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "body": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T20:50:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s82wjd/barbies_dream_fest_more_like_a_nightmare/",
+      "image": "https://external-preview.redd.it/Fard-jSZgZjYkK7c0rJAOqDsaL03r0sHo2fUlnxtahs.jpeg?width=640&crop=smart&auto=webp&s=7d74cfe7732526ce5fb1db9ae0d0a3c5882bc85e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_5b5d03f26807",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -89,6 +104,36 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s7zd7b/jan_6_capitol_riot_participants_file_lawsuit/",
       "image": "https://external-preview.redd.it/9uUhLB9nyVuKQc0vsVH25ac4Z9HNJC7XWYYbtHv2Ev8.jpeg?width=640&crop=smart&auto=webp&s=17835048dbc64b575c7086f331f4ebb4a5937229",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_81c6b370a8b4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "GM: Possible Richardson stays with Colts in '26",
+      "dek": "Colts general manager Chris Ballard on Monday declined to rule out the possibility of quarterback Anthony Richardson remaining with the Colts in 2026.",
+      "body": "Colts general manager Chris Ballard on Monday declined to rule out the possibility of quarterback Anthony Richardson remaining with the Colts in 2026.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T18:39:22+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48350811/gm-ballard-there-scenario-where-richardson-stays-colts",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_81c6b370a8b4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_c3ff8c514787",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Vikings to exercise fifth-year option on Addison",
+      "dek": "The Vikings will exercise the fifth-year option on receiver Jordan Addison's contract, interim general manager Rob Brzezinski said Monday.",
+      "body": "The Vikings will exercise the fifth-year option on receiver Jordan Addison's contract, interim general manager Rob Brzezinski said Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T18:39:21+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48350724/vikings-exercise-fifth-year-option-jordan-addison-deal",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c3ff8c514787",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_5bd4e599e8e7",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48313966/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_565360789b73",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_647229f6dc9d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africa's exclusion from G7 summit no surprise, says Ramaphosa",
-      "dek": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
-      "body": "Reports say the US pressured France to rescind Ramaphosa’s invitation after Trump threatened to boycott the summit.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:16:37+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g8w9d3j0xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f20/live/ad630fe0-29a1-11f1-b40f-3776659ce827.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_78c71f50bc7e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How the top DL signings will fit in 2026, including three five-stars at LSU",
-      "dek": "The top 2026 recruits at each position have their new homes. Here's how their games will work.",
-      "body": "The top 2026 recruits at each position have their new homes. Here's how their games will work.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:12:12+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/recruiting/story/_/id/48025543/college-football-recruits-best-fits-scouting-report-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_78c71f50bc7e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_5202bd1d5793",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Whale swims off sandbank after big German rescue effort on Baltic coast",
-      "dek": "Rescue teams now hope the whale will swim out of the shallow waters of Lübeck Bay and into the wider sea.",
-      "body": "Rescue teams now hope the whale will swim out of the shallow waters of Lübeck Bay and into the wider sea.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T08:00:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4228/live/13aa63c0-29b1-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
