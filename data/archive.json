@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_9e447a4a94dd",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Jan. 6 Capitol riot participants file lawsuit accusing police of excessive force",
+      "dek": "submitted by /u/LucidOutwork [link] [comments]",
+      "body": "submitted by /u/LucidOutwork [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T18:42:56+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s7zd7b/jan_6_capitol_riot_participants_file_lawsuit/",
+      "image": "https://external-preview.redd.it/9uUhLB9nyVuKQc0vsVH25ac4Z9HNJC7XWYYbtHv2Ev8.jpeg?width=640&crop=smart&auto=webp&s=17835048dbc64b575c7086f331f4ebb4a5937229",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_5bd4e599e8e7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-27T07:10:50+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c895v335xkgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cb/live/c6d716c0-29aa-11f1-8fb4-0b615b172a31.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_91bbb262e1d2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Singapore denies Malaysian scholar entry, calling her 'undesirable visitor'",
-      "dek": "Fadiah Nadwa Fikri urged some in Singapore to \"adopt her brand of radical advocacy\", authorities say.",
-      "body": "Fadiah Nadwa Fikri urged some in Singapore to \"adopt her brand of radical advocacy\", authorities say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T06:42:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cql7d9neee0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0224/live/283c4df0-2996-11f1-a5f9-57bb9a603c86.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
