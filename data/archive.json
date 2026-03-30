@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_fadb275e3a6d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Mets fans boo Bichette as early strikeouts mount",
+      "dek": "Bo Bichette heard his first boos from Mets fans as he has struck out eight times in his first three games. \"I thought my at-bats were terrible, too,\" he said.",
+      "body": "Bo Bichette heard his first boos from Mets fans as he has struck out eight times in his first three games. \"I thought my at-bats were terrible, too,\" he said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-29T22:27:47+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48342743/bo-bichette-hears-boos-mets-fans-strikeouts-mount",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fadb275e3a6d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_daef8672d558",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s46bmn/karnataka_professor_proposes_to_student_in_front/",
       "image": "https://external-preview.redd.it/37T6fXmhFTm29ejHdzaPHl-26tXHN9BdJPuQKIBzGBY.jpeg?width=640&crop=smart&auto=webp&s=49661dabdd859c9e983136293f6555e9b717ffe3",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_557d1743cc7c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sens' Chabot (broken arm) could miss 2 months",
-      "dek": "Senators defenseman Thomas Chabot will miss up to two months with a broken arm, coach Travis Green announced on Thursday.",
-      "body": "Senators defenseman Thomas Chabot will miss up to two months with a broken arm, coach Travis Green announced on Thursday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-26T12:35:22+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48312859/senators-thomas-chabot-miss-2-months-broken-arm",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_557d1743cc7c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
