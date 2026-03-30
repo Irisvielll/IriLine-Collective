@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-30T11:33:26+00:00",
+  "generatedAt": "2026-03-30T12:40:38+00:00",
   "items": [
+    {
+      "id": "latest_623f92cb7944",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Spain closes airspace to US aircraft involved in Iran war",
+      "dek": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+      "body": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T12:27:25+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a516/live/5f6b8700-2c34-11f1-b8c9-f5058c0aec9a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_6a528fb7ddfb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "48-hour curfew imposed after attack on bar in Nigerian city",
+      "dek": "The raid led to revenge attacks in Jos, with 22 reported dead so far in one of the most volatile parts of the country.",
+      "body": "The raid led to revenge attacks in Jos, with 22 reported dead so far in one of the most volatile parts of the country.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-30T12:23:38+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/3c5c3dd0-2c2b-11f1-8768-1105331460e6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c269794abcdc",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-30T10:33:56+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/czx94e7j5jpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e89/live/9a6bef20-2c1b-11f1-a4a0-8d864191ac73.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_34460e9726d4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
-      "dek": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
-      "body": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T09:46:42+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8c3/live/519c96d0-2c18-11f1-a165-7f32552c9375.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_48679afe8cac",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Fuel rations and free buses: How countries are responding to rising oil prices",
-      "dek": "Governments around the world have introduced measures to limit the impact of price increases.",
-      "body": "Governments around the world have introduced measures to limit the impact of price increases.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T08:22:13+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0891/live/c771c0a0-2b8d-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
