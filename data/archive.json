@@ -106,6 +106,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_853c6bae9a90",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Hurley: I thought ref was looking to 'chest bump'",
+      "dek": "UConn coach Dan Hurley downplayed his bizarre interaction with an official at the end of Sunday's NCAA tournament victory against Duke, saying he thought the re",
+      "body": "UConn coach Dan Hurley downplayed his bizarre interaction with an official at the end of Sunday's NCAA tournament victory against Duke, saying he thought the referee was looking to \"chest bump me to celebrate.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T16:47:08+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48359957/dan-hurley-thought-ncaa-tournament-ref-was-looking-chest-bump",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_853c6bae9a90",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_d101a0b030d2",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Police: Fight preceded shooting by cornhole pro",
+      "dek": "An argument over \"drugs, guns and a woman\" allegedly preceded a quadruple amputee cornhole player's fatal shooting of a passenger in his vehicle last week, acco",
+      "body": "An argument over \"drugs, guns and a woman\" allegedly preceded a quadruple amputee cornhole player's fatal shooting of a passenger in his vehicle last week, according to a court document obtained by ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T16:47:08+00:00",
+      "sourceUrl": "https://www.espn.com/espn/story/_/id/48359144/cornhole-pro-argued-guns-drugs-shooting-police-say",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d101a0b030d2",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_bf6e27a34299",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5w9nx/can_googly_eyes_on_takeaway_boxes_stop_seagull/",
       "image": "https://external-preview.redd.it/LtkGEgH9UNxD383MfflXi_YzSX-2DxJE9r9-wBoMQnM.jpeg?width=640&crop=smart&auto=webp&s=a782037750ca2f875ecac636f21e12b608ebc4e6",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_57dede5457ab",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Reporters Surprised by 'Epstein Island' Label on White House Calls",
-      "dek": "submitted by /u/VegasGaymer [link] [comments]",
-      "body": "submitted by /u/VegasGaymer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T09:14:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5vlh8/reporters_surprised_by_epstein_island_label_on/",
-      "image": "https://external-preview.redd.it/CQyvITcMxeczlR-HbB5kHdeNUrJ5n4O1FfQF2FSRGNU.jpeg?width=640&crop=smart&auto=webp&s=f06ed126453c92f3bcfb9ead1b5b12ec236af52e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_6aad988b51f5",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The unlikely rise of Iowa's Ben McCollum, Bennett Stirtz: Division II to Elite Eight",
-      "dek": "Ben McCollum and Bennett Stirtz have won NCAA tournament games four straight years. This is their deepest run yet.",
-      "body": "Ben McCollum and Bennett Stirtz have won NCAA tournament games four straight years. This is their deepest run yet.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T09:05:31+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48324236/iowa-ncaa-tournament-elite-eight-run-ben-mccollum-bennett-stirtz-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6aad988b51f5",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
