@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-03-31T21:45:59+00:00",
+  "generatedAt": "2026-03-31T22:35:16+00:00",
   "items": [
+    {
+      "id": "latest_7e797320740d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
+      "dek": "The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon.",
+      "body": "The deaths of the two Indonesian nationals came less than a day after another UN peacekeeper - also Indonesian - was killed in Lebanon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T22:07:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f72/live/1aa75e60-2d3c-11f1-8c7a-d7713554a96a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_c2327c96a366",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "US judge says University of Pennsylvania must give agency lists of Jewish faculty, students",
+      "dek": "submitted by /u/lost__pigeon [link] [comments]",
+      "body": "submitted by /u/lost__pigeon [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T21:37:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s90yww/us_judge_says_university_of_pennsylvania_must/",
+      "image": "https://external-preview.redd.it/BErfTe4AoZHxtIi4WmMhIPHU2fkOnKX4czCC9DGpC6A.jpeg?width=640&crop=smart&auto=webp&s=c4deb9b54a19265d90528ec3bd5b5a614c283d9f",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_678510d7e4d8",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-03-31T21:15:39+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s90eyy/well_kristi_noems_husband_is_a_crossdresser/",
       "image": "https://external-preview.redd.it/zO0DWD6HUOunPn0-6VeObNpCNohCQTgi0gLJmGt6BTY.jpeg?width=640&crop=smart&auto=webp&s=9cb8c82c4be34fb2342ea9103c94494555d7464d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_75959cdc56d8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "USS George H.W. Bush deploys amid Iran war",
-      "dek": "submitted by /u/AgentDaxis [link] [comments]",
-      "body": "submitted by /u/AgentDaxis [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T21:12:59+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s90ceg/uss_george_hw_bush_deploys_amid_iran_war/",
-      "image": "https://external-preview.redd.it/U7rRv-4Y2-Q4ExgJz7wMgGuAuGLb8II2-k2GEejqQjo.jpeg?width=640&crop=smart&auto=webp&s=6b85970979f00b89f478b067ac38ef760165680a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_56bc6462e70c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-      "dek": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-      "body": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T21:08:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dad/live/93b6a420-2d2b-11f1-a36a-2bc3523bb833.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
