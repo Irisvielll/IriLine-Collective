@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_eba69f5a2ab5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US defence secretary calls on allies to 'step up' over Strait of Hormuz",
+      "dek": "The defence secretary's comments came after US President Donald Trump told other nations to \"go get your own oil\".",
+      "body": "The defence secretary's comments came after US President Donald Trump told other nations to \"go get your own oil\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T15:19:58+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpwj7r5yxv1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cc/live/60f5a760-2d0e-11f1-934f-036468834728.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_5bbc7582ad03",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Rob Schneider calls for reinstating draft amid war with Iran",
+      "dek": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "body": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T15:18:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8qdxy/rob_schneider_calls_for_reinstating_draft_amid/",
+      "image": "https://external-preview.redd.it/_22qGy_r566aISIjOVa7QQFYmn7FP8HQK9O_MKo6Els.jpeg?width=640&crop=smart&auto=webp&s=fe89182be0c4273a9234fc39defacb736b5c2553",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_388dc6c43bb7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -136,6 +166,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_2b76619d080a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ref not assigned to Final Four after Hurley bump",
+      "dek": "Roger Ayers, the official involved in a bizarre interaction with Dan Hurley near the end of UConn's NCAA tournament victory over Duke, is not among the referees",
+      "body": "Roger Ayers, the official involved in a bizarre interaction with Dan Hurley near the end of UConn's NCAA tournament victory over Duke, is not among the referees assigned to officiate the men's Final Four.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T12:34:06+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48357865/roger-ayers-ref-final-four-dan-hurley-exchange",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2b76619d080a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_b5a1fd0a840a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Payton: Flag football won't draw NFL players yet",
+      "dek": "After experiencing firsthand the nuances of flag football, Denver Broncos coach Sean Payton said Tuesday that he would be \"surprised\" if there are any NFL playe",
+      "body": "After experiencing firsthand the nuances of flag football, Denver Broncos coach Sean Payton said Tuesday that he would be \"surprised\" if there are any NFL players on the United States team in the near future.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T12:34:06+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48358022/payton-see-influx-nfl-players-us-flag-football",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b5a1fd0a840a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_c025d0f0d5e9",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -209,6 +269,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/18c95360-2ceb-11f1-bdf5-ddbf94ae98c3.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_59bed2aa9d63",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "What's next for Duke, Tennessee after Elite Eight: Recruits, transfer portal, more",
+      "dek": "With NCAA tournament runs over for key programs, here's how next season is taking shape.",
+      "body": "With NCAA tournament runs over for key programs, here's how next season is taking shape.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T10:51:32+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48292503/ncaa-tournament-losers-recruits-transfer-portal-priorities-departures-2026",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_59bed2aa9d63",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_611c4976a8ba",
@@ -4424,81 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48324078/mens-march-madness-2026-ranking-ncaa-tournament-teams-elite-eight",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bf29a8350fb1",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_afacbe65598f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
-      "dek": "The landmark decision in an LA court may go beyond immediate impacts on defendants Meta and YouTube.",
-      "body": "The landmark decision in an LA court may go beyond immediate impacts on defendants Meta and YouTube.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T00:54:37+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9939/live/8db26d80-2a05-11f1-af48-7dd725bb0b8b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c4ebe7ea0b12",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Illinois curbs alcohol sales Sat. with Final 4 on line",
-      "dek": "Champaign officials announced an emergency order limiting alcohol sales on the Illinois campus on Saturday night in anticipation of potential property damage an",
-      "body": "Champaign officials announced an emergency order limiting alcohol sales on the Illinois campus on Saturday night in anticipation of potential property damage and excessive celebrations if the Fighting Illini beat Iowa to advance to the Final Four.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T00:43:37+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48327136/illinois-curbs-alcohol-sales-sat-final-four-stake",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c4ebe7ea0b12",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_a081af898994",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Dodgers receive glittering rings for another title",
-      "dek": "The Dodgers slipped glittering World Series championship rings on their fingers on Friday night to celebrate their second straight title.",
-      "body": "The Dodgers slipped glittering World Series championship rings on their fingers on Friday night to celebrate their second straight title.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T00:43:37+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48326994/dodgers-receive-world-series-jewelry-mark-back-back-titles",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a081af898994",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_95649a2ce3ed",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Eye drops made from pig semen deliver cancer treatment to mice",
-      "dek": "submitted by /u/UsernameUndeclared [link] [comments]",
-      "body": "submitted by /u/UsernameUndeclared [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T00:40:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s5lxo6/eye_drops_made_from_pig_semen_deliver_cancer/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_95649a2ce3ed",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_cd7bfb8f7844",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-      "dek": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
-      "body": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-28T00:05:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4621/live/c66ed310-2a2e-11f1-a79a-77e93010d956.png",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
