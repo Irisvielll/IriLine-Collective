@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_725d4e4104cd",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "ICE agents will be stationed outside Marine Corps graduation events in South Carolina",
+      "dek": "submitted by /u/BillWilberforce [link] [comments]",
+      "body": "submitted by /u/BillWilberforce [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T04:25:27+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8dfjd/ice_agents_will_be_stationed_outside_marine_corps/",
+      "image": "https://external-preview.redd.it/2bRq812geUewop0ywg-w7jroJ-gumcS63D50XqTATIA.jpeg?width=640&crop=smart&auto=webp&s=06cafa03c0f54df03c2986dee3c62b4a1a5f1761",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_34c6b161aa4c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Who are the Artemis II astronauts heading to the Moon?",
+      "dek": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.",
+      "body": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T03:46:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a2a1d53d0b77",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -14,6 +44,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e1/live/bcc0df00-2c92-11f1-9e40-416836426f07.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_480fc39c8c3f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "SGA on MVP chatter: 'I let my game do the talking'",
+      "dek": "Calling the discourse around NBA MVP \"good chatter,\" Thunder star Shai Gilgeous-Alexander nevertheless declined to weigh in himself, saying, \"No, I'm good. Than",
+      "body": "Calling the discourse around NBA MVP \"good chatter,\" Thunder star Shai Gilgeous-Alexander nevertheless declined to weigh in himself, saying, \"No, I'm good. Thanks for asking, though. ... I let my game do the talking.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-03-31T02:54:07+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48354038/thunder-star-shai-gilgeous-alexander-declines-weigh-mvp-conversation-let-my-game-do-talking",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_480fc39c8c3f",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_95b54eb830f6",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s548cq/nepals_new_pm_gives_message_to_nation_in_rap/",
       "image": "https://external-preview.redd.it/UFvckoOzVRdF4n03fLAU0YSee77lf0DDXzNglooeAVA.jpeg?width=640&crop=smart&auto=webp&s=eea7d405526094ddfbde9c5656cd3f409e1902cd",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b39965b77ee5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "dek": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
-      "body": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T13:25:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d48c/live/ada8ef80-29c2-11f1-952c-77491ff53aff.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_98df6c567c0a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump's paused attack on Iran's energy - for diplomacy or escalation?",
-      "dek": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
-      "body": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T13:17:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228b/live/07f22eb0-29ce-11f1-a2b6-c773a772cff9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_7485c6e7f69b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Florida AG challenges NFL to abolish Rooney Rule",
-      "dek": "Florida's attorney general has sent a letter to NFL commissioner Roger Goodell to express concern that the Rooney Rule is \"blatant race and sex discrimination\" ",
-      "body": "Florida's attorney general has sent a letter to NFL commissioner Roger Goodell to express concern that the Rooney Rule is \"blatant race and sex discrimination\" and that hiring decisions should be based on merit only.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-27T13:17:22+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48322280/florida-attorney-general-says-nfl-get-rid-rooney-rule",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7485c6e7f69b",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
