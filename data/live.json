@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-01T10:57:34+00:00",
+  "generatedAt": "2026-04-01T11:55:59+00:00",
   "items": [
+    {
+      "id": "latest_203882cf1b52",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
+      "dek": "This is just the second time that DR Congo have reached the World Cup finals, sparking celebrations in Kinshasa.",
+      "body": "This is just the second time that DR Congo have reached the World Cup finals, sparking celebrations in Kinshasa.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-01T11:46:50+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c678/live/aaafecf0-2db6-11f1-934f-036468834728.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e5d1c9b8ec0e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+      "dek": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
+      "body": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-01T11:34:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92a/live/271914a0-2dbd-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_14d3e884d5d0",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-01T10:53:03+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b9/live/37cad1e0-2db7-11f1-b692-3b8b8cac9c96.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5d840b3cb8d0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
-      "dek": "Attacks have continued, as Israel has announced its intention to control swathes of south Lebanon.",
-      "body": "Attacks have continued, as Israel has announced its intention to control swathes of south Lebanon.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T10:33:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e913/live/7a71f3c0-2da8-11f1-8469-3bd0a3d7fbf1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_030198e95d44",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russian military plane crash kills 29 in occupied Crimea",
-      "dek": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
-      "body": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T09:55:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863d/live/79e6a250-2d69-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
