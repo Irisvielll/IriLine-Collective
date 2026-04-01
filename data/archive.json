@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_5596c59f9d46",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Faux Onion Soup",
+      "dek": "submitted by /u/Kitkatforever100 [link] [comments]",
+      "body": "submitted by /u/Kitkatforever100 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-01T18:41:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9td3y/faux_onion_soup/",
+      "image": "https://external-preview.redd.it/ZibOwbnsAhzrXui3jt5JzSCVpgFHYK7qf4aFOLWxYoQ.jpeg?width=640&crop=smart&auto=webp&s=eb62587a2e4114d0d07d96b9a02e30c246a8c804",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a301693be74d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -44,6 +59,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a9/live/94aacd40-2ddd-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_96e82879b56c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Bears' stadium choice 'late spring, early summer'",
+      "dek": "Kevin Warren. president and CEO of the Chicago Bears, says the team is targeting \"late spring, early summer\" for a decision on where the team's new stadium will",
+      "body": "Kevin Warren. president and CEO of the Chicago Bears, says the team is targeting \"late spring, early summer\" for a decision on where the team's new stadium will be built.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-01T15:38:46+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_96e82879b56c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_0f0490290054",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-29T17:03:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s70l4v/pope_leo_god_does_not_listen_to_the_prayers_of/",
       "image": "https://external-preview.redd.it/XFyOyEEZfsgwcTU9hMP21UsKhLZK7dpsxyD5TkCIc5Q.jpeg?width=640&crop=smart&auto=webp&s=28462beba943b4fac6dfff733c770e7cd3d58b16",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_1b06a5b79c68",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Lynch: 49ers' injury conspiracy 'big nothing burger'",
-      "dek": "A few days after the San Francisco 49ers season ended, general manager John Lynch vowed to investigate anything and everything that might have contributed to th",
-      "body": "A few days after the San Francisco 49ers season ended, general manager John Lynch vowed to investigate anything and everything that might have contributed to the team's avalanche of injuries in 2025.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T16:51:24+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48340939/lynch-49ers-injury-conspiracy-burger",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1b06a5b79c68",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_9f464afe7dd7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
-      "dek": "Prime Minister Netanyahu said it was a safety measure following recent Iranian strikes.",
-      "body": "Prime Minister Netanyahu said it was a safety measure following recent Iranian strikes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T16:42:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3d/live/10b10f40-2b85-11f1-9b12-e7dc1d4ddef6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
