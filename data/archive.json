@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_db3f53900350",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NCAA proposes ban on players who stay in draft",
+      "dek": "The NCAA Division I Cabinet will consider proposed changes to eligibility rules, including one that would bar athletes who have entered and remained in a profes",
+      "body": "The NCAA Division I Cabinet will consider proposed changes to eligibility rules, including one that would bar athletes who have entered and remained in a professional sports draft from competing in college.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-01T19:13:52+00:00",
+      "sourceUrl": "https://www.espn.com/espn/story/_/id/48372762/ncaa-proposes-barring-players-opt-remain-draft",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_db3f53900350",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_2ceb04d2b839",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-29T22:27:46+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48344034/nfl-begin-hiring-replacement-officials-given-state-negotiations-nfl-referees-association",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3b250ede7713",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_8abcd4e7008c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "📷 Men's NCAA Sweet 16, Elite Eight superlatives",
-      "dek": "Here are nonstatistical and personality-driven superlatives from the Sweet 16 and Elite Eight rounds of the men's NCAA tournament.",
-      "body": "Here are nonstatistical and personality-driven superlatives from the Sweet 16 and Elite Eight rounds of the men's NCAA tournament.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-29T22:27:46+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48334340/2026-men-march-madness-ncaa-tournament-sweet-16-elite-eight-superlatives",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8abcd4e7008c",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
