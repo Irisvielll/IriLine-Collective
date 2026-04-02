@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_d45ac83a6372",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
+      "dek": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
+      "body": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T21:30:16+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_cf6d2fc27ba8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -134,6 +149,21 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_235ff277dc8d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Betting odds for the Masters, future golf majors: Scheffler, McIlroy favored",
+      "dek": "Odds for next four golf majors: The Masters, PGA Championship, U.S. Open and Open Championship.",
+      "body": "Odds for next four golf majors: The Masters, PGA Championship, U.S. Open and Open Championship.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T18:39:34+00:00",
+      "sourceUrl": "https://www.espn.com/betting/golf/story/_/id/48380375/golf-pga-tour-odds-win-major-masters-pga-championship-us-open-open-championship",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_235ff277dc8d",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_590f6cca7184",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-31T00:14:17+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/crm17m2gzl2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed75/live/5c6a36d0-2c95-11f1-85b2-2d183ed2ae9c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f988420daca6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Jan. 6 Capitol riot participants file lawsuit accusing police of excessive force",
-      "dek": "submitted by /u/omgfakeusername [link] [comments]",
-      "body": "submitted by /u/omgfakeusername [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T23:56:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s87kp5/jan_6_capitol_riot_participants_file_lawsuit/",
-      "image": "https://external-preview.redd.it/9uUhLB9nyVuKQc0vsVH25ac4Z9HNJC7XWYYbtHv2Ev8.jpeg?width=640&crop=smart&auto=webp&s=17835048dbc64b575c7086f331f4ebb4a5937229",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d9789a4ef304",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "ICE agents will be stationed outside Marine Corps graduation events in South Carolina",
-      "dek": "submitted by /u/Epistaxis [link] [comments]",
-      "body": "submitted by /u/Epistaxis [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T23:51:48+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s87h8a/ice_agents_will_be_stationed_outside_marine_corps/",
-      "image": "https://external-preview.redd.it/2bRq812geUewop0ywg-w7jroJ-gumcS63D50XqTATIA.jpeg?width=640&crop=smart&auto=webp&s=06cafa03c0f54df03c2986dee3c62b4a1a5f1761",
       "imageCredit": "Image via original publisher"
     }
   ]
