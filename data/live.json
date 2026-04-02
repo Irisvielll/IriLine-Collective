@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-02T11:11:32+00:00",
+  "generatedAt": "2026-04-02T11:58:32+00:00",
   "items": [
+    {
+      "id": "meme_f507d2e7901f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Dissident tells Russia’s Supreme Court Putin is ‘new Hitler’ after his appeal is rejected",
+      "dek": "submitted by /u/duckanroll [link] [comments]",
+      "body": "submitted by /u/duckanroll [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T11:46:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1saf47q/dissident_tells_russias_supreme_court_putin_is/",
+      "image": "https://external-preview.redd.it/JL5tOwm8ck6gssB33SfmDElzLV1Fe73MR8xNFhXJ00k.jpeg?width=640&crop=smart&auto=webp&s=2127d1d7eee8c9de21c5eb6cb94c2cde73328890",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_bfcf7e1f6b28",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-02T11:01:58+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sae90c/satire_is_a_vital_tool_for_challenging_power_and/",
       "image": "https://external-preview.redd.it/6NLeggXzY6YeZQM8Eu2kzlfjtjssIxSPXwE6KyDthEc.jpeg?width=640&crop=smart&auto=webp&s=28385f2dca4f44f2e3b991c372345be87cb05513",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9ba9e0cdbd0b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Brazil grants joint custody over pets in new law for separated couples",
-      "dek": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets.",
-      "body": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T09:38:08+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e981/live/14bb9760-2e6c-11f1-9408-ab8675603e32.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
