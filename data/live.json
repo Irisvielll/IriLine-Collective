@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-02T21:39:08+00:00",
+  "generatedAt": "2026-04-02T22:17:41+00:00",
   "items": [
+    {
+      "id": "latest_e9d6857a9b64",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Myanmar's coup leader who set off a brutal civil war is set to become president",
+      "dek": "General Min Aung is set to be chosen as the next president by the newly-elected parliament.",
+      "body": "General Min Aung is set to be chosen as the next president by the newly-elected parliament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T22:14:00+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d95d/live/05305d80-2eda-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_caebd71b8d50",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The Feds Say Cutting Fuel With Ethanol Will Bring Down Gas Prices. We're Not Buying It",
+      "dek": "submitted by /u/TripleShotPls [link] [comments]",
+      "body": "submitted by /u/TripleShotPls [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T21:40:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1saun0v/the_feds_say_cutting_fuel_with_ethanol_will_bring/",
+      "image": "https://external-preview.redd.it/VaqhCmJZk75HwAVbPm8qCmKhdLf_sA8R_DQI6hX_Er4.jpeg?width=640&crop=smart&auto=webp&s=d2c8109cbc0bd4776ed9d8a809bfb9756bbe327a",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d45ac83a6372",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-02T21:30:16+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8d/live/93aec9d0-2d08-11f1-b297-95b0a0a8331e.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_cf6d2fc27ba8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man drives stolen car to Salinas courthouse for auto theft hearing",
-      "dek": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "body": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T21:26:49+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sauagj/man_drives_stolen_car_to_salinas_courthouse_for/",
-      "image": "https://external-preview.redd.it/QZ12T0-2BpvqtwAv9VW6eYdTakGfVAeVoiEIcfT6zsc.jpeg?width=320&crop=smart&auto=webp&s=23c3eeea69be8c96e4884e8fae12b9885af3624d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a43b8dfaa4ee",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hegseth asks Army's top uniformed officer to step down as U.S. wages war against Iran",
-      "dek": "submitted by /u/view9234 [link] [comments]",
-      "body": "submitted by /u/view9234 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T21:21:12+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sau59x/hegseth_asks_armys_top_uniformed_officer_to_step/",
-      "image": "https://external-preview.redd.it/C0tTfowMjtc62jfq_oqEPLGs08wtPMUh6Wmcx0oDPAw.jpeg?width=640&crop=smart&auto=webp&s=f57fc73303902337426de6ff758f7088b35e04f1",
       "imageCredit": "Image via original publisher"
     }
   ]
