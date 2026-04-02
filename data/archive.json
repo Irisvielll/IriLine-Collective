@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_78ce021e1800",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "We Now Return to Your Regularly Scheduled NTO Broadcast!",
+      "dek": "Thank you for participating in April Fools 2026! The dichotomy of serious and silly posts was wonderful! submitted by /u/Kezika [link] [comments]",
+      "body": "Thank you for participating in April Fools 2026! The dichotomy of serious and silly posts was wonderful! submitted by /u/Kezika [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T03:42:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sa6mpu/we_now_return_to_your_regularly_scheduled_nto/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_78ce021e1800",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_d3fce6600ba6",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-30T07:22:30+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48339776/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_33036718a8f3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_cc0d32cc007f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ranking the top Stanley Cup playoff bandwagons for ousted fans",
-      "dek": "For the 16 fan bases whose team doesn't make it, here's a guide on who they should root for.",
-      "body": "For the 16 fan bases whose team doesn't make it, here's a guide on who they should root for.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-30T07:22:30+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48341413/nhl-2025-26-best-games-week-top-players-stanley-cup-playoffs-bandwagon-fans",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cc0d32cc007f",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
