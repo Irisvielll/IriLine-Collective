@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-02T05:19:33+00:00",
+  "generatedAt": "2026-04-02T06:48:11+00:00",
   "items": [
+    {
+      "id": "meme_6c7075f6505a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bob Marley's Dreadlock Estimated to Sell at Auction for Over $30K",
+      "dek": "submitted by /u/splitopenandmelt11 [link] [comments]",
+      "body": "submitted by /u/splitopenandmelt11 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T06:28:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sa9omb/bob_marleys_dreadlock_estimated_to_sell_at/",
+      "image": "https://external-preview.redd.it/CJwd1CW8oRzIq3HKj44daZegKvMjw6OhsalIyE0c0wg.jpeg?width=640&crop=smart&auto=webp&s=8672f205360ec265d4df2793b13994c6609de17c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_77fb99837fa5",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sa6mpu/we_now_return_to_your_regularly_scheduled_nto/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_78ce021e1800",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_d3fce6600ba6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
-      "dek": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
-      "body": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T03:22:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a16e/live/1fb45ff0-2e42-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
