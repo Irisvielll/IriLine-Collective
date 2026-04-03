@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_ca5053f88607",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "dek": "Hegseth assembles ‘God Squad’ to make life or death decisions about endangered animals submitted by /u/justtots [link] [comments]",
+      "body": "Hegseth assembles ‘God Squad’ to make life or death decisions about endangered animals submitted by /u/justtots [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T15:16:47+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbgeau/us_exempts_oil_industry_from_protecting_gulf/",
+      "image": "https://external-preview.redd.it/inXEf1Tj6P0MAIyKDBCnWq0F_NCp0CCr1I2oOeHCRZg.jpeg?width=640&crop=smart&auto=webp&s=32fa50fe57da0a0370eb72f06eb8f8ed21519bce",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_25cc3ed07dae",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+      "dek": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
+      "body": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T15:04:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_49b173cca13d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -104,6 +134,21 @@
       "sourceUrl": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4a8/live/a3f1bb50-2f55-11f1-b471-73a11a0c1806.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_17955242bde8",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NBA playoff watch: Wolves, Sixers look to solidify spots",
+      "dek": "Only one game Friday features a pair of playoff teams. Plus, updated playoff projections and more.",
+      "body": "Only one game Friday features a pair of playoff teams. Plus, updated playoff projections and more.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T12:34:03+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_17955242bde8",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_ed3028d507b9",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-03-31T14:31:40+00:00",
       "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/48347911/2026-fantasy-football-rankings-qb-profiles",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_60869348f062",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_08c76644fb56",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Speaker Dustin Burrows lists data centers, property taxes and annexing slice of New Mexico among 2027 priorities",
-      "dek": "submitted by /u/Fragrant-Sand-5851 [link] [comments]",
-      "body": "submitted by /u/Fragrant-Sand-5851 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T14:22:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8ou41/speaker_dustin_burrows_lists_data_centers/",
-      "image": "https://external-preview.redd.it/8NI-AKe668x0Ay9gfk5o-KdqSBL8V5cN62CnP7mDMWg.jpeg?width=640&crop=smart&auto=webp&s=be5413df617fc192b24b7dcbb317c4b19afb68d8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f90f435477d8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "King Charles and Queen Camilla's state visit to US to go ahead in April",
-      "dek": "Despite political tensions between the US and UK, the King will travel to Washington next month.",
-      "body": "Despite political tensions between the US and UK, the King will travel to Washington next month.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T14:05:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjd8nkezdyxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fec/live/7a119a80-2c17-11f1-aa35-ab540ef24ae5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bdc6e30721bf",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Thousands of Chinese social media users change profile photos to Kris Jenner",
-      "dek": "submitted by /u/AudibleNod [link] [comments]",
-      "body": "submitted by /u/AudibleNod [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T13:46:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8nw6m/thousands_of_chinese_social_media_users_change/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_bdc6e30721bf",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

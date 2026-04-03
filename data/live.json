@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T15:53:58+00:00",
+  "generatedAt": "2026-04-03T16:40:49+00:00",
   "items": [
+    {
+      "id": "latest_4a3090b57343",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US deports eight people 'of African origin' to Uganda",
+      "dek": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
+      "body": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T16:22:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c493/live/68ed97c0-2f70-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dc4c39f3036c",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_ca5053f88607",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-      "dek": "Hegseth assembles ‘God Squad’ to make life or death decisions about endangered animals submitted by /u/justtots [link] [comments]",
-      "body": "Hegseth assembles ‘God Squad’ to make life or death decisions about endangered animals submitted by /u/justtots [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T15:16:47+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbgeau/us_exempts_oil_industry_from_protecting_gulf/",
-      "image": "https://external-preview.redd.it/inXEf1Tj6P0MAIyKDBCnWq0F_NCp0CCr1I2oOeHCRZg.jpeg?width=640&crop=smart&auto=webp&s=32fa50fe57da0a0370eb72f06eb8f8ed21519bce",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_25cc3ed07dae",
+      "id": "latest_26bbf55730df",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
-      "dek": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
-      "body": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
+      "title": "Trump seeks massive $1.5tn for defence alongside cuts in domestic spending",
+      "dek": "The president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
+      "body": "The president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T15:04:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee66/live/b721c460-2f62-11f1-9c03-f3e4d4e9190c.jpg",
+      "publishedAt": "2026-04-03T15:45:25+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9f0/live/4152aaf0-2f72-11f1-8612-f1cd1152f88c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
