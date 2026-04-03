@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T17:19:07+00:00",
+  "generatedAt": "2026-04-03T18:00:42+00:00",
   "items": [
+    {
+      "id": "latest_85dd88fad918",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "dek": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+      "body": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T17:45:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ed/live/b4e9e4b0-2f81-11f1-a6f5-1188a52986a4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7c6c2d399692",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-03T16:22:45+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c493/live/68ed97c0-2f70-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dc4c39f3036c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Tesla Is Sitting On A Record 50,000 Unsold EVs",
-      "dek": "submitted by /u/TripleShotPls [link] [comments]",
-      "body": "submitted by /u/TripleShotPls [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T15:47:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbh8iq/tesla_is_sitting_on_a_record_50000_unsold_evs/",
-      "image": "https://external-preview.redd.it/qxXJR1j5zG9AVYM_HCOiGPoudybem2XL-TmXWgWGrN0.jpeg?width=640&crop=smart&auto=webp&s=ed14fed68effade5e87d78ed5476bd9d4eb6053d",
       "imageCredit": "Image via original publisher"
     }
   ]
