@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T04:02:09+00:00",
+  "generatedAt": "2026-04-03T05:49:46+00:00",
   "items": [
+    {
+      "id": "meme_91d67df83656",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Burchett on aliens: ‘You’d be up at night’ if ‘the things that I’ve seen’ are released",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T05:47:32+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sb55ig/burchett_on_aliens_youd_be_up_at_night_if_the/",
+      "image": "https://external-preview.redd.it/dIy9Bp-LnAHkDRrYKn16s5LtFfzQQbDyE8CWL-Fel7w.jpeg?width=640&crop=smart&auto=webp&s=24c492d779f5d8ed589896bfc7f771aa1d90829f",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e8823a99a64d",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1saxtmi/rapper_gucci_mane_was_the_target_of_kidnapping/",
       "image": "https://external-preview.redd.it/oaH37E7ShFRtiAgkh_5zaa_pAEQauyA_Q6P4RQh4h9s.jpeg?width=640&crop=smart&auto=webp&s=9adde8bcc104a1acd6b980cffb6a45ac27d53251",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_53741c0ece8c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Luka (hamstring) leaves Lakers' game in OKC",
-      "dek": "Lakers star Luka Doncic exited Thursday's game against the Thunder early because of a strained left hamstring.",
-      "body": "Lakers star Luka Doncic exited Thursday's game against the Thunder early because of a strained left hamstring.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T23:50:31+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48382849/luka-doncic-exits-lakers-game-okc-hamstring-strain",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_53741c0ece8c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

@@ -31,6 +31,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_53741c0ece8c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Luka (hamstring) leaves Lakers' game in OKC",
+      "dek": "Lakers star Luka Doncic exited Thursday's game against the Thunder early because of a strained left hamstring.",
+      "body": "Lakers star Luka Doncic exited Thursday's game against the Thunder early because of a strained left hamstring.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-02T23:50:31+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48382849/luka-doncic-exits-lakers-game-okc-hamstring-strain",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_53741c0ece8c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_f7b98e10e609",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-31T03:46:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a2a1d53d0b77",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "King Charles should meet Epstein victims, US lawmaker says",
-      "dek": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April.",
-      "body": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T02:57:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e1/live/bcc0df00-2c92-11f1-9e40-416836426f07.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
