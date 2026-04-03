@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T01:02:30+00:00",
+  "generatedAt": "2026-04-03T04:02:09+00:00",
   "items": [
+    {
+      "id": "latest_e8823a99a64d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Artemis II blasts ever closer to the far side of the Moon",
+      "dek": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+      "body": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T03:35:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_175b07637630",
       "section": "meme",
@@ -17,34 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_f7b98e10e609",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Licensing board member faces disciplinary charges from a separate board • Iowa Capital Dispatch",
-      "dek": "submitted by /u/andrewedufresne [link] [comments]",
-      "body": "submitted by /u/andrewedufresne [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T23:49:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1saxrv2/licensing_board_member_faces_disciplinary_charges/",
-      "image": "https://external-preview.redd.it/PTcf5fk1zpEjRB1_kb5wUovTIXOQvgwXj2Ux4r0bMrc.jpeg?width=640&crop=smart&auto=webp&s=2bb87a765afdf55578495191a7befb7959f9b326",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f7f2fbce59d8",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_53741c0ece8c",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran war could make beer and bottled water pricier for Indians",
-      "dek": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
-      "body": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
+      "category": "SPORTS",
+      "title": "Luka (hamstring) leaves Lakers' game in OKC",
+      "dek": "Lakers star Luka Doncic exited Thursday's game against the Thunder early because of a strained left hamstring.",
+      "body": "Lakers star Luka Doncic exited Thursday's game against the Thunder early because of a strained left hamstring.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T23:16:37+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb8/live/2e39bd00-2d9c-11f1-8be6-dbad2e8ac294.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-02T23:50:31+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48382849/luka-doncic-exits-lakers-game-okc-hamstring-strain",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_53741c0ece8c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
