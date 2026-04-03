@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-03T11:53:11+00:00",
+  "generatedAt": "2026-04-03T13:05:47+00:00",
   "items": [
+    {
+      "id": "meme_ed3028d507b9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man wanted for pouring drink in baptismal font, stealing donations in suspected hate crime at Queens church",
+      "dek": "submitted by /u/conturbation [link] [comments]",
+      "body": "submitted by /u/conturbation [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T12:22:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbc3vq/man_wanted_for_pouring_drink_in_baptismal_font/",
+      "image": "https://external-preview.redd.it/yQLd6iQYDyKsT3HPxwNn39dPBYbntiZjHbXISI6STPo.png?width=640&crop=smart&auto=webp&s=e115b5556dd5cb8001b8973233f20ee60d3e16de",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e018bf66b1e8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "France's Muslim gathering ban overturned by courts",
+      "dek": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
+      "body": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T12:20:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f704/live/08913f80-2f4d-11f1-b471-73a11a0c1806.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_2128e6dcd917",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-03T11:52:50+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ecc/live/bf8dad10-2f23-11f1-a425-47721dfc6207.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d257439886dc",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Iran is winning the AI slop propaganda war",
-      "dek": "According to a new report from 404 Media, Iran is successfully using AI-generated propaganda, including viral LEGO animations and catchy rap songs, to target Am",
-      "body": "According to a new report from 404 Media, Iran is successfully using AI-generated propaganda, including viral LEGO animations and catchy rap songs, to target American audiences and critique US leadership. Meanwhile, the US administration's attempts at counter-propaganda using video game memes are largely falling flat outside of its core base. submitted by /u/EchoOfOppenheimer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T11:39:19+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbb6jo/iran_is_winning_the_ai_slop_propaganda_war/",
-      "image": "https://external-preview.redd.it/J4VsRvBWNJnu1UBWKHIsjF_zlo5D6wjLKhG5HxhroOw.png?width=640&crop=smart&auto=webp&s=954edd60cdf96635a45798a4bd7e16a1540e8196",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6af6e2b6020d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "When will the Iran war end? Tracing the Trump administration's timelines",
-      "dek": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
-      "body": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T11:28:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c95/live/56b83840-2ee8-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
