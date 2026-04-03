@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_7c6c2d399692",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
+      "dek": "Officials say the hip-hop star was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract.",
+      "body": "Officials say the hip-hop star was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T16:54:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a642/live/441d8030-2f71-11f1-8612-f1cd1152f88c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_4a3090b57343",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-31T16:34:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8shsk/tsa_workers_asked_to_return_1000_gift_cards_given/",
       "image": "https://external-preview.redd.it/O86VctALM3dLgLiJMyje3an_R7WeP6Q1Xf6IuO7Cojk.jpeg?width=640&crop=smart&auto=webp&s=e3212c69fa0af30f692ff3e802ae3ac5e8e33963",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fcc28f5111cd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "dek": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
-      "body": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T16:12:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb9/live/6074dc70-2cff-11f1-b960-35ed0ba67153.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
