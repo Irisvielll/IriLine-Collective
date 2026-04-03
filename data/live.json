@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T05:49:46+00:00",
+  "generatedAt": "2026-04-03T07:11:08+00:00",
   "items": [
+    {
+      "id": "meme_1be46c271fca",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Political candidate who tossed tarantula at Airbnb tenant found guilty at trial",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T06:14:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sb5mnx/political_candidate_who_tossed_tarantula_at/",
+      "image": "https://external-preview.redd.it/L3fKFuJQE5MgDBcEA77v4Jx_zwG1U8OvWw10bqZpGNc.jpeg?width=640&crop=smart&auto=webp&s=b98e6779646594860fa00160e35bfde49341fb66",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_91d67df83656",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-03T03:35:28+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_175b07637630",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Rapper Gucci Mane was the target of kidnapping and robbery plot by Pooh Shiesty, DOJ says",
-      "dek": "submitted by /u/MoneyIsMyCousinsName [link] [comments]",
-      "body": "submitted by /u/MoneyIsMyCousinsName [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T23:52:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1saxtmi/rapper_gucci_mane_was_the_target_of_kidnapping/",
-      "image": "https://external-preview.redd.it/oaH37E7ShFRtiAgkh_5zaa_pAEQauyA_Q6P4RQh4h9s.jpeg?width=640&crop=smart&auto=webp&s=9adde8bcc104a1acd6b980cffb6a45ac27d53251",
       "imageCredit": "Image via original publisher"
     }
   ]
