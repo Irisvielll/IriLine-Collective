@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_4a3090b57343",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US deports eight people 'of African origin' to Uganda",
+      "dek": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
+      "body": "The Uganda Law Society criticises the deportation, saying it was illegal and \"dehumanising\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T16:22:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c493/live/68ed97c0-2f70-11f1-a79a-77e93010d956.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_dc4c39f3036c",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb9/live/6074dc70-2cff-11f1-b960-35ed0ba67153.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_bf2babe47019",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "OSU's Day likens CFB to dinosaurs: 'Adapt or die'",
-      "dek": "Ohio State coach Ryan Day drew parallels between the evolving state of college football and when dinosaurs faced their extinction-level event. \"Either adapt or ",
-      "body": "Ohio State coach Ryan Day drew parallels between the evolving state of college football and when dinosaurs faced their extinction-level event. \"Either adapt or you die,\" he said.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T15:36:32+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48359330/ryan-day-likens-cfb-dinosaur-extinction-adapt-die",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bf2babe47019",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
