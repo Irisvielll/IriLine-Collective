@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-03T13:05:47+00:00",
+  "generatedAt": "2026-04-03T14:07:02+00:00",
   "items": [
+    {
+      "id": "latest_8e54afd3af8d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+      "dek": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
+      "body": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T13:16:33+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_38e1a592bb7d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A Pound of Ground Beef Now Costs More Than the Federal Minimum Wage",
+      "dek": "submitted by /u/smaiads [link] [comments]",
+      "body": "submitted by /u/smaiads [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T13:06:08+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbd3ec/a_pound_of_ground_beef_now_costs_more_than_the/",
+      "image": "https://external-preview.redd.it/FkQHcBRqO2qgBkalarUJfgju7On-Njn9fQxH3OzMgTI.jpeg?width=640&crop=smart&auto=webp&s=801a80a999f96ba924ef194dc239185b1d9f65d9",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ed3028d507b9",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-03T12:22:59+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbc3vq/man_wanted_for_pouring_drink_in_baptismal_font/",
       "image": "https://external-preview.redd.it/yQLd6iQYDyKsT3HPxwNn39dPBYbntiZjHbXISI6STPo.png?width=640&crop=smart&auto=webp&s=e115b5556dd5cb8001b8973233f20ee60d3e16de",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e018bf66b1e8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "France's Muslim gathering ban overturned by courts",
-      "dek": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
-      "body": "The Paris police department had argued that the four-day gathering was a security threat because it could be a target of terrorism.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T12:20:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f704/live/08913f80-2f4d-11f1-b471-73a11a0c1806.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2128e6dcd917",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Who is Christopher LaNeve, set to lead the US army?",
-      "dek": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
-      "body": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T11:52:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ecc/live/bf8dad10-2f23-11f1-a425-47721dfc6207.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
