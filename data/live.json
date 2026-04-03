@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T10:03:33+00:00",
+  "generatedAt": "2026-04-03T11:03:24+00:00",
   "items": [
+    {
+      "id": "meme_3d0e5431340b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Artemis II astronaut finds two Outlook instances running on computers, calls on Houston to fix Microsoft anomaly — puzzled caller describes ‘two Outlooks, and neither one of those are working’",
+      "dek": "submitted by /u/plain_handle [link] [comments]",
+      "body": "submitted by /u/plain_handle [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T10:26:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sb9tde/artemis_ii_astronaut_finds_two_outlook_instances/",
+      "image": "https://external-preview.redd.it/_ui67PZBRHao8nWHegbMlQo-Lw4k0pzAuIHPQo0GPxg.jpeg?width=640&crop=smart&auto=webp&s=1b0a216a894fd58cf43e2653abd25d183d614b59",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_1be46c271fca",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-03T05:47:32+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sb55ig/burchett_on_aliens_youd_be_up_at_night_if_the/",
       "image": "https://external-preview.redd.it/dIy9Bp-LnAHkDRrYKn16s5LtFfzQQbDyE8CWL-Fel7w.jpeg?width=640&crop=smart&auto=webp&s=24c492d779f5d8ed589896bfc7f771aa1d90829f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e8823a99a64d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Artemis II blasts ever closer to the far side of the Moon",
-      "dek": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-      "body": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T03:35:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
