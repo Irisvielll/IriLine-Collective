@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_38adaf938931",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NFL probe finds no reason to discipline Chiefs' Rice",
+      "dek": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the",
+      "body": "The NFL announced Friday that it concluded its own investigation into Chiefs receiver Rashee Rice, stating that he \"has not engaged in conduct that violates the personal conduct policy.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T17:46:25+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48389126/chiefs-wr-rashee-rice-faces-no-nfl-discipline-abuse-allegations",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_38adaf938931",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_823da21fa8eb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Executive order: Athletes get 5 years, 1 transfer",
+      "dek": "An executive order signed by President Donald Trump Friday limits NCAA athletes to a five year playing window and how often they can transfer between schools.",
+      "body": "An executive order signed by President Donald Trump Friday limits NCAA athletes to a five year playing window and how often they can transfer between schools.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T17:46:24+00:00",
+      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48387866/executive-order-limits-ncaa-athletes-five-years-one-transfer",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_823da21fa8eb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_85dd88fad918",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8ucty/large_golden_toilet_titled_a_throne_fit_for_a/",
       "image": "https://external-preview.redd.it/jF23B5tVrLEkZNTi_qinLMA4KNiRUiev7sVCGvSbFsA.jpeg?width=640&crop=smart&auto=webp&s=bbf724fd031d6341936994d7d997b0a33721d70c",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bf413a33fca5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Founder of ‘orgasmic meditation’ company gets 9 years in prison in forced labor conspiracy",
-      "dek": "submitted by /u/DecafMocha [link] [comments]",
-      "body": "submitted by /u/DecafMocha [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T17:28:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8u0kc/founder_of_orgasmic_meditation_company_gets_9/",
-      "image": "https://external-preview.redd.it/ub_YbCDCLScBJOY-fo2RrmHSnB_qmaP-oOVbZcl0Gwo.jpeg?width=640&crop=smart&auto=webp&s=7db84dc494436e620e31d0bbd88c62ff04f4f3ce",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_1964e6bc5b58",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Meet the World Cup debutants: Cape Verde, Curaçao, Jordan, Uzbekistan tell their stories",
-      "dek": "Experts on each national team to qualify for their first World Cup help us get acquainted with their country.",
-      "body": "Experts on each national team to qualify for their first World Cup help us get acquainted with their country.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T17:12:27+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48322228/meet-2026-world-cup-debutants-cape-verde-curacao-jordan-uzbekistan",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1964e6bc5b58",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
