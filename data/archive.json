@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_85dd88fad918",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "dek": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+      "body": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T17:45:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ed/live/b4e9e4b0-2f81-11f1-a6f5-1188a52986a4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_0dabc9dfb655",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Jags sign DE Walker to 4-year, $110M extension",
+      "dek": "The Jaguars signed defensive end Travon Walker to a four-year, $110 million contract extension, his agency announced on Friday.",
+      "body": "The Jaguars signed defensive end Travon Walker to a four-year, $110 million contract extension, his agency announced on Friday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T17:13:10+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48388833/jaguars-sign-travon-walker-4-year-110-million-extension",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0dabc9dfb655",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_7c6c2d399692",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48322228/meet-2026-world-cup-debutants-cape-verde-curacao-jordan-uzbekistan",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1964e6bc5b58",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_cca50d88b55f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Demolition of Durham Kiln refused despite already being flattened",
-      "dek": "submitted by /u/Chrad [link] [comments]",
-      "body": "submitted by /u/Chrad [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T17:08:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8tgje/demolition_of_durham_kiln_refused_despite_already/",
-      "image": "https://external-preview.redd.it/r_eMlUgY6UZY2YrZ6GLEY1XUNEZ9JQakMXqnxmFt32E.jpeg?width=640&crop=smart&auto=webp&s=018bd2f52317f5b82010515b058de87553b9595b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d19cbed1c65b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Blub the Goldfish Drives Tiny Car, Sets Guinness World Record Using Motion Technology",
-      "dek": "submitted by /u/JoeyZasaa [link] [comments]",
-      "body": "submitted by /u/JoeyZasaa [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T17:03:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8taj9/blub_the_goldfish_drives_tiny_car_sets_guinness/",
-      "image": "https://external-preview.redd.it/cbJymgKvVrPAU3SOZmSA_bPlbPbxqlIDceo-Nf6KSVg.jpeg?width=640&crop=smart&auto=webp&s=05a16ee1c9eb545a05096c08ffdc5637a98e5437",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

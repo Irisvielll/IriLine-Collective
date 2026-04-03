@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T20:37:16+00:00",
+  "generatedAt": "2026-04-03T21:17:19+00:00",
   "items": [
+    {
+      "id": "latest_d65f2553bc4d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How elite US teams tackle combat rescue missions",
+      "dek": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+      "body": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T20:42:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_897c13ebd1f1",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-03T18:25:25+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_85dd88fad918",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "French-owned ship passes through Strait of Hormuz",
-      "dek": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
-      "body": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T17:45:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ed/live/b4e9e4b0-2f81-11f1-a6f5-1188a52986a4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
