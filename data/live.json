@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-03T23:17:48+00:00",
+  "generatedAt": "2026-04-03T23:56:44+00:00",
   "items": [
+    {
+      "id": "meme_dd05e795b2b6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "FEMA official says he’s teleported several times, including to Waffle House",
+      "dek": "submitted by /u/Character-Bid-162 [link] [comments]",
+      "body": "submitted by /u/Character-Bid-162 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T23:30:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbtccb/fema_official_says_hes_teleported_several_times/",
+      "image": "https://external-preview.redd.it/BkH--KOcDGWU1PsX9gkn9PbokL7x-U-hXtiq02AVJ-k.jpeg?width=640&crop=smart&auto=webp&s=71895302b8415db155121dc2e510330b8dba6597",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_f9317ef3a923",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
+      "dek": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
+      "body": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T23:14:04+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62b/live/2537b0e0-2f72-11f1-8612-f1cd1152f88c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ddcc5f1268ff",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-03T23:04:24+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6409/live/d4812350-2d07-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_17525d54a4b5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "DC is putting rats on birth control",
-      "dek": "submitted by /u/cwhmoney555 [link] [comments]",
-      "body": "submitted by /u/cwhmoney555 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T22:15:32+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbrkyc/dc_is_putting_rats_on_birth_control/",
-      "image": "https://external-preview.redd.it/iaPj0tqOJrYFfR6GOLW3TmvP89q3cU9gSvgb1S4-_3c.jpeg?width=640&crop=smart&auto=webp&s=04b29bda1becfc377f851e70b1fb14d2ead8e0ee",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d65f2553bc4d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How elite US teams tackle combat rescue missions",
-      "dek": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
-      "body": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T20:42:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
