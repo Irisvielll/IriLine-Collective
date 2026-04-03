@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-03T16:40:49+00:00",
+  "generatedAt": "2026-04-03T17:19:07+00:00",
   "items": [
+    {
+      "id": "latest_7c6c2d399692",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
+      "dek": "Officials say the hip-hop star was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract.",
+      "body": "Officials say the hip-hop star was forced to sign papers releasing a rapper known as Pooh Shiesty from his record contract.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-03T16:54:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a642/live/441d8030-2f71-11f1-8612-f1cd1152f88c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_4a3090b57343",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-03T15:47:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbh8iq/tesla_is_sitting_on_a_record_50000_unsold_evs/",
       "image": "https://external-preview.redd.it/qxXJR1j5zG9AVYM_HCOiGPoudybem2XL-TmXWgWGrN0.jpeg?width=640&crop=smart&auto=webp&s=ed14fed68effade5e87d78ed5476bd9d4eb6053d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_26bbf55730df",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump seeks massive $1.5tn for defence alongside cuts in domestic spending",
-      "dek": "The president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
-      "body": "The president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T15:45:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9f0/live/4152aaf0-2f72-11f1-8612-f1cd1152f88c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
