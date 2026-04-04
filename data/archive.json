@@ -121,6 +121,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_ea5d7995e05b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UCLA in 'job's not done' mode after '25 letdown",
+      "dek": "With last year's Final Four loss under its belt, UCLA is approaching Sunday's national title game against South Carolina with a much more focused and \"businessl",
+      "body": "With last year's Final Four loss under its belt, UCLA is approaching Sunday's national title game against South Carolina with a much more focused and \"businesslike\" mindset.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T18:58:42+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48398323/ucla-entering-ncaa-title-game-businesslike-mindset",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ea5d7995e05b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_517c957da9ec",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-01T12:05:34+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfb/live/a7fefac0-2dd7-11f1-a186-bdbec3fa8607.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_203882cf1b52",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
-      "dek": "This is just the second time that DR Congo have reached the World Cup finals, sparking celebrations in Kinshasa.",
-      "body": "This is just the second time that DR Congo have reached the World Cup finals, sparking celebrations in Kinshasa.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T11:46:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c678/live/aaafecf0-2db6-11f1-934f-036468834728.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
