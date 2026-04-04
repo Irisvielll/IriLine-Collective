@@ -106,6 +106,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_2b618bd8d31e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Wilder beats Chisora on points in bruising brawl",
+      "dek": "Deontay Wilder beat Derek Chisora in a scrappy but entertaining brawl on Saturday to put himself back in the conversation for bigger fights at heavyweight.",
+      "body": "Deontay Wilder beat Derek Chisora in a scrappy but entertaining brawl on Saturday to put himself back in the conversation for bigger fights at heavyweight.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T19:24:54+00:00",
+      "sourceUrl": "https://www.espn.com/boxing/story/_/id/48396325/deontay-wilder-beats-derek-chisora-boxing-entertaining-split-decision",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2b618bd8d31e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_3f64c9cda5b3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Arsenal in 'difficult period' with shock FA Cup loss",
+      "dek": "Arsenal manager Mikel Arteta acknowledged his team is going through its first tough period of the season after being stunned by second-tier Southampton in the F",
+      "body": "Arsenal manager Mikel Arteta acknowledged his team is going through its first tough period of the season after being stunned by second-tier Southampton in the FA Cup.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T19:24:54+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48398183/mikel-arteta-arsenal-southampton-fa-cup-difficult-period",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3f64c9cda5b3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_78f95c152089",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9jhk0/nottheonion_now_a_food_subreddit_for_people_with/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_6fcbe996c88f",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_be511b63c1db",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "China bans entombing cremated remains in empty flats",
-      "dek": "submitted by /u/ReimuSan003 [link] [comments]",
-      "body": "submitted by /u/ReimuSan003 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T12:22:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9j073/china_bans_entombing_cremated_remains_in_empty/",
-      "image": "https://external-preview.redd.it/aPjVa6nNMpOVJfoIbmWAaOQBa80kSnSRe7QpQjBY5LY.jpeg?width=640&crop=smart&auto=webp&s=97ad4f775aa457974078ae8bbfdef32521e01ef4",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_11b0ced255a8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Devastated Italians reckon with 'third apocalypse' of World Cup failure",
-      "dek": "Azzurri fans and management alike are pondering what went wrong after Italy fail to qualify for third World Cup in a row.",
-      "body": "Azzurri fans and management alike are pondering what went wrong after Italy fail to qualify for third World Cup in a row.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T12:05:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfb/live/a7fefac0-2dd7-11f1-a186-bdbec3fa8607.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
