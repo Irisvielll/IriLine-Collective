@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_3b94129da1c9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Voters Increasingly Use AI as Political Advisor. A New Study Shows the Risks.",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T20:44:46+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sck7cy/voters_increasingly_use_ai_as_political_advisor_a/",
+      "image": "https://external-preview.redd.it/vjzzPww5fOL7MGHL16VT7AboGdF35MwBCcUEvCqCEKY.jpeg?width=640&crop=smart&auto=webp&s=4a2858e007a6fbf37980ba75d57fd7749442b6bc",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_954505084c04",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A top FEMA official is doubling down on his claims that he teleported to a Waffle House",
+      "dek": "submitted by /u/Theorpo [link] [comments]",
+      "body": "submitted by /u/Theorpo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T20:15:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scjhcs/a_top_fema_official_is_doubling_down_on_his/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_954505084c04",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_535e60a037ea",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -104,6 +134,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cx2e95xqn10o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6678/live/1f9ddb10-304d-11f1-b4a1-71281f71e968.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d7685c11854e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ex-ref Crawford: Challenges hold refs accountable",
+      "dek": "Joey Crawford, a member of the 2026 Hall of Fame class, advocated for the use of challenge systems in sports, saying they hold officials accountable.",
+      "body": "Joey Crawford, a member of the 2026 Hall of Fame class, advocated for the use of challenge systems in sports, saying they hold officials accountable.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T18:08:41+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48397873/ex-nba-referee-joey-crawford-advocates-challenge-systems",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d7685c11854e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_d16f14fd34da",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Derek Chisora vs. Deontay Wilder LIVE: Latest updates from heavyweight showdown",
+      "dek": "ESPN has live updates of the heavyweight boxing clash between Derek Chisora and Deontay Wilder from London.",
+      "body": "ESPN has live updates of the heavyweight boxing clash between Derek Chisora and Deontay Wilder from London.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T18:01:02+00:00",
+      "sourceUrl": "https://www.espn.com/boxing/story/_/id/48393161/derek-chisora-deontay-wilder-live-boxing-latest-updates-heavyweight-news-commentary",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d16f14fd34da",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_e80f6d958b56",
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c678/live/aaafecf0-2db6-11f1-934f-036468834728.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e5d1c9b8ec0e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
-      "dek": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
-      "body": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T11:34:31+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92a/live/271914a0-2dbd-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a779522004aa",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Brazil judge blocks Sugarloaf Mountain zipline",
-      "dek": "The project to build a zipline linking the popular Rio tourist spot to Morro da Urca proved controversial.",
-      "body": "The project to build a zipline linking the popular Rio tourist spot to Morro da Urca proved controversial.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T11:17:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1777/live/c6537470-2db3-11f1-927b-f98ec5617a78.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_14d3e884d5d0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran war economic shocks will last 'months', say Australia's PM",
-      "dek": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war.",
-      "body": "Anthony Albanese used a rare TV address to tell Australians that the \"months ahead may not be easy\" amid the global effects of the war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T10:53:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b9/live/37cad1e0-2db7-11f1-b692-3b8b8cac9c96.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_9ee3fcfce488",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "No bond for amputee cornhole pro in murder case",
-      "dek": "Dayton Webber, the quadruple amputee cornhole player who is facing murder charges, will continue to be held without bond as his case moves forward, a Maryland j",
-      "body": "Dayton Webber, the quadruple amputee cornhole player who is facing murder charges, will continue to be held without bond as his case moves forward, a Maryland judge ruled Wednesday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T10:50:36+00:00",
-      "sourceUrl": "https://www.espn.com/espn/story/_/id/48368530/amputee-cornhole-pro-denied-bond-murder-case",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9ee3fcfce488",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
