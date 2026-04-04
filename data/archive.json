@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_c41c8f2b24f7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "US Warns Iran Unlikely to Ease Hormuz Strait Control",
+      "dek": "submitted by /u/view9234 [link] [comments]",
+      "body": "submitted by /u/view9234 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T00:33:33+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbusa4/us_warns_iran_unlikely_to_ease_hormuz_strait/",
+      "image": "https://external-preview.redd.it/dKDpLwFPY7ydyVkUuZ25Vr5YbzY-Cn3g1m9LzuvqogA.jpeg?width=640&crop=smart&auto=webp&s=1159b8c7afdbb7f1617346b20c7ef75d005da7c3",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_cd2950446f72",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-03-31T21:12:59+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s90ceg/uss_george_hw_bush_deploys_amid_iran_war/",
       "image": "https://external-preview.redd.it/U7rRv-4Y2-Q4ExgJz7wMgGuAuGLb8II2-k2GEejqQjo.jpeg?width=640&crop=smart&auto=webp&s=6b85970979f00b89f478b067ac38ef760165680a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_56bc6462e70c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-      "dek": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-      "body": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T21:08:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dad/live/93b6a420-2d2b-11f1-a36a-2bc3523bb833.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
