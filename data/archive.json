@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_ce33301994cc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Polymarket apologizes for allowing wagers on fate of U.S. pilots downed in Iran",
+      "dek": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "body": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T20:03:05+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scj5wz/polymarket_apologizes_for_allowing_wagers_on_fate/",
+      "image": "https://external-preview.redd.it/AzNBsSzpLEok5HPFxqNG7DeQRt2MvNFkcuhes6Er6go.jpeg?width=640&crop=smart&auto=webp&s=fa932a1d7f60e8421a6f5c48ee8b206a6a33a703",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_201dc5100db7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -104,6 +119,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sceulq/cognitive_surrender_leads_ai_users_to_abandon/",
       "image": "https://external-preview.redd.it/bGgX9PwFlDItZELsCOdXPIEHrWrput61rEvzz3xmUoQ.jpeg?width=640&crop=smart&auto=webp&s=5531a9033c2f80afc43bc835d57efa826b5f0920",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_bfb5f4f59d3b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Wetzel: Geno is a women's hoops giant, yet came up so small in Dawn Staley rant",
+      "dek": "Geno Auriemma is a defining figure in women's basketball, which makes his behavior Friday night all the more disappointing.",
+      "body": "Geno Auriemma is a defining figure in women's basketball, which makes his behavior Friday night all the more disappointing.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T16:58:34+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48396949/geno-auriemma-dawn-staley-uconn-south-carolina-apology-argument",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bfb5f4f59d3b",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_3e3974fa130d",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-01T09:56:05+00:00",
       "sourceUrl": "https://www.espn.com/betting/golf/story/_/id/48359955/golf-pga-tour-betting-valero-texas-open",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_be3b569ced67",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_030198e95d44",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russian military plane crash kills 29 in occupied Crimea",
-      "dek": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
-      "body": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T09:55:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863d/live/79e6a250-2d69-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_4362ff59af2c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Who is ACTUALLY more valuable: Aaron Judge or Shohei Ohtani? We did the math",
-      "dek": "They're MLB's unquestioned top two superstars. We break down their value to determine which reigns supreme.",
-      "body": "They're MLB's unquestioned top two superstars. We break down their value to determine which reigns supreme.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T09:35:27+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48340784/mlb-2026-season-better-value-aaron-judge-shohei-ohtani-breakdown",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4362ff59af2c",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
