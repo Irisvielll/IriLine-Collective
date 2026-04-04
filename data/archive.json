@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_9140cb5208ed",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Armed police officers left bag of guns outside Sadiq Khan's home",
+      "dek": "submitted by /u/plain_handle [link] [comments]",
+      "body": "submitted by /u/plain_handle [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T09:36:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sc4xe3/armed_police_officers_left_bag_of_guns_outside/",
+      "image": "https://external-preview.redd.it/VAozLdeB1ZjY1eM9qeBhCFv5o9-Vq4i7fOZG2xZCDno.jpeg?width=640&crop=smart&auto=webp&s=ae53cca59529f74257f7ffea6e1f90bca4cc3195",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_445861f12f0d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -44,6 +59,36 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d0/live/10330fa0-2ff9-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_401394d9c830",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "End of the feature back? What the rise of running back tandems means for the NFL draft",
+      "dek": "Splitting time used to be a mark against rushers. With top NFL draft prospects coming from the same backfield, that might be changing.",
+      "body": "Splitting time used to be a mark against rushers. With top NFL draft prospects coming from the same backfield, that might be changing.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T07:35:21+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48349028/nfl-draft-2026-running-backs-sharing-carries",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_401394d9c830",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_fa389c31b1c4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Who will be the best RBs in the NFL draft class? We gave projections and comps for top prospects",
+      "dek": "We have stat projections for the top running back prospects in the 2026 NFL draft class, from Jeremiyah Love to late-round sleepers.",
+      "body": "We have stat projections for the top running back prospects in the 2026 NFL draft class, from Jeremiyah Love to late-round sleepers.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T07:22:01+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48357267/2026-nfl-draft-running-back-projections-rankings-historical-comps-prospects",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fa389c31b1c4",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_a5c78992e417",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48363556/alex-ovechkin-scores-twice-hitting-30-goals-20th-season-capitals-win",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_293fc415a12e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_aaf2a74b2eeb",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Should the USMNT be concerned about Pulisic's goal drought?",
-      "dek": "Roberto Martinez might think it's \"worthless\" to read into any results ahead of the World Cup, but alarm bells must surely be ringing in the USMNT camp over Chr",
-      "body": "Roberto Martinez might think it's \"worthless\" to read into any results ahead of the World Cup, but alarm bells must surely be ringing in the USMNT camp over Christian Pulisic's 14-match goal drought.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T22:54:18+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48363170/should-usmnt-concerned-pulisics-goal-drought",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_aaf2a74b2eeb",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d4e14dee514c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Player ratings: Pulisic 3/10 in USMNT's disappointing loss to Portugal",
-      "dek": "Pulisic struggled to make the most of numerous chances as the U.S. stumbled to another loss.",
-      "body": "Pulisic struggled to make the most of numerous chances as the U.S. stumbled to another loss.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T22:54:17+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48362210/player-ratings-christian-pulisic-usmnt-loss-portugal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d4e14dee514c",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_6884a2142306",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
-      "dek": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.",
-      "body": "Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T22:48:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a30/live/58ff5b10-28f3-11f1-a95f-75471ca6e71e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
