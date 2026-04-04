@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-04T21:04:15+00:00",
+  "generatedAt": "2026-04-04T21:45:58+00:00",
   "items": [
+    {
+      "id": "latest_a0dcc4cda40f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "German males under 45 may need military approval for long stays abroad",
+      "dek": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
+      "body": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T21:16:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04e7/live/ec4a7e00-305e-11f1-ba49-5da6d3e5ad3c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3b94129da1c9",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scjhcs/a_top_fema_official_is_doubling_down_on_his/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_954505084c04",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_535e60a037ea",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Search for missing airman presents serious test for US",
-      "dek": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
-      "body": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-04T20:13:41+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f49/live/002930e0-305c-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
