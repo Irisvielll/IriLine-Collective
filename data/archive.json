@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_cd2950446f72",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Canada's largest gun control effort in decades is missing the mark",
+      "dek": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
+      "body": "Canada recently banned 2,500 models of \"assault-style\" firearms - but a plan to buy-back tens of thousands of guns fell short by half.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T00:32:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg09dq4x5qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9241/live/b54682b0-2ec8-11f1-bb7c-976587a5003c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_575374c634c5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'We want a voice in our land' - the people evicted to build Nigeria's capital",
+      "dek": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
+      "body": "People evicted to build Nigeria's capital accuse the government of failing to fulfill its promises to them.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T00:17:20+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyggr00x5vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a9a/live/e28392a0-291d-11f1-934f-036468834728.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_93f1e8bf6fc9",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-03-31T21:08:35+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dad/live/93b6a420-2d2b-11f1-a36a-2bc3523bb833.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1366d5c3e5e9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "[Cabot] Browns HC Todd Monken Missed the NFL HC Group Photo Because He Was Getting a Haircut for the Photo",
-      "dek": "submitted by /u/hotdogseason [link] [comments]",
-      "body": "submitted by /u/hotdogseason [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T20:44:27+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s8zkea/cabot_browns_hc_todd_monken_missed_the_nfl_hc/",
-      "image": "https://external-preview.redd.it/WMe0b8Dgq-9jRV-qMvWcBQiyZY2FPaHC2t6h_00vLuM.jpeg?width=640&crop=smart&auto=webp&s=b3851ef5f6d55a5ecbb693aaf7a971086de90bd5",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0f0e9f5cbb41",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Judge temporarily halts construction of Trump's White House ballroom",
-      "dek": "The Republican-appointed judge ruled that Trump was the \"steward\" of the White House, but not the \"owner\".",
-      "body": "The Republican-appointed judge ruled that Trump was the \"steward\" of the White House, but not the \"owner\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T19:58:06+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85d3/live/9d15b4e0-2d38-11f1-8c7a-d7713554a96a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
