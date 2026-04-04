@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b85f38b62f65",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Senegal bans ministers from foreign travel as oil price rise bites",
+      "dek": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances.",
+      "body": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T10:15:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3764/live/cb2fe310-300c-11f1-8d50-677398226ba9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_7f27f99e204a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -14,6 +29,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sc5b5h/new_stardust_on_the_artemis_what_has_changed/",
       "image": "https://external-preview.redd.it/k_oDhghCr-VWkM3CGqkfQtXJlGsTRy6vWQUIuKz_Nbs.jpeg?width=640&crop=smart&auto=webp&s=a07514dc2454e9c734b46c754536700258429636",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_4813a47cf908",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Haaland hat trick as Man City thrashes Liverpool",
+      "dek": "Manchester City beat Liverpool 4-0 in the FA Cup quarterfinals on Saturday, with Erling Haaland scoring a hat trick.",
+      "body": "Manchester City beat Liverpool 4-0 in the FA Cup quarterfinals on Saturday, with Erling Haaland scoring a hat trick.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T09:49:46+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/401864077",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4813a47cf908",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_9140cb5208ed",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-01T00:11:33+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a48/live/b23e79c0-2cce-11f1-8a0e-7754bc50f231.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_816405afb4f4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Moonshots' and merch - what it's like to be on Florida's Space Coast ahead of Artemis launch",
-      "dek": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
-      "body": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T00:00:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_80be50530e70",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Why are bags of Big Mac sauce washing up along the Bay of Fundy?",
-      "dek": "submitted by /u/SwordfishOk504 [link] [comments]",
-      "body": "submitted by /u/SwordfishOk504 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-03-31T23:44:38+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s945fa/why_are_bags_of_big_mac_sauce_washing_up_along/",
-      "image": "https://external-preview.redd.it/LPcIjkma1HK1eYIva6B0IGcbodd8uXNR9NfnlLcIqnU.jpeg?width=320&crop=smart&auto=webp&s=a7c5742c5ad8886615f56ac25cfc97aacccaca67",
       "imageCredit": "Image via original publisher"
     }
   ]

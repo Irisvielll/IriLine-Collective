@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-04T13:20:17+00:00",
+  "generatedAt": "2026-04-04T14:04:48+00:00",
   "items": [
+    {
+      "id": "latest_a5a962932dea",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russian attack on Ukraine market kills five",
+      "dek": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "body": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T14:00:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a103/live/c0c0df90-3018-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_22b9ef014149",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-04T11:00:34+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/207d/live/22f79690-300f-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b85f38b62f65",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Senegal bans ministers from foreign travel as oil price rise bites",
-      "dek": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances.",
-      "body": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-04T10:15:01+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3764/live/cb2fe310-300c-11f1-8d50-677398226ba9.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
