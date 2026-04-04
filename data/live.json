@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-04T14:04:48+00:00",
+  "generatedAt": "2026-04-04T14:52:04+00:00",
   "items": [
+    {
+      "id": "meme_e942abf7a779",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Military archbishop says \"it's hard\" to see Iran war \"as something that would be sponsored by the Lord\"",
+      "dek": "submitted by /u/LilYerrySeinfeld [link] [comments]",
+      "body": "submitted by /u/LilYerrySeinfeld [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T14:27:52+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scan9z/military_archbishop_says_its_hard_to_see_iran_war/",
+      "image": "https://external-preview.redd.it/UDxc0Ki2vRFI0F5uYa5z3HmXKm8ojNKJ2tuLhUO1IJ8.jpeg?width=640&crop=smart&auto=webp&s=c1a05012b42ab32d06d5f87c3851bb3b0315d5c5",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a5a962932dea",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-04T13:03:59+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sc8q7b/new_jersey_man_charged_with_indecent_assault/",
       "image": "https://external-preview.redd.it/z81a13XtxEqC58GP_iLo6guA4OwBeoKq4D8lUakmEhE.jpeg?width=640&crop=smart&auto=webp&s=c0e0f9e15941c496202970d44288564d654ebc8a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8615deba907b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What we know so far about the search for missing US airman in Iran",
-      "dek": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
-      "body": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-04T11:00:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/207d/live/22f79690-300f-11f1-a79a-77e93010d956.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
