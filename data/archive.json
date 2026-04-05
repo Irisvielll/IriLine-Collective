@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_b07f04ec1457",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Artemis II is going so well that we're left to talk about frozen urine",
+      "dek": "submitted by /u/spsheridan [link] [comments]",
+      "body": "submitted by /u/spsheridan [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T01:58:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scr8pb/artemis_ii_is_going_so_well_that_were_left_to/",
+      "image": "https://external-preview.redd.it/1NSml--JHgj7mYGEVjd7dnRLVcL_qJRqRHmrsiHMWMQ.jpeg?width=640&crop=smart&auto=webp&s=bcf605cc4a96eac9f561177c4613c74624fa2802",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_bd33d7bfdb49",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a9/live/94aacd40-2ddd-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_96e82879b56c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Bears' stadium choice 'late spring, early summer'",
-      "dek": "Kevin Warren. president and CEO of the Chicago Bears, says the team is targeting \"late spring, early summer\" for a decision on where the team's new stadium will",
-      "body": "Kevin Warren. president and CEO of the Chicago Bears, says the team is targeting \"late spring, early summer\" for a decision on where the team's new stadium will be built.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T15:38:46+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_96e82879b56c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

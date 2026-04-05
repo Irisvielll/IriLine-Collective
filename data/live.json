@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T06:19:56+00:00",
+  "generatedAt": "2026-04-05T07:37:55+00:00",
   "items": [
     {
       "id": "meme_0c0e88d680b8",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_b07f04ec1457",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Artemis II is going so well that we're left to talk about frozen urine",
-      "dek": "submitted by /u/spsheridan [link] [comments]",
-      "body": "submitted by /u/spsheridan [link] [comments]",
+      "id": "sports_a7dfd3471df9",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Lendeborg hobbled, vows to play for U-M in final",
+      "dek": "Michigan star Yaxel Lendeborg suffered a left MCL sprain and left ankle sprain in Saturday's win over Arizona, but team trainer Chris Williams told ESPN he is \"",
+      "body": "Michigan star Yaxel Lendeborg suffered a left MCL sprain and left ankle sprain in Saturday's win over Arizona, but team trainer Chris Williams told ESPN he is \"very confident\" the forward will play in Monday's title game.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T01:58:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scr8pb/artemis_ii_is_going_so_well_that_were_left_to/",
-      "image": "https://external-preview.redd.it/1NSml--JHgj7mYGEVjd7dnRLVcL_qJRqRHmrsiHMWMQ.jpeg?width=640&crop=smart&auto=webp&s=bcf605cc4a96eac9f561177c4613c74624fa2802",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-05T02:18:12+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48401538/lendeborg-vows-play-ncaa-final-mcl-ankle-sprains",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a7dfd3471df9",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
