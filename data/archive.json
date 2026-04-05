@@ -31,6 +31,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_33195f1b4be4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Marlins' Fairbanks starts, goes on paternity leave",
+      "dek": "Reliever Pete Fairbanks, 32, was given a rare start by the Miami Marlins on Sunday afternoon to allow the closer to get home for the birth of his child, and the",
+      "body": "Reliever Pete Fairbanks, 32, was given a rare start by the Miami Marlins on Sunday afternoon to allow the closer to get home for the birth of his child, and the reliever threw a 27-pitch first inning against the New York Yankees.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T18:31:18+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48406953/pete-fairbanks-gets-start-leaves-marlins-birth-child",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_33195f1b4be4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_1273c9ac1655",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Six seniors, four transfers, 48 years in the making: How UCLA won its first NCAA title",
+      "dek": "How a longtime coach and an eclectic mix of transfers finally delivered an NCAA title years in the making.",
+      "body": "How a longtime coach and an eclectic mix of transfers finally delivered an NCAA title years in the making.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T18:03:47+00:00",
+      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48406645/ucla-bruins-ncaa-championship-women-march-madness-lauren-betts",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1273c9ac1655",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_d02d20f6839a",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48374676/wembanyama-doubles-mvp-chase-41-point-night",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8be1b6ee20e2",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_9f949129c770",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hershey to resume using chocolate in most products; Reese’s grandson may taste sweet victory",
-      "dek": "submitted by /u/fungobat [link] [comments]",
-      "body": "submitted by /u/fungobat [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T01:49:24+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sa46nr/hershey_to_resume_using_chocolate_in_most/",
-      "image": "https://external-preview.redd.it/8gFmqop3UpDRjfRrFUWDrARAkPX0i-BSR0_4J-p3tyk.jpeg?width=640&crop=smart&auto=webp&s=85ac1688c84de140e11b7f7d6ef456c769b1b3bc",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ca9f63fca2cf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Alleged Bondi gunman loses court bid to suppress names of his family",
-      "dek": "Lawyers for Naveed Akram had argued his mother, brother and sister live in \"constant fear\".",
-      "body": "Lawyers for Naveed Akram had argued his mother, brother and sister live in \"constant fear\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T01:08:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4glrnv3qlvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bc/live/38d2e5b0-21c7-11f1-9427-37bf6730c1db.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
