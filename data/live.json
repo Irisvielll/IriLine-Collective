@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T17:57:26+00:00",
+  "generatedAt": "2026-04-05T18:55:23+00:00",
   "items": [
     {
       "id": "latest_8425f98ec43d",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_64e50b7c3be2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "A million new SpaceX satellites will destroy the night sky—for everyone on Earth",
-      "dek": "submitted by /u/powdersleaf [link] [comments]",
-      "body": "submitted by /u/powdersleaf [link] [comments]",
+      "id": "sports_23b79490e7c1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Michigan's Lendeborg to play vs. UConn, May says",
+      "dek": "Michigan coach Dusty May said that he expects star forward Yaxel Lendeborg to play in the national title game against UConn on Monday night.",
+      "body": "Michigan coach Dusty May said that he expects star forward Yaxel Lendeborg to play in the national title game against UConn on Monday night.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T14:11:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sd4ms1/a_million_new_spacex_satellites_will_destroy_the/",
-      "image": "https://external-preview.redd.it/KD_oBUp5LNMBESVX90Tyf0EbnfindE1qYNgrrmQL80g.jpeg?width=640&crop=smart&auto=webp&s=56147cb2b1b7ba657edecc59ff1e7725068bda8e",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-05T14:16:11+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48404850/michigan-yaxel-lendeborg-play-vs-uconn-dusty-says",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_23b79490e7c1",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
