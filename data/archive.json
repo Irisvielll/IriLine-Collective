@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_08c56316a634",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UConn's Ball uncertain for title game due to foot",
+      "dek": "UConn guard Solo Ball has a foot injury and will not practice as the Huskies prepare to face Michigan in the men's NCAA championship game.",
+      "body": "UConn guard Solo Ball has a foot injury and will not practice as the Huskies prepare to face Michigan in the men's NCAA championship game.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T12:21:16+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48403973/uconn-solo-ball-uncertain-ncaa-tournament-title-game",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_08c56316a634",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_2c89db60e0f1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Dodgers' Betts headed to IL with strained oblique",
+      "dek": "Los Angeles Dodgers shortstop Mookie Betts is being placed on the injured list because of a strained right oblique, manager Dave Roberts said Sunday.",
+      "body": "Los Angeles Dodgers shortstop Mookie Betts is being placed on the injured list because of a strained right oblique, manager Dave Roberts said Sunday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T12:21:16+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48404073/dodgers-mookie-betts-headed-il-strained-oblique",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2c89db60e0f1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_bd2dc8278fda",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/espn/story/_/id/48372762/ncaa-proposes-barring-players-opt-remain-draft",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_db3f53900350",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_2ceb04d2b839",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Drugs in paradise: caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
-      "dek": "Four of the investigated CECs (diclofenac, cocaine, acetaminophen, and caffeine) were detected at varying concentrations in Caribbean Reef sharks, Atlantic Nurs",
-      "body": "Four of the investigated CECs (diclofenac, cocaine, acetaminophen, and caffeine) were detected at varying concentrations in Caribbean Reef sharks, Atlantic Nurse sharks, and Lemon sharks, demonstrating their local environmental occurrence and bioavailability. Furthermore, sharks with detectable CECs exhibited triglyceride, urea, and lactate alterations in comparison to those where these contaminants were not detected. This represents the first report concerning CECs and potentially associated physiological responses in sharks from The Bahamas, pointing to the urgent need to address marine pollution in ecosystems often perceived as pristine. submitted by /u/IntrepidWolverine517 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T19:00:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9txto/drugs_in_paradise_caffeine_cocaine_and/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_2ceb04d2b839",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_5596c59f9d46",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Faux Onion Soup",
-      "dek": "submitted by /u/Kitkatforever100 [link] [comments]",
-      "body": "submitted by /u/Kitkatforever100 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T18:41:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9td3y/faux_onion_soup/",
-      "image": "https://external-preview.redd.it/ZibOwbnsAhzrXui3jt5JzSCVpgFHYK7qf4aFOLWxYoQ.jpeg?width=640&crop=smart&auto=webp&s=eb62587a2e4114d0d07d96b9a02e30c246a8c804",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
