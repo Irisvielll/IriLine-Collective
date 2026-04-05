@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_bd33d7bfdb49",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "F-bombs, herky jerks and the Final Straw: Every Dan Hurley reaction from the Final Four",
+      "dek": "What's it like watching Dan Hurley lead UConn to the title game? In a word: exhausting.",
+      "body": "What's it like watching Dan Hurley lead UConn to the title game? In a word: exhausting.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T01:26:46+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48401188/march-madness-uconn-huskies-dan-hurley-ncaa-championship",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bd33d7bfdb49",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_4347148f82b8",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-01T15:38:46+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48371358/bears-ceo-stadium-decision-likely-late-spring-early-summer",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_96e82879b56c",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_0f0490290054",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ump Bucknor hit in face mask in Rays-Brewers",
-      "dek": "In the second inning of the Rays-Brewers game Wednesday, a foul tip from Nick Fortes hit home plate umpire C.B. Bucknor in the face mask.",
-      "body": "In the second inning of the Rays-Brewers game Wednesday, a foul tip from Nick Fortes hit home plate umpire C.B. Bucknor in the face mask.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T15:24:15+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48371126/umpire-bucknor-leaves-rays-brewers-foul-tip-hits-mask",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0f0490290054",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
