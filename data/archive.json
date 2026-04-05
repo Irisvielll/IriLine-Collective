@@ -31,6 +31,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_23b79490e7c1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Michigan's Lendeborg to play vs. UConn, May says",
+      "dek": "Michigan coach Dusty May said that he expects star forward Yaxel Lendeborg to play in the national title game against UConn on Monday night.",
+      "body": "Michigan coach Dusty May said that he expects star forward Yaxel Lendeborg to play in the national title game against UConn on Monday night.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T14:16:11+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48404850/michigan-yaxel-lendeborg-play-vs-uconn-dusty-says",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_23b79490e7c1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_64e50b7c3be2",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-01T22:35:54+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c4e/live/d18608e0-2e11-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cfbbc884868f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "World's oldest known tortoise, Jonathan, dies aged 193",
-      "dek": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\".",
-      "body": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T22:20:11+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
