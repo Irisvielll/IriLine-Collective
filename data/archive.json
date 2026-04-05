@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_0bdd7080b04d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Reeling Islanders fire Roy, hand reins to DeBoer",
+      "dek": "The Islanders fired coach Patrick Roy on Sunday and named Peter DeBoer his replacement after losing seven of their last 10 games.",
+      "body": "The Islanders fired coach Patrick Roy on Sunday and named Peter DeBoer his replacement after losing seven of their last 10 games.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T12:59:19+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48404199/islanders-fire-patrick-roy-name-peter-deboer-replacement",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0bdd7080b04d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_3b56784cb8ae",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
+      "dek": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
+      "body": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T12:35:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_08c56316a634",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9usjl/boiled_potatoes/",
       "image": "https://external-preview.redd.it/6eqUiHdUJvRhs68UnlS5XVlwQoytSAPWQRiUFru4cM8.jpeg?width=640&crop=smart&auto=webp&s=2503ba4eec14d8ab3978a6588c5081e99d156cc7",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_fd8705facf25",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Toast sandwich",
-      "dek": "submitted by /u/scentedcandle0 [link] [comments]",
-      "body": "submitted by /u/scentedcandle0 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T19:26:39+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9uo80/toast_sandwich/",
-      "image": "https://external-preview.redd.it/ddpdrvufwmnDpp1xZQo8qQ1EdvFCQ62UOJ_YRsQZhZQ.jpeg?width=640&crop=smart&auto=webp&s=7f7631857aedbb54c19942b232560f02b53c4244",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_db3f53900350",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NCAA proposes ban on players who stay in draft",
-      "dek": "The NCAA Division I Cabinet will consider proposed changes to eligibility rules, including one that would bar athletes who have entered and remained in a profes",
-      "body": "The NCAA Division I Cabinet will consider proposed changes to eligibility rules, including one that would bar athletes who have entered and remained in a professional sports draft from competing in college.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T19:13:52+00:00",
-      "sourceUrl": "https://www.espn.com/espn/story/_/id/48372762/ncaa-proposes-barring-players-opt-remain-draft",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_db3f53900350",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

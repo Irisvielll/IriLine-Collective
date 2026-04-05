@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-05T16:38:00+00:00",
+  "generatedAt": "2026-04-05T17:16:01+00:00",
   "items": [
+    {
+      "id": "latest_8425f98ec43d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "dek": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+      "body": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T16:38:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1f/live/b9410ce0-310d-11f1-8078-2797c344ad7d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_3a724d526343",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-05T14:11:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sd4ms1/a_million_new_spacex_satellites_will_destroy_the/",
       "image": "https://external-preview.redd.it/KD_oBUp5LNMBESVX90Tyf0EbnfindE1qYNgrrmQL80g.jpeg?width=640&crop=smart&auto=webp&s=56147cb2b1b7ba657edecc59ff1e7725068bda8e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3b56784cb8ae",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-      "dek": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
-      "body": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T12:35:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
