@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_a7dfd3471df9",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Lendeborg hobbled, vows to play for U-M in final",
+      "dek": "Michigan star Yaxel Lendeborg suffered a left MCL sprain and left ankle sprain in Saturday's win over Arizona, but team trainer Chris Williams told ESPN he is \"",
+      "body": "Michigan star Yaxel Lendeborg suffered a left MCL sprain and left ankle sprain in Saturday's win over Arizona, but team trainer Chris Williams told ESPN he is \"very confident\" the forward will play in Monday's title game.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T02:18:12+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48401538/lendeborg-vows-play-ncaa-final-mcl-ankle-sprains",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a7dfd3471df9",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_b07f04ec1457",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -208,6 +223,21 @@
       "publishedAt": "2026-04-04T23:28:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/195b/live/8b2a0c70-307d-11f1-b556-69ab2f69cc04.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a3d37d898381",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
+      "dek": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
+      "body": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-04T23:15:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6ec/live/47e3fed0-3005-11f1-a1a5-7555ad51d4c1.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-01T16:10:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1s9oznz/love_onion_rings_but_hate_onions_try_deep_fried/",
       "image": "https://external-preview.redd.it/sc5WDt40tbvZXZB2mKcrOEyPbUCprZvE2npuJMlYK3I.jpeg?width=640&crop=smart&auto=webp&s=a7b310feefff959dace1268205d3ebcd3aed9fa7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_28aab4dbf387",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Palantir UK boss says it's up to militaries to decide how AI targeting is used in war",
-      "dek": "The company's AI platform Maven has reportedly been used by the US to identify targets in Iran.",
-      "body": "The company's AI platform Maven has reportedly been used by the US to identify targets in Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T16:03:20+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdrm52g4pl2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf78/live/5afc17a0-2de4-11f1-9c68-d3b327b335eb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7097ae56f679",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Explosions at Burundi ammunition depot kill civilians, witnesses say",
-      "dek": "Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.",
-      "body": "Powerful blasts destroyed homes and sparked panic in the city of Bujumbura on Tuesday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-01T15:51:24+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a9/live/94aacd40-2ddd-11f1-b297-95b0a0a8331e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

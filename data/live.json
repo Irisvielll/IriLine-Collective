@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-05T08:23:54+00:00",
+  "generatedAt": "2026-04-05T09:07:39+00:00",
   "items": [
+    {
+      "id": "meme_efbd92a8391c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Artemis 2 crew fixes toilet, can now pee in it",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T08:43:32+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scyk3j/artemis_2_crew_fixes_toilet_can_now_pee_in_it/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_efbd92a8391c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_0c0e88d680b8",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1scsqmh/sting_operation_from_vancouver_police_catches/",
       "image": "https://external-preview.redd.it/ahvVFofPeWmmeEIyyabI2BfwWHFH0Ok8b_uZcSjc4fA.jpeg?width=320&crop=smart&auto=webp&s=7b4149bb37175d245ef7d0dabc4891abed05dc7e",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_a7dfd3471df9",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Lendeborg hobbled, vows to play for U-M in final",
-      "dek": "Michigan star Yaxel Lendeborg suffered a left MCL sprain and left ankle sprain in Saturday's win over Arizona, but team trainer Chris Williams told ESPN he is \"",
-      "body": "Michigan star Yaxel Lendeborg suffered a left MCL sprain and left ankle sprain in Saturday's win over Arizona, but team trainer Chris Williams told ESPN he is \"very confident\" the forward will play in Monday's title game.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T02:18:12+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48401538/lendeborg-vows-play-ncaa-final-mcl-ankle-sprains",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a7dfd3471df9",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
