@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_52c184d70c9e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Badgers' Blackwell to hit portal, test draft process",
+      "dek": "Wisconsin star guard John Blackwell plans to enter the transfer portal while going through the NBA draft process, he told ESPN on Monday.",
+      "body": "Wisconsin star guard John Blackwell plans to enter the transfer portal while going through the NBA draft process, he told ESPN on Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T10:25:27+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48412067/wisconsin-blackwell-enter-portal-test-nba-draft-process",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_52c184d70c9e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_305aac74702e",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c2/live/6b50b9e0-3185-11f1-86cc-99d8e53afbd3.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_c794045b7f1b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Week 8: Top 25 rankings, best moments and what to watch",
+      "dek": "After dramatic finishes across all of college baseball, what do the latest top 25 rankings look like?",
+      "body": "After dramatic finishes across all of college baseball, what do the latest top 25 rankings look like?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T09:34:48+00:00",
+      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48411101/college-baseball-week-8-top-25-rankings-top-player-game-watch-2026",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c794045b7f1b",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_03f2bfd372f3",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb11/live/03b36c00-2e8e-11f1-bf7c-65962cff9746.png",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_07ddbe47ec9c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Arrr you ready: Pirates call up teen phenom Griffin",
-      "dek": "The Pirates are calling up 19-year-old shortstop Konnor Griffin, the No. 1 prospect in baseball, ahead of Friday's home opener against the Orioles.",
-      "body": "The Pirates are calling up 19-year-old shortstop Konnor Griffin, the No. 1 prospect in baseball, ahead of Friday's home opener against the Orioles.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T11:59:41+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48377716/pirates-call-no-1-prospect-konnor-griffin-home-opener",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_07ddbe47ec9c",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_7531de03f4e2",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Big 12's Yormark, TT booster bicker over schedule",
-      "dek": "Big 12 commissioner Brett Yormark and Texas Tech booster Cody Campbell traded barbs this week over a scheduled Friday night game between the Red Raiders and Hou",
-      "body": "Big 12 commissioner Brett Yormark and Texas Tech booster Cody Campbell traded barbs this week over a scheduled Friday night game between the Red Raiders and Houston next season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T11:59:41+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48378058/big-12-yormark-texas-tech-booster-bicker-friday-games",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7531de03f4e2",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
