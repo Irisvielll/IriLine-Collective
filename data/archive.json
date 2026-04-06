@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_3c1112147758",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Lauren Coughlin rolls to Aramco win as Nelly Korda second again",
+      "dek": "Lauren Coughlin rolled to a five-shot win over Nelly Korda and the rest of the star-studded field at the Aramco Championship for her first win in two years.",
+      "body": "Lauren Coughlin rolled to a five-shot win over Nelly Korda and the rest of the star-studded field at the Aramco Championship for her first win in two years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T23:04:22+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48408916/lauren-coughlin-wins-lpga-tour-aramco-championship",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3c1112147758",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_de61c584a0f2",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-02T07:05:32+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48369864/nhl-2025-26-brandon-bussi-carolina-hurricanes-goalie-brother-autism",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_20f8d44e7577",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_cef80ecb1f6e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NHL playoff watch: Clinching day for the Sabres, Hurricanes, Wild?",
-      "dek": "Buffalo, Carolina and Minnesota can punch playoff tickets on Thursday. Here's what to watch in a 14-game slate.",
-      "body": "Buffalo, Carolina and Minnesota can punch playoff tickets on Thursday. Here's what to watch in a 14-game slate.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T07:05:32+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48370389/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cef80ecb1f6e",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
