@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_c1130629ecdc",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Giants DT Lawrence requests trade, sources say",
+      "dek": "Giants defensive tackle Dexter Lawrence II has requested a trade after seven seasons in New York, sources told ESPN's Adam Schefter on Monday.",
+      "body": "Giants defensive tackle Dexter Lawrence II has requested a trade after seven seasons in New York, sources told ESPN's Adam Schefter on Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T13:00:18+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48412861/giants-dt-dexter-lawrence-requests-trade-sources-say",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c1130629ecdc",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_2742b825bb01",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -283,6 +298,21 @@
       "publishedAt": "2026-04-06T08:21:59+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48410510/barcelona-atletico-madrid-laliga-liverpool-manchester-city-fa-cup-analysis-reaction-gab-marcotti",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c21c9b6cec51",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_cc800dfc6595",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "MLS Power Rankings: LAFC are practically perfect atop the table",
+      "dek": "LAFC still hasn't conceded in league play in 2026, only a draw blemishes its record this season, but it's enough to top ESPN's MLS Power Rankings.",
+      "body": "LAFC still hasn't conceded in league play in 2026, only a draw blemishes its record this season, but it's enough to top ESPN's MLS Power Rankings.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T08:12:46+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48406965/mls-power-rankings-lafc-practically-perfect-atop-table",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cc800dfc6595",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-02T13:41:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f7/live/248b3460-2e9a-11f1-90b9-6ffcd881a7dc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0107e5c3ce67",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US Man Jailed For Breaking Into Woman's House And 'Sucking On Her Toes'",
-      "dek": "submitted by /u/HimelTy [link] [comments]",
-      "body": "submitted by /u/HimelTy [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T13:16:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sah4ub/us_man_jailed_for_breaking_into_womans_house_and/",
-      "image": "https://external-preview.redd.it/w1e6ePtG-JSF27of9F70A_zeT2v3lTZy2zzF3E9mEVc.jpeg?width=640&crop=smart&auto=webp&s=637202b504cd2873914354b48ce29640c1ccba93",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a08e67df1dfb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Four children stabbed to death at Ugandan school",
-      "dek": "The suspect is in custody but his motive is unknown, the police say in a brief statement.",
-      "body": "The suspect is in custody but his motive is unknown, the police say in a brief statement.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T13:09:29+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77cb/live/2728d260-2e89-11f1-98e7-6b639170d418.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
