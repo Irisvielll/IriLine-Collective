@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-06T21:38:34+00:00",
+  "generatedAt": "2026-04-06T22:18:30+00:00",
   "items": [
+    {
+      "id": "meme_41f58985acf5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Retired matador killed by bull ahead of bullfight in southern Spain",
+      "dek": "Seems the bull ignored Human Standard Time and started early. submitted by /u/Zardotab [link] [comments]",
+      "body": "Seems the bull ignored Human Standard Time and started early. submitted by /u/Zardotab [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T21:44:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1secmfb/retired_matador_killed_by_bull_ahead_of_bullfight/",
+      "image": "https://external-preview.redd.it/GPKk7dOulv6pVB_wu8ICXaM2pzWSguG2q7z46DCuDPk.jpeg?width=640&crop=smart&auto=webp&s=8bd890531bad7a67a9ed0ebe719d68b64a3a92db",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b97d16b8d9a7",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-06T20:37:00+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1seaspf/minneapolis_ice_shooting_city_releases_video_that/",
       "image": "https://external-preview.redd.it/YgolvMhyPuVPQHFbiRv39zxck9xEUfd906pYWWm4NNs.jpeg?width=640&crop=smart&auto=webp&s=185e4231d8640effd01996f5617a3c0b0b7af4fe",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_165ad3e00a15",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "A Manitou Springs athlete ran 500 miles to Moab in 11 days, eating psychedelics the whole way",
-      "dek": "submitted by /u/_pit_of_despair_ [link] [comments]",
-      "body": "submitted by /u/_pit_of_despair_ [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T20:03:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1se9ujz/a_manitou_springs_athlete_ran_500_miles_to_moab/",
-      "image": "https://external-preview.redd.it/xCpJqH-8Du8Q0jyqRxVSUviVuPXBfgypVK0DljRRjAM.jpeg?width=640&crop=smart&auto=webp&s=cb53c04d13bb1668911769b50f4578c5be7a22be",
       "imageCredit": "Image via original publisher"
     }
   ]
