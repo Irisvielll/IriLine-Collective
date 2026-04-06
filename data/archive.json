@@ -61,6 +61,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_4a525357f6ca",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Luka to seek specialized treatment in Europe",
+      "dek": "Luka Doncic will seek specialized treatment on his Grade 2 left hamstring strain in an attempt to expedite his return to play, his agent said.",
+      "body": "Luka Doncic will seek specialized treatment on his Grade 2 left hamstring strain in an attempt to expedite his return to play, his agent said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-05T23:01:01+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4a525357f6ca",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_0d51a60d8b98",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48370389/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cef80ecb1f6e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_24304cb9d836",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
-      "dek": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
-      "body": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T07:05:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e61/live/48c01ef0-2a1b-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
