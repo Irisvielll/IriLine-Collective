@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_b97d16b8d9a7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nine policemen sentenced to death in India over Covid custody killings",
+      "dek": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
+      "body": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T21:21:13+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad14/live/4b633f20-31f5-11f1-980b-61f22cc055ba.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_0762f5603091",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Minneapolis ICE shooting: City releases video that undermines feds' version of events",
+      "dek": "submitted by /u/Buy_Sell_Collect [link] [comments]",
+      "body": "submitted by /u/Buy_Sell_Collect [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T20:37:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1seaspf/minneapolis_ice_shooting_city_releases_video_that/",
+      "image": "https://external-preview.redd.it/YgolvMhyPuVPQHFbiRv39zxck9xEUfd906pYWWm4NNs.jpeg?width=640&crop=smart&auto=webp&s=185e4231d8640effd01996f5617a3c0b0b7af4fe",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_165ad3e00a15",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -89,6 +119,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ad/live/ea8133c0-31df-11f1-82b6-073392989d2e.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_b74ee8616a9c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "The Bulls clean house: Why now? What's Billy Donovan's status? What's next?",
+      "dek": "The Bulls fired vice president of basketball operations Arturas Karnisovas and general manager Marc Eversley on Monday. So ... what now? Here's what our insider",
+      "body": "The Bulls fired vice president of basketball operations Arturas Karnisovas and general manager Marc Eversley on Monday. So ... what now? Here's what our insiders are hearing.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T18:39:15+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48413848/the-chicago-bulls-clean-house-fired-president-gm-why-now-coach-billy-donovan-status-happen-next",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b74ee8616a9c",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_831576b0d683",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-04-02T19:02:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_1d5ba2e64732",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'Let her play': Chiefs launch petition for high school girls' flag football in Kansas",
-      "dek": "The Kansas State High School Activities Association will have a vote on April 23 to determine if girls' high school flag football will be sanctioned.",
-      "body": "The Kansas State High School Activities Association will have a vote on April 23 to determine if girls' high school flag football will be sanctioned.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T18:56:27+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48380482/kansas-city-chiefs-girls-high-school-flag-football-campaign-petition-let-play",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1d5ba2e64732",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_235ff277dc8d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Betting odds for the Masters, future golf majors: Scheffler, McIlroy favored",
-      "dek": "Odds for next four golf majors: The Masters, PGA Championship, U.S. Open and Open Championship.",
-      "body": "Odds for next four golf majors: The Masters, PGA Championship, U.S. Open and Open Championship.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T18:39:34+00:00",
-      "sourceUrl": "https://www.espn.com/betting/golf/story/_/id/48380375/golf-pga-tour-odds-win-major-masters-pga-championship-us-open-open-championship",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_235ff277dc8d",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_aca93e6d24a1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ros Atkins on…the cost of the Iran war",
-      "dek": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
-      "body": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-02T18:29:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e85/live/f195a230-2ec0-11f1-934f-036468834728.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
