@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T00:03:17+00:00",
+  "generatedAt": "2026-04-06T03:41:36+00:00",
   "items": [
     {
       "id": "meme_769607b6f9a5",
@@ -17,34 +17,34 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_0d51a60d8b98",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_3c1112147758",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
-      "dek": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
-      "body": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
+      "category": "SPORTS",
+      "title": "Lauren Coughlin rolls to Aramco win as Nelly Korda second again",
+      "dek": "Lauren Coughlin rolled to a five-shot win over Nelly Korda and the rest of the star-studded field at the Aramco Championship for her first win in two years.",
+      "body": "Lauren Coughlin rolled to a five-shot win over Nelly Korda and the rest of the star-studded field at the Aramco Championship for her first win in two years.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T21:30:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c34/live/1a05ce70-3132-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-05T23:04:22+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48408916/lauren-coughlin-wins-lpga-tour-aramco-championship",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3c1112147758",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
-      "id": "latest_3f0db53f8c9b",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_4a525357f6ca",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
-      "dek": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
-      "body": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
+      "category": "SPORTS",
+      "title": "Luka to seek specialized treatment in Europe",
+      "dek": "Luka Doncic will seek specialized treatment on his Grade 2 left hamstring strain in an attempt to expedite his return to play, his agent said.",
+      "body": "Luka Doncic will seek specialized treatment on his Grade 2 left hamstring strain in an attempt to expedite his return to play, his agent said.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T21:10:06+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b501/live/37f5e130-3133-11f1-a79a-77e93010d956.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-05T23:01:01+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48409097/luka-doncic-hamstring-seek-specialized-treatment-europe",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4a525357f6ca",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
