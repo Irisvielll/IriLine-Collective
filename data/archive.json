@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_81545b6ccf91",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Anchorage has to close a child care funding gap because people are buying less weed",
+      "dek": "submitted by /u/dorgoth12 [link] [comments]",
+      "body": "submitted by /u/dorgoth12 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T20:13:24+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf7anc/anchorage_has_to_close_a_child_care_funding_gap/",
+      "image": "https://external-preview.redd.it/rerq1X4E8wxKlS35Xypy6RykDPqIWz-szj48jBj_Mm4.jpeg?width=640&crop=smart&auto=webp&s=de67995d9045e76de829153b2be51521116b95b3",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b8c580d49e7c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -88,6 +103,36 @@
       "publishedAt": "2026-04-07T17:40:51+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf31vh/operation_midnight_climax_secret_lsd_dosing_and/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_2627abb44450",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_a6343ca0434c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Rangers' 9th inning 'Rally Sombrero' leads 2026 new ballpark foods",
+      "dek": "Teams across Major League Baseball continue to raise their game when it comes to concession items.",
+      "body": "Teams across Major League Baseball continue to raise their game when it comes to concession items.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T17:38:46+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48290175/mlb-2026-new-top-ballpark-food",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a6343ca0434c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_1c26e62e2cd5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "U-M toasts title with fans: 'This trophy is yours'",
+      "dek": "Michigan's men's basketball team returned to campus as national champions Tuesday, and coach Dusty May told dozens of fans who greeted them at the Crisler Cente",
+      "body": "Michigan's men's basketball team returned to campus as national champions Tuesday, and coach Dusty May told dozens of fans who greeted them at the Crisler Center that \"this trophy is yours.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T17:35:51+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48423063/michigan-toast-title-fans-trophy-yours",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1c26e62e2cd5",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-04-03T22:10:26+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48390229/difference-maker-konnor-griffin-19-stars-bat-glove-pirates-debut",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5b4f9a664df2",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_190c787f29cd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Geno confronts Staley, rips 'ridiculous' refs in loss",
-      "dek": "UConn's Geno Auriemma ripped into the officiating crew during a live TV interview and then got into a heated argument with Dawn Staley in the final seconds of t",
-      "body": "UConn's Geno Auriemma ripped into the officiating crew during a live TV interview and then got into a heated argument with Dawn Staley in the final seconds of their 62-48 loss to South Carolina in the women's Final Four on Friday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T22:10:25+00:00",
-      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48390619/geno-irate-ridiculous-officiating-confronts-staley-sideline-loss",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_190c787f29cd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_d65f2553bc4d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How elite US teams tackle combat rescue missions",
-      "dek": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
-      "body": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T20:42:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9197/live/5bf0bfa0-2f8b-11f1-8892-ef888cf9f8d2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_abee9a8ba1c9",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NCAA prez disputes Geno: 2-site format is working",
-      "dek": "NCAA president Charlie Baker, responding to UConn coach Geno Auriemma's criticism of the two-site regional format, saying that it's \"pretty hard to argue\" again",
-      "body": "NCAA president Charlie Baker, responding to UConn coach Geno Auriemma's criticism of the two-site regional format, saying that it's \"pretty hard to argue\" against it considering the rise in attendance, viewership and ticket sales.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T19:42:02+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48389894/hard-argue-two-site-format",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_abee9a8ba1c9",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
