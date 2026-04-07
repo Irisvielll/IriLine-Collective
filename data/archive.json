@@ -241,6 +241,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_8da7d045dc16",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+      "dek": "Almost nothing was known about the Royal Hill casino until the Thai military took control of it in December.",
+      "body": "Almost nothing was known about the Royal Hill casino until the Thai military took control of it in December.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-06T23:09:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae75/live/c1573460-3192-11f1-8b1f-d33b6f9e6bd4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5f09ec9f649d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_83560d060f76",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The incredibly rare thing you probably missed during the Cubs' 2016 curse-breaking World Series win",
-      "dek": "While the Cubs were making history in Cleveland 10 years ago, one unique accomplishment flew well under the radar.",
-      "body": "While the Cubs were making history in Cleveland 10 years ago, one unique accomplishment flew well under the radar.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T06:44:22+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48356053/mlb-2026-cubs-2016-world-series-rarity-three-catchers-10-year-anniversary",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_83560d060f76",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
