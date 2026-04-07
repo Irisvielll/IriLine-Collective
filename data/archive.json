@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_29a44e7a344c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "🏀 Men's Pain Index: Ranking every tourney loss",
+      "dek": "Some losses are understandable in the NCAA tournament. Others will haunt us forever (see: Duke). We rank them all.",
+      "body": "Some losses are understandable in the NCAA tournament. Others will haunt us forever (see: Duke). We rank them all.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T12:33:14+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48273891/mens-march-madness-2026-pain-index-tournament-loss-hurt",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_29a44e7a344c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_3f7ae4ea8c3a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -103,6 +118,21 @@
       "publishedAt": "2026-04-07T11:32:39+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48419832/usa-patrick-agyemang-world-cup-achilles-tendon-injury",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a5e7a09f16b0",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_17955242bde8",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NBA playoff watch: Timberwolves look to clinch",
+      "dek": "Minnesota can lock up a top-six spot Tuesday. Plus, updated playoff projections, draft lottery standings after Monday.",
+      "body": "Minnesota can lock up a top-six spot Tuesday. Plus, updated playoff projections, draft lottery standings after Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T11:08:46+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48287649/nba-playoff-watch-2026-standings-schedules-projections-clinchings",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_17955242bde8",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-03T13:15:16+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48386412/duke-freshman-cameron-boozer-named-ap-player-year",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_53b7cf662ed2",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_dac886bcfe10",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Tide's Holloway to enroll in fall, aims to play again",
-      "dek": "Following Friday's reversal of his campus ban after his recent arrest, Alabama's Aden Holloway is planning to enroll in fall classes and hoping to rejoin the te",
-      "body": "Following Friday's reversal of his campus ban after his recent arrest, Alabama's Aden Holloway is planning to enroll in fall classes and hoping to rejoin the team next season pending the outcome of his legal case, his attorney told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T13:15:16+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48386918/alabama-holloway-plans-enroll-fall-aims-rejoin-team",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dac886bcfe10",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_51d3ca774af2",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wilson committed to Aces: 'I'm not leaving Vegas'",
-      "dek": "A'ja Wilson, four-time MVP and three-time WNBA champion with the Aces, said she is \"not leaving Vegas\" when it comes time to sign a new deal.",
-      "body": "A'ja Wilson, four-time MVP and three-time WNBA champion with the Aces, said she is \"not leaving Vegas\" when it comes time to sign a new deal.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T13:15:16+00:00",
-      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48386794/aja-wilson-voices-commitment-aces-not-leaving-vegas",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_51d3ca774af2",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
