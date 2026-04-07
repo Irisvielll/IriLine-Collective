@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-07T22:58:38+00:00",
+  "generatedAt": "2026-04-07T23:49:00+00:00",
   "items": [
+    {
+      "id": "latest_4e10ddb8c5b4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+      "dek": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
+      "body": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T23:15:33+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd9/live/1c602060-326a-11f1-a291-032c2f0b6204.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a2ed5915d207",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-07T21:02:07+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f41/live/fac9bfc0-3259-11f1-bdf9-bf5479a63eec.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ffa29c72210e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
-      "dek": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
-      "body": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T20:55:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8787/live/9cd13e20-32a4-11f1-b4da-a3b95db80b81.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

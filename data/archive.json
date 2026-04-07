@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ffa29c72210e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What the US military could do if Iran fails to meet Trump's ultimatum",
+      "dek": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
+      "body": "The US can do a lot of damage to civilian infrastructure but military experts say it's not feasible to carry out all Trump's threats.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T20:55:50+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8787/live/9cd13e20-32a4-11f1-b4da-a3b95db80b81.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_eba3973dbd7a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -44,6 +59,51 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2213/live/e8f47e90-32b6-11f1-934f-036468834728.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_ca605a7381b0",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "If Arsenal are going to win a title, it'll be within fine margins",
+      "dek": "Arsenal won it very late against Sporting CP in their UEFA Champions League quarterfinals match,",
+      "body": "Arsenal won it very late against Sporting CP in their UEFA Champions League quarterfinals match,",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T19:33:54+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48423856/fine-margins-define-arsenals-title-hopes-season",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ca605a7381b0",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_9f740fa233f3",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Reinsdorf: Next Bulls GM must be sold on Donovan",
+      "dek": "Bulls CEO and president Michael Reinsdorf, who is looking for a new head of basketball operations after firing Arturas Karnisovas earlier this week, said Tuesda",
+      "body": "Bulls CEO and president Michael Reinsdorf, who is looking for a new head of basketball operations after firing Arturas Karnisovas earlier this week, said Tuesday that retaining Billy Donovan as head coach would be a major requirement.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T19:22:41+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48423854/bulls-reinsdorf-says-next-gm-sold-donovan-coach",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9f740fa233f3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_7eed60b5539f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sam Darnold marries fiancée Katie Hoofnagle, with Josh Allen, Christian McCaffrey on hand",
+      "dek": "The Seahawks quarterback married his fiancée only months after winning Super Bowl LX.",
+      "body": "The Seahawks quarterback married his fiancée only months after winning Super Bowl LX.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T19:21:48+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48423360/seattle-seahawks-sam-darnold-wedding-married-katie-hoofangle",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7eed60b5539f",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_ca47cfc89b78",
@@ -4439,66 +4499,6 @@
       "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48391884/ucla-survives-late-surge-texas-make-first-ncaa-title-game",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e0eac95c0531",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e344bbd4cffc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Mavs' Flagg, 19, is youngest to have 50-pt game",
-      "dek": "Mavericks forward Cooper Flagg became the youngest player in NBA history to have a 50-point game, as the rookie scored 51 in Friday's 138-127 home loss to the M",
-      "body": "Mavericks forward Cooper Flagg became the youngest player in NBA history to have a 50-point game, as the rookie scored 51 in Friday's 138-127 home loss to the Magic.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-04T00:09:48+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48391619/rookie-cooper-flagg-51-point-night-mavericks-loss",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e344bbd4cffc",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ff505df54c10",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: NBA investigating Bucks, Giannis' health",
-      "dek": "The NBA is investigating the Bucks' handling of Giannis Antetokounmpo, sources told ESPN's Shams Charania, after the star forward told reporters Friday that he ",
-      "body": "The NBA is investigating the Bucks' handling of Giannis Antetokounmpo, sources told ESPN's Shams Charania, after the star forward told reporters Friday that he is being held out despite being healthy enough to play.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-04T00:09:48+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48391034/nba-investigating-bucks-giannis-says-healthy",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ff505df54c10",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_dd05e795b2b6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "FEMA official says he’s teleported several times, including to Waffle House",
-      "dek": "submitted by /u/Character-Bid-162 [link] [comments]",
-      "body": "submitted by /u/Character-Bid-162 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T23:30:20+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sbtccb/fema_official_says_hes_teleported_several_times/",
-      "image": "https://external-preview.redd.it/BkH--KOcDGWU1PsX9gkn9PbokL7x-U-hXtiq02AVJ-k.jpeg?width=640&crop=smart&auto=webp&s=71895302b8415db155121dc2e510330b8dba6597",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f9317ef3a923",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
-      "dek": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
-      "body": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T23:14:04+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62b/live/2537b0e0-2f72-11f1-8612-f1cd1152f88c.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
