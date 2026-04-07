@@ -46,6 +46,36 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_2dcc138f9562",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: Mendoza not planning to attend draft",
+      "dek": "Fernando Mendoza has informed the NFL that he is not planning to attend the draft, sources told ESPN.",
+      "body": "Fernando Mendoza has informed the NFL that he is not planning to attend the draft, sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T13:26:33+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48421461/sources-fernando-mendoza-not-planning-attend-nfl-draft",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2dcc138f9562",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_331eb79a5524",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Serrano to defend titles vs. Hanson at MVPW-03",
+      "dek": "Amanda Serrano will return to the ring and defend her featherweight titles against Germany's Cheyenne Hanson as part of MVPW-03 on May 30 in El Paso, Texas.",
+      "body": "Amanda Serrano will return to the ring and defend her featherweight titles against Germany's Cheyenne Hanson as part of MVPW-03 on May 30 in El Paso, Texas.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T13:26:33+00:00",
+      "sourceUrl": "https://www.espn.com/boxing/story/_/id/48420692/amanda-serrano-defend-titles-vs-cheyenne-hanson-mvpw-03",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_331eb79a5524",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_29a44e7a344c",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de4f/live/87429030-2f58-11f1-b471-73a11a0c1806.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8e54afd3af8d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
-      "dek": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
-      "body": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T13:16:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db29/live/5c328660-2f45-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_53b7cf662ed2",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Boozer fifth freshman to win AP Player of Year",
-      "dek": "Cameron Boozer is The Associated Press men's college basketball national Player of the Year, becoming only the fifth freshman to earn the honor and the second i",
-      "body": "Cameron Boozer is The Associated Press men's college basketball national Player of the Year, becoming only the fifth freshman to earn the honor and the second in a row for a Duke program that keeps adding to the longest list of winners in the country.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-03T13:15:16+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48386412/duke-freshman-cameron-boozer-named-ap-player-year",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_53b7cf662ed2",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
