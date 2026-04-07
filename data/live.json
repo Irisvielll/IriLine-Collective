@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-07T12:09:45+00:00",
+  "generatedAt": "2026-04-07T14:00:56+00:00",
   "items": [
+    {
+      "id": "latest_f06b75ed44fd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+      "dek": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed.",
+      "body": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T13:52:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e85/live/d1399600-3284-11f1-b297-95b0a0a8331e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3f7ae4ea8c3a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
+      "dek": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
+      "body": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T12:19:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389d/live/35c3e150-3278-11f1-b6b5-c5856fa3f77a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a28da4d04595",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-07T11:06:14+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1w4lnjej4do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8413/live/d3bdba90-325d-11f1-934f-036468834728.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ed7b45e46b2e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "India exploring the possibility of using Snakes and Crocodiles in border areas to curb illegal infiltration.",
-      "dek": "submitted by /u/TheeLieLama [link] [comments]",
-      "body": "submitted by /u/TheeLieLama [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T11:04:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sess5h/india_exploring_the_possibility_of_using_snakes/",
-      "image": "https://external-preview.redd.it/addqnBZlkN5YOrf7aX4zmUWhbYLqBCyTKmOfnIvYcyY.jpeg?width=640&crop=smart&auto=webp&s=ed8b418d60b61262e4c20666dd13cd35fde3c90d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8484e3c74ee8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Music giant Universal gets $64bn takeover offer",
-      "dek": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
-      "body": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T10:35:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/03a29b70-3265-11f1-bdf9-bf5479a63eec.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
