@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T22:04:08+00:00",
+  "generatedAt": "2026-04-07T22:58:38+00:00",
   "items": [
     {
       "id": "meme_a2ed5915d207",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_ab0720a9d667",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
+      "dek": "Migrant workers say they are struggling to access cooking gas cylinders as the Iran war squeezes supplies.",
+      "body": "Migrant workers say they are struggling to access cooking gas cylinders as the Iran war squeezes supplies.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T21:02:07+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f41/live/fac9bfc0-3259-11f1-bdf9-bf5479a63eec.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ffa29c72210e",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-07T20:55:50+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c98kn1zlxr1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8787/live/9cd13e20-32a4-11f1-b4da-a3b95db80b81.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_eba3973dbd7a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Bill Gates to appear before House Oversight Committee as part of Epstein probe",
-      "dek": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "body": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T20:46:11+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf86o2/bill_gates_to_appear_before_house_oversight/",
-      "image": "https://external-preview.redd.it/u4G2l795fuRb5R0-T9jhgzPM1Ca1ax8CihP5-3cN2vQ.jpeg?width=640&crop=smart&auto=webp&s=07c60bfd359a7a0ac4184991c5a9f10388d2f3de",
       "imageCredit": "Image via original publisher"
     }
   ]
