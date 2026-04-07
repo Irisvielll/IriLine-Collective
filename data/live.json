@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-07T19:43:59+00:00",
+  "generatedAt": "2026-04-07T20:28:19+00:00",
   "items": [
+    {
+      "id": "meme_81545b6ccf91",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Anchorage has to close a child care funding gap because people are buying less weed",
+      "dek": "submitted by /u/dorgoth12 [link] [comments]",
+      "body": "submitted by /u/dorgoth12 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-07T20:13:24+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf7anc/anchorage_has_to_close_a_child_care_funding_gap/",
+      "image": "https://external-preview.redd.it/rerq1X4E8wxKlS35Xypy6RykDPqIWz-szj48jBj_Mm4.jpeg?width=640&crop=smart&auto=webp&s=de67995d9045e76de829153b2be51521116b95b3",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b8c580d49e7c",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf5kte/beyond_apollo_artemis_ii_crew_smashes_human/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_4f1b4e2687a5",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_9a568885a97a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-      "dek": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-      "body": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T18:37:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45da/live/271e4090-32a6-11f1-b4da-a3b95db80b81.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
