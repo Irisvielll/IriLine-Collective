@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-08T23:01:00+00:00",
+  "generatedAt": "2026-04-08T23:52:55+00:00",
   "items": [
+    {
+      "id": "meme_a84d9ab6ed8d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
+      "dek": "submitted by /u/biograf_ [link] [comments]",
+      "body": "submitted by /u/biograf_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T23:02:38+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sg8gq3/jd_vance_says_iran_would_be_dumb_to_let_talks/",
+      "image": "https://external-preview.redd.it/meHKZs-uqnyeeUlNuWt1o978FrcZsoTYLbjLqxeW34M.jpeg?width=640&crop=smart&auto=webp&s=7c1ab48e93f7d1906833e34e7320b14989055520",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8a909124de7c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-08T22:46:58+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1997/live/f4bf0bd0-3399-11f1-b47b-69cf432b8e7e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ab7d33da2c58",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-      "dek": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-      "body": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T22:08:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bf/live/93db7c00-3393-11f1-9d5c-8ba507d7dbde.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

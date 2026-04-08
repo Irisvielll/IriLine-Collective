@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ab7d33da2c58",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+      "dek": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+      "body": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T22:08:33+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bf/live/93db7c00-3393-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_b6ecc2c794ca",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -74,6 +89,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cjr90wyw09wo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67b0/live/424cb280-337c-11f1-8606-05fe34b06e1b.png",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_49ff0c34fe3f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "PSG's wastefulness leaves door open, but this isn't Klopp's Liverpool any more",
+      "dek": "null",
+      "body": "null",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T19:05:58+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48432474/wasteful-psg-leave-door-open-liverpool-champions-league",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_49ff0c34fe3f",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_6c066b83e6da",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-05T12:59:19+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48404199/islanders-fire-patrick-roy-name-peter-deboer-replacement",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0bdd7080b04d",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_3b56784cb8ae",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-      "dek": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
-      "body": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T12:35:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d1/live/c42c9ff0-30ec-11f1-8697-1157c53c2504.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_08c56316a634",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "UConn's Ball uncertain for title game due to foot",
-      "dek": "UConn guard Solo Ball has a foot injury and will not practice as the Huskies prepare to face Michigan in the men's NCAA championship game.",
-      "body": "UConn guard Solo Ball has a foot injury and will not practice as the Huskies prepare to face Michigan in the men's NCAA championship game.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T12:21:16+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48403973/uconn-solo-ball-uncertain-ncaa-tournament-title-game",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_08c56316a634",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
