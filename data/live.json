@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-08T18:17:50+00:00",
+  "generatedAt": "2026-04-08T19:46:35+00:00",
   "items": [
+    {
+      "id": "latest_273ec051aae1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes",
+      "dek": "Ex-President Yahya Jammeh's 22-year rule was known for enforced disappearances and extrajudicial killings.",
+      "body": "Ex-President Yahya Jammeh's 22-year rule was known for enforced disappearances and extrajudicial killings.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T19:30:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr90wyw09wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67b0/live/424cb280-337c-11f1-8606-05fe34b06e1b.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dc7d6bc33f03",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-08T16:13:44+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e518e437da29",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Germany suspends military approval for long stays abroad for men under 45",
-      "dek": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it.",
-      "body": "The requirement to obtain permission had gone largely unnoticed until a German newspaper reported on it.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T15:21:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3752/live/9f5e7dd0-3356-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
