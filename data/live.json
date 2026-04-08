@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-08T12:43:39+00:00",
+  "generatedAt": "2026-04-08T14:20:01+00:00",
   "items": [
+    {
+      "id": "latest_cc24a8dca258",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
+      "dek": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
+      "body": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T13:07:57+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39a9/live/8e0c9350-3338-11f1-bf11-9546df991775.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_dcba93596bf9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Blood tests show hundreds of Georgians charged with DUI were sober",
+      "dek": "submitted by /u/madcowga [link] [comments]",
+      "body": "submitted by /u/madcowga [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T12:49:11+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfrw6d/blood_tests_show_hundreds_of_georgians_charged/",
+      "image": "https://external-preview.redd.it/Q5xOVdsT-VnJ1oPsvnsyF_9b_x06WrgbQHSqBwEdpig.jpeg?width=640&crop=smart&auto=webp&s=e3dfc58ba77f61619d7a6da12aa573913e424ace",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_590c1a37d634",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-08T12:26:35+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfrd7u/russia_says_some_in_eu_are_helping_election/",
       "image": "https://external-preview.redd.it/xSbtPNKxrp_e_cIt6DKslyD1GUPUjz6YarcT0b2rRu8.jpeg?width=640&crop=smart&auto=webp&s=33ca0f5a27b4b5e4765e0a164ef661b77b9e1ce3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2feb2840f8d1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "The Russian Academy of Sciences has proposed a plan to divide the Moon so that Russia gets its own “sovereign territories”",
-      "dek": "submitted by /u/Flaky-Impact-2428 [link] [comments]",
-      "body": "submitted by /u/Flaky-Impact-2428 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T12:10:56+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfr0oc/the_russian_academy_of_sciences_has_proposed_a/",
-      "image": "https://external-preview.redd.it/HrToav6hp9Pfv68knUMwMAowsxQXAFulZv_AfXzQgFI.jpeg?width=640&crop=smart&auto=webp&s=ab8750fe3ae0879d288887a03291211c7dad2891",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9e79e5b6c6ff",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Greece to ban social media for under-15s from next year",
-      "dek": "It follows similar moves in other European countries, including France and Spain.",
-      "body": "It follows similar moves in other European countries, including France and Spain.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T11:39:43+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a861/live/2f39f310-333b-11f1-9f60-37eac42daa69.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
