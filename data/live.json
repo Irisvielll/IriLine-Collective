@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-08T15:56:06+00:00",
+  "generatedAt": "2026-04-08T17:06:32+00:00",
   "items": [
+    {
+      "id": "meme_dc7d6bc33f03",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Thieves stole 96 bananas from Wawa in Montgomery County, police say",
+      "dek": "submitted by /u/BerryBoilo [link] [comments]",
+      "body": "submitted by /u/BerryBoilo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T16:23:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfxo35/thieves_stole_96_bananas_from_wawa_in_montgomery/",
+      "image": "https://external-preview.redd.it/wlez08Jh811byNkaevGYMOFRUKGKRiVRImr-JsWYTJY.jpeg?width=640&crop=smart&auto=webp&s=d7ce0b4058ba9e0cec5d01f9cb85ef3e7df6e5b9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_dd7930d3278a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ships still cautious about using Strait of Hormuz as Iran issues warning",
+      "dek": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+      "body": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T16:13:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b21/live/5f2f50e0-3351-11f1-8606-05fe34b06e1b.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e518e437da29",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-08T15:21:12+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3752/live/9f5e7dd0-3356-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bd631999a1c2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Schoolgirls handed rape alarms amid fears hotel migrants are stalking them in Scottish town",
-      "dek": "submitted by /u/malik_zz [link] [comments]",
-      "body": "submitted by /u/malik_zz [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T15:17:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfvte3/schoolgirls_handed_rape_alarms_amid_fears_hotel/",
-      "image": "https://external-preview.redd.it/2pP0wxRwBZSvoI3FsLTNz61Gb66wLQMqokwpcFy5OEA.jpeg?width=640&crop=smart&auto=webp&s=0ef9ea3b6a751478b82afdc169b2f2e446ec4e95",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6c5ecc2c0bcb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "BTS turned millions on to K-pop. But now it's caught between Korea and the world",
-      "dek": "It boils down to a single, loaded question: Is BTS straying from K-pop in trying to woo the world?",
-      "body": "It boils down to a single, loaded question: Is BTS straying from K-pop in trying to woo the world?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T15:00:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cg73dnz0l1xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6b/live/9a406ff0-333a-11f1-bf11-9546df991775.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
