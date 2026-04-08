@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_72898d6c3d76",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "dek": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+      "body": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T02:01:58+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c92/live/4b2bc340-32d8-11f1-b63d-15080c5ce187.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_d89cd5eddf1d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-04T09:36:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sc4xe3/armed_police_officers_left_bag_of_guns_outside/",
       "image": "https://external-preview.redd.it/VAozLdeB1ZjY1eM9qeBhCFv5o9-Vq4i7fOZG2xZCDno.jpeg?width=640&crop=smart&auto=webp&s=ae53cca59529f74257f7ffea6e1f90bca4cc3195",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_445861f12f0d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
-      "dek": "Former Speaker of the House Nancy Pelosi calls the plan a \"stupid notion that would be nothing more than a waste of taxpayer dollars\".",
-      "body": "Former Speaker of the House Nancy Pelosi calls the plan a \"stupid notion that would be nothing more than a waste of taxpayer dollars\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-04T09:17:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddcf/live/782ba7e0-3006-11f1-a1a5-7555ad51d4c1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

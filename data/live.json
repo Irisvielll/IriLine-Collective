@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-08T06:49:58+00:00",
+  "generatedAt": "2026-04-08T08:12:55+00:00",
   "items": [
+    {
+      "id": "meme_333e1e62ae1a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "In Key Senate Races, Schumer Willing to Help Candidates Who Want Him Gone",
+      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-08T06:59:22+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sflis4/in_key_senate_races_schumer_willing_to_help/",
+      "image": "https://external-preview.redd.it/whd4gIo1H5FxTgXuWIzLZJNuX3ekV7d2VqXhMaHqSxM.jpeg?width=640&crop=smart&auto=webp&s=223a53d8a6887a5ec95ececa6ed919d2c7f603df",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_da3c147fae04",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-08T02:58:55+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2903/live/9dacbc50-32ec-11f1-99b6-23f4623af7b4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_72898d6c3d76",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
-      "dek": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
-      "body": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T02:01:58+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c92/live/4b2bc340-32d8-11f1-b63d-15080c5ce187.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
