@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-09T21:57:36+00:00",
+  "generatedAt": "2026-04-09T22:51:53+00:00",
   "items": [
+    {
+      "id": "meme_1cea45fb374b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "White House Blasted for Reportedly Using Donated Foreign Steel for Ballroom",
+      "dek": "submitted by /u/jmooch1 [link] [comments]",
+      "body": "submitted by /u/jmooch1 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T22:21:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sh49xn/white_house_blasted_for_reportedly_using_donated/",
+      "image": "https://external-preview.redd.it/6EcR9rj580jX1nPmMtBDJTgNSDjfAJXt6SCLp7g4S4Y.jpeg?width=640&crop=smart&auto=webp&s=a4757522d527f0170c8bf498828ae0e7758ebf9d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_569f864c0d92",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hot in the city: Energy crisis tests Singapore's air-con addiction",
+      "dek": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
+      "body": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T22:03:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b85/live/c7b11ed0-3439-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_53512a16f312",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-09T21:31:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sh30i6/tn_school_board_member_who_called_female_student/",
       "image": "https://external-preview.redd.it/ER67JqmSf5ZJQSsJMW88B-LHIaOAf3QBblvIc-O2Cbw.jpeg?width=640&crop=smart&auto=webp&s=2f0ac5225a3fe305e6c1c27916f67dca0607cbab",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3e20fb956b8b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Fake Job Candidate Suspected as North Korean After Failing ‘Insult Kim Jong Un’ Test",
-      "dek": "submitted by /u/Resident_Caramel763 [link] [comments]",
-      "body": "submitted by /u/Resident_Caramel763 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T20:50:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sh1x4x/fake_job_candidate_suspected_as_north_korean/",
-      "image": "https://external-preview.redd.it/2DDySixV9p5VwXf-GxovEwWlg3ZMSOBOZQJ4YQRkShA.png?width=640&crop=smart&auto=webp&s=f3c592a08b0b77ca6b299bc57bd13149f083f1a2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f4a05f008f08",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel to hold direct talks with Lebanon, Netanyahu says",
-      "dek": "The announcement came after a massive wave of Israeli strikes on Lebanon on Wednesday which killed 303 people, according to health officials.",
-      "body": "The announcement came after a massive wave of Israeli strikes on Lebanon on Wednesday which killed 303 people, according to health officials.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T20:04:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/5c5b3ee0-3439-11f1-a18c-d7e9f5df98a8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
