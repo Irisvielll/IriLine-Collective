@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_1bf1ba69d2c3",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The Pentagon Threatened Pope Leo XIV’s Ambassador With the Avignon Papacy",
+      "dek": "submitted by /u/kwentongskyblue [link] [comments]",
+      "body": "submitted by /u/kwentongskyblue [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T03:43:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgeo72/the_pentagon_threatened_pope_leo_xivs_ambassador/",
+      "image": "https://external-preview.redd.it/jhQkgndTiGjUpheiZ_wRrUr2ytRZYbHN9SS0H2uKaNs.jpeg?width=640&crop=smart&auto=webp&s=6fff8edcb17c331d9237044a1355b84d0c70a143",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_332556739e20",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-05T19:11:03+00:00",
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48407326/informs-michigan-not-pursuing-other-jobs",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c3ccd89d0b18",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_89a7411934cb",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Corner kick: Machado boots pickoff, rallies Padres",
-      "dek": "Padres third baseman Manny Machado kicked aside a pickoff attempt to help San Diego score two runs as they rallied from a four-run deficit on their way to an 8-",
-      "body": "Padres third baseman Manny Machado kicked aside a pickoff attempt to help San Diego score two runs as they rallied from a four-run deficit on their way to an 8-6 victory over the Red Sox on Sunday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-05T19:11:03+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48407096/machado-well-d-kick-helps-padres-rally-beat-boston",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_89a7411934cb",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
