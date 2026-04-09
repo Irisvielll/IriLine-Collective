@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-09T10:45:47+00:00",
+  "generatedAt": "2026-04-09T11:55:10+00:00",
   "items": [
+    {
+      "id": "latest_fb2e836b0d42",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
+      "dek": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
+      "body": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T11:07:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a8c/live/34695810-33f1-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3b5c1ac343a5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Argentina passes bill loosening protection of its glaciers",
+      "dek": "The new bill will make it easier for provincial governments to allow mining projects in glacier regions.",
+      "body": "The new bill will make it easier for provincial governments to allow mining projects in glacier regions.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T10:52:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/cc3ced80-3402-11f1-a358-4371c0159520.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f9f768dca5d6",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-09T10:39:35+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sglzox/netanyahu_on_the_ceasefire_ceasefire_yes_i_see/",
       "image": "https://external-preview.redd.it/prUOoEaQmeWgPt8Kp3kfxcnw-RFrdjrL30BX4UBXQSk.jpeg?width=640&crop=smart&auto=webp&s=dde0c7d7ec336ea62a6caf693470508e828c8154",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e0bb685a2626",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "India considers dropping crocodiles and snakes in river to protect border",
-      "dek": "submitted by /u/FearMyCock [link] [comments]",
-      "body": "submitted by /u/FearMyCock [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T08:33:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgjva1/india_considers_dropping_crocodiles_and_snakes_in/",
-      "image": "https://external-preview.redd.it/UDbQWiAe-Emk9BfPbA9cZqwbPSlS9dOjwwVQN2804nE.jpeg?width=640&crop=smart&auto=webp&s=b795427c47d23821e9899d5e9a4fe9aaf16a7516",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_26825170c555",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-      "dek": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\".",
-      "body": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T05:57:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3be/live/c71c7700-33d8-11f1-879d-1b2f5c3919b8.png",
       "imageCredit": "Image via original publisher"
     }
   ]
