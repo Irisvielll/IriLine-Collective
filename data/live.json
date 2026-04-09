@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-09T16:42:51+00:00",
+  "generatedAt": "2026-04-09T17:45:43+00:00",
   "items": [
+    {
+      "id": "meme_b9b67d5e64ad",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kendra Duggar’s Family Launches GoFundMe for Housing, Legal Bills",
+      "dek": "submitted by /u/jordan1978 [link] [comments]",
+      "body": "submitted by /u/jordan1978 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T16:52:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgv8ll/kendra_duggars_family_launches_gofundme_for/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_b9b67d5e64ad",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "latest_c3c6e64d88a9",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-09T16:08:34+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgu03m/gay_hookup_app_grindr_to_host_its_first_white/",
       "image": "https://external-preview.redd.it/nt99XSuOBA1gddViHcjzdm6xOyVPpU-zMnSoZJ23-ac.png?width=640&crop=smart&auto=webp&s=82b7a43720c88797d84a339e9a5abce56c82eeae",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6185dd830cf3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-      "dek": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
-      "body": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T16:06:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e9e/live/e2a407e0-341e-11f1-aa50-fd39c44a0779.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

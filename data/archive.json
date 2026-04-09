@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6185dd830cf3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+      "dek": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
+      "body": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T16:06:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e9e/live/e2a407e0-341e-11f1-aa50-fd39c44a0779.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_05592293267b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgp4v3/the_mcdonalds_ceo_blamed_his_tiny_bite_fiasco_on/",
       "image": "https://external-preview.redd.it/JLqizGgy0cGX0oPOaEsQ3gzbm7XJ8iqViPmin6k5CW8.jpeg?width=640&crop=smart&auto=webp&s=1632ec341f006f7765ffebeec3238c4c1d9c5f2c",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_73fab6d950a0",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sens' Chabot to play 17 days after breaking arm",
+      "dek": "Senators defenseman Thomas Chabot will play in Thursday's game against the Panthers, returning to the lineup 2½ weeks after suffering a broken arm.",
+      "body": "Senators defenseman Thomas Chabot will play in Thursday's game against the Panthers, returning to the lineup 2½ weeks after suffering a broken arm.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T13:05:36+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48439385/senators-defenseman-thomas-chabot-makes-return-broken-arm",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_73fab6d950a0",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_a13e42169079",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48412067/wisconsin-blackwell-enter-portal-test-nba-draft-process",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_52c184d70c9e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_305aac74702e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Savannah Guthrie returns to NBC's Today show, as search for mother goes on",
-      "dek": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
-      "body": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T10:16:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb3/live/761e1c20-319c-11f1-a86f-cd77a2acada3.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dcce60cd6b68",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
-      "dek": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
-      "body": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T09:59:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c2/live/6b50b9e0-3185-11f1-86cc-99d8e53afbd3.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
