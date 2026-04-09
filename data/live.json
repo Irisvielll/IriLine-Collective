@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-09T19:08:23+00:00",
+  "generatedAt": "2026-04-09T20:07:38+00:00",
   "items": [
+    {
+      "id": "latest_f4a05f008f08",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israel to hold direct talks with Lebanon, Netanyahu says",
+      "dek": "The announcement came after a massive wave of Israeli strikes on Lebanon on Wednesday which killed 303 people, according to health officials.",
+      "body": "The announcement came after a massive wave of Israeli strikes on Lebanon on Wednesday which killed 303 people, according to health officials.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T20:04:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5934/live/5c5b3ee0-3439-11f1-a18c-d7e9f5df98a8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_264150d6fbd8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A new way to measure poverty shows the US falling behind Europe",
+      "dek": "submitted by /u/BadahBingBadahBoom [link] [comments]",
+      "body": "submitted by /u/BadahBingBadahBoom [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T19:57:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sh0gzd/a_new_way_to_measure_poverty_shows_the_us_falling/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_264150d6fbd8",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_ad267ea2f706",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-09T18:22:02+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgxs94/another_cbsa_dog_sniffs_out_kilos_of_raw_meat_in/",
       "image": "https://external-preview.redd.it/xSiFUAnhZbqOt3las9Ilkg3oOJYgIFsEvtkn3FrSbaE.jpeg?width=640&crop=smart&auto=webp&s=bba63d59efa08ebd74787596af3f0bfbaaf8ad36",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_343efed385b9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Researchers propose ‘rewilding’ Europe’s borderlands to repel enemies",
-      "dek": "submitted by /u/StealthCuttlefish [link] [comments]",
-      "body": "submitted by /u/StealthCuttlefish [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T17:59:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgx4q5/researchers_propose_rewilding_europes_borderlands/",
-      "image": "https://external-preview.redd.it/0zSg3gXOvsCxagU5jSxlSILeBvFv-sz-WyUAKisyc2c.jpeg?width=640&crop=smart&auto=webp&s=6b97f0e1dc91039564e540099bdd2e8da8f33970",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b71a3efc46f5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘Snoopy’, ‘Adolf’ and ‘Password’: The Hungarian Government Passwords Exposed Online",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T17:54:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgx087/snoopy_adolf_and_password_the_hungarian/",
-      "image": "https://external-preview.redd.it/K1K2ho6dngSqeoK_7z5YorKfzXE-A5P82tEx74vXeO4.jpeg?width=640&crop=smart&auto=webp&s=dc15d1132582d285213b96b5e3c54812995f9fad",
       "imageCredit": "Image via original publisher"
     }
   ]
