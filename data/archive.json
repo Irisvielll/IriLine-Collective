@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_264150d6fbd8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A new way to measure poverty shows the US falling behind Europe",
+      "dek": "submitted by /u/BadahBingBadahBoom [link] [comments]",
+      "body": "submitted by /u/BadahBingBadahBoom [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T19:57:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sh0gzd/a_new_way_to_measure_poverty_shows_the_us_falling/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_264150d6fbd8",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_ad267ea2f706",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -59,6 +74,21 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgx019/philz_ceo_orders_removal_of_flags_from_stores/",
       "image": "https://external-preview.redd.it/WDW2i8CoDtZEM2GJC1kI2szwaru8fH-mQTxUfPaxKmE.jpeg?width=640&crop=smart&auto=webp&s=d51c8e17d53b7c50030a0d1c621d64d9237f7609",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d28ecb189dc5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Rory opens defense with 67, share of early lead",
+      "dek": "Rory McIlroy did not, by his standards, play his best golf in the opening round yet still managed a 5-under 67, good for a share of the early lead with Sam Burn",
+      "body": "Rory McIlroy did not, by his standards, play his best golf in the opening round yet still managed a 5-under 67, good for a share of the early lead with Sam Burns and his lowest opening round at the Masters since 2011.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T17:45:20+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48441676/rory-mcilroy-fires-67-lowest-masters-round-1-11",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d28ecb189dc5",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_b9b67d5e64ad",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/48412968/wnba-trade-grades-2026-free-agency-winners-losers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e0fc4477eaaa",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_0f7c26d41d14",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "India considers releasing crocodiles and venomous snakes along eastern border with Bangladesh",
-      "dek": "submitted by /u/5ma5her7 [link] [comments]",
-      "body": "submitted by /u/5ma5her7 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T15:05:22+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1se1gc2/india_considers_releasing_crocodiles_and_venomous/",
-      "image": "https://external-preview.redd.it/zt2y3qVshoNalk2nX53XCEtwVvQDwUet4ZlqwlwNaXA.jpeg?width=640&crop=smart&auto=webp&s=b4dd11c89a8cc99b20ea048d0be6bbee62d111cb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b8c3b17fea81",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Easter egg hunt may have unearthed human remains",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T14:55:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1se16k2/easter_egg_hunt_may_have_unearthed_human_remains/",
-      "image": "https://external-preview.redd.it/98rllCDg9lpVxsfloEcvW8gT_WIMOZ82ilWsruYUOaI.jpeg?width=640&crop=smart&auto=webp&s=e6e859da3280eccc02b5a447e9c0c8fec7620cdc",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
