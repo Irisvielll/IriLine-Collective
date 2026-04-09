@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-09T20:07:38+00:00",
+  "generatedAt": "2026-04-09T21:03:39+00:00",
   "items": [
+    {
+      "id": "meme_3e20fb956b8b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Fake Job Candidate Suspected as North Korean After Failing ‘Insult Kim Jong Un’ Test",
+      "dek": "submitted by /u/Resident_Caramel763 [link] [comments]",
+      "body": "submitted by /u/Resident_Caramel763 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T20:50:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sh1x4x/fake_job_candidate_suspected_as_north_korean/",
+      "image": "https://external-preview.redd.it/2DDySixV9p5VwXf-GxovEwWlg3ZMSOBOZQJ4YQRkShA.png?width=640&crop=smart&auto=webp&s=f3c592a08b0b77ca6b299bc57bd13149f083f1a2",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f4a05f008f08",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sh0gzd/a_new_way_to_measure_poverty_shows_the_us_falling/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_264150d6fbd8",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_ad267ea2f706",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Another CBSA dog sniffs out kilos of raw meat in traveller’s bag at Pearson airport",
-      "dek": "submitted by /u/Accurate_Cry_8937 [link] [comments]",
-      "body": "submitted by /u/Accurate_Cry_8937 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T18:22:02+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgxs94/another_cbsa_dog_sniffs_out_kilos_of_raw_meat_in/",
-      "image": "https://external-preview.redd.it/xSiFUAnhZbqOt3las9Ilkg3oOJYgIFsEvtkn3FrSbaE.jpeg?width=640&crop=smart&auto=webp&s=bba63d59efa08ebd74787596af3f0bfbaaf8ad36",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

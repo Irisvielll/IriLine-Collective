@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_ad267ea2f706",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Another CBSA dog sniffs out kilos of raw meat in traveller’s bag at Pearson airport",
+      "dek": "submitted by /u/Accurate_Cry_8937 [link] [comments]",
+      "body": "submitted by /u/Accurate_Cry_8937 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T18:22:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgxs94/another_cbsa_dog_sniffs_out_kilos_of_raw_meat_in/",
+      "image": "https://external-preview.redd.it/xSiFUAnhZbqOt3las9Ilkg3oOJYgIFsEvtkn3FrSbaE.jpeg?width=640&crop=smart&auto=webp&s=bba63d59efa08ebd74787596af3f0bfbaaf8ad36",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_343efed385b9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -58,6 +73,36 @@
       "publishedAt": "2026-04-09T16:52:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgv8ll/kendra_duggars_family_launches_gofundme_for/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_b9b67d5e64ad",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_0bbc83cd2f2d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Michigan lands coveted Vols transfer Estrella",
+      "dek": "Tennessee's J.P. Estrella, a 6-foot-11 redshirt sophomore transfer, told ESPN he committed to Michigan, giving the Wolverines their first portal player since wi",
+      "body": "Tennessee's J.P. Estrella, a 6-foot-11 redshirt sophomore transfer, told ESPN he committed to Michigan, giving the Wolverines their first portal player since winning the national title Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T16:52:17+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48441085/michigan-lands-coveted-tennessee-transfer-jp-estrella",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0bbc83cd2f2d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_a6baa900669a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Springs, A's bullpen toss 1-hitter in win vs. Yanks",
+      "dek": "Jeffrey Springs took a no-hit bid into the seventh inning and combined with two relievers on a one-hitter to lead the Athletics to 1-0 win over the Yankees Thur",
+      "body": "Jeffrey Springs took a no-hit bid into the seventh inning and combined with two relievers on a one-hitter to lead the Athletics to 1-0 win over the Yankees Thursday in the Bronx.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T16:52:17+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48441024/springs-relievers-combine-1-hitter-win-vs-yankees",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a6baa900669a",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1se16k2/easter_egg_hunt_may_have_unearthed_human_remains/",
       "image": "https://external-preview.redd.it/98rllCDg9lpVxsfloEcvW8gT_WIMOZ82ilWsruYUOaI.jpeg?width=640&crop=smart&auto=webp&s=e6e859da3280eccc02b5a447e9c0c8fec7620cdc",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_4042f8a46510",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: UNC to hire Malone as new hoops coach",
-      "dek": "North Carolina intends to hire former longtime NBA coach Michael Malone as the school's next basketball coach, sources told ESPN.",
-      "body": "North Carolina intends to hire former longtime NBA coach Michael Malone as the school's next basketball coach, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T14:53:24+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48413287/unc-hire-ex-nba-coach-michael-malone-hc-sources-say",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4042f8a46510",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_72bc75cae5c0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Mets' Soto placed on IL, expected out 2-3 weeks",
-      "dek": "The Mets placed Juan Soto on the injured list after the left fielder suffered a minor right calf strain running the bases Friday against the Giants.",
-      "body": "The Mets placed Juan Soto on the injured list after the left fielder suffered a minor right calf strain running the bases Friday against the Giants.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T14:45:11+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48413546/mets-place-star-outfielder-juan-soto-il-calf-strain",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_72bc75cae5c0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_9bf6b8ab3e99",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Bulls fire Karnisovas, GM Eversley after 6 seasons",
-      "dek": "The Chicago Bulls have fired executive vice president of basketball operations Arturas Karnisovas and general manager Marc Eversley.",
-      "body": "The Chicago Bulls have fired executive vice president of basketball operations Arturas Karnisovas and general manager Marc Eversley.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T14:45:11+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48413577/sources-bulls-fire-vp-arturas-karnisovas-gm-marc-eversley",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9bf6b8ab3e99",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
