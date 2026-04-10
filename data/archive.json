@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_f0782476a432",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Detector dog at Pearson airport sniffs out more than 40kg of undeclared meat",
+      "dek": "submitted by /u/thieh [link] [comments]",
+      "body": "submitted by /u/thieh [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T03:31:53+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shbawg/detector_dog_at_pearson_airport_sniffs_out_more/",
+      "image": "https://external-preview.redd.it/2IKfpGbpV9AIYx6pnDu4iNb8ZeDfR1aAg_D_qgevJ8U.jpeg?width=640&crop=smart&auto=webp&s=646d6107c0add8016f2130c5b93a76ca254e8272",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_eaee320ea488",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "White House staff told not to place bets on prediction markets",
+      "dek": "The gambling platforms have grown in popularity, with some users making bets on conflicts.",
+      "body": "The gambling platforms have grown in popularity, with some users making bets on conflicts.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T02:32:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_d4bf3de1c3df",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48416021/wembanyama-exits-spurs-game-vs-76ers-bruised-rib",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9290f9f900b9",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_a5ec65848594",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "M's Raleigh ends 10-game drought, hits 1st homer",
-      "dek": "Seattle catcher Cal Raleigh, who led the major leagues with 60 homers last year, hit his first of the season Monday following a 10-game drought, as the Mariners",
-      "body": "Seattle catcher Cal Raleigh, who led the major leagues with 60 homers last year, hit his first of the season Monday following a 10-game drought, as the Mariners opened up a series against two-time Cy Young Award winner Jacob deGrom of the Texas Rangers.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T22:05:58+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48415700/seattle-mariners-catcher-cal-raleigh-hits-first-hr-season",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a5ec65848594",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_96b1b87b0da4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-      "dek": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
-      "body": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T21:55:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45a/live/ef22eae0-31e9-11f1-8794-099b3bc3f94e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

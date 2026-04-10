@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-10T08:06:50+00:00",
+  "generatedAt": "2026-04-10T09:38:12+00:00",
   "items": [
+    {
+      "id": "meme_8c9a4d37272b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Two hundred chimpanzees are embroiled in a ‘civil war’",
+      "dek": "submitted by /u/Real_Suntan_Superman [link] [comments]",
+      "body": "submitted by /u/Real_Suntan_Superman [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T09:31:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shhokc/two_hundred_chimpanzees_are_embroiled_in_a_civil/",
+      "image": "https://external-preview.redd.it/7Xjz8G8CzAKf5wVP_ogQqDZBRaH313Rk3V7bTN8BIa0.jpeg?width=640&crop=smart&auto=webp&s=3310de9b06147c89178cbcf9ae820f66a2e5f0eb",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_ffa3b3d8f516",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Microsoft denies Copilot is only for entertainment purpose, after its own document says do not trust AI",
+      "dek": "submitted by /u/plain_handle [link] [comments]",
+      "body": "submitted by /u/plain_handle [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T09:30:57+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shho1l/microsoft_denies_copilot_is_only_for/",
+      "image": "https://external-preview.redd.it/SPaIpvnALs6jVm2o7cmrOybLi5j0hva_P0Lj8X73FOU.jpeg?width=640&crop=smart&auto=webp&s=09a25f3473c0d1535807cc0963c48813d83d4e87",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a5a11dd61386",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-10T06:34:44+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shep4m/new_campaign_beat_cancer_off_wants_men_to/",
       "image": "https://external-preview.redd.it/DbUK2lXWjm5_0XAKul93CnrDTxCuUbRqssvmJCxHzGM.jpeg?width=640&crop=smart&auto=webp&s=d5b827ada05901921010fef9dfdb36035ee77d12",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f0782476a432",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Detector dog at Pearson airport sniffs out more than 40kg of undeclared meat",
-      "dek": "submitted by /u/thieh [link] [comments]",
-      "body": "submitted by /u/thieh [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T03:31:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shbawg/detector_dog_at_pearson_airport_sniffs_out_more/",
-      "image": "https://external-preview.redd.it/2IKfpGbpV9AIYx6pnDu4iNb8ZeDfR1aAg_D_qgevJ8U.jpeg?width=640&crop=smart&auto=webp&s=646d6107c0add8016f2130c5b93a76ca254e8272",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_eaee320ea488",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "White House staff told not to place bets on prediction markets",
-      "dek": "The gambling platforms have grown in popularity, with some users making bets on conflicts.",
-      "body": "The gambling platforms have grown in popularity, with some users making bets on conflicts.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T02:32:27+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
