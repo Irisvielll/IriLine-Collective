@@ -16,6 +16,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_252332e767ad",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Denver wins in 2OT, gets Wisc. in Frozen Four final",
+      "dek": "In a double-overtime classic, Denver's Kent Anderson scored the winning goal to stun Michigan 4-3 and send the Pioneers to Saturday's Frozen Four title game aga",
+      "body": "In a double-overtime classic, Denver's Kent Anderson scored the winning goal to stun Michigan 4-3 and send the Pioneers to Saturday's Frozen Four title game against Wisconsin.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T01:37:01+00:00",
+      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48443049/denver-stuns-michigan-2ot-plays-wisconsin-frozen-four-title",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_252332e767ad",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_d851e753d60e",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-06T21:55:50+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45a/live/ef22eae0-31e9-11f1-8794-099b3bc3f94e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ae817d09e36b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Lil Nas X assault case to be dismissed if he completes mental health programme",
-      "dek": "The judge said the musician's behaviour when he was arrested in LA last year was \"aberrant from his normal conduct\".",
-      "body": "The judge said the musician's behaviour when he was arrested in LA last year was \"aberrant from his normal conduct\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T21:55:11+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cew7nqn5rqgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d02/live/0df5fae0-31fc-11f1-9d4f-8ddc42d6e258.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

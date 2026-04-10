@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-10T06:15:27+00:00",
+  "generatedAt": "2026-04-10T08:06:50+00:00",
   "items": [
+    {
+      "id": "meme_a5a11dd61386",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "‘New campaign “beat cancer off” wants men to masturbate 21 or more times a month’",
+      "dek": "submitted by /u/ArthurPeabody [link] [comments]",
+      "body": "submitted by /u/ArthurPeabody [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T06:34:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shep4m/new_campaign_beat_cancer_off_wants_men_to/",
+      "image": "https://external-preview.redd.it/DbUK2lXWjm5_0XAKul93CnrDTxCuUbRqssvmJCxHzGM.jpeg?width=640&crop=smart&auto=webp&s=d5b827ada05901921010fef9dfdb36035ee77d12",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f0782476a432",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_252332e767ad",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Denver wins in 2OT, gets Wisc. in Frozen Four final",
-      "dek": "In a double-overtime classic, Denver's Kent Anderson scored the winning goal to stun Michigan 4-3 and send the Pioneers to Saturday's Frozen Four title game aga",
-      "body": "In a double-overtime classic, Denver's Kent Anderson scored the winning goal to stun Michigan 4-3 and send the Pioneers to Saturday's Frozen Four title game against Wisconsin.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T01:37:01+00:00",
-      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48443049/denver-stuns-michigan-2ot-plays-wisconsin-frozen-four-title",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_252332e767ad",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
