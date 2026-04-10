@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_d4bf3de1c3df",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Avs clinch NHL's top seed with 3-1 win vs. Flames",
+      "dek": "The Avalanche clinched the NHL's top seed for the postseason with a 3-1 win over the Flames on Thursday night.",
+      "body": "The Avalanche clinched the NHL's top seed for the postseason with a 3-1 win over the Flames on Thursday night.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T01:37:01+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48444480/avalanche-win-presidents-trophy-nhl-best-record",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d4bf3de1c3df",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_d851e753d60e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
+      "dek": "The Bronx born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
+      "body": "The Bronx born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T00:50:21+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7483/live/0aeb9580-3477-11f1-a27c-25e679607533.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_8caad123cc6c",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-06T21:55:11+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cew7nqn5rqgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d02/live/0df5fae0-31fc-11f1-9d4f-8ddc42d6e258.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_41f58985acf5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Retired matador killed by bull ahead of bullfight in southern Spain",
-      "dek": "Seems the bull ignored Human Standard Time and started early. submitted by /u/Zardotab [link] [comments]",
-      "body": "Seems the bull ignored Human Standard Time and started early. submitted by /u/Zardotab [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T21:44:34+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1secmfb/retired_matador_killed_by_bull_ahead_of_bullfight/",
-      "image": "https://external-preview.redd.it/GPKk7dOulv6pVB_wu8ICXaM2pzWSguG2q7z46DCuDPk.jpeg?width=640&crop=smart&auto=webp&s=8bd890531bad7a67a9ed0ebe719d68b64a3a92db",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b97d16b8d9a7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nine policemen sentenced to death in India over Covid custody killings",
-      "dek": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
-      "body": "The father and son died in jail after being arrested on suspicion of breaching Covid lockdown rules in 2020.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T21:21:13+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad14/live/4b633f20-31f5-11f1-980b-61f22cc055ba.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

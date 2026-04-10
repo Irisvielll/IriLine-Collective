@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T04:17:53+00:00",
+  "generatedAt": "2026-04-10T06:15:27+00:00",
   "items": [
     {
       "id": "meme_f0782476a432",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_d851e753d60e",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_252332e767ad",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Hip-hop pioneer, Afrika Bambaataa, dies aged 68",
-      "dek": "The Bronx born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
-      "body": "The Bronx born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
+      "category": "SPORTS",
+      "title": "Denver wins in 2OT, gets Wisc. in Frozen Four final",
+      "dek": "In a double-overtime classic, Denver's Kent Anderson scored the winning goal to stun Michigan 4-3 and send the Pioneers to Saturday's Frozen Four title game aga",
+      "body": "In a double-overtime classic, Denver's Kent Anderson scored the winning goal to stun Michigan 4-3 and send the Pioneers to Saturday's Frozen Four title game against Wisconsin.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T00:50:21+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2evppm30p7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7483/live/0aeb9580-3477-11f1-a27c-25e679607533.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-10T01:37:01+00:00",
+      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48443049/denver-stuns-michigan-2ot-plays-wisconsin-frozen-four-title",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_252332e767ad",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
