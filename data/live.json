@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-10T19:55:19+00:00",
+  "generatedAt": "2026-04-10T20:38:22+00:00",
   "items": [
+    {
+      "id": "latest_41f9d15225c2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Gunmen kill at least four people at Afghanistan picnic spot",
+      "dek": "Officials say attackers opened fire near the village of Deh Mehri in Herat.",
+      "body": "Officials say attackers opened fire near the village of Deh Mehri in Herat.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T20:07:07+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr51z5p17myo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/cf3ea800-3503-11f1-b057-1d9fee7490d8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_1764d7ff24f8",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-10T18:21:59+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3db9/live/f3457360-34c6-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4b66243cb3f4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Korea deploys thermal imaging cameras in search for escaped zoo wolf",
-      "dek": "The male wolf, named Neukgu, escaped a zoo in the central city of Daejeon on Wednesday, officials said.",
-      "body": "The male wolf, named Neukgu, escaped a zoo in the central city of Daejeon on Wednesday, officials said.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T17:30:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cr41d4r5kdeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd42/live/36df45f0-34f5-11f1-955f-add91a6f90f4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
