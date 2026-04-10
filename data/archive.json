@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_a5a11dd61386",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "‘New campaign “beat cancer off” wants men to masturbate 21 or more times a month’",
+      "dek": "submitted by /u/ArthurPeabody [link] [comments]",
+      "body": "submitted by /u/ArthurPeabody [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T06:34:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shep4m/new_campaign_beat_cancer_off_wants_men_to/",
+      "image": "https://external-preview.redd.it/DbUK2lXWjm5_0XAKul93CnrDTxCuUbRqssvmJCxHzGM.jpeg?width=640&crop=smart&auto=webp&s=d5b827ada05901921010fef9dfdb36035ee77d12",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_f0782476a432",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -374,6 +389,21 @@
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/48442449/aces-agree-119-million-deal-jackie-young",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_286245ea9a1c",
       "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_defa81f28650",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Melania Trump: 'I never had a relationship with Epstein'",
+      "dek": "Watch the first lady's full statement from the White House as she addresses her links to the late sex offender.",
+      "body": "Watch the first lady's full statement from the White House as she addresses her links to the late sex offender.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-09T19:00:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1951/live/09d03dd0-34a0-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
     },
     {
       "id": "sports_f124f7a5d94f",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sedj7m/nancy_guthrie_update_new_ransom_note_claims_to/",
       "image": "https://external-preview.redd.it/_0Uo5LnNk3e-PVdlyqmlCdmgZNG8SQsIegX7T5SKwWM.jpeg?width=640&crop=smart&auto=webp&s=b7156f2d3a205258a5382872160dfb07db46be10",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_76c64b68822b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Tiger Woods isn't at Augusta this week, yet Tiger Woods is everywhere this week",
-      "dek": "After the recent tumult, Woods won't be in Augusta, but Masters fans still seek the ghosts of past miracle shots. There is no unwinding this tournament and Tige",
-      "body": "After the recent tumult, Woods won't be in Augusta, but Masters fans still seek the ghosts of past miracle shots. There is no unwinding this tournament and Tiger.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T22:11:07+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48413463/tiger-woods-augusta-national-2026-masters",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_76c64b68822b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_9290f9f900b9",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wemby leaves Spurs' game due to bruised rib",
-      "dek": "The Spurs ruled Victor Wembanyama out for the second half of Monday's matchup against the 76ers because of a left rib contusion.",
-      "body": "The Spurs ruled Victor Wembanyama out for the second half of Monday's matchup against the 76ers because of a left rib contusion.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-06T22:05:58+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48416021/wembanyama-exits-spurs-game-vs-76ers-bruised-rib",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9290f9f900b9",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
