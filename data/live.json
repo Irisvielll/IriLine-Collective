@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-10T10:38:12+00:00",
+  "generatedAt": "2026-04-10T11:33:09+00:00",
   "items": [
+    {
+      "id": "latest_3c7a399087e0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "German transgender far-right extremist arrested in Czech Republic",
+      "dek": "German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour.",
+      "body": "German media reports say Marla-Svenja Liebich used to be a member of a neo-Nazi group called Blood and Honour.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T10:05:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn4vdnr8knjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df30/live/308a6250-7e59-11f0-9e21-f9e74b491350.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8c9a4d37272b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-10T09:30:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shho1l/microsoft_denies_copilot_is_only_for/",
       "image": "https://external-preview.redd.it/SPaIpvnALs6jVm2o7cmrOybLi5j0hva_P0Lj8X73FOU.jpeg?width=640&crop=smart&auto=webp&s=09a25f3473c0d1535807cc0963c48813d83d4e87",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a6ef5c0ecab3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
-      "dek": "Cheng Li-wun is the Kuomintang's first sitting leader to visit China in a decade.",
-      "body": "Cheng Li-wun is the Kuomintang's first sitting leader to visit China in a decade.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T07:55:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj94y87k2ljo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/ffbd95b0-34ac-11f1-a676-6ff4dfb1e8ec.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
