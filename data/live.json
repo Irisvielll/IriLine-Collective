@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T12:35:06+00:00",
+  "generatedAt": "2026-04-10T14:03:41+00:00",
   "items": [
     {
       "id": "latest_3c7a399087e0",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_4d5338816004",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Best shots, moments and more from the second round",
+      "dek": "The first golf major of the year continues Friday as the Masters enters its second round.",
+      "body": "The first golf major of the year continues Friday as the Masters enters its second round.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-10T09:55:35+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/48446747/masters-2026-sights-sounds-second-round",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4d5338816004",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_8c9a4d37272b",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-10T09:31:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shhokc/two_hundred_chimpanzees_are_embroiled_in_a_civil/",
       "image": "https://external-preview.redd.it/7Xjz8G8CzAKf5wVP_ogQqDZBRaH313Rk3V7bTN8BIa0.jpeg?width=640&crop=smart&auto=webp&s=3310de9b06147c89178cbcf9ae820f66a2e5f0eb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ffa3b3d8f516",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Microsoft denies Copilot is only for entertainment purpose, after its own document says do not trust AI",
-      "dek": "submitted by /u/plain_handle [link] [comments]",
-      "body": "submitted by /u/plain_handle [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T09:30:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1shho1l/microsoft_denies_copilot_is_only_for/",
-      "image": "https://external-preview.redd.it/SPaIpvnALs6jVm2o7cmrOybLi5j0hva_P0Lj8X73FOU.jpeg?width=640&crop=smart&auto=webp&s=09a25f3473c0d1535807cc0963c48813d83d4e87",
       "imageCredit": "Image via original publisher"
     }
   ]
