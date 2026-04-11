@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T14:01:11+00:00",
+  "generatedAt": "2026-04-11T14:55:03+00:00",
   "items": [
     {
       "id": "latest_806a8446bcae",
@@ -17,34 +17,34 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_52965cdc8813",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_b93e90f19581",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Still in shock, Beirut tries to heal after deadly Israeli attacks",
-      "dek": "BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.",
-      "body": "BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.",
+      "category": "SPORTS",
+      "title": "Panel rules NFL teams didn't collude on QB deals",
+      "dek": "An appeals panel upheld a decision that there wasn't sufficient evidence of collusion by teams when negotiating the contracts of Kyler Murray, Lamar Jackson and",
+      "body": "An appeals panel upheld a decision that there wasn't sufficient evidence of collusion by teams when negotiating the contracts of Kyler Murray, Lamar Jackson and Russell Wilson in 2022, according to a copy of the ruling obtained by multiple outlets.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T10:10:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66e/live/c056c720-357e-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-11T10:40:10+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48456898/panel-rules-nflpa-says-not-enough-proof-collusion",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b93e90f19581",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
-      "id": "latest_e512b858ed9a",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_0af346fda90f",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
-      "dek": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
-      "body": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
+      "category": "SPORTS",
+      "title": "Arteta: Arsenal defeat a 'big punch in the face'",
+      "dek": "Mikel Arteta lamented his Arsenal side's \"strange\" performance in their 2-1 defeat to Bournemouth on Saturday, saying the result was a \"big punch in the face.\"",
+      "body": "Mikel Arteta lamented his Arsenal side's \"strange\" performance in their 2-1 defeat to Bournemouth on Saturday, saying the result was a \"big punch in the face.\"",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T09:42:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da6/live/7bd834e0-3587-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-11T10:40:10+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48456788/arsenal-mikel-arteta-bournemouth-defeat-big-punch-face-strange-man-city-premier-league-title",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0af346fda90f",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
