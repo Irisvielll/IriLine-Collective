@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2b700b555bcd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'You are my god', Japan's PM tells British rock band Deep Purple",
+      "dek": "Hard rock enthusiast Sanae Takaichi beamed as she met the rockers in her Tokyo office.",
+      "body": "Hard rock enthusiast Sanae Takaichi beamed as she met the rockers in her Tokyo office.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T09:12:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a3/live/efaf71c0-357e-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_7c47767ea5cb",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf86o2/bill_gates_to_appear_before_house_oversight/",
       "image": "https://external-preview.redd.it/u4G2l795fuRb5R0-T9jhgzPM1Ca1ax8CihP5-3cN2vQ.jpeg?width=640&crop=smart&auto=webp&s=07c60bfd359a7a0ac4184991c5a9f10388d2f3de",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_027d12cf1c4a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "PGA Tour vs. LIV in a much different place than it was at 2023 Masters",
-      "dek": "It's been three years, and while the LIV-PGA fight isn't necessarily 'won,' it certainly seems settled.",
-      "body": "It's been three years, and while the LIV-PGA fight isn't necessarily 'won,' it certainly seems settled.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T20:33:49+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48422504/pga-tour-vs-liv-much-different-place-was-2023-masters",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_027d12cf1c4a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
