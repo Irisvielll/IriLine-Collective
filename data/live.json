@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-11T08:04:57+00:00",
+  "generatedAt": "2026-04-11T09:02:17+00:00",
   "items": [
+    {
+      "id": "latest_7c47767ea5cb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Baseball statue broken as it is unveiled in Seattle",
+      "dek": "The mishap occurred as a tarp was pulled off a bronze figure immortalising Hall of Famer Ichiro Suzuki.",
+      "body": "The mishap occurred as a tarp was pulled off a bronze figure immortalising Hall of Famer Ichiro Suzuki.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T08:38:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0rx4v5q701o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1204/live/508498c0-357c-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8231c7d4611f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-11T04:43:08+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5076/live/f4bbb470-30fc-11f1-85f0-7fe7dd4a9b2b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c63bdabf388c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "California governor candidate Eric Swalwell denies sexual assault allegations",
-      "dek": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
-      "body": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T03:13:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb8e/live/9818b090-3540-11f1-92cf-717d83019775.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

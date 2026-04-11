@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_c63bdabf388c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "California governor candidate Eric Swalwell denies sexual assault allegations",
+      "dek": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
+      "body": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T03:13:10+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb8e/live/9818b090-3540-11f1-92cf-717d83019775.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_129211bc4495",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -44,6 +59,21 @@
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48454128/muncy-caps-3-hr-night-walk-dodgers-rally-rangers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_072f689f2569",
       "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_b78bd3a5b85c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "This idyllic US town was full of police families - and a serial killer in their midst",
+      "dek": "For years, rumours swirled about who could be behind the bodies that washed up on the shores of Gilgo Beach.",
+      "body": "For years, rumours swirled about who could be behind the bodies that washed up on the shores of Gilgo Beach.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T01:19:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpwjkqq910go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba3/live/bcff58d0-34fc-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
     },
     {
       "id": "latest_aa69feb2bd3c",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/598f/live/1cbbe940-329c-11f1-8cba-9df81803c83c.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2627abb44450",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Operation Midnight Climax — secret LSD dosing, and 1977 disclosures",
-      "dek": "submitted by /u/buffduckusa [link] [comments]",
-      "body": "submitted by /u/buffduckusa [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T17:40:51+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf31vh/operation_midnight_climax_secret_lsd_dosing_and/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_2627abb44450",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_a6343ca0434c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Rangers' 9th inning 'Rally Sombrero' leads 2026 new ballpark foods",
-      "dek": "Teams across Major League Baseball continue to raise their game when it comes to concession items.",
-      "body": "Teams across Major League Baseball continue to raise their game when it comes to concession items.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T17:38:46+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48290175/mlb-2026-new-top-ballpark-food",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a6343ca0434c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
