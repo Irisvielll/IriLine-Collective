@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_595648f0e900",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+      "dek": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
+      "body": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T21:11:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc1/live/d5efc2d0-35ec-11f1-8447-95c5e97e3482.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_d0fcd27482b6",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -14,6 +29,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cwy3wwgyd6do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0752/live/9cda8020-35c9-11f1-aa65-43b95e4e356e.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_a9998921ffd4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Fury dominates Makhmudov, calls out Joshua",
+      "dek": "Tyson Fury shook off some ring rust on his comeback to earn a unanimous points win over Arslanbek Makhmudov on Saturday and potentially set up a long-awaited cl",
+      "body": "Tyson Fury shook off some ring rust on his comeback to earn a unanimous points win over Arslanbek Makhmudov on Saturday and potentially set up a long-awaited clash with Anthony Joshua.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T18:33:07+00:00",
+      "sourceUrl": "https://www.espn.com/boxing/story/_/id/48459845/tyson-fury-arslanbek-makhmudov-anthony-joshua-fight",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a9998921ffd4",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_880c2373173b",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-08T09:53:16+00:00",
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/48424940/wnba-mock-draft-2026-dallas-wings-no-1-pick-olivia-miles-awa-fam-azzi-fudd-awa-fam-lauren-betts",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4be3fdb2071b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_e2636f043deb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Doritos at $7 a bag ended up costing PepsiCo billions",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T09:15:58+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfnqgs/doritos_at_7_a_bag_ended_up_costing_pepsico/",
-      "image": "https://external-preview.redd.it/JsjAlKvwLJOxPWG7LMtuwT8ZXEw_T9CC-4DMVR6DN3k.jpeg?width=640&crop=smart&auto=webp&s=75393270e80d14e1ba68fdd72d6f1a0ce6ffe664",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_dc08a0b45023",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'I'm going to put it in my house in a safe': How the Masters lawn gnome became so popular that it might be discontinued",
-      "dek": "One piece of merchandise at Augusta National became too popular for its own good.",
-      "body": "One piece of merchandise at Augusta National became too popular for its own good.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T08:37:01+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48422256/2026-masters-gnome-collectible",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dc08a0b45023",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

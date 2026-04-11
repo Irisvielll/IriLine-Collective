@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-11T22:33:25+00:00",
+  "generatedAt": "2026-04-11T23:05:02+00:00",
   "items": [
+    {
+      "id": "meme_3be3f4ff9197",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Gut troubles? This gastroenterologist has tips to help you achieve 'poophoria'",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T22:42:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1six8tl/gut_troubles_this_gastroenterologist_has_tips_to/",
+      "image": "https://external-preview.redd.it/qs8GakISgdperUVuBtvVbH4lHCZeNH_CP6KNcrVri4c.jpeg?width=640&crop=smart&auto=webp&s=3d14d9979865f0403fb47530763d4e450ce1676e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4dfa2bebe57f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-11T21:23:07+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07b8/live/bc22ec90-35ee-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_595648f0e900",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-      "dek": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
-      "body": "The high-profile Democrat, a leading contender in California's governor race, has firmly denied the accusations.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T21:11:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bc1/live/d5efc2d0-35ec-11f1-8447-95c5e97e3482.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
