@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-11T09:02:17+00:00",
+  "generatedAt": "2026-04-11T09:56:48+00:00",
   "items": [
+    {
+      "id": "latest_e512b858ed9a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Djibouti's president wins unprecedented sixth term with 97.8% of vote",
+      "dek": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
+      "body": "Ismail Omar Guelleh, 78, has extended his already 27-year rule in a poll boycotted by the main opposition candidates.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T09:42:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgj0wg423n6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da6/live/7bd834e0-3587-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2b700b555bcd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'You are my god', Japan's PM tells British rock band Deep Purple",
+      "dek": "Hard rock enthusiast Sanae Takaichi beamed as she met the rockers in her Tokyo office.",
+      "body": "Hard rock enthusiast Sanae Takaichi beamed as she met the rockers in her Tokyo office.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T09:12:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a3/live/efaf71c0-357e-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7c47767ea5cb",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-11T08:38:17+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c0rx4v5q701o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1204/live/508498c0-357c-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8231c7d4611f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Concerns after satellite provider restricts Iran images following US pressure",
-      "dek": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-      "body": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T05:40:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab0/live/319b5a60-34f6-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e9748bc7f5d2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Who is Viktor Orbán, Hungarian PM fighting to stay in power after 16 years?",
-      "dek": "Since 2010, Orbán has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
-      "body": "Since 2010, Orbán has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T04:43:08+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5076/live/f4bbb470-30fc-11f1-85f0-7fe7dd4a9b2b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
