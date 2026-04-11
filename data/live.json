@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-11T11:16:04+00:00",
+  "generatedAt": "2026-04-11T11:53:48+00:00",
   "items": [
+    {
+      "id": "latest_52965cdc8813",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Still in shock, Beirut tries to heal after deadly Israeli attacks",
+      "dek": "BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.",
+      "body": "BBC Middle East Correspondent Hugo Bachega hears from people affected by this week's attacks.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T10:10:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66e/live/c056c720-357e-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e512b858ed9a",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-11T09:12:36+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cre12n72nwno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a3/live/efaf71c0-357e-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7c47767ea5cb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Baseball statue broken as it is unveiled in Seattle",
-      "dek": "The mishap occurred as a tarp was pulled off a bronze figure immortalising Hall of Famer Ichiro Suzuki.",
-      "body": "The mishap occurred as a tarp was pulled off a bronze figure immortalising Hall of Famer Ichiro Suzuki.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T08:38:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0rx4v5q701o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1204/live/508498c0-357c-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
