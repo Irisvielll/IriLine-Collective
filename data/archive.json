@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_496a9bfb566f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Artemis crew home safely after completing historic mission to the Moon",
+      "dek": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
+      "body": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T07:53:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8295/live/86e6de50-357c-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_00f3c8c8086c",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -193,6 +208,21 @@
       "publishedAt": "2026-04-11T02:02:56+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f89/live/236979f0-34eb-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_bb0112c7613e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump administration unveils 250-foot 'Triumphal Arch' design",
+      "dek": "The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial.",
+      "body": "The new arch, if approved, would be taller than the US Capitol building and the Lincoln Memorial.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-11T01:49:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwywre1e3kvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ec/live/6f2f3c30-356d-11f1-a6a2-19218019c16f.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48422504/pga-tour-vs-liv-much-different-place-was-2023-masters",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_027d12cf1c4a",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_06a93e69acdc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ranking the top 20 men's basketball players to enter the transfer portal",
-      "dek": "More than 1,000 players have entered the portal less than 24 hours after it opened. Here's the top talent.",
-      "body": "More than 1,000 players have entered the portal less than 24 hours after it opened. Here's the top talent.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T20:33:16+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48424179/mens-college-basketball-transfer-portal-player-rankings-commitments-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_06a93e69acdc",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_81545b6ccf91",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Anchorage has to close a child care funding gap because people are buying less weed",
-      "dek": "submitted by /u/dorgoth12 [link] [comments]",
-      "body": "submitted by /u/dorgoth12 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-07T20:13:24+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sf7anc/anchorage_has_to_close_a_child_care_funding_gap/",
-      "image": "https://external-preview.redd.it/rerq1X4E8wxKlS35Xypy6RykDPqIWz-szj48jBj_Mm4.jpeg?width=640&crop=smart&auto=webp&s=de67995d9045e76de829153b2be51521116b95b3",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
