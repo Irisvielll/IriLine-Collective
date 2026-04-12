@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-12T10:01:03+00:00",
+  "generatedAt": "2026-04-12T10:59:23+00:00",
   "items": [
+    {
+      "id": "latest_8be9b5fcf5ad",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+      "dek": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+      "body": "The star spent much of the gig singing along to YouTube videos of early hits like Baby and Never say Never.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T10:07:58+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d135/live/63585db0-365d-11f1-a35a-c10911d2db0e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d951b96e205e",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-12T08:24:01+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2d4af7bc5c4f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
-      "dek": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
-      "body": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T07:22:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

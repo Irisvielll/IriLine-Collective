@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2d4af7bc5c4f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "dek": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
+      "body": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T07:22:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ae34cdafbc4e",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-08T13:46:13+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48430417/spurs-rule-injured-victor-wembanyama-stephon-castle",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bcf88414b8bc",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1e0aa54be6bf",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Scheffler slides as Masters fave; public on Bryson",
-      "dek": "Scottie Scheffler will head into the Masters as the favorite once again, but without his usual domination over the betting markets. Bryson DeChambeau has been t",
-      "body": "Scottie Scheffler will head into the Masters as the favorite once again, but without his usual domination over the betting markets. Bryson DeChambeau has been the overwhelming public pick",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T13:46:13+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48429397/scheffler-masters-odds-dip-rahm-bryson-rory-favoritesscheffler-masters-odds-dip-rahm-bryson-rory-favorites",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1e0aa54be6bf",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
