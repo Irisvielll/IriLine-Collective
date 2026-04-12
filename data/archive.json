@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_dba91c16db9c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NHL playoff watch: The clinching scenarios for Sunday",
+      "dek": "An action-packed Saturday shifted the races. Here's how Sunday can move them even more.",
+      "body": "An action-packed Saturday shifted the races. Here's how Sunday can move them even more.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T07:53:32+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48460398/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dba91c16db9c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_2d4af7bc5c4f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-08T15:00:18+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cg73dnz0l1xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6b/live/9a406ff0-333a-11f1-bf11-9546df991775.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_59f4a1f26654",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nigeria begins mass trial of 500 terrorism suspects",
-      "dek": "Very few people are ever prosecuted following terror attacks with suspects often held without trial.",
-      "body": "Very few people are ever prosecuted following terror attacks with suspects often held without trial.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T14:57:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fca/live/34dad740-3330-11f1-8873-2d60fc58e0b0.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
