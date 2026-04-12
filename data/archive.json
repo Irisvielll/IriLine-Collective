@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_d64b5ce8dbe9",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Transfer guard Vaaks chooses Illinois, agents say",
+      "dek": "Transfer guard Stefan Vaaks, one of the surprise freshmen in college basketball this season who starred at Providence, has committed to Illinois, his agents at ",
+      "body": "Transfer guard Stefan Vaaks, one of the surprise freshmen in college basketball this season who starred at Providence, has committed to Illinois, his agents at Excel Sports Management told ESPN on Sunday afternoon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T16:23:53+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48468889/guard-stefan-vaaks-transfer-illinois-agents-say",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d64b5ce8dbe9",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_396da6ed81ae",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ruthless Man City's win over Chelsea will have Arsenal sweating ahead of title decider",
+      "dek": "Man City proved against Chelsea they will stop at nothing to win the Premier League. Can Arsenal match their intensity?",
+      "body": "Man City proved against Chelsea they will stop at nothing to win the Premier League. Can Arsenal match their intensity?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T15:41:21+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48467760/man-city-win-chelsea-arsenal-sweating-premier-league-title-decider",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_396da6ed81ae",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_146d37a8d2d1",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sg752z/kanye_west_banned_from_the_uk_for_antisemitic/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_b6ecc2c794ca",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_031c05c8f66c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "RFK Jr. says he's launching a podcast to expose 'lies' that have made Americans sick",
-      "dek": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
-      "body": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T21:53:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sg6rmh/rfk_jr_says_hes_launching_a_podcast_to_expose/",
-      "image": "https://external-preview.redd.it/mnvFgjIDg3MfEAa2EA3RZgN0t-2yjbQcw646B10LM8g.jpeg?width=640&crop=smart&auto=webp&s=f99336a9f01c9c68295a0ceb793846cab679f1be",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3aa1cab233cb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
-      "dek": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-      "body": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T21:10:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9842/live/b3744770-336d-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
