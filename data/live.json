@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-12T02:40:58+00:00",
+  "generatedAt": "2026-04-12T05:12:38+00:00",
   "items": [
+    {
+      "id": "latest_8d0f9974f324",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "dek": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+      "body": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T04:20:37+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9267/live/5ce7f850-3617-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_bca890b410ec",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-12T01:50:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj1clt/universe_expected_to_decay_in_10⁷⁸_years_much/",
       "image": "https://external-preview.redd.it/BdShcd_5D3pYonZGLWZ1i-grz2_dRKiMHD-DdiIU-dk.jpeg?width=640&crop=smart&auto=webp&s=2ab4adab9918010320a4e095b571bd3f49e7b613",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_955c044b97d3",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Ugandan Army General Muhoozi Demands One Billion Dollar and Wife from Turkey",
-      "dek": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "body": "submitted by /u/wewhomustnotbenamed [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T01:46:32+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj19vi/ugandan_army_general_muhoozi_demands_one_billion/",
-      "image": "https://external-preview.redd.it/o8lkLW6Px0cRMCCnrI6vq8o8OsXuiBwk9Iqmr_dMfqk.jpeg?width=640&crop=smart&auto=webp&s=66909f97e0647f87d3be74c794af03e7d27a4288",
       "imageCredit": "Image via original publisher"
     }
   ]
