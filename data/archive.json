@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_fa5edd85b6c7",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Yelich exits hurt as Brewers expecting 'bad news'",
+      "dek": "Christian Yelich left the Milwaukee Brewers' game against the Washington Nationals on Sunday with tightness in his left hamstring.",
+      "body": "Christian Yelich left the Milwaukee Brewers' game against the Washington Nationals on Sunday with tightness in his left hamstring.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T18:37:55+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48468885/christian-yelich-exits-brewers-game-hamstring-tightness",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fa5edd85b6c7",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_659e4c376a6f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48431246/stick-sack-slots-liverpool-future-dominates-ucl-talking-points",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9ffb87db0e86",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_ab7d33da2c58",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-      "dek": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-      "body": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T22:08:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bf/live/93db7c00-3393-11f1-9d5c-8ba507d7dbde.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
