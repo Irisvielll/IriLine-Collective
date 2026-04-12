@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-12T06:49:16+00:00",
+  "generatedAt": "2026-04-12T08:02:51+00:00",
   "items": [
+    {
+      "id": "latest_2d4af7bc5c4f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 30 feared dead in crush at Haitian tourist site",
+      "dek": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
+      "body": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T07:22:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_ae34cdafbc4e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Texas woman sentenced to 6 years in prison for mailing inmates Bibles soaked with drugs",
+      "dek": "submitted by /u/voxadam [link] [comments]",
+      "body": "submitted by /u/voxadam [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T07:20:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj7ov5/texas_woman_sentenced_to_6_years_in_prison_for/",
+      "image": "https://external-preview.redd.it/fgi-iaBKzAPy_DPzIC9qgz6FuNYFsMPzYkCal6zUzYw.jpeg?width=640&crop=smart&auto=webp&s=98e64dffc0829ac8d5e1b6070d965b3636c986cb",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8d0f9974f324",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-12T04:20:37+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9267/live/5ce7f850-3617-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7ec7968d9e06",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How Hungary's knife-edge election could impact the US and Russia",
-      "dek": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
-      "body": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T02:52:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f7/live/165dbbc0-3619-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bca890b410ec",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Universe expected to decay in 10⁷⁸ years, much sooner than previously thought",
-      "dek": "submitted by /u/judolphin [link] [comments]",
-      "body": "submitted by /u/judolphin [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T02:23:47+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj21fl/universe_expected_to_decay_in_10⁷⁸_years_much/",
-      "image": "https://external-preview.redd.it/BdShcd_5D3pYonZGLWZ1i-grz2_dRKiMHD-DdiIU-dk.jpeg?width=640&crop=smart&auto=webp&s=2ab4adab9918010320a4e095b571bd3f49e7b613",
       "imageCredit": "Image via original publisher"
     }
   ]
