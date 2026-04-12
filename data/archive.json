@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_ae34cdafbc4e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Texas woman sentenced to 6 years in prison for mailing inmates Bibles soaked with drugs",
+      "dek": "submitted by /u/voxadam [link] [comments]",
+      "body": "submitted by /u/voxadam [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T07:20:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj7ov5/texas_woman_sentenced_to_6_years_in_prison_for/",
+      "image": "https://external-preview.redd.it/fgi-iaBKzAPy_DPzIC9qgz6FuNYFsMPzYkCal6zUzYw.jpeg?width=640&crop=smart&auto=webp&s=98e64dffc0829ac8d5e1b6070d965b3636c986cb",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8d0f9974f324",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48429397/scheffler-masters-odds-dip-rahm-bryson-rory-favoritesscheffler-masters-odds-dip-rahm-bryson-rory-favorites",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1e0aa54be6bf",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_cc24a8dca258",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
-      "dek": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
-      "body": "The government usually refrains from commenting on the participation of its citizens in the conflict.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T13:07:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39a9/live/8e0c9350-3338-11f1-bf11-9546df991775.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

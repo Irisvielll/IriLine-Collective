@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-12T09:05:32+00:00",
+  "generatedAt": "2026-04-12T10:01:03+00:00",
   "items": [
+    {
+      "id": "latest_d951b96e205e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "dek": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "body": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T09:19:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f639/live/b14356e0-3650-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c0dc403aa0f0",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-12T07:22:28+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d6/live/002434b0-3637-11f1-ab65-2568beff0c21.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ae34cdafbc4e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Texas woman sentenced to 6 years in prison for mailing inmates Bibles soaked with drugs",
-      "dek": "submitted by /u/voxadam [link] [comments]",
-      "body": "submitted by /u/voxadam [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T07:20:12+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj7ov5/texas_woman_sentenced_to_6_years_in_prison_for/",
-      "image": "https://external-preview.redd.it/fgi-iaBKzAPy_DPzIC9qgz6FuNYFsMPzYkCal6zUzYw.jpeg?width=640&crop=smart&auto=webp&s=98e64dffc0829ac8d5e1b6070d965b3636c986cb",
       "imageCredit": "Image via original publisher"
     }
   ]
