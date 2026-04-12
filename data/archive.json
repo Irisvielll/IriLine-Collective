@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_659e4c376a6f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Civilians feared killed after reports of air strike on Nigerian market",
+      "dek": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
+      "body": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T18:11:04+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/97aefd80-3699-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_d64b5ce8dbe9",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bf/live/93db7c00-3393-11f1-9d5c-8ba507d7dbde.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b6ecc2c794ca",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kanye West BANNED from the UK for 'Antisemitic Comments and Celebration Of Naz!sm'",
-      "dek": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "body": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T22:07:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sg752z/kanye_west_banned_from_the_uk_for_antisemitic/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_b6ecc2c794ca",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
