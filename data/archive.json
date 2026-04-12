@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_58511d5504ed",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UFC 327 takeaways: Ulberg blew out his knee, but Procházka blew his title chance",
+      "dek": "Jiří Procházka showed Carlos Ulberg too much mercy, and Josh Hokit reached beyond gimmicks at UFC 327.",
+      "body": "Jiří Procházka showed Carlos Ulberg too much mercy, and Josh Hokit reached beyond gimmicks at UFC 327.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T01:58:46+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/48463309/carlos-ulberg-blew-knee-jiri-prochazka-blew-title-chance-ufc-327",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_58511d5504ed",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_f3699dd4a1f2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Universe expected to decay in 10⁷⁸ years, much sooner than previously thought",
+      "dek": "I thought folks here would appreciate the irony. Cross-post from r/science2. submitted by /u/thornyRabbt [link] [comments]",
+      "body": "I thought folks here would appreciate the irony. Cross-post from r/science2. submitted by /u/thornyRabbt [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T01:50:13+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj1clt/universe_expected_to_decay_in_10⁷⁸_years_much/",
+      "image": "https://external-preview.redd.it/BdShcd_5D3pYonZGLWZ1i-grz2_dRKiMHD-DdiIU-dk.jpeg?width=640&crop=smart&auto=webp&s=2ab4adab9918010320a4e095b571bd3f49e7b613",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_955c044b97d3",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-08T12:49:11+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfrw6d/blood_tests_show_hundreds_of_georgians_charged/",
       "image": "https://external-preview.redd.it/Q5xOVdsT-VnJ1oPsvnsyF_9b_x06WrgbQHSqBwEdpig.jpeg?width=640&crop=smart&auto=webp&s=e3dfc58ba77f61619d7a6da12aa573913e424ace",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_50bc818449be",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'I'm going to be completely numb': How first-time players are preparing for the Masters",
-      "dek": "You can try to learn every shot, try to hit every putt, but come Thursday it will be a totally new experience.",
-      "body": "You can try to learn every shot, try to hit every putt, but come Thursday it will be a totally new experience.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T12:37:58+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48421373/what-first-players-expect-2026-masters-andrew-novak-chris-gotterupwhat-first-players-expect-2026-masters-andrew-novak-chris-gotterup",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_50bc818449be",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_590c1a37d634",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russia says some in EU are helping election rivals of Hungary’s Orban",
-      "dek": "submitted by /u/view9234 [link] [comments]",
-      "body": "submitted by /u/view9234 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-08T12:26:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sfrd7u/russia_says_some_in_eu_are_helping_election/",
-      "image": "https://external-preview.redd.it/xSbtPNKxrp_e_cIt6DKslyD1GUPUjz6YarcT0b2rRu8.jpeg?width=640&crop=smart&auto=webp&s=33ca0f5a27b4b5e4765e0a164ef661b77b9e1ce3",
       "imageCredit": "Image via original publisher"
     }
   ]

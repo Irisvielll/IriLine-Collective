@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T05:12:38+00:00",
+  "generatedAt": "2026-04-12T06:49:16+00:00",
   "items": [
     {
       "id": "latest_8d0f9974f324",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_7ec7968d9e06",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Hungary's knife-edge election could impact the US and Russia",
+      "dek": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
+      "body": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T02:52:03+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64f7/live/165dbbc0-3619-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_bca890b410ec",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -28,21 +43,6 @@
       "author": "IriLine Desk",
       "publishedAt": "2026-04-12T02:23:47+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj21fl/universe_expected_to_decay_in_10⁷⁸_years_much/",
-      "image": "https://external-preview.redd.it/BdShcd_5D3pYonZGLWZ1i-grz2_dRKiMHD-DdiIU-dk.jpeg?width=640&crop=smart&auto=webp&s=2ab4adab9918010320a4e095b571bd3f49e7b613",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f3699dd4a1f2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Universe expected to decay in 10⁷⁸ years, much sooner than previously thought",
-      "dek": "I thought folks here would appreciate the irony. Cross-post from r/science2. submitted by /u/thornyRabbt [link] [comments]",
-      "body": "I thought folks here would appreciate the irony. Cross-post from r/science2. submitted by /u/thornyRabbt [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T01:50:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj1clt/universe_expected_to_decay_in_10⁷⁸_years_much/",
       "image": "https://external-preview.redd.it/BdShcd_5D3pYonZGLWZ1i-grz2_dRKiMHD-DdiIU-dk.jpeg?width=640&crop=smart&auto=webp&s=2ab4adab9918010320a4e095b571bd3f49e7b613",
       "imageCredit": "Image via original publisher"
     }
