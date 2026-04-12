@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-12T08:02:51+00:00",
+  "generatedAt": "2026-04-12T09:05:32+00:00",
   "items": [
+    {
+      "id": "latest_c0dc403aa0f0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "dek": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "body": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T08:24:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbda/live/0f5c1ea0-ffdf-11ef-b50e-9d086302645f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_2d4af7bc5c4f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-12T07:20:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sj7ov5/texas_woman_sentenced_to_6_years_in_prison_for/",
       "image": "https://external-preview.redd.it/fgi-iaBKzAPy_DPzIC9qgz6FuNYFsMPzYkCal6zUzYw.jpeg?width=640&crop=smart&auto=webp&s=98e64dffc0829ac8d5e1b6070d965b3636c986cb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8d0f9974f324",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "dek": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-      "body": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T04:20:37+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9267/live/5ce7f850-3617-11f1-879d-1b2f5c3919b8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
