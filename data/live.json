@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-13T15:02:43+00:00",
+  "generatedAt": "2026-04-13T16:38:20+00:00",
   "items": [
+    {
+      "id": "latest_7cf8c28d4eb1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ex-Nigerian oil minister denies taking bribes",
+      "dek": "Diezani Alison-Madueke is accused of living “a life of luxury” in the UK at properties paid for and refurbished by industry figures.",
+      "body": "Diezani Alison-Madueke is accused of living “a life of luxury” in the UK at properties paid for and refurbished by industry figures.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T16:05:59+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d9/live/d25b5980-3741-11f1-b669-c509fb2e8e1e.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2377d576c5b0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The US blockade of Iran is a gamble. Will it work?",
+      "dek": "The US military has the capability to mount a blockade of vessels moving in and out of the Gulf. The question is: to what end?",
+      "body": "The US military has the capability to mount a blockade of vessels moving in and out of the Gulf. The question is: to what end?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T15:27:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849e/live/6ff30700-3752-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_801e80bf571f",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/668181b0-372f-11f1-872e-dbe4122cf753.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7287a9188d3f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran carried out highest number of executions in decades",
-      "dek": "Organisations warn many more people could be executed in the wake of the anti-government protests which swept Iran earlier this year.",
-      "body": "Organisations warn many more people could be executed in the wake of the anti-government protests which swept Iran earlier this year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T12:53:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7928/live/7bca2800-3730-11f1-872e-dbe4122cf753.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_781dd114dbb8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Top 10 WrestleMania moments: From double turns to the end of the streak",
-      "dek": "ESPN combed through more than 450 matches to rank the 10 greatest moments in WrestleMania history.",
-      "body": "ESPN combed through more than 450 matches to rank the 10 greatest moments in WrestleMania history.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T10:30:03+00:00",
-      "sourceUrl": "https://www.espn.com/wwe/story/_/id/48460705/top-10-wrestlemania-moments-wwe-brock-lesnar-undertaker-hulk-hogan",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_781dd114dbb8",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
