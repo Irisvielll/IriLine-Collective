@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-13T08:27:52+00:00",
+  "generatedAt": "2026-04-13T10:16:42+00:00",
   "items": [
+    {
+      "id": "latest_7476a9d4f2b7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
+      "dek": "The team was returning from a fixture when they were attacked by \"masked men wielding guns and assault rifles\", officials say.",
+      "body": "The team was returning from a fixture when they were attacked by \"masked men wielding guns and assault rifles\", officials say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T09:46:37+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ad/live/0024e400-3713-11f1-b35c-83d779cf62f0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ff1b62005ba6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+      "dek": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
+      "body": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T08:28:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd5/live/c1ee9cb0-3714-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c230657ca0f6",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-13T08:14:14+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daae/live/b07244d0-370c-11f1-b35c-83d779cf62f0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_11ecd1b5f734",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump attacks Pope over criticism of Iran war",
-      "dek": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
-      "body": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T07:40:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9857/live/c50f42d0-3702-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_340f62fa3c01",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Crowds gather ahead of iconic Indian singer's funeral",
-      "dek": "The singer, who died at the age of 92, will be cremated with full state honours on Monday.",
-      "body": "The singer, who died at the age of 92, will be cremated with full state honours on Monday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T05:52:29+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/143c/live/dd8faed0-36f3-11f1-bbe5-d90277900dee.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
