@@ -61,6 +61,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_b3356503183a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NBA 2026 postseason preview: Matchups, biggest questions and what to know",
+      "dek": "Everything you need to know for the Thunder, Pistons, Spurs, Celtics and 16 other teams chasing the 2026 NBA title.",
+      "body": "Everything you need to know for the Thunder, Pistons, Spurs, Celtics and 16 other teams chasing the 2026 NBA title.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T01:03:42+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48447222/nba-playoffs-2026-preview-teams-postseason",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b3356503183a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_c0847c0f4964",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -89,6 +104,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d67/live/a1a47d30-3309-11f1-adde-cd036dc687f9.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_7d2c288edcf9",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Fans give KG big welcome in his return to Wolves",
+      "dek": "Timberwolves franchise icon Kevin Garnett made a special appearance for fan appreciation night in the team's regular-season finale Sunday, receiving a roar from",
+      "body": "Timberwolves franchise icon Kevin Garnett made a special appearance for fan appreciation night in the team's regular-season finale Sunday, receiving a roar from the crowd and patting his heart with his hand after player introductions.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-12T23:56:42+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48471945/timberwolves-welcome-back-legend-kevin-garnett-minneapolis",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7d2c288edcf9",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_975a43641274",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-09T09:26:54+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48429192/mlb-2026-power-rankings-week-2-dodgers-yankees-brewers-pirates-red-sox",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d56a00d0e3ce",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_767e0de8d6f0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Study: MLB average salary hits record $5.34M",
-      "dek": "Major League Baseball's average salary rose 3.4% on opening day to a record $5.34 million, according to a study by The Associated Press, and the New York Mets t",
-      "body": "Major League Baseball's average salary rose 3.4% on opening day to a record $5.34 million, according to a study by The Associated Press, and the New York Mets topped spending at the season's start for the fourth straight year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T09:26:02+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48437380/study-mlb-average-salary-hits-record-534m-led-mets",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_767e0de8d6f0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c3d9cb78994a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Roman Reigns' Top 10 WrestleMania main events: Which match finished No. 1?",
-      "dek": "Before Reigns challenges CM Punk at WrestleMania 42, we look back at his prior main event matches.",
-      "body": "Before Reigns challenges CM Punk at WrestleMania 42, we look back at his prior main event matches.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T09:19:20+00:00",
-      "sourceUrl": "https://www.espn.com/wwe/story/_/id/48386716/ranking-roman-reigns-10-wwe-wrestlemania-main-events-brock-lesnar-cody-rhodes",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c3d9cb78994a",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
