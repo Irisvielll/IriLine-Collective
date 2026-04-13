@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-13T10:16:42+00:00",
+  "generatedAt": "2026-04-13T11:50:13+00:00",
   "items": [
+    {
+      "id": "latest_3d28ac679594",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Celebrities and fans pay tributes to Asha Bhosle",
+      "dek": "Asha Bhosle died in Mumbai on Sunday after being admitted to the hospital following a heart attack.",
+      "body": "Asha Bhosle died in Mumbai on Sunday after being admitted to the hospital following a heart attack.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T10:23:54+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/ckgeljpk4v9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d08/live/b05aea40-3722-11f1-b46f-35375c141ae5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7476a9d4f2b7",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-13T08:28:35+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd5/live/c1ee9cb0-3714-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c230657ca0f6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Britney Spears goes into rehab after driving under the influence arrest",
-      "dek": "The singer voluntarily checks herself into a treatment facility, three weeks before her court date.",
-      "body": "The singer voluntarily checks herself into a treatment facility, three weeks before her court date.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T08:14:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daae/live/b07244d0-370c-11f1-b35c-83d779cf62f0.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
