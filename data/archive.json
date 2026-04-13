@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "sports_2cb7ce53587a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Russell delivers 'video game' vibe to Tide offense",
+      "dek": "Alabama QB Keelon Russell, a five-star recruit in 2025 who redshirted last season, gave a \"video game\" feel to the Crimson Tide's offense in the spring game.",
+      "body": "Alabama QB Keelon Russell, a five-star recruit in 2025 who redshirted last season, gave a \"video game\" feel to the Crimson Tide's offense in the spring game.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T13:30:24+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48475637/alabama-qb-keelon-russell-delivers-video-game-vibes-spring-game-teammate-says",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2cb7ce53587a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_4b24a9f131ce",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "ATP hits Medvedev in wallet for smashing racket",
+      "dek": "Former No. 1 Daniil Medvedev was fined $7,000 for unsportsmanlike conduct after he smashed his racket seven times during a loss at the Monte Carlo Masters.",
+      "body": "Former No. 1 Daniil Medvedev was fined $7,000 for unsportsmanlike conduct after he smashed his racket seven times during a loss at the Monte Carlo Masters.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T13:30:24+00:00",
+      "sourceUrl": "https://www.espn.com/tennis/story/_/id/48476025/medvedev-fined-smashing-racket-monte-carlo-masters",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4b24a9f131ce",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_801e80bf571f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Peru election drags into second day after ballot delivery fiasco",
+      "dek": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
+      "body": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T13:07:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/668181b0-372f-11f1-872e-dbe4122cf753.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_7287a9188d3f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e9e/live/e2a407e0-341e-11f1-aa50-fd39c44a0779.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_4aa908e3630f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: DOJ opens probe of NFL over TV deals",
-      "dek": "The Justice Department has begun an investigation into whether the NFL has violated anticompetitive practices with their television contracts that require consu",
-      "body": "The Justice Department has begun an investigation into whether the NFL has violated anticompetitive practices with their television contracts that require consumers to pay subscription costs to watch some games, sources confirmed to ABC News.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T15:49:55+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48440303/sources-doj-opens-antitrust-investigation-nfl-tv-deals",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4aa908e3630f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_80d0b1b13c39",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sixers' Embiid undergoes surgery for appendicitis",
-      "dek": "Philadelphia star center Joel Embiid has been diagnosed with appendicitis and is undergoing surgery Thursday in Houston. It's unclear when he'll be able to retu",
-      "body": "Philadelphia star center Joel Embiid has been diagnosed with appendicitis and is undergoing surgery Thursday in Houston. It's unclear when he'll be able to return.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T15:49:55+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48440701/76ers-joel-embiid-undergoes-surgery-appendicitis",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_80d0b1b13c39",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_78e57d830605",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "IU still has 'chip on our shoulder' after CFP crown",
-      "dek": "After winning the national title, coach Curt Cignetti and the Hoosiers still have something to prove. \"People are always going to doubt us,\" defensive lineman T",
-      "body": "After winning the national title, coach Curt Cignetti and the Hoosiers still have something to prove. \"People are always going to doubt us,\" defensive lineman Tyrique Tucker said.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T15:49:55+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48440489/indiana-chip-our-shoulder-national-title-run",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_78e57d830605",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
