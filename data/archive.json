@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_ddb8d27618d7",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sources: '27 QB Lopati decommits from Illinois",
+      "dek": "Four-star passer Kamden Lopati, ESPN's No. 2 quarterback in the 2027 cycle, has decommitted from Illinois, sources told ESPN.",
+      "body": "Four-star passer Kamden Lopati, ESPN's No. 2 quarterback in the 2027 cycle, has decommitted from Illinois, sources told ESPN.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-13T16:39:48+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48477567/sources-2027-qb-kamden-lopati-decommits-illinois",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ddb8d27618d7",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_7cf8c28d4eb1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-09T18:22:02+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgxs94/another_cbsa_dog_sniffs_out_kilos_of_raw_meat_in/",
       "image": "https://external-preview.redd.it/xSiFUAnhZbqOt3las9Ilkg3oOJYgIFsEvtkn3FrSbaE.jpeg?width=640&crop=smart&auto=webp&s=bba63d59efa08ebd74787596af3f0bfbaaf8ad36",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_343efed385b9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Researchers propose ‘rewilding’ Europe’s borderlands to repel enemies",
-      "dek": "submitted by /u/StealthCuttlefish [link] [comments]",
-      "body": "submitted by /u/StealthCuttlefish [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-09T17:59:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sgx4q5/researchers_propose_rewilding_europes_borderlands/",
-      "image": "https://external-preview.redd.it/0zSg3gXOvsCxagU5jSxlSILeBvFv-sz-WyUAKisyc2c.jpeg?width=640&crop=smart&auto=webp&s=6b97f0e1dc91039564e540099bdd2e8da8f33970",
       "imageCredit": "Image via original publisher"
     }
   ]
