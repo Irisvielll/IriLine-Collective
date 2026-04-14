@@ -16,6 +16,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_215496d045dc",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Russini resigns from Athletic following Vrabel pics",
+      "dek": "NFL reporter Dianna Russini has resigned from The Athletic less than a week after published photos of her and Patriots coach Mike Vrabel at an Arizona resort pr",
+      "body": "NFL reporter Dianna Russini has resigned from The Athletic less than a week after published photos of her and Patriots coach Mike Vrabel at an Arizona resort prompted an internal investigation at the New York Times-owned sports outlet.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T15:55:45+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48486392/dianna-russini-resigns-athletic-following-mike-vrabel-photos",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_215496d045dc",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_65096c2374de",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48450986/falcons-pick-fifth-year-option-rb-bijan-robinson",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ad42fdf61242",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_4b66243cb3f4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Korea deploys thermal imaging cameras in search for escaped zoo wolf",
-      "dek": "The male wolf, named Neukgu, escaped a zoo in the central city of Daejeon on Wednesday, officials said.",
-      "body": "The male wolf, named Neukgu, escaped a zoo in the central city of Daejeon on Wednesday, officials said.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T17:30:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cr41d4r5kdeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd42/live/36df45f0-34f5-11f1-955f-add91a6f90f4.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
