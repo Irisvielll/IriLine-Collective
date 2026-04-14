@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-14T10:45:12+00:00",
+  "generatedAt": "2026-04-14T11:44:41+00:00",
   "items": [
+    {
+      "id": "latest_7683890e7df3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+      "dek": "Students and teachers are among those who were injured in the attack in the country's south-east.",
+      "body": "Students and teachers are among those who were injured in the attack in the country's south-east.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T10:38:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/7346ad50-37eb-11f1-bf98-335695df34d3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e78df189c063",
       "section": "latest",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_c75260f8f572",
+      "id": "latest_cf4f714372f5",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "South Korea jails 90-year-old woman for laundering son's drug money",
-      "dek": "The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.",
-      "body": "The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.",
+      "title": "What's changed since Harry and Meghan last visited Australia in 2018?",
+      "dek": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
+      "body": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:00:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1453/live/c4be3860-37cd-11f1-af91-3517da4ddb55.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_921213e9e0f6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
-      "dek": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
-      "body": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T05:02:21+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bc/live/98703620-3753-11f1-8606-05fe34b06e1b.jpg",
+      "publishedAt": "2026-04-14T09:41:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e09a/live/58b73870-37ef-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
