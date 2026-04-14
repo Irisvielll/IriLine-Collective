@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-14T11:44:41+00:00",
+  "generatedAt": "2026-04-14T12:48:36+00:00",
   "items": [
+    {
+      "id": "latest_12f24a8a0f14",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Cameroon separatists to pause fighting ahead of Pope visit",
+      "dek": "The separatists say their decison reflects responsibility, restraint and respect for human dignity.",
+      "body": "The separatists say their decison reflects responsibility, restraint and respect for human dignity.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T11:44:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1d993116q6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b5/live/315b33f0-37f2-11f1-bf98-335695df34d3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ad178d929e08",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
+      "dek": "The son of pensioner Marie-Thérèse told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centre.",
+      "body": "The son of pensioner Marie-Thérèse told French media he is worried for his mother's frail health as she is detained in a Louisiana ICE centre.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T11:37:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0b/live/75dc1680-37f1-11f1-bf98-335695df34d3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7683890e7df3",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-14T10:38:55+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9e/live/7346ad50-37eb-11f1-bf98-335695df34d3.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e78df189c063",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Police officers among seven arrested over deadly Haiti stampede",
-      "dek": "An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.",
-      "body": "An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T09:49:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a631/live/96b8ee20-37e0-11f1-9d5c-8ba507d7dbde.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cf4f714372f5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What's changed since Harry and Meghan last visited Australia in 2018?",
-      "dek": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
-      "body": "BBC News journalist Simon Atkinson explains how the couple's tour will be different compared to their last visit.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T09:41:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e09a/live/58b73870-37ef-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
