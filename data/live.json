@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-14T09:19:13+00:00",
+  "generatedAt": "2026-04-14T10:45:12+00:00",
   "items": [
+    {
+      "id": "latest_e78df189c063",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Police officers among seven arrested over deadly Haiti stampede",
+      "dek": "An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.",
+      "body": "An investigation is under way into what led to the deaths of 25 people at Laferrière Citadel on Saturday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T09:49:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a631/live/96b8ee20-37e0-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c75260f8f572",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-14T05:02:21+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bc/live/98703620-3753-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_42aeaa4416f5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bongbong Marcos fights ill-health rumours with star jumps",
-      "dek": "The Philippine President challenged anyone questioning his fitness to join him in the gym.",
-      "body": "The Philippine President challenged anyone questioning his fitness to join him in the gym.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T03:16:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cj3775edd11o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/c278cd50-37ae-11f1-879d-1b2f5c3919b8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

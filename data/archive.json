@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_42aeaa4416f5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bongbong Marcos fights ill-health rumours with star jumps",
+      "dek": "The Philippine President challenged anyone questioning his fitness to join him in the gym.",
+      "body": "The Philippine President challenged anyone questioning his fitness to join him in the gym.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T03:16:38+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cj3775edd11o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/c278cd50-37ae-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_96fd545538f1",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-10T07:49:05+00:00",
       "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/47190881/2026-nfl-draft-rankings-matt-miller-top-prospects-players-positions",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_82aa45a714a7",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5cbfeb565591",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Amid his 20th 30-goal campaign, Alex Ovechkin's future is unclear",
-      "dek": "The Great 8's contract is up after this season, but he sure isn't playing as someone on the edge of retirement.",
-      "body": "The Great 8's contract is up after this season, but he sure isn't playing as someone on the edge of retirement.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T07:28:22+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48442695/nhl-2025-26-alex-ovechkin-retirement-goals-final-season-washington-capitals",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5cbfeb565591",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
