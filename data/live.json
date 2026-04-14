@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-14T03:34:06+00:00",
+  "generatedAt": "2026-04-14T05:50:06+00:00",
   "items": [
+    {
+      "id": "latest_921213e9e0f6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+      "dek": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
+      "body": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T05:02:21+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bc/live/98703620-3753-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_42aeaa4416f5",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-14T00:14:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ccf/live/93876570-37ad-11f1-83f6-013e87bed780.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_208569b549ec",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "‘I don’t know why they’re coming’: Australians on Harry and Meghan's visit",
-      "dek": "The BBC spoke to people in Sydney to hear their thoughts on the Duke and Duchess of Sussex’s trip to Australia.",
-      "body": "The BBC spoke to people in Sydney to hear their thoughts on the Duke and Duchess of Sussex’s trip to Australia.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T23:40:20+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/crk18gnepmgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3a/live/4954dd00-3791-11f1-879d-1b2f5c3919b8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
