@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-14T14:50:26+00:00",
+  "generatedAt": "2026-04-14T16:07:49+00:00",
   "items": [
+    {
+      "id": "latest_65096c2374de",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Accusers seek justice after unwanted explicit messages from Congressman Eric Swalwell",
+      "dek": "He denies claims of sexual assault but admits \" mistakes\" and says he will resign.",
+      "body": "He denies claims of sexual assault but admits \" mistakes\" and says he will resign.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T15:20:37+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b53/live/3a36a180-381a-11f1-87a9-4117efae0ff4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a64145132aba",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+      "dek": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
+      "body": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T15:04:09+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3918/live/2f21d400-3819-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b5247c6cbd2d",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-14T14:18:04+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228c/live/ade9b260-3802-11f1-9d5c-8ba507d7dbde.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8857acd791e4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
-      "dek": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
-      "body": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T14:01:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4bd/live/1a89dee0-37fe-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_12f24a8a0f14",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Cameroon separatists to pause fighting ahead of Pope visit",
-      "dek": "The separatists say their decison reflects responsibility, restraint and respect for human dignity.",
-      "body": "The separatists say their decison reflects responsibility, restraint and respect for human dignity.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T11:44:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1d993116q6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b5/live/315b33f0-37f2-11f1-bf98-335695df34d3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
