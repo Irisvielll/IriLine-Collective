@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_47f08296b069",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Remembering 'Coach Mac': Jeff Legwold shares his best Dave McGinnis memories",
+      "dek": "Legwold and the late McGinnis formed a bond over combine breakfasts, large trucks, makeshift wallets and bobbleheads.",
+      "body": "Legwold and the late McGinnis formed a bond over combine breakfasts, large trucks, makeshift wallets and bobbleheads.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T16:12:18+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48485921/remembering-dave-mcginnis-nfl-head-coach-assistant-color-commentator-tribute",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_47f08296b069",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_19826d0907c0",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -28,6 +43,21 @@
       "publishedAt": "2026-04-14T15:55:45+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48486392/dianna-russini-resigns-athletic-following-mike-vrabel-photos",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_215496d045dc",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_c2acbc92a848",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Ex-Michigan coach Moore avoids jail in sentencing",
+      "dek": "Former Michigan football coach Sherrone Moore was sentenced to 18 months' probation Tuesday for misdemeanors related to a confrontation with his executive assis",
+      "body": "Former Michigan football coach Sherrone Moore was sentenced to 18 months' probation Tuesday for misdemeanors related to a confrontation with his executive assistant.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-14T15:55:45+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48486274/ex-michigan-coach-sherrone-moore-gets-probation-misdemeanors",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c2acbc92a848",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-10T17:37:36+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48451181/eagles-get-wr-dontayvion-wick-packers-sources-say",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3c44ce093097",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_facc1e2e8ac6",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Scheffler posts rare round over par at Masters",
-      "dek": "World No. 1 Scottie Scheffler struggled in the second round at the Masters, posting a 2-over 74.",
-      "body": "World No. 1 Scottie Scheffler struggled in the second round at the Masters, posting a 2-over 74.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T17:37:36+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48450992/scottie-scheffler-posts-2-74-2nd-round-masters",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_facc1e2e8ac6",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ad42fdf61242",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Falcons pick up fifth-year option for RB Robinson",
-      "dek": "The Atlanta Falcons picked up running back Bijan Robinson's fifth-year contract option Friday.",
-      "body": "The Atlanta Falcons picked up running back Bijan Robinson's fifth-year contract option Friday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-10T17:37:36+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48450986/falcons-pick-fifth-year-option-rb-bijan-robinson",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ad42fdf61242",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
