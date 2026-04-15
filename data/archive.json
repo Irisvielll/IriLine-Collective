@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_faf6bf5dbf00",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Islanders' fundraiser for convicted cop causes stir",
+      "dek": "The Islanders are facing questions about a jumbotron promotion urging hockey fans to donate to a former New York City police sergeant who was recently convicted",
+      "body": "The Islanders are facing questions about a jumbotron promotion urging hockey fans to donate to a former New York City police sergeant who was recently convicted of manslaughter for hurling a cooler of ice at a man fleeing arrest.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T18:31:36+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48497349/victim-family-angered-islanders-fundraiser-convicted-cop",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_faf6bf5dbf00",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_43c9a6cb285a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-11T19:45:51+00:00",
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48461145/cameron-young-surges-masters-ties-rory-mcilroy-lead",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3f8af9366dd5",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c159080a56fd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Deion's health is 'good,' as CU plays spring game",
-      "dek": "After a season that saw Colorado go 3-9, Buffaloes coach Deion Sanders, 58, was hands-on as he watched his team scrimmage on Saturday at the spring game, tellin",
-      "body": "After a season that saw Colorado go 3-9, Buffaloes coach Deion Sanders, 58, was hands-on as he watched his team scrimmage on Saturday at the spring game, telling reporters that \"I'm good, I'm good,\" after being diagnosed with bladder cancer last year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T19:45:51+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48461281/deion-sanders-back-field-colorado-spring-game",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c159080a56fd",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
