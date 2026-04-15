@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T19:51:13+00:00",
+  "generatedAt": "2026-04-15T20:50:43+00:00",
   "items": [
     {
       "id": "latest_bbbc1cee1038",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_8942cca61a08",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Frank Gardner: What is China's role in the Iran war?",
+      "dek": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "body": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T18:54:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726b/live/1d1f9880-38fc-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8c208d350ceb",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-15T18:48:34+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cgqkkxd09e2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/41ccc2f0-38f4-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_43c9a6cb285a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "SantaCon organiser charged with stealing $1m from charity pub crawl",
-      "dek": "Prosecutors say Stefan Pildes spent hundreds of thousands of $2.7m raised for charity on personal expenses.",
-      "body": "Prosecutors say Stefan Pildes spent hundreds of thousands of $2.7m raised for charity on personal expenses.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T17:56:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crl11g21ex8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d15/live/9de10680-38f1-11f1-af56-f16d2af863b9.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
