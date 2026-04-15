@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-15T11:40:35+00:00",
+  "generatedAt": "2026-04-15T12:45:44+00:00",
   "items": [
+    {
+      "id": "latest_fa078a4b3955",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Four killed in second Turkish school shooting in two days",
+      "dek": "There has been no official confirmation of who has been killed or what has happened to the attacker.",
+      "body": "There has been no official confirmation of who has been killed or what has happened to the attacker.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T12:29:54+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/586b/live/53b125e0-38c4-11f1-930d-fbf2959e80bc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_81be39bb34de",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+      "dek": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
+      "body": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T11:25:09+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c8c/live/dc497370-38c5-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f8b1a009150f",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-15T10:46:55+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/016f/live/b2adb2c0-38b5-11f1-90eb-854a36c38eaa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dbd5c14977d2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Meghan to appear as guest judge on MasterChef Australia",
-      "dek": "The Duke and Duchess of Sussex are on a four-day visit to Australia - their first since 2018.",
-      "body": "The Duke and Duchess of Sussex are on a four-day visit to Australia - their first since 2018.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T10:04:29+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2eejdwpk5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d8/live/b7820d40-38ac-11f1-aa75-d72ec285eda5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fb9ff5b11916",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "More than 200 Iranian sailors stranded after US torpedo attack return home",
-      "dek": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those repatriated.",
-      "body": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those repatriated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T10:00:41+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2971/live/94d6cb20-38a5-11f1-a963-91d9e730d487.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
