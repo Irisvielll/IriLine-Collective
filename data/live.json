@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-15T10:41:55+00:00",
+  "generatedAt": "2026-04-15T11:40:35+00:00",
   "items": [
+    {
+      "id": "latest_f8b1a009150f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump warns that UK trade deal 'can always be changed'",
+      "dek": "The US president says he gave the UK a \"better\" deal than he had to in an interview on Wednesday.",
+      "body": "The US president says he gave the UK a \"better\" deal than he had to in an interview on Wednesday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T10:46:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/016f/live/b2adb2c0-38b5-11f1-90eb-854a36c38eaa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_dbd5c14977d2",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-15T10:00:41+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2971/live/94d6cb20-38a5-11f1-a963-91d9e730d487.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_690f052146d1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kenya fuel prices rise sharply despite reduction in tax due to Iran war",
-      "dek": "Diesel prices rise by a record margin despite a reduction in value added tax.",
-      "body": "Diesel prices rise by a record margin despite a reduction in value added tax.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T09:06:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b6/live/946da910-38a5-11f1-8b8f-a3c16ecb3158.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
