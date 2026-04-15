@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-15T09:20:24+00:00",
+  "generatedAt": "2026-04-15T10:41:55+00:00",
   "items": [
+    {
+      "id": "latest_dbd5c14977d2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Meghan to appear as guest judge on MasterChef Australia",
+      "dek": "The Duke and Duchess of Sussex are on a four-day visit to Australia - their first since 2018.",
+      "body": "The Duke and Duchess of Sussex are on a four-day visit to Australia - their first since 2018.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T10:04:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2eejdwpk5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62d8/live/b7820d40-38ac-11f1-aa75-d72ec285eda5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_fb9ff5b11916",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "More than 200 Iranian sailors stranded after US torpedo attack return home",
+      "dek": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those repatriated.",
+      "body": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those repatriated.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T10:00:41+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2971/live/94d6cb20-38a5-11f1-a963-91d9e730d487.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_690f052146d1",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-15T09:06:38+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cgrlll7qgdzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b6/live/946da910-38a5-11f1-8b8f-a3c16ecb3158.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d8ac44ab4fc4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africa names apartheid-era politician as new ambassador to the US",
-      "dek": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
-      "body": "Roelf Meyer played a key role as a negotiator during talks to end white-minority rule in South Africa.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T08:21:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d73/live/51a604b0-38a5-11f1-8b8f-a3c16ecb3158.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_07e047cc70d7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Magyar meets Hungarian president as Trump says next PM 'a good man'",
-      "dek": "The man who ended Viktor Orbán's 16 years of continuous rule, Péter Magyar, is calling for a speedy transfer of power.",
-      "body": "The man who ended Viktor Orbán's 16 years of continuous rule, Péter Magyar, is calling for a speedy transfer of power.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T08:05:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f901/live/f93e6380-38a9-11f1-aa75-d72ec285eda5.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
