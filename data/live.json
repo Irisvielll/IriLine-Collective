@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-16T06:02:03+00:00",
+  "generatedAt": "2026-04-16T08:03:12+00:00",
   "items": [
+    {
+      "id": "latest_57720beeb715",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israeli demolitions levelling towns in south Lebanon, satellite images show",
+      "dek": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
+      "body": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-16T06:25:14+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f319/live/471bcbb0-38eb-11f1-879d-1b2f5c3919b8.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_600918ac6583",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-16T01:32:19+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48500300/warriors-rally-clippers-4th-advance-play-in",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6f5219c24dd1",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_9f9b11625033",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ulberg says he lost UFC title belt celebrating win",
-      "dek": "Newly crowned UFC light heavyweight champion Carlos Ulberg told Fox Sports Australia that he misplaced his title belt while celebrating his victory.",
-      "body": "Newly crowned UFC light heavyweight champion Carlos Ulberg told Fox Sports Australia that he misplaced his title belt while celebrating his victory.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T01:32:19+00:00",
-      "sourceUrl": "https://www.espn.com/mma/story/_/id/48499734/carlos-ulberg-says-lost-title-belt-celebrating-ufc-327-win",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9f9b11625033",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
