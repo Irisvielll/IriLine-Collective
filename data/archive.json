@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_fadf582e507b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Wings stifle Fudd-Bueckers relationship questions",
+      "dek": "The WNBA's Wings shut down a question to No. 1 overall draft pick Azzi Fudd about her relationship with teammate Paige Bueckers, which the two made public in 20",
+      "body": "The WNBA's Wings shut down a question to No. 1 overall draft pick Azzi Fudd about her relationship with teammate Paige Bueckers, which the two made public in 2025.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-16T15:04:23+00:00",
+      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48505618/wings-stifle-questions-azzi-fudd-paige-bueckers-relationship",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fadf582e507b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_7e040ebbcfce",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48469822/rory-mcilroy-wins-masters-first-repeat-tiger-woods",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e9f19967c116",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_b20fa3ea5c7b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
-      "dek": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
-      "body": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T18:48:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a79/live/1fe25240-369c-11f1-a64d-95608276955d.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
