@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-16T19:49:10+00:00",
+  "generatedAt": "2026-04-16T20:49:59+00:00",
   "items": [
+    {
+      "id": "latest_259e3c839693",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+      "dek": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
+      "body": "The US president invites the two countries' leaders to Washington as Israel's prime minister insists troops will not leave southern Lebanon.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-16T20:40:30+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59c7/live/d118f600-39d4-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d77ad3739a36",
       "section": "latest",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_aaa1614fc672",
+      "id": "latest_c09ecbbca653",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
-      "dek": "The armed men reportedly evaded capture by escaping through the city's sewer system.",
-      "body": "The armed men reportedly evaded capture by escaping through the city's sewer system.",
+      "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
+      "dek": "During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines.",
+      "body": "During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T17:24:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd89/live/fb48e460-39b8-11f1-879d-1b2f5c3919b8.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4bb69ea0179c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How did a wolf become a fugitive in South Korea?",
-      "dek": "A wolf burrowed under a fence at his zoo in South Korea becoming the country's newest fugitive.",
-      "body": "A wolf burrowed under a fence at his zoo in South Korea becoming the country's newest fugitive.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T15:51:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c70dv9jy50no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3df9/live/d0617460-39a9-11f1-9d5c-8ba507d7dbde.jpg",
+      "publishedAt": "2026-04-16T17:55:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f4/live/f65c4f50-39b3-11f1-8897-e7b75af1cf66.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
