@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_15fb0bd8af68",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "NCAA recommends earlier start to football season",
+      "dek": "An NCAA committee recommended Thursday that Football Bowl Subdivision teams play a 12-game schedule over 14 weeks beginning in 2027 with the season starting on ",
+      "body": "An NCAA committee recommended Thursday that Football Bowl Subdivision teams play a 12-game schedule over 14 weeks beginning in 2027 with the season starting on the Thursday of what is now designated Week 0.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-16T18:00:01+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48507083/ncaa-recommends-earlier-start-football-season-2027",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_15fb0bd8af68",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_c09ecbbca653",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-12T23:10:17+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sjtpbd/nobody_gets_free_pickles_on_bc_ferries_familys/",
       "image": "https://external-preview.redd.it/rm5C72-gjWQjVNbcnSm2S-VfElsHrqrp06Ivtw5UOSo.jpeg?width=640&crop=smart&auto=webp&s=05589c8914c1ab39f13fbece9b63c6a055534f5d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_622093b9cd85",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pope prioritises world's fastest-growing Catholic region in major Africa tour",
-      "dek": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
-      "body": "Leo XIV wants the world's attention on a continent vital to the Church's future, an aide says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-12T23:08:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5de/live/3400fcd0-3503-11f1-879d-1b2f5c3919b8.png",
       "imageCredit": "Image via original publisher"
     }
   ]
