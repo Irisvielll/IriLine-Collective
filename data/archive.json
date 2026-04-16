@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_0f16fbeba84e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UCL talking points: Slot's bizarre choices, Bayern now favorites?",
+      "dek": "Arne Slot's decision to start Alexander Isak backfired, badly. ESPN's Julien Laurens, Sam Marsden, Gab Marcotti and Sam Tighe weigh in on that and all the other",
+      "body": "Arne Slot's decision to start Alexander Isak backfired, badly. ESPN's Julien Laurens, Sam Marsden, Gab Marcotti and Sam Tighe weigh in on that and all the other moments that mattered from the UCL quarterfinal second legs.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T22:57:27+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48495158/ucl-talking-points-slots-bizarre-choicesbayern-now-favorites",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0f16fbeba84e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_8e4df5c8001d",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -58,6 +73,21 @@
       "publishedAt": "2026-04-15T22:51:08+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48498339/shohei-ohtani-starts-mound-not-lineup-dodgers-vs-mets",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b60080a41cff",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_117ad1fb8d4a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Maxey delivers late as Sixers lock up No. 7 seed",
+      "dek": "Tyrese Maxey scored 31 points, and the Sixers pulled away late to top the Magic 109-97 on Wednesday night to secure the No. 7 seed in the Eastern Conference pla",
+      "body": "Tyrese Maxey scored 31 points, and the Sixers pulled away late to top the Magic 109-97 on Wednesday night to secure the No. 7 seed in the Eastern Conference playoffs.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-15T22:51:08+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48499241/maxey-scores-31-lead-sixers-magic-east-no-7-seed",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_117ad1fb8d4a",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-04-11T23:21:58+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1siy5ys/fox_news_analyst_blames_low_birth_rate_on_teens/",
       "image": "https://external-preview.redd.it/Nwfhf79cisdz-DffJ_bjt5hB65rxuIPHNeUUOBgWpu4.png?width=640&crop=smart&auto=webp&s=2fbf4823fbf1b3f33a39ca1efbfa56e650ff2804",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f856c3dcc705",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The prophet and the mysterious death of Charmain Speirs",
-      "dek": "A BBC Disclosure investigation has uncovered significant questions about what happened at the hotel where Charmain died.",
-      "body": "A BBC Disclosure investigation has uncovered significant questions about what happened at the hotel where Charmain died.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T23:14:11+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8c/live/aa743190-329a-11f1-8cba-9df81803c83c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3e2f34461509",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
-      "dek": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
-      "body": "\"Slopaganda\" is too weak a term to capture how powerful this \"highly sophisticated\" content is, one expert says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-11T23:13:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0583/live/740dafc0-35db-11f1-879d-1b2f5c3919b8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
