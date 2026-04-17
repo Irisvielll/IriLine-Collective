@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-17T05:52:47+00:00",
+  "generatedAt": "2026-04-17T07:48:16+00:00",
   "items": [
+    {
+      "id": "latest_a4f6e5bf4217",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+      "dek": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+      "body": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T06:25:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_960dc2179174",
       "section": "latest",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_9a4e679ab1ae",
+      "id": "latest_43e6dc37ddbd",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "South Korea's runaway wolf finally captured after nine-day search",
-      "dek": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
-      "body": "The search has been marked by twists and turns, gripping South Korea and even inspiring a meme coin.",
+      "title": "Moment wolf on the run in South Korea is found",
+      "dek": "The escape of Neukgu, a two-year-old wolf, from a zoo in the city of Daejon captured national attention.",
+      "body": "The escape of Neukgu, a two-year-old wolf, from a zoo in the city of Daejon captured national attention.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T03:22:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn08p8nzejko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a06d/live/abeccb00-39f1-11f1-92bc-b9005df71ed3.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_876360cb8125",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Singer D4vd arrested in connection with death of missing teen girl",
-      "dek": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
-      "body": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T01:43:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e63/live/d3d01c60-39f8-11f1-99fe-5fdcad0f703b.jpg",
+      "publishedAt": "2026-04-17T04:53:04+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c70dvy2l701o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74b2/live/4b485550-3a12-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
