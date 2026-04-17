@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_2bd69833e48b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Nebraska plans $600M stadium renovation for '28",
+      "dek": "Nebraska's Memorial Stadium will undergo a $600 million renovation targeted for the start of the 2028 season, according to a plan announced Friday.",
+      "body": "Nebraska's Memorial Stadium will undergo a $600 million renovation targeted for the start of the 2028 season, according to a plan announced Friday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T12:16:00+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48513525/nebraska-proposes-600-million-memorial-stadium-renovation",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2bd69833e48b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_8873b85d336b",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-13T15:59:19+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48477183/doncic-return-spain-friday-status-unknown",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0fd5455608d0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ee72352f3f7a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Crawford found guilty of careless driving, fined",
-      "dek": "Terence Crawford was found guilty of careless driving Monday and ordered to pay a $75 fine stemming from a traffic stop last year during which police ordered th",
-      "body": "Terence Crawford was found guilty of careless driving Monday and ordered to pay a $75 fine stemming from a traffic stop last year during which police ordered the world champion boxer and passengers out of his vehicle at gunpoint.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T15:59:19+00:00",
-      "sourceUrl": "https://www.espn.com/boxing/story/_/id/48476633/terence-crawford-found-guilty-careless-driving-fined-75",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ee72352f3f7a",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
