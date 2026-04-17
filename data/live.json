@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-17T18:12:24+00:00",
+  "generatedAt": "2026-04-17T19:32:57+00:00",
   "items": [
+    {
+      "id": "latest_7bd88774f245",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kanye West concert in Poland cancelled over antisemitic comments",
+      "dek": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
+      "body": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T18:19:10+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810c/live/db3a3a80-3a7f-11f1-850e-07c4418cf86c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d49fe90a3775",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-17T17:12:38+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9732/live/99b991e0-3a7b-11f1-8606-05fe34b06e1b.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_add19354885d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What next for South African opposition firebrand Malema after his five-year prison sentence?",
-      "dek": "The sentence raises huge questions marks over the political future of one of South Africa's most controversial politicians.",
-      "body": "The sentence raises huge questions marks over the political future of one of South Africa's most controversial politicians.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T16:53:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdxkd6rvk0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8029/live/56bf7000-3a74-11f1-a60d-fbe629a6a3c1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
