@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-17T03:34:51+00:00",
+  "generatedAt": "2026-04-17T05:52:47+00:00",
   "items": [
+    {
+      "id": "latest_960dc2179174",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What we know about the ceasefire between Lebanon and Israel",
+      "dek": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "body": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T05:34:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25e8/live/94fbcf40-3a19-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_9a4e679ab1ae",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e63/live/d3d01c60-39f8-11f1-99fe-5fdcad0f703b.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_1c307495bf2d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Messick loses no-hit bid in 9th; Guardians hold on",
-      "dek": "Guardians rookie Parker Messick's bid for MLB's first no-hitter of 2026 was broken up in the ninth inning, but Cleveland held on for a 4-2 win over the Orioles ",
-      "body": "Guardians rookie Parker Messick's bid for MLB's first no-hitter of 2026 was broken up in the ninth inning, but Cleveland held on for a 4-2 win over the Orioles on Thursday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T22:20:46+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48508569/messick-loses-no-hit-bid-9th-guardians-hold-orioles",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1c307495bf2d",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
