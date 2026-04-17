@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T23:01:37+00:00",
+  "generatedAt": "2026-04-17T23:55:50+00:00",
   "items": [
     {
       "id": "latest_9877d44a628d",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_e503323c8c8b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Follow live: Magic host Hornets in play-in tournament battle",
+      "dek": "null",
+      "body": "null",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T19:44:48+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48509159/nba-2026-play-tournament-magic-hornets-warriors-suns-live-updates-results-highlights",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e503323c8c8b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_5b8aaf74d12d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-17T18:19:43+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce3/live/7537af70-3a7e-11f1-850e-07c4418cf86c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7bd88774f245",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kanye West concert in Poland cancelled over antisemitic comments",
-      "dek": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
-      "body": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T18:19:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810c/live/db3a3a80-3a7f-11f1-850e-07c4418cf86c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
