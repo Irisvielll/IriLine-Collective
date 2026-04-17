@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-17T09:18:34+00:00",
+  "generatedAt": "2026-04-17T10:37:23+00:00",
   "items": [
+    {
+      "id": "latest_bad34917dbdc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
+      "dek": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington's terms.",
+      "body": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington's terms.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T09:19:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b2/live/9d32f210-3a37-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_78c25feaeb4c",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-17T08:22:33+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af0a/live/2f04d6c0-3a35-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a4f6e5bf4217",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "dek": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
-      "body": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T06:25:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_a4f6e5bf4217",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+      "dek": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+      "body": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T06:25:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_960dc2179174",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-13T07:15:22+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48468167/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8e4932b0ee0b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d30c1a7de8e6",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The case for the Ted Lindsay Award as the NHL's MVP trophy of record",
-      "dek": "Both the Lindsay and the Hart winner can be considered the league's best player.",
-      "body": "Both the Lindsay and the Hart winner can be considered the league's best player.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-13T07:15:21+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48465123/nhl-2025-26-mvp-trophy-award-hart-ted-lindsay-mcdavid-mackinnon-kucherov-celebrini",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d30c1a7de8e6",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
