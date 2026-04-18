@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-18T19:09:38+00:00",
+  "generatedAt": "2026-04-18T19:53:04+00:00",
   "items": [
+    {
+      "id": "latest_6e4b10eb2a45",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "All construction of Trump's White House ballroom can resume, appeals court says",
+      "dek": "Construction is expected to continue at the White House until the next hearing which is due to take place in June.",
+      "body": "Construction is expected to continue at the White House until the next hearing which is due to take place in June.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T19:18:40+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/db7b91e0-39d2-11f1-a1b6-b76b3bf64711.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d3c40ddd1d8f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-18T16:54:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c4gly4qkx1go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab9/live/08e295a0-3b47-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bb597a96fe34",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "dek": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-      "body": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T16:44:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa10/live/0a6cce30-3b3e-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
