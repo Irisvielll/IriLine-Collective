@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T20:38:00+00:00",
+  "generatedAt": "2026-04-18T21:18:40+00:00",
   "items": [
     {
       "id": "latest_6e4b10eb2a45",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_712cb7d62420",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_2ea2b42a2daa",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "HiPP recalls jarred baby food in Austria over contamination fears",
-      "dek": "Police are investigating whether jars sold in Spar shops were criminally interfered with.",
-      "body": "Police are investigating whether jars sold in Spar shops were criminally interfered with.",
+      "category": "SPORTS",
+      "title": "WWE WrestleMania 42 LIVE: Match results and analysis from Night One",
+      "dek": "ESPN breaks down all the action from Night One of WrestleMania 42 in Las Vegas.",
+      "body": "ESPN breaks down all the action from Night One of WrestleMania 42 in Las Vegas.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T16:54:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gly4qkx1go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab9/live/08e295a0-3b47-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-04-18T17:00:46+00:00",
+      "sourceUrl": "https://www.espn.com/wwe/story/_/id/48494667/wwe-wrestlemania-42-night-1-live-match-results-analysis-cody-rhodes-vs-randy-orton",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2ea2b42a2daa",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
