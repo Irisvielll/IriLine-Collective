@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "sports_76a427fa88c1",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Riddick's favorite players in the NFL draft class, from first-round locks to exciting sleepers",
+      "dek": "Louis Riddick picks his guys in the 2026 class, including some offensive playmakers and ball-hawking defensive backs. See who's on his 10-player list.",
+      "body": "Louis Riddick picks his guys in the 2026 class, including some offensive playmakers and ball-hawking defensive backs. See who's on his 10-player list.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T07:12:59+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48513002/2026-nfl-draft-riddick-favorite-prospects-class-sleepers-love-styles-cooper",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_76a427fa88c1",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_c8018d11da06",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "One year later: Who won the Jaguars-Browns draft-day trade for Travis Hunter?",
+      "dek": "The Browns and Jags swapped picks in 2025 so Jacksonville could draft Hunter. Now, Cleveland has an extra first-rounder in 2026.",
+      "body": "The Browns and Jags swapped picks in 2025 so Jacksonville could draft Hunter. Now, Cleveland has an extra first-rounder in 2026.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T06:00:02+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48504635/nfl-draft-trade-jacksonville-jaguars-travis-hunter-cleveland-browns-mason-graham",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c8018d11da06",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_3a0a5c2f494e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "What did the USWNT learn ahead of World Cup after Japan series?",
+      "dek": "The USWNT just wrapped their window of three friendly games against Japan, but what did Emma Hayes learn ahead of the World Cup?",
+      "body": "The USWNT just wrapped their window of three friendly games against Japan, but what did Emma Hayes learn ahead of the World Cup?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T05:24:27+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48519905/what-did-uswnt-learn-ahead-world-cup-japan-series",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3a0a5c2f494e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_9b7314fa409a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48476034/2026-nba-playoff-predicting-series-including-finals",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_620215c578b2",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_c75260f8f572",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Korea jails 90-year-old woman for laundering son's drug money",
-      "dek": "The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.",
-      "body": "The woman has been sentenced to a year in jail for laundering money for her son who is imprisoned in Cambodia.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:00:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1453/live/c4be3860-37cd-11f1-af91-3517da4ddb55.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_d83a5c011886",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "From Culver's, with love: Meet Gennings Dunker, the NFL draft's viral star",
-      "dek": "He was 'one of five' on Iowa's offensive line. That was before the mullet and personality took over the NFL combine.",
-      "body": "He was 'one of five' on Iowa's offensive line. That was before the mullet and personality took over the NFL combine.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T06:19:01+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48455868/nfl-draft-2026-gennings-dunker-iowa-hawkeyes-viral-star",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d83a5c011886",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_921213e9e0f6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
-      "dek": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
-      "body": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T05:02:21+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bc/live/98703620-3753-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
