@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-18T21:18:40+00:00",
+  "generatedAt": "2026-04-18T21:58:14+00:00",
   "items": [
+    {
+      "id": "latest_5687667e9164",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+      "dek": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+      "body": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T21:19:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/3961f0b0-3b6d-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_6e4b10eb2a45",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/f7e22680-3b28-11f1-bdd4-fdf1a2a9ebde.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_2ea2b42a2daa",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "WWE WrestleMania 42 LIVE: Match results and analysis from Night One",
-      "dek": "ESPN breaks down all the action from Night One of WrestleMania 42 in Las Vegas.",
-      "body": "ESPN breaks down all the action from Night One of WrestleMania 42 in Las Vegas.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T17:00:46+00:00",
-      "sourceUrl": "https://www.espn.com/wwe/story/_/id/48494667/wwe-wrestlemania-42-night-1-live-match-results-analysis-cody-rhodes-vs-randy-orton",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2ea2b42a2daa",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
