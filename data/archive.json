@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_307df32610b1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French film star Nathalie Baye dies aged 77, media report",
+      "dek": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
+      "body": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T12:31:16+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf54/live/786c3500-3b17-11f1-b1b8-59274407f83c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_5ee1f82d5742",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Revisiting each playoff matchup between LeBron James and Kevin Durant",
+      "dek": "James and Durant have faced off in the postseason three times, and each matchup proved to be a momentous occasion.",
+      "body": "James and Durant have faced off in the postseason three times, and each matchup proved to be a momentous occasion.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T11:39:42+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48506753/lebron-james-kevin-durant-revisiting-nba-playoff-matchups",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5ee1f82d5742",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_9d90fd3d0c0a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -14,6 +44,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c20dy511v3lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/879f/live/5bb226b0-3b15-11f1-a490-57726c006191.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_d1315bfc8049",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "OKC remains title betting fave; Spurs, C's follow",
+      "dek": "The Thunder (+110) remain large betting favorites to repeat as NBA champions, but the betting public also likes the Spurs (+500) and Celtics (+550) to give Okla",
+      "body": "The Thunder (+110) remain large betting favorites to repeat as NBA champions, but the betting public also likes the Spurs (+500) and Celtics (+550) to give Oklahoma City a run for their money.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T10:56:12+00:00",
+      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/48521772/thunder-remain-nba-title-betting-favorites-spurs-celtics-follow",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d1315bfc8049",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_b3356503183a",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-04-14T08:38:25+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48482916/sabres-win-atlantic-1st-division-title-2009-10-season",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6f70e70cbbba",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ef13df5a9fbd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How bad analytics built a Tottenham team that is heading for relegation",
-      "dek": "Tottenham are really bad and looking at the way this team has been constructed, one thing clearly stands out: This team is really bad at passing the ball, and t",
-      "body": "Tottenham are really bad and looking at the way this team has been constructed, one thing clearly stands out: This team is really bad at passing the ball, and that may explain their present malaise.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:36:10+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48474339/tottenham-analysis-relegation-passing-premier-league-ryan-ohanlon",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ef13df5a9fbd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_6ca8fe644a63",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Champions League knockout rounds: Bracket, key dates, more",
-      "dek": "Here's everything you need to know about the Champions League knockout rounds.",
-      "body": "Here's everything you need to know about the Champions League knockout rounds.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:34:16+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/47778424/2025-26-champions-league-knockout-rounds-bracket-dates-format",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6ca8fe644a63",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c939f5c9978f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The Buzz is back? Inside the Hornets' turn from league punchline to playoff hopeful",
-      "dek": "The Hornets are two wins away from snapping the NBA's longest current playoff drought. Can Charlotte end the futility by advancing out of the play-in against th",
-      "body": "The Hornets are two wins away from snapping the NBA's longest current playoff drought. Can Charlotte end the futility by advancing out of the play-in against the Heat?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:31:55+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c939f5c9978f",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

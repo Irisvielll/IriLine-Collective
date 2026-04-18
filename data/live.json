@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-18T14:58:04+00:00",
+  "generatedAt": "2026-04-18T15:47:13+00:00",
   "items": [
+    {
+      "id": "latest_fb6de16aa0e0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least two dead as gunman opens fire and takes hostages in Kyiv",
+      "dek": "The country's interior minister says the shooter has been killed after a shoot-out with police.",
+      "body": "The country's interior minister says the shooter has been killed after a shoot-out with police.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T15:35:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b94/live/bfc8dcf0-3b3a-11f1-97f2-b74de1623710.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_12e4cef3e421",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-18T13:13:21+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6079/live/74d1cc00-3b1e-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_307df32610b1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "French film star Nathalie Baye dies aged 77, media report",
-      "dek": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
-      "body": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T12:31:16+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf54/live/786c3500-3b17-11f1-b1b8-59274407f83c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
