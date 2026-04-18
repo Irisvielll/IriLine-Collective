@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_9d90fd3d0c0a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "One dead after car hits pedestrians in Melbourne, police say",
+      "dek": "A man is arrested following a collision in which police say a car mounted a kerb and struck pedestrians.",
+      "body": "A man is arrested following a collision in which police say a car mounted a kerb and struck pedestrians.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T11:09:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20dy511v3lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/879f/live/5bb226b0-3b15-11f1-a490-57726c006191.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_b3356503183a",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-14T07:31:55+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48472147/nba-playoffs-2026-charlotte-hornets-kon-knueppel-lamelo-ball-play-miami-heat",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c939f5c9978f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_7d60e730504f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NBA experts' picks for Hornets-Heat, Blazers-Suns and first-round matchups",
-      "dek": "Our NBA experts pick which teams make it out of the play-in tournament and first-round matchups.",
-      "body": "Our NBA experts pick which teams make it out of the play-in tournament and first-round matchups.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:31:55+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48477478/2026-nba-playoff-expert-picks-play-first-round-matchups",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7d60e730504f",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

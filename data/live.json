@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-18T14:05:35+00:00",
+  "generatedAt": "2026-04-18T14:58:04+00:00",
   "items": [
+    {
+      "id": "latest_12e4cef3e421",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French peacekeeper killed in southern Lebanon",
+      "dek": "President Macron blamed the attack on Hezbollah. The Iran-backed armed group denied \"any connection\" to the incident.",
+      "body": "President Macron blamed the attack on Hezbollah. The Iran-backed armed group denied \"any connection\" to the incident.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T14:53:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c4/live/2d66f5a0-3b2f-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a34394b23688",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-18T12:31:16+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf54/live/786c3500-3b17-11f1-b1b8-59274407f83c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9d90fd3d0c0a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "One dead after car hits pedestrians in Melbourne, police say",
-      "dek": "A man is arrested following a collision in which police say a car mounted a kerb and struck pedestrians.",
-      "body": "A man is arrested following a collision in which police say a car mounted a kerb and struck pedestrians.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T11:09:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20dy511v3lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/879f/live/5bb226b0-3b15-11f1-a490-57726c006191.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
