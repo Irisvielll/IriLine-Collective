@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b33215b6eba6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
+      "dek": "Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it.",
+      "body": "Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T00:20:56+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0405/live/0ee0eb40-3abc-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_f4937344aeb2",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-14T02:36:27+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48481571/aaron-judge-mike-trout-homer-twice-yankees-top-angels",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_076f3ae9b8c2",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_840fee73d5a4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "WNBA draft: Grading Azzi Fudd to Wings and every team's night",
-      "dek": "One team set the curve with an A+. Three got A grades, including Dallas for picking Azzi Fudd. But one got a D.",
-      "body": "One team set the curve with an A+. Three got A grades, including Dallas for picking Azzi Fudd. But one got a D.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T02:23:28+00:00",
-      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48479794/wnba-draft-2026-grades-report-card-winners-losers-dallas-wings-fudd-miles-fam-betts",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_840fee73d5a4",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

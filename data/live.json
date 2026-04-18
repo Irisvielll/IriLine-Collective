@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T06:15:33+00:00",
+  "generatedAt": "2026-04-18T07:41:38+00:00",
   "items": [
     {
       "id": "latest_9b7314fa409a",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_eed0b01b44b4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Kerr on future: These jobs have 'expiration dates'",
+      "dek": "Steve Kerr acknowledged his future with the Warriors was uncertain following Friday's season-ending loss to the Suns, saying, \"When the run ends, sometimes it's",
+      "body": "Steve Kerr acknowledged his future with the Warriors was uncertain following Friday's season-ending loss to the Suns, saying, \"When the run ends, sometimes it's time for new blood and new ideas.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T02:50:59+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48519533/warriors-kerr-mull-future-knows-jobs-expiration-dates",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eed0b01b44b4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_994f1f09bc0e",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48519075/suns-end-warriors-season-set-first-round-date-thunder",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_994f1f09bc0e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_b33215b6eba6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Fuel truck leaves trail of fire on road in Syria",
-      "dek": "Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it.",
-      "body": "Eyewitnesses captured the moment a burning fuel tanker drove through the centre of Hasakah, Syria, leaving a trail of fire behind it.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T00:20:56+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0405/live/0ee0eb40-3abc-11f1-9d5c-8ba507d7dbde.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
