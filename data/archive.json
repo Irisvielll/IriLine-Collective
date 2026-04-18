@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_c72e37ff5e6c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "How the Stanley Cup will be won: Wyshynski's predictions for the entire bracket",
+      "dek": "Who will win each series matchup, and in how many games? Who takes home the Stanley Cup?",
+      "body": "Who will win each series matchup, and in how many games? Who takes home the Stanley Cup?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T07:26:44+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48516090/nhl-playoffs-2026-stanley-cup-bracket-predictions-every-series",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c72e37ff5e6c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_76a427fa88c1",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -91,6 +106,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "latest_250e36873dc4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+      "dek": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
+      "body": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T00:37:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ca/live/8615c350-3ab9-11f1-9c22-11807b89f7b9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b33215b6eba6",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -103,6 +133,21 @@
       "publishedAt": "2026-04-18T00:20:56+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/czd7e3yqd7do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0405/live/0ee0eb40-3abc-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_5e96470d8ba9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Three sentenced for 'man in bear suit' insurance scam",
+      "dek": "Video went viral after investigators determined the purported ursine was actually a man in a costume.",
+      "body": "Video went viral after investigators determined the purported ursine was actually a man in a costume.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T00:10:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czxrq7rx9lqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed3/live/58733150-3ab2-11f1-879d-1b2f5c3919b8.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -149,6 +194,36 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48432907/nba-offseason-2026-draft-free-agency-trade-targets-30-teams",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fccc266f9957",
       "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_93f36bf33cc6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What does it take to survive in the Arctic? These rangers have an idea",
+      "dek": "The BBC spent time with the Canadian military in the country's northernmost region - this is what they taught us about dealing with extreme conditions.",
+      "body": "The BBC spent time with the Canadian military in the country's northernmost region - this is what they taught us about dealing with extreme conditions.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T23:01:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/ckgepkp3zgjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1552/live/58734540-3a9a-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_0a57403a24de",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "He made jazz under air raids - and built an Indian city's music scene",
+      "dek": "War correspondent, jazz bandleader and impresario, KC Sen shaped Kolkata’s music scene.",
+      "body": "War correspondent, jazz bandleader and impresario, KC Sen shaped Kolkata’s music scene.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-17T23:01:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgrlqxlwerqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd6/live/eeed3ee0-317b-11f1-88f5-3db553aac633.jpg",
+      "imageCredit": "Image via original publisher"
     },
     {
       "id": "sports_9076bada4230",
@@ -4423,81 +4498,6 @@
       "publishedAt": "2026-04-14T07:25:44+00:00",
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/48370187/2026-college-football-way-too-early-top-25-spring-update",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f3c6b8f4a2db",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_0f351df62743",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Paul Skenes, Tarik Skubal on the art of pitching: 'You can do whatever you want with a baseball'",
-      "dek": "From the rise of velocity to the future of AI, the two best pitchers on the planet share the finer points of the craft.",
-      "body": "From the rise of velocity to the future of AI, the two best pitchers on the planet share the finer points of the craft.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:23:43+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48475762/mlb-2026-paul-skenes-tarik-skubal-pirates-tigers-aces-cy-young-state-pitching",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0f351df62743",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_f98d76f2ccc9",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "What makes a good pinch hitter in 2026? One manager might have revealed the secret",
-      "dek": "Looking for the key to production off the bench? Here's the long and short of it.",
-      "body": "Looking for the key to production off the bench? Here's the long and short of it.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:23:43+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48475945/mlb-2026-pinch-hitting-hitters-swings-tyler-wade-texas-rangers-skip-schumaker",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f98d76f2ccc9",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_8c9c5ee323c4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Trade up for a star prospect, or trade down for more draft picks? Let's make the call for 10 NFL teams",
-      "dek": "Would it make sense for the Eagles, Bears and Chiefs to trade up in Round 1? Should the Cowboys and Lions try to move down the board? Here's our advice for 10 t",
-      "body": "Would it make sense for the Eagles, Bears and Chiefs to trade up in Round 1? Should the Cowboys and Lions try to move down the board? Here's our advice for 10 teams.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:18:47+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48470863/2026-nfl-draft-round-1-trades-barnwell-teams-moves-picks",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8c9c5ee323c4",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d05e11e04083",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Reid's final draft rankings: Stacking the top 500 players",
-      "dek": "Every draftable player, graded by round, plus scouting reports on the top names.",
-      "body": "Every draftable player, graded by round, plus scouting reports on the top names.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:18:47+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/47027232/2026-nfl-draft-rankings-jordan-reid-top-prospects-players-positions",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d05e11e04083",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_620215c578b2",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "2026 NBA playoffs: Predicting each series, including the Finals",
-      "dek": "ESPN's Zach Kram decides each NBA series in the playoffs through the Finals. Who will square off in June?",
-      "body": "ESPN's Zach Kram decides each NBA series in the playoffs through the Finals. Who will square off in June?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T07:10:56+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48476034/2026-nba-playoff-predicting-series-including-finals",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_620215c578b2",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-18T11:49:31+00:00",
+  "generatedAt": "2026-04-18T13:04:37+00:00",
   "items": [
+    {
+      "id": "latest_307df32610b1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "French film star Nathalie Baye dies aged 77, media report",
+      "dek": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
+      "body": "President Macron said France had \"loved, dreamed and grown up\" with the stalwart of French cinema.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T12:31:16+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn9q48y9wr7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf54/live/786c3500-3b17-11f1-b1b8-59274407f83c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_1e4082bbe07c",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b12/live/a384fdc0-3af0-11f1-9961-936cc21d3655.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c72e37ff5e6c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How the Stanley Cup will be won: Wyshynski's predictions for the entire bracket",
-      "dek": "Who will win each series matchup, and in how many games? Who takes home the Stanley Cup?",
-      "body": "Who will win each series matchup, and in how many games? Who takes home the Stanley Cup?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T07:26:44+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48516090/nhl-playoffs-2026-stanley-cup-bracket-predictions-every-series",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c72e37ff5e6c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
