@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-19T19:53:34+00:00",
+  "generatedAt": "2026-04-19T20:39:05+00:00",
   "items": [
+    {
+      "id": "latest_fc665bcc92d9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
+      "dek": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
+      "body": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T19:25:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c4/live/81215e60-3c1a-11f1-9ee7-39ebe3a225a4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e803538ba8d9",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-19T17:48:41+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f9a/live/8e252110-3c0f-11f1-9ee7-39ebe3a225a4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6b976969b889",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Eight children killed in Louisiana shooting, police say",
-      "dek": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
-      "body": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T17:15:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a4/live/b2a4b560-3c13-11f1-9ee7-39ebe3a225a4.png",
       "imageCredit": "Image via original publisher"
     }
   ]

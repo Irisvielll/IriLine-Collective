@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6b976969b889",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Eight children killed in Louisiana shooting, police say",
+      "dek": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
+      "body": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T17:15:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a4/live/b2a4b560-3c13-11f1-9ee7-39ebe3a225a4.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_162d00a672e3",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -14,6 +29,21 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f823/live/0d49eb80-3c04-11f1-9d5c-8ba507d7dbde.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_cd3a7b8e74cf",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "At a crucial stage in the season, Man City take control of the title race over Arsenal",
+      "dek": "Manchester City's 2-1 win over Arsenal becomes a huge confidence boost for Pep Guardiola's side in the Premier League title race.",
+      "body": "Manchester City's 2-1 win over Arsenal becomes a huge confidence boost for Pep Guardiola's side in the Premier League title race.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T15:58:06+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48533188/manchester-city-win-arsenal-gives-control-title-race",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cd3a7b8e74cf",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_778fb1527b79",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cwyjjjz8n8ko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d73/live/51a604b0-38a5-11f1-8b8f-a3c16ecb3158.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_07e047cc70d7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Magyar meets Hungarian president as Trump says next PM 'a good man'",
-      "dek": "The man who ended Viktor Orbán's 16 years of continuous rule, Péter Magyar, is calling for a speedy transfer of power.",
-      "body": "The man who ended Viktor Orbán's 16 years of continuous rule, Péter Magyar, is calling for a speedy transfer of power.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T08:05:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2ddd0xyl5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f901/live/f93e6380-38a9-11f1-aa75-d72ec285eda5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_5fd49c495500",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "WrestleMania 42: Key stats for all 13 matches across both nights",
-      "dek": "With eight championship bouts across two nights, WrestleMania 42 is stacked. Get caught up before this weekend's PLE.",
-      "body": "With eight championship bouts across two nights, WrestleMania 42 is stacked. Get caught up before this weekend's PLE.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T07:57:27+00:00",
-      "sourceUrl": "https://www.espn.com/wwe/story/_/id/48490151/wrestlemania-42-key-stats-notes-cm-punk-roman-reigns-cody-rhodes-randy-orton",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5fd49c495500",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
