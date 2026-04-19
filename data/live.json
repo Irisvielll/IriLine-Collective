@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-19T18:02:07+00:00",
+  "generatedAt": "2026-04-19T19:08:58+00:00",
   "items": [
+    {
+      "id": "latest_e803538ba8d9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Widespread damage as storm spreads through midwestern US",
+      "dek": "A series of strong winds has torn through the midwestern US, ripping roofs off homes and leaving roads obstructed.",
+      "body": "A series of strong winds has torn through the midwestern US, ripping roofs off homes and leaving roads obstructed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T18:13:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c8ejnppwz38o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe4/live/8b55d7a0-3c13-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_515f528b81b9",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-19T17:15:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a4/live/b2a4b560-3c13-11f1-9ee7-39ebe3a225a4.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_162d00a672e3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Drone footage shows huge Malaysian coastal village fire",
-      "dek": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
-      "body": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T16:05:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f823/live/0d49eb80-3c04-11f1-9d5c-8ba507d7dbde.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
