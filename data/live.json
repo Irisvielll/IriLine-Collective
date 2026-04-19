@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-19T11:50:15+00:00",
+  "generatedAt": "2026-04-19T13:03:54+00:00",
   "items": [
+    {
+      "id": "latest_415ddf4c3881",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+      "dek": "The band warned on Saturday that consuming the purées many be potentially \"life-threatening\".",
+      "body": "The band warned on Saturday that consuming the purées many be potentially \"life-threatening\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T12:52:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab9/live/08e295a0-3b47-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b26eb65cff26",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Obama and Mamdani sing with children in New York",
+      "dek": "The former US president and New York City mayor meet for the first time at a child care centre in the Bronx.",
+      "body": "The former US president and New York City mayor meet for the first time at a child care centre in the Bronx.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T11:19:32+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c0le5pdgdzwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4330/live/f6569ae0-3be0-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7903b7d15a0f",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-19T09:55:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d55/live/ec70a3b0-3bcf-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_956c1817ef1f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Runners v robots at China half marathon",
-      "dek": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
-      "body": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T08:46:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/373c/live/b4b465b0-3bca-11f1-9d5c-8ba507d7dbde.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_79c9939117dc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bodies of 50 infants dumped at Trinidad graveyard",
-      "dek": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\".",
-      "body": "Police say a preliminary investigation shows it may be a case of an \"unlawful disposal of unclaimed corpses\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T07:49:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7b2/live/e7799a40-3bbd-11f1-a8e7-7d83213cdc89.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
