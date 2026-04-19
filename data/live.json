@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-19T13:03:54+00:00",
+  "generatedAt": "2026-04-19T14:04:36+00:00",
   "items": [
+    {
+      "id": "latest_2aedac2bc8bb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Why are gray whales dying in San Francisco's waters? US scientists search for clues",
+      "dek": "Climate change and shifting migration patterns are bringing rare research opportunities and new mysteries.",
+      "body": "Climate change and shifting migration patterns are bringing rare research opportunities and new mysteries.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T13:08:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c175/live/f87a3ea0-38f5-11f1-af56-f16d2af863b9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_415ddf4c3881",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-19T11:19:32+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c0le5pdgdzwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4330/live/f6569ae0-3be0-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7903b7d15a0f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Zelensky condemns US extension of Russian sanctions waiver",
-      "dek": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
-      "body": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T09:55:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d55/live/ec70a3b0-3bcf-11f1-879d-1b2f5c3919b8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

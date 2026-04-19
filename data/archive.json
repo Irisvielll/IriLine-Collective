@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_7903b7d15a0f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "dek": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
+      "body": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T09:55:22+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d55/live/ec70a3b0-3bcf-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_956c1817ef1f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-15T03:09:28+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c86eevyg121o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2007/live/ffd57940-3877-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_70bc5c2ec282",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump hints Iran talks could resume this week as US port blockade continues",
-      "dek": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
-      "body": "The United Nations' secretary general said it was \"highly probable\" that the negotiations would restart.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T02:58:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe40/live/503273c0-3832-11f1-b164-cbd9e6dd0bb7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
