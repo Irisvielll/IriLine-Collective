@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-19T21:19:40+00:00",
+  "generatedAt": "2026-04-19T21:58:57+00:00",
   "items": [
+    {
+      "id": "latest_eaac8d375d5c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "dek": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
+      "body": "Tehran has not commented on the incident, which comes as the US prepares for a second round of talks.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T21:39:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9908/live/7011b290-3c34-11f1-8a32-adb65a1e379b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d3e0fd6f3b2b",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-19T19:25:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c4/live/81215e60-3c1a-11f1-9ee7-39ebe3a225a4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e803538ba8d9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Widespread damage as storm spreads through midwestern US",
-      "dek": "A series of strong winds has torn through the midwestern US, ripping roofs off homes and leaving roads obstructed.",
-      "body": "A series of strong winds has torn through the midwestern US, ripping roofs off homes and leaving roads obstructed.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T18:13:35+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c8ejnppwz38o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe4/live/8b55d7a0-3c13-11f1-9d5c-8ba507d7dbde.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
