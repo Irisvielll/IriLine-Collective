@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-19T15:48:25+00:00",
+  "generatedAt": "2026-04-19T16:41:32+00:00",
   "items": [
+    {
+      "id": "latest_162d00a672e3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Drone footage shows huge Malaysian coastal village fire",
+      "dek": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
+      "body": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T16:05:38+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f823/live/0d49eb80-3c04-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_778fb1527b79",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+      "dek": "Residents within a 450m radius of the device were told to leave their homes while it was neutralised.",
+      "body": "Residents within a 450m radius of the device were told to leave their homes while it was neutralised.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T15:50:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7786/live/c2ea2070-3c06-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_2aedac2bc8bb",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-19T13:08:05+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c9qdd8qvrplo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c175/live/f87a3ea0-38f5-11f1-af56-f16d2af863b9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_415ddf4c3881",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
-      "dek": "The band warned on Saturday that consuming the purées many be potentially \"life-threatening\".",
-      "body": "The band warned on Saturday that consuming the purées many be potentially \"life-threatening\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T12:52:26+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab9/live/08e295a0-3b47-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b26eb65cff26",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Obama and Mamdani sing with children in New York",
-      "dek": "The former US president and New York City mayor meet for the first time at a child care centre in the Bronx.",
-      "body": "The former US president and New York City mayor meet for the first time at a child care centre in the Bronx.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T11:19:32+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c0le5pdgdzwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4330/live/f6569ae0-3be0-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
