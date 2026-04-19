@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-19T08:35:52+00:00",
+  "generatedAt": "2026-04-19T09:31:54+00:00",
   "items": [
+    {
+      "id": "latest_956c1817ef1f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Runners v robots at China half marathon",
+      "dek": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
+      "body": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T08:46:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/373c/live/b4b465b0-3bca-11f1-9d5c-8ba507d7dbde.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_79c9939117dc",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6206/live/a6297cb0-3ba7-11f1-879d-1b2f5c3919b8.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_b056cd14caf3",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "WrestleMania 42 takeaways: Cody Rhodes retains title; multiple new champs crowned",
-      "dek": "Night One delivered plenty of surprises, new champions and a rivalry taken to a new level.",
-      "body": "Night One delivered plenty of surprises, new champions and a rivalry taken to a new level.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T01:42:38+00:00",
-      "sourceUrl": "https://www.espn.com/wwe/story/_/id/48527035/wrestlemania-takeaways-cody-rhodes-beats-randy-orton-paige-back-new-champions",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b056cd14caf3",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
