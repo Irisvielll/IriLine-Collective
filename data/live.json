@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-19T21:58:57+00:00",
+  "generatedAt": "2026-04-19T22:48:23+00:00",
   "items": [
+    {
+      "id": "latest_853dd5c1e97a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+      "dek": "Exit polls put his Progressive Bulgaria on 37%, more than double the score of the closest runner-up, but he will likely need to form a coalition to govern.",
+      "body": "Exit polls put his Progressive Bulgaria on 37%, more than double the score of the closest runner-up, but he will likely need to form a coalition to govern.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T22:06:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad64/live/b33fc7a0-3c39-11f1-bbdd-9d760fb02d09.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_eaac8d375d5c",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-19T21:09:06+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442f/live/baa01010-3c23-11f1-92cc-f78625208b02.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fc665bcc92d9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
-      "dek": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
-      "body": "After confirming the purchase on Friday, Ford drew critcism from political opponents who called it a \"gravy plane\" and \"out of touch\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T19:25:22+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c4/live/81215e60-3c1a-11f1-9ee7-39ebe3a225a4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
