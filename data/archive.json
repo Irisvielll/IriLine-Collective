@@ -136,6 +136,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_26e384c5f7a5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Transfer rumors, news: PSG move for Arsenal star Martinelli",
+      "dek": "Paris Saint-Germain sporting director Luis Campos has held a meeting with the representatives of Arsenal winger Gabriel Martinelli. Transfer Talk has the latest",
+      "body": "Paris Saint-Germain sporting director Luis Campos has held a meeting with the representatives of Arsenal winger Gabriel Martinelli. Transfer Talk has the latest.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T05:11:29+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48529699/transfer-rumors-news-psg-move-arsenal-star-gabriel-martinelli",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_26e384c5f7a5",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_b056cd14caf3",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-15T04:40:30+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ba/live/e8d89dd0-3877-11f1-b4ed-473f3be9a343.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_90f291bb8771",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Korea jails American YouTuber for public nuisance",
-      "dek": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.",
-      "body": "Johnny Somali sparked outrage after kissing a statue representing World War Two sex slaves.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-15T04:21:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj400lje9vxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4834/live/ebe6eb10-387e-11f1-9f4a-3581017c85eb.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
