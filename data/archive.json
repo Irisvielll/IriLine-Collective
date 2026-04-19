@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_abc533e09ed6",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "The fallout of a stunning Dexter Lawrence trade: Four takeaways on the NFL draft, the Bengals, more",
+      "dek": "The Giants traded Lawrence to the Bengals for the No. 10 pick in the draft. What does that say about the NFL's trade market, this draft class and the state of t",
+      "body": "The Giants traded Lawrence to the Bengals for the No. 10 pick in the draft. What does that say about the NFL's trade market, this draft class and the state of the Bengals?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-19T01:41:26+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48527148/2026-nfl-trade-dexter-lawrence-bengals-giants-first-round-draft-pick-takeaways",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_abc533e09ed6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_7d1963e2ddde",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-14T23:05:28+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48490005/lamelo-ball-clutch-drive-saves-hornets-frantic-play-win",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5d95f16da998",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_6f3efd6dbd17",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Heat's Adebayo ruled out after tumble with Ball",
-      "dek": "Heat center Bam Adebayo suffered a lower back injury after a fall in the second quarter and was ruled out in the second half.",
-      "body": "Heat center Bam Adebayo suffered a lower back injury after a fall in the second quarter and was ruled out in the second half.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T23:05:28+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48489290/heat-bam-adebayo-limps-tumble-lamelo-ball",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6f3efd6dbd17",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
