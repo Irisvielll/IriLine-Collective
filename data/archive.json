@@ -106,6 +106,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "latest_982c0401c281",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "dek": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
+      "body": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-18T23:09:49+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1105/live/23ceece0-3a59-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_843613ec98ec",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-14T23:05:28+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48489290/heat-bam-adebayo-limps-tumble-lamelo-ball",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6f3efd6dbd17",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2241ffe64755",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Raiders getting calls inquiring about No. 1 pick",
-      "dek": "Raiders GM John Spytek said teams have called to inquire about the possibility of trading for the No. 1 pick but added, \"Those teams know where they stand.\"",
-      "body": "Raiders GM John Spytek said teams have called to inquire about the possibility of trading for the No. 1 pick but added, \"Those teams know where they stand.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-14T23:05:28+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48488757/raiders-spytek-says-teams-inquired-no-1-draft-pick",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2241ffe64755",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
