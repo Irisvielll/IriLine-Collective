@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-20T15:45:06+00:00",
+  "generatedAt": "2026-04-20T16:47:00+00:00",
   "items": [
+    {
+      "id": "latest_6238232c318a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "More than 200 rescued from IS-linked group in DR Congo",
+      "dek": "The youngest of those freed from an Allied Democratic Forces camp is a girl aged just 14, Uganda's army says.",
+      "body": "The youngest of those freed from an Allied Democratic Forces camp is a girl aged just 14, Uganda's army says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-20T16:25:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy7144jr68lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f4d/live/96037ba0-3cd4-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_292ab8117abe",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Days of Our Lives and Starship Troopers actor Patrick Muldoon dies aged 57",
+      "dek": "The actor and producer also appeared in Melrose Place and Saved By the Bell.",
+      "body": "The actor and producer also appeared in Melrose Place and Saved By the Bell.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-20T15:51:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/czx9q51rldko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a038/live/2baddf90-3cd2-11f1-816e-3fe511deafa9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_aa9dfc73ad29",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-20T14:49:58+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad4/live/ae7c94a0-3cc5-11f1-8307-55aabab9b8cb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4b43a8dc7a55",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
-      "dek": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
-      "body": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-20T14:28:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12da/live/0c0c6dc0-3c99-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_feabce2efb88",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nigerian wins global prize for trying to save bats in a country that shuns them",
-      "dek": "Many Nigerians associate bats with witchcraft but that did not deter ecologist Iroro Tanshi.",
-      "body": "Many Nigerians associate bats with witchcraft but that did not deter ecologist Iroro Tanshi.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-20T13:10:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0krm128mgyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9072/live/5ea97520-3cbf-11f1-8307-55aabab9b8cb.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
