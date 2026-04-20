@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6e58e208e6ef",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Police gunfight with favela gang traps 200 tourists on hilltop",
+      "dek": "The access route to Morro Dois Irmãos was blocked during the operation in Vidigal, leaving scores of alarmed sightseers stuck on the hill.",
+      "body": "The access route to Morro Dois Irmãos was blocked during the operation in Vidigal, leaving scores of alarmed sightseers stuck on the hill.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-20T17:34:10+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b9/live/ab7c12f0-3cd2-11f1-816e-3fe511deafa9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_6238232c318a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,6 +44,36 @@
       "sourceUrl": "https://www.bbc.com/news/videos/cvg09900zx5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e45/live/53586750-3cd1-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_f65da4c78dbf",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Draymond on Kerr's future: 'Felt like that was it'",
+      "dek": "Draymond Green said while he hopes Steve Kerr is back, he'd guess that this past season was Kerr's last as coach with the franchise.",
+      "body": "Draymond Green said while he hopes Steve Kerr is back, he'd guess that this past season was Kerr's last as coach with the franchise.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-20T15:54:59+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48543314/draymond-green-predicts-steve-kerr-back-next-season",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f65da4c78dbf",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_5e74fa806e25",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Jefferson blunt on McCarthy with Kyler a Viking",
+      "dek": "Speaking publicly Monday for the first time about the Vikings' new quarterback room, Justin Jefferson said he is looking forward to Kyler Murray's playmaking sk",
+      "body": "Speaking publicly Monday for the first time about the Vikings' new quarterback room, Justin Jefferson said he is looking forward to Kyler Murray's playmaking skills and was blunt about J.J. McCarthy's future.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-20T15:54:59+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48543398/jefferson-blunt-mccarthy-future-murray-viking",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5e74fa806e25",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "latest_292ab8117abe",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-04-16T09:54:59+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48502266/bernardo-silva-confirms-man-city-exit-end-season",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fe6dff4319a3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_8f513b3fa8fd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South African opposition figure Malema sentenced to five years in prison",
-      "dek": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
-      "body": "Malema is appealing against the decision to prevent him from being taken to prison on Thursday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T09:41:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2880/live/3de1cfe0-3972-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_908417997e0f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Turkish police order 83 arrests over online praise for school shootings",
-      "dek": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school.",
-      "body": "At least nine were killed in a school shooting in southern Turkey on Wednesday, a day after another attack injured 16 people at a high school.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T09:20:20+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a554/live/9da68dc0-396e-11f1-a650-6399b8700755.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c3d6c18fc681",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Women's college basketball transfer rankings for 2026-27 season",
-      "dek": "Iowa-bound Dani Carnegie moves up to No. 4. Jada Williams, who is transferring to LSU, jumps to No. 6.",
-      "body": "Iowa-bound Dani Carnegie moves up to No. 4. Jada Williams, who is transferring to LSU, jumps to No. 6.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T09:13:01+00:00",
-      "sourceUrl": "https://www.espn.com/womens-college-basketball/story/_/id/48416462/women-ncaa-basketball-transfer-portal-player-rankings-2026-27-season",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c3d6c18fc681",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

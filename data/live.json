@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-20T19:19:25+00:00",
+  "generatedAt": "2026-04-20T20:09:54+00:00",
   "items": [
+    {
+      "id": "latest_3ba9f1062233",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What we know about the Iranian ship seized by the US",
+      "dek": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
+      "body": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-20T20:04:59+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e442/live/895d61f0-3ce2-11f1-8606-05fe34b06e1b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_70800ee962ba",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-20T17:38:22+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cy41kklknreo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8944/live/873e6570-3cd5-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6e58e208e6ef",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Police gunfight with favela gang traps 200 tourists on hilltop",
-      "dek": "The access route to Morro Dois Irmãos was blocked during the operation in Vidigal, leaving scores of alarmed sightseers stuck on the hill.",
-      "body": "The access route to Morro Dois Irmãos was blocked during the operation in Vidigal, leaving scores of alarmed sightseers stuck on the hill.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-20T17:34:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b9/live/ab7c12f0-3cd2-11f1-816e-3fe511deafa9.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
