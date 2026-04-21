@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-21T14:03:26+00:00",
+  "generatedAt": "2026-04-21T15:42:22+00:00",
   "items": [
+    {
+      "id": "latest_54e2a50626dc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "dek": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+      "body": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T15:29:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa58/live/35b82990-3d91-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_4e5fe0b5dccc",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-21T12:48:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c20ql985gryo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3c/live/c2007f40-3d70-11f1-bb8a-374117ea6afa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d180d206607d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "dek": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
-      "body": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-21T12:28:31+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f562/live/40ff09c0-3d75-11f1-903b-f1312705e0c9.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
