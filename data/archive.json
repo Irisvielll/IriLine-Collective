@@ -31,6 +31,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_b1224dd2c17a",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Kentucky governor blasts decision-making at UK",
+      "dek": "Kentucky Gov. Andy Beshear has publicly questioned the decision-making at the University of Kentucky, including the seven-figure gig retiring athletic director ",
+      "body": "Kentucky Gov. Andy Beshear has publicly questioned the decision-making at the University of Kentucky, including the seven-figure gig retiring athletic director Mitch Barnhart was recently given.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T17:00:17+00:00",
+      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48553192/kentucky-governor-blasts-uk-athletics-decision-making",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b1224dd2c17a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_9fd5c0cbe047",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af0a/live/2f04d6c0-3a35-11f1-8606-05fe34b06e1b.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_31d35ba3fe07",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Stanley Cup playoffs mega-preview: Cases, X factors, bold predictions for all 16 teams",
-      "dek": "The postseason Thunderdome is about to open its gate. Which team will emerge as the 2026 Stanley Cup champion?",
-      "body": "The postseason Thunderdome is about to open its gate. Which team will emerge as the 2026 Stanley Cup champion?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T08:12:47+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48503526/2026-nhl-playoffs-stanley-cup-x-factors-bold-predictions-best-teams-players",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_31d35ba3fe07",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
