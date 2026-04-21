@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_8511765e3be5",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Transfer Daniels wins QB battle, to start for FSU",
+      "dek": "Ashton Daniels, a transfer from Auburn, won his battle with Kevin Sperry over the spring and has been named the Florida State starting quarterback.",
+      "body": "Ashton Daniels, a transfer from Auburn, won his battle with Kevin Sperry over the spring and has been named the Florida State starting quarterback.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T13:35:17+00:00",
+      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48552190/ashton-daniels-named-starting-quarterback-florida-state",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8511765e3be5",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "latest_4e5fe0b5dccc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nigeria charges six people with treason over Independence Day coup plot",
+      "dek": "Allegations of a coup plot first surfaced in October 2025 when an Independence Day parade was cancelled.",
+      "body": "Allegations of a coup plot first surfaced in October 2025 when an Independence Day parade was cancelled.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T13:13:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f20d/live/ee73df10-3d82-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_c09ba430a9a8",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48495253/2026-nfl-draft-latest-buzz-steals-news-downs-tyson-sadiq-eagles-giants-steelers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_768bcb2827de",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_412f6116f3da",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Forget the 40: The true measure of Carnell Tate",
-      "dek": "Wide receiver Carnell Tate is confident, intelligent and ready to star in the NFL. His mother made sure of it.",
-      "body": "Wide receiver Carnell Tate is confident, intelligent and ready to star in the NFL. His mother made sure of it.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T06:58:54+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48483888/2026-nfl-draft-wide-receiver-carnell-tate-ohio-state-first-round-pick",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_412f6116f3da",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_a4f6e5bf4217",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "dek": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
-      "body": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T06:25:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b221/live/21c28ea0-39f7-11f1-8766-4f833ac4b548.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
