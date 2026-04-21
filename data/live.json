@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-21T21:58:47+00:00",
+  "generatedAt": "2026-04-21T22:50:32+00:00",
   "items": [
+    {
+      "id": "latest_4fe261a1a23d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Why police are seeking to arrest billionaire K-pop mogul behind BTS",
+      "dek": "Bang Si-hyuk, who created the supergroup, denies defrauding investors before his $7.3bn company went public.",
+      "body": "Bang Si-hyuk, who created the supergroup, denies defrauding investors before his $7.3bn company went public.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T22:28:21+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cz78zj74548o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0507/live/113acd10-3d6a-11f1-bb8a-374117ea6afa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "sports_a7ca82cb7656",
       "section": "sports",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.com/news/videos/ce9mernj0gko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f07/live/e6244c40-3da6-11f1-bd52-e755d604ece4.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_6852b1093929",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sanders touts 'new vibe' under Browns' Monken",
-      "dek": "Shedeur Sanders said there is a \"new vibe\" and \"new energy\" with the Browns under first-year coach Todd Monken and his staff.",
-      "body": "Shedeur Sanders said there is a \"new vibe\" and \"new energy\" with the Browns under first-year coach Todd Monken and his staff.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-21T17:00:17+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48553310/shedeur-sanders-says-todd-monken-brings-new-vibe-browns",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6852b1093929",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

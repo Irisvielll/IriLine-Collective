@@ -46,6 +46,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_6852b1093929",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Sanders touts 'new vibe' under Browns' Monken",
+      "dek": "Shedeur Sanders said there is a \"new vibe\" and \"new energy\" with the Browns under first-year coach Todd Monken and his staff.",
+      "body": "Shedeur Sanders said there is a \"new vibe\" and \"new energy\" with the Browns under first-year coach Todd Monken and his staff.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T17:00:17+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48553310/shedeur-sanders-says-todd-monken-brings-new-vibe-browns",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6852b1093929",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_9fd5c0cbe047",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48505839/weekend-predictions-premier-league-copa-del-rey-manchester-city-arsenal-chelsea-manchester-united-atletico-madrid",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9c4682288686",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_182a9109f3ec",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Three charged with arson on Persian media offices in London",
-      "dek": "Two teenagers and a 21-year-old man are due in court charged with arson with intent to endanger life.",
-      "body": "Two teenagers and a 21-year-old man are due in court charged with arson with intent to endanger life.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T08:22:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af0a/live/2f04d6c0-3a35-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
