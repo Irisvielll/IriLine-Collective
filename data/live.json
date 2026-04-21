@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T03:36:56+00:00",
+  "generatedAt": "2026-04-21T05:52:29+00:00",
   "items": [
     {
       "id": "latest_2a0d92d85dca",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_28c85576259e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Martinook lifts Canes in 2OT after goal overturn",
+      "dek": "Jordan Martinook, who was stopped on a penalty shot in the first overtime session after a potential winning goal was overturned, beat Linus Ullmark at 13:53 of ",
+      "body": "Jordan Martinook, who was stopped on a penalty shot in the first overtime session after a potential winning goal was overturned, beat Linus Ullmark at 13:53 of the second overtime to help the Carolina Hurricanes past the Ottawa Senators 3-2 Monday night.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T00:12:30+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48547203/martinook-rescues-hurricanes-2ot-overturned-goal",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_28c85576259e",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_d47030f18f1e",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-20T23:23:57+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48546628/cj-mccollum-leads-late-rally-hawks-stun-knicks-tie-series",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d47030f18f1e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b4fc764742ab",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "SJU lands transfer Freeman over UK, sources say",
-      "dek": "Syracuse transfer Donnie Freeman committed to St. John's, sources told ESPN on Monday, with the Red Storm beating out Kentucky for the talented forward.",
-      "body": "Syracuse transfer Donnie Freeman committed to St. John's, sources told ESPN on Monday, with the Red Storm beating out Kentucky for the talented forward.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-20T23:23:56+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48546318/syracuse-transfer-donnie-freeman-commits-st-john-men-basketball",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b4fc764742ab",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

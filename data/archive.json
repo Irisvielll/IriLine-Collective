@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_b4fc764742ab",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "SJU lands transfer Freeman over UK, sources say",
+      "dek": "Syracuse transfer Donnie Freeman committed to St. John's, sources told ESPN on Monday, with the Red Storm beating out Kentucky for the talented forward.",
+      "body": "Syracuse transfer Donnie Freeman committed to St. John's, sources told ESPN on Monday, with the Red Storm beating out Kentucky for the talented forward.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-20T23:23:56+00:00",
+      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48546318/syracuse-transfer-donnie-freeman-commits-st-john-men-basketball",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b4fc764742ab",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_aa1213fbc5bd",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48504650/spoelstra-no-need-penalize-hornets-ball-further",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7e040ebbcfce",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_38d64e0715de",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
-      "dek": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
-      "body": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T13:59:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6109/live/615e09b0-3991-11f1-afdb-63f82099d974.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
