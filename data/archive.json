@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_e616979acec6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "dek": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+      "body": "This clears the way for Japan to sell weapons to more than a dozen countries.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T07:31:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dca/live/6b323900-3d44-11f1-aa3b-cfbbde0e85b0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2a0d92d85dca",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "dek": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup",
+      "body": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T03:33:05+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/917c/live/b6940d90-3cfb-11f1-879d-1b2f5c3919b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_8a15a5fb3475",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Gobert carries DPOY snub into Jokic matchup, win",
+      "dek": "On the same day he finished fourth in Defensive Player of the Year voting, Timberwolves center Rudy Gobert held three-time MVP Nikola Jokic to 1-of-8 shooting i",
+      "body": "On the same day he finished fourth in Defensive Player of the Year voting, Timberwolves center Rudy Gobert held three-time MVP Nikola Jokic to 1-of-8 shooting in his individual Game 2 matchup, helping Minnesota to a series-tying 119-114 win.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T02:49:41+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48547786/timberwolves-rally-nuggets-win-game-2-even-series",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a15a5fb3475",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_28c85576259e",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48495822/liv-golf-going-days-seem-numbered-pif-funding",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_023e02c6a159",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_4bb69ea0179c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How did a wolf become a fugitive in South Korea?",
-      "dek": "A wolf burrowed under a fence at his zoo in South Korea becoming the country's newest fugitive.",
-      "body": "A wolf burrowed under a fence at his zoo in South Korea becoming the country's newest fugitive.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T15:51:10+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c70dv9jy50no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3df9/live/d0617460-39a9-11f1-9d5c-8ba507d7dbde.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_69d10d41b2ad",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say",
-      "dek": "Investigators say Justin Fairfax shot his wife, Cerina, multiple times before turning the gun on himself.",
-      "body": "Investigators say Justin Fairfax shot his wife, Cerina, multiple times before turning the gun on himself.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T15:41:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy0124xel35o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee9/live/f4a95f40-399f-11f1-818c-6f173b5082f5.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cba049b05223",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Rising prices threaten Minnesota's meat raffles",
-      "dek": "Popular in local bars across the US, the games are facing higher meat prices, squeezing some of the charities that benefit from them.",
-      "body": "Popular in local bars across the US, the games are facing higher meat prices, squeezing some of the charities that benefit from them.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-16T15:35:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/7ccc78a0-39a8-11f1-8606-05fe34b06e1b.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
