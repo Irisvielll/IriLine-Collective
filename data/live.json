@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-22T06:18:39+00:00",
+  "generatedAt": "2026-04-22T08:14:50+00:00",
   "items": [
+    {
+      "id": "sports_594eafb3f452",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Smart's defense on KD helps Lakers to 2-0 lead",
+      "dek": "The Rockets had Kevin Durant back for Game 2 of their first-round matchup Tuesday. But the Lakers had Marcus Smart to guard him in their 101-94 win to take a 2-",
+      "body": "The Rockets had Kevin Durant back for Game 2 of their first-round matchup Tuesday. But the Lakers had Marcus Smart to guard him in their 101-94 win to take a 2-0 series lead.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-22T04:07:37+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48558342/marcus-smart-helps-short-handed-lakers-win-game-2-vs-rockets",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_594eafb3f452",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "latest_d5477c7ead46",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-22T02:55:40+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc80/live/e68c9210-3df5-11f1-ad75-e7a790438e78.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_847d532e9a2f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Virginia approves redistricting, giving Democrats edge in midterms",
-      "dek": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
-      "body": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-22T02:24:41+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/b1631a70-3dd0-11f1-b55d-0f258dce1735.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

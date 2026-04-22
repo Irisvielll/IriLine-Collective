@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_847d532e9a2f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Virginia approves redistricting, giving Democrats edge in midterms",
+      "dek": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
+      "body": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-22T02:24:41+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/b1631a70-3dd0-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_39f5a2e2396a",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48513686/avs-remain-favorites-win-sabres-storyline-tempts-bettors",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4c5f853a19fe",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_1da0f3ea7ba2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
-      "dek": "Bellarmine Mugabe was arrested in February following the shooting of a 23-year-old man at his home in Johannesburg.",
-      "body": "Bellarmine Mugabe was arrested in February following the shooting of a 23-year-old man at his home in Johannesburg.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T13:08:46+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320e/live/4774cb60-3a4f-11f1-a5de-8146db4c6e12.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
