@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-22T11:06:27+00:00",
+  "generatedAt": "2026-04-22T12:09:02+00:00",
   "items": [
+    {
+      "id": "latest_bdce4bbefe7d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "dek": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "body": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-22T10:31:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e298/live/63872c10-3e43-11f1-bd52-e755d604ece4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_18f010bc5421",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-22T08:35:34+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8517/live/d350fd30-3e1d-11f1-84f5-7fc596316150.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dac5bd41c01d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Taiwan president cancels trip after African countries revoke flight permits",
-      "dek": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
-      "body": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-22T06:25:15+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2001/live/709d01e0-3e11-11f1-bf14-b17d40018bbc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
