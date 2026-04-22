@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-22T09:54:36+00:00",
+  "generatedAt": "2026-04-22T11:06:27+00:00",
   "items": [
+    {
+      "id": "latest_18f010bc5421",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+      "dek": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
+      "body": "The funding was agreed last December, but it has been held up in a row over Russian oil supplies to Hungary.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-22T09:47:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40de/live/992a3f20-3e29-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_89b54543eb9a",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-22T06:25:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2001/live/709d01e0-3e11-11f1-bf14-b17d40018bbc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_881719b32a95",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Thirteen killed in second India fireworks blast in three days",
-      "dek": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead.",
-      "body": "Earlier this week, an explosion at a firecracker factory in neighbouring state Tamil Nadu left at least 25 dead.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-22T05:55:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2a/live/8a776eb0-3df9-11f1-a9f3-a39646095998.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
