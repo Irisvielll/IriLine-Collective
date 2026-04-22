@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T12:09:02+00:00",
+  "generatedAt": "2026-04-22T14:09:17+00:00",
   "items": [
     {
       "id": "latest_bdce4bbefe7d",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_0e74d736a91d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Concerned Dombrowski: Thomson not on hot seat",
+      "dek": "Dave Dombrowski is concerned about the Phillies' 8-15 start, but he said manager Rob Thomson is not on the hot seat despite the team's seven-game losing streak.",
+      "body": "Dave Dombrowski is concerned about the Phillies' 8-15 start, but he said manager Rob Thomson is not on the hot seat despite the team's seven-game losing streak.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-22T09:55:44+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48560128/phillies-president-says-manager-rob-thomson-not-hot-seat",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0e74d736a91d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_18f010bc5421",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-22T09:47:48+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40de/live/992a3f20-3e29-11f1-b55d-0f258dce1735.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_89b54543eb9a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
-      "dek": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
-      "body": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-22T08:35:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8517/live/d350fd30-3e1d-11f1-84f5-7fc596316150.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
