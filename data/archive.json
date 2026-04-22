@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "sports_ddac4cf571eb",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Freddie, Chelsea Freeman announce birth of fourth child, first girl",
+      "dek": "null",
+      "body": "null",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T20:16:09+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48554269/freddie-freeman-los-angeles-dodgers-fourth-child",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ddac4cf571eb",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_b846cff9ca87",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Gilgeous-Alexander wins Clutch Player of the Year",
+      "dek": "Shai Gilgeous-Alexander's trophy case is getting bigger as the reigning MVP added the Clutch Player of the Year award to his sterling résumé.",
+      "body": "Shai Gilgeous-Alexander's trophy case is getting bigger as the reigning MVP added the Clutch Player of the Year award to his sterling résumé.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T19:29:57+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48554479/shai-gilgeous-alexander-wins-clutch-player-year",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b846cff9ca87",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_f7be2c7d898c",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Rosenior slams 'indefensible' Chelsea in latest loss",
+      "dek": "Chelsea's season slumped deeper into crisis after a 3-0 defeat to Brighton on Tuesday left its hopes of Champions League qualification hanging by a thread.",
+      "body": "Chelsea's season slumped deeper into crisis after a 3-0 defeat to Brighton on Tuesday left its hopes of Champions League qualification hanging by a thread.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-21T19:29:57+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48554142/chelsea-liam-rosenior-players-brighton-loss",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f7be2c7d898c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_50e3989b1eb2",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b2/live/9d32f210-3a37-11f1-9d5c-8ba507d7dbde.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_be10326047b6",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Alycia Baumgardner's journey to become the face of women's boxing",
-      "dek": "An early setback and a positive test -- since cleared -- didn't define Baumgardner. Now, she's on the doorstep of leading the sport.",
-      "body": "An early setback and a positive test -- since cleared -- didn't define Baumgardner. Now, she's on the doorstep of leading the sport.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T09:11:59+00:00",
-      "sourceUrl": "https://www.espn.com/boxing/story/_/id/48494304/alycia-baumgardner-journey-become-face-women-boxing",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_be10326047b6",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_f81f576731f0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Meet 'Dillon the villain': The NBA's biggest antagonist beloved by teammates",
-      "dek": "Dillon Brooks has the Suns one win away from the playoffs.",
-      "body": "Dillon Brooks has the Suns one win away from the playoffs.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T08:38:04+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/47602565/dillon-brooks-phoenix-suns-dillon-villain-nba",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f81f576731f0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_237ce3bcb263",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "USMNT needs ambitious post-World Cup succession plan",
-      "dek": "Mauricio Pochettino won't coach the USMNT forever, and when he does leave, will U.S. Soccer be able to bring in another big-name boss to replace him?",
-      "body": "Mauricio Pochettino won't coach the USMNT forever, and when he does leave, will U.S. Soccer be able to bring in another big-name boss to replace him?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-17T08:36:48+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48505205/life-mauricio-pochettino-usmnt-need-ambitious-post-world-cup-succession-plan",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_237ce3bcb263",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
