@@ -46,6 +46,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "sports_8f604f5d0e84",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "OKC takes 2-0 lead, but loses Williams to injury",
+      "dek": "Thunder star Jalen Williams grabbed his left hamstring after missing a contested layup and left the court in the third quarter of Wednesday's Game 2 win over th",
+      "body": "Thunder star Jalen Williams grabbed his left hamstring after missing a contested layup and left the court in the third quarter of Wednesday's Game 2 win over the Suns.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-23T02:53:45+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48566682/thunder-jalen-williams-leaves-game-2-third-quarter-injury",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8f604f5d0e84",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_3ebdaa754c71",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/college-sports/story/_/id/48525723/oklahoma-wins-4th-ncaa-women-gymnastics-title-5-years",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_51fc7e4ca25e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_6e4b10eb2a45",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "All construction of Trump's White House ballroom can resume, appeals court says",
-      "dek": "Construction is expected to continue at the White House until the next hearing which is due to take place in June.",
-      "body": "Construction is expected to continue at the White House until the next hearing which is due to take place in June.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-18T19:18:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/db7b91e0-39d2-11f1-a1b6-b76b3bf64711.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
