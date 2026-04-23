@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-23T21:09:06+00:00",
+  "generatedAt": "2026-04-23T22:01:54+00:00",
   "items": [
+    {
+      "id": "latest_0c5c385c3464",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+      "dek": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+      "body": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-23T20:45:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c0f/live/40fcfd40-3f3e-11f1-b23e-977dc8cd7ec8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_cc7c099bd11b",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-23T16:05:20+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvglxkjwr5lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc7/live/c727c7e0-3f2c-11f1-b55d-0f258dce1735.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e97812183cdb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-      "dek": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
-      "body": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-23T15:34:15+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8c/live/8608aac0-3f29-11f1-b55d-0f258dce1735.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

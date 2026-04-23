@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_e97812183cdb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "dek": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+      "body": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-23T15:34:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8c/live/8608aac0-3f29-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_77785ebd0ee1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48521984/2026-nfl-draft-mel-kiper-favorite-prospects-every-position-class-sleepers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2f601becbfe1",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_5ff8e35ed922",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
-      "dek": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
-      "body": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-19T05:12:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6206/live/a6297cb0-3ba7-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
