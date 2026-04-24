@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-24T14:21:16+00:00",
+  "generatedAt": "2026-04-24T15:47:05+00:00",
   "items": [
+    {
+      "id": "latest_03f95a669ccb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US justice department drops probe into Fed chairman Jerome Powell",
+      "dek": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+      "body": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-24T15:21:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/487e57a0-3feb-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_0aa3c2e1a335",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How the Kremlin's internet crackdown is frustrating Russians",
+      "dek": "Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.",
+      "body": "Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-24T15:19:37+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c75kpx2w452o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a33/live/f493da20-3fef-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8386a382a6ae",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-24T13:57:20+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c0/live/8f2143c0-3fd2-11f1-ac78-2112837ce2aa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4f6ba0b38de9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-      "dek": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
-      "body": "A Ghanaian national was confronted by South Africans in a viral clip and questioned about his immigration status.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-24T12:39:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5194/live/01ef7940-3fc3-11f1-b61b-1d0ccf7b6022.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_47b1b90ab0f9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
-      "dek": "The Israeli prime minister says he is \"in excellent physical condition\" after having a malignant tumour removed.",
-      "body": "The Israeli prime minister says he is \"in excellent physical condition\" after having a malignant tumour removed.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-24T11:49:29+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abf8/live/5b163f30-3fd3-11f1-8d04-6f63ea2b2d4b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
