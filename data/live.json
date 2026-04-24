@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-24T12:43:48+00:00",
+  "generatedAt": "2026-04-24T14:21:16+00:00",
   "items": [
+    {
+      "id": "latest_8386a382a6ae",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
+      "dek": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
+      "body": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-24T13:57:20+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c0/live/8f2143c0-3fd2-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_4f6ba0b38de9",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-24T11:49:29+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abf8/live/5b163f30-3fd3-11f1-8d04-6f63ea2b2d4b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d22e216379c3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Poisoning suspected in deaths of 18 wolves in Italian national park",
-      "dek": "After the carcasses of 10 wolves were found last week, another eight have been found in recent days.",
-      "body": "After the carcasses of 10 wolves were found last week, another eight have been found in recent days.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-24T11:47:39+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1808/live/c7092240-3fae-11f1-8920-b35a7a371f7a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
