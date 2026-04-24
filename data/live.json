@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-24T16:58:18+00:00",
+  "generatedAt": "2026-04-24T17:54:15+00:00",
   "items": [
+    {
+      "id": "latest_4ec2ae409706",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
+      "dek": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
+      "body": "Kosovo's court sentences two men to life imprisonment and another to a 30-year term for the 2023 attack.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-24T17:20:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea2/live/b98e8340-3ff8-11f1-afbb-e15d65961cef.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_094c530d0d92",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-24T16:20:10+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6546/live/b504bdc0-3fea-11f1-ac78-2112837ce2aa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b586918519bd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mandelson under formal investigation by EU's anti-fraud office",
-      "dek": "The EU's anti-fraud office confirms it has \"sufficient information\" to launch an investigation, but does not say if it involves fraud.",
-      "body": "The EU's anti-fraud office confirms it has \"sufficient information\" to launch an investigation, but does not say if it involves fraud.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-24T16:18:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/827b6870-3ff1-11f1-b7e9-5d346a313b73.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
