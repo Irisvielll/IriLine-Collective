@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-25T20:56:53+00:00",
+  "generatedAt": "2026-04-25T21:41:11+00:00",
   "items": [
+    {
+      "id": "latest_2407bf5a9051",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "dek": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+      "body": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-25T21:34:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b84/live/6b377100-40e5-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e328fb45b711",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-25T17:40:51+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/9afb0050-40c2-11f1-9af5-0bf991029b02.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fd81cb79970b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
-      "dek": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
-      "body": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-25T17:36:58+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b26/live/fc256be0-40c2-11f1-ac78-2112837ce2aa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
