@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-25T17:37:57+00:00",
+  "generatedAt": "2026-04-25T18:26:32+00:00",
   "items": [
+    {
+      "id": "latest_cecd27919385",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "dek": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+      "body": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-25T17:40:51+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/9afb0050-40c2-11f1-9af5-0bf991029b02.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_fd81cb79970b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+      "dek": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
+      "body": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-25T17:36:58+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b26/live/fc256be0-40c2-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b159aae5e415",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-25T16:35:14+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c080/live/954392b0-4024-11f1-b55d-0f258dce1735.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_94eae9674e89",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "dek": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-      "body": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-25T10:52:27+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fc6/live/17495f90-4072-11f1-83f8-e39ccdeebf3b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8e734474c3c3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mali army says armed groups launch coordinated attacks across country",
-      "dek": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
-      "body": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-25T10:33:26+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c528/live/7d4de040-4090-11f1-bd52-e755d604ece4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
