@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_81c26180ff93",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "dek": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "body": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-25T10:24:50+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1d9/live/e47f40a0-408c-11f1-8d6e-339f25b16267.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_e9b53608379b",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-20T20:26:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c15d1enqgl3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a81/live/4c26a090-3cf5-11f1-879d-1b2f5c3919b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5b5a6422a7d7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Woman and child jumped off roof to escape deadly Louisiana shooting",
-      "dek": "Authorities say a father fatally shot eight children, including seven of his own, in what appears to be a \"domestic dispute\".",
-      "body": "Authorities say a father fatally shot eight children, including seven of his own, in what appears to be a \"domestic dispute\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-20T20:19:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj0v36vell4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab40/live/f74b27a0-3cde-11f1-8106-cb440797df0d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
