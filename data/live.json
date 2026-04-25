@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-25T09:10:03+00:00",
+  "generatedAt": "2026-04-25T10:05:23+00:00",
   "items": [
+    {
+      "id": "sports_23ada457526f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Resilient Cubs stun Dodgers for 10th straight win",
+      "dek": "Despite mounting injuries, the Cubs stepped up again Friday night, this time rallying from a 4-0 deficit to defeat the Dodgers 6-4 for their 10th straight victo",
+      "body": "Despite mounting injuries, the Cubs stepped up again Friday night, this time rallying from a 4-0 deficit to defeat the Dodgers 6-4 for their 10th straight victory.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-25T03:01:58+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48587416/cubs-resilience-shines-again-vs-dodgers-win-streak-hits-10",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_23ada457526f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "sports_8c39e302e9dc",
       "section": "sports",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-25T01:42:58+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dba/live/87570de0-3e93-11f1-b83a-1531f70021ef.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0f523148c220",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Heated Rivalry, The Housemaid and Fourth Wing: TikTok launches BookTok bestseller list",
-      "dek": "The inaugural top 20 is entirely made up of female authors, with Chloe Walsh appearing most frequently.",
-      "body": "The inaugural top 20 is entirely made up of female authors, with Chloe Walsh appearing most frequently.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-25T01:38:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5yxmy5gnd0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/33a22000-3ff0-11f1-ac78-2112837ce2aa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

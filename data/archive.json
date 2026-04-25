@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_0f523148c220",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Heated Rivalry, The Housemaid and Fourth Wing: TikTok launches BookTok bestseller list",
+      "dek": "The inaugural top 20 is entirely made up of female authors, with Chloe Walsh appearing most frequently.",
+      "body": "The inaugural top 20 is entirely made up of female authors, with Chloe Walsh appearing most frequently.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-25T01:38:59+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5yxmy5gnd0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/33a22000-3ff0-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_ae16adac8da7",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-20T19:22:08+00:00",
       "sourceUrl": "https://www.espn.com/nba/game/_/gameId/401869369/raptors-cavaliers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_431d8436182e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_432b30643eec",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wemby captures DPOY as first unanimous winner",
-      "dek": "Victor Wembanyama, 22, is both the youngest DPOY winner in NBA history and the first to win the award unanimously.",
-      "body": "Victor Wembanyama, 22, is both the youngest DPOY winner in NBA history and the first to win the award unanimously.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-20T18:58:55+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48544568/spurs-victor-wembanyama-captures-first-career-dpoy",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_432b30643eec",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
