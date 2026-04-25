@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-25T19:26:52+00:00",
+  "generatedAt": "2026-04-25T20:02:34+00:00",
   "items": [
+    {
+      "id": "latest_e328fb45b711",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "dek": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "body": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-25T19:22:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/a81e7d00-40d8-11f1-b316-3766e147ab87.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_cecd27919385",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-25T17:36:58+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b26/live/fc256be0-40c2-11f1-ac78-2112837ce2aa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b159aae5e415",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hope in Gaza as 300 couples get married at one time",
-      "dek": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
-      "body": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-25T16:35:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c080/live/954392b0-4024-11f1-b55d-0f258dce1735.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
