@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_6fa1ffe0b82f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Cora firing was Breslow's call, Red Sox prez says",
+      "dek": "The decision to fire manager Alex Cora after the team's 10-17 start to the season started with general manager Craig Breslow, Red Sox president Sam Kennedy said",
+      "body": "The decision to fire manager Alex Cora after the team's 10-17 start to the season started with general manager Craig Breslow, Red Sox president Sam Kennedy said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-26T12:00:33+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48600895/red-sox-president-craig-breslow-made-decision-fire-alex-cora",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6fa1ffe0b82f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_b4f6856f2224",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nfl/draft2026/story/_/id/48494104/mock-draft-2026-nfl-nation-first-round-predictions",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9fd5c0cbe047",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_1b6bb8a37b1c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran sees mass redundancies from war with US and Israel",
-      "dek": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
-      "body": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-21T16:05:51+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd4a/live/df3e79e0-3d8e-11f1-ac78-2112837ce2aa.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
