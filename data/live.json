@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-26T15:22:25+00:00",
+  "generatedAt": "2026-04-26T16:06:03+00:00",
   "items": [
+    {
+      "id": "sports_6fa1ffe0b82f",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Cora firing was Breslow's call, Red Sox prez says",
+      "dek": "The decision to fire manager Alex Cora after the team's 10-17 start to the season started with general manager Craig Breslow, Red Sox president Sam Kennedy said",
+      "body": "The decision to fire manager Alex Cora after the team's 10-17 start to the season started with general manager Craig Breslow, Red Sox president Sam Kennedy said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-26T12:00:33+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48600895/red-sox-president-craig-breslow-made-decision-fire-alex-cora",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_6fa1ffe0b82f",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_b4f6856f2224",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Fantasy baseball news: What will Red Sox lineup look like under Chad Tracy?",
+      "dek": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
+      "body": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-26T11:12:51+00:00",
+      "sourceUrl": "https://www.espn.com/fantasy/baseball/story/_/id/48297021/espn-fantasy-baseball-buzz-injuries-promotions-demotions-trades-prospects-lineup-changes-mlb-news-analysis-2026",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b4f6856f2224",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "sports_2952143cc1c7",
       "section": "sports",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-26T10:44:03+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48600211/sources-anthony-edwards-avoids-ligament-damage-multiple-weeks",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2952143cc1c7",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5f8fe94e1677",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Gauff vomits on court before advancing in Madrid",
-      "dek": "With a stomach virus going around the locker room at the Madrid Open, Coco Gauff threw up on the court but recovered to advance over Sorana Cirstea.",
-      "body": "With a stomach virus going around the locker room at the Madrid Open, Coco Gauff threw up on the court but recovered to advance over Sorana Cirstea.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-26T10:44:03+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/48600300/coco-gauff-vomits-court-advancing-madrid-open",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5f8fe94e1677",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_97c2f0ebb321",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wiesberger wins first Euro title since leaving LIV",
-      "dek": "Bernd Wiesberger played bogey-free and closed with a 4-under 67 to win the China Open, his first victory since returning two years ago from Saudi-backed LIV Gol",
-      "body": "Bernd Wiesberger played bogey-free and closed with a 4-under 67 to win the China Open, his first victory since returning two years ago from Saudi-backed LIV Golf.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-26T10:44:03+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48600016/bernd-wiesberger-wins-china-open-first-title-leaving-liv",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_97c2f0ebb321",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
