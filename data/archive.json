@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_f50b749e7e4b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Venice opera house drops incoming music director after nepotism remarks",
+      "dek": "Beatrice Venezi's appointment had been marred in controversy since being announced last September, prompting orchestra members to go on strike.",
+      "body": "Beatrice Venezi's appointment had been marred in controversy since being announced last September, prompting orchestra members to go on strike.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-27T17:13:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53bb/live/c855ba20-4259-11f1-8860-53005c0bd838.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_66c07e14b46f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/48562037/portal-target-murauskas-followed-my-heart-arizona-state",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_69f9becc5a64",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_a067595f9ddf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Los Angeles becomes first major US school district to limit classroom screen time",
-      "dek": "The school district, which serves about half a million students, is looking to reduce its reliance on devices after the pandemic.",
-      "body": "The school district, which serves about half a million students, is looking to reduce its reliance on devices after the pandemic.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-22T14:22:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c15d888ww39o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260e/live/bd687720-3e4d-11f1-bb02-b7764f8dd2b3.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
