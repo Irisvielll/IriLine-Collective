@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-28T19:56:16+00:00",
+  "generatedAt": "2026-04-28T21:09:55+00:00",
   "items": [
+    {
+      "id": "meme_ed79f064056d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "John Hinckley Jr., who shot Ronald Reagan at Washington Hilton in 1981, calls venue ‘spooky’",
+      "dek": "submitted by /u/Ruddiver [link] [comments]",
+      "body": "submitted by /u/Ruddiver [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-28T20:46:53+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sydra7/john_hinckley_jr_who_shot_ronald_reagan_at/",
+      "image": "https://external-preview.redd.it/bR9fRu0r9UB9bLFUku5Mwtt2AUlpQRrVFb7iEmbS3dI.jpeg?width=640&crop=smart&auto=webp&s=fef98015944d789f8c7110c335e47f45fcebea53",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_be6114807092",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-28T19:52:03+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1syc8a0/woman_weaponized_a_swarm_of_bees_against_deputies/",
       "image": "https://external-preview.redd.it/2XC1tnbX8i6PdUkIRY8UZ7KjJZvUQNNc6kNU-c8tfco.jpeg?width=640&crop=smart&auto=webp&s=c1dab462e2907dd14780994cf9f99d92c837f0cc",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_eeca4e4f47b4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
-      "dek": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\".",
-      "body": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-28T19:48:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c9/live/5962f9c0-431c-11f1-89cc-ff708b4a3776.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
