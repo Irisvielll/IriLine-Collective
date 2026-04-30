@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-30T15:10:13+00:00",
+  "generatedAt": "2026-04-30T16:47:07+00:00",
   "items": [
+    {
+      "id": "meme_322c9c432cac",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "‘Oil is literally falling from the sky’: Russian town fears environmental disaster after Ukrainian drone strikes on refinery",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-30T16:45:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t01rzt/oil_is_literally_falling_from_the_sky_russian/",
+      "image": "https://external-preview.redd.it/h9Df3-XxCBVlb25NWIAzniZkyGs-yfMpXMQOSwhkR_c.jpeg?width=640&crop=smart&auto=webp&s=5fc6461fbbecc9c7ad2a53439fb7fc7c595f2f84",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_cd3452f99610",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man sentenced to death for murder of toddlers at Ugandan nursery",
+      "dek": "Christopher Okello Onyum had pleaded insanity but this was dismissed by the judge.",
+      "body": "Christopher Okello Onyum had pleaded insanity but this was dismissed by the judge.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-30T15:56:04+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/53a1f200-44a9-11f1-9b4f-919a6264e39f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_1f2b9825647c",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-04-30T14:54:47+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f2/live/92b58250-4499-11f1-bd52-e755d604ece4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d22e2f13f888",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Associate professor arrested for allegedly running meth lab in Michigan State University’s Wells Hall",
-      "dek": "submitted by /u/aronrodge [link] [comments]",
-      "body": "submitted by /u/aronrodge [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-30T14:36:12+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1szxvym/associate_professor_arrested_for_allegedly/",
-      "image": "https://external-preview.redd.it/AnDeDnfAVHPtsUBNUlD0MtcsAGCDk3vc1JRy3XKX-28.jpeg?width=640&crop=smart&auto=webp&s=52e3022bf9ef052587418496096f352b829f1bda",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_75fb517edfe9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-      "dek": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
-      "body": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-30T14:32:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a97/live/395bbbf0-447d-11f1-88ff-575186ed76aa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
