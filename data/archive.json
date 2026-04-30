@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_124ad2c80812",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Scientists Survey Critically Endangered Blue Tarantula in India’s Largest Tiger Reserve, Highlighting Urgent Need to Protect One of the World’s Most Restricted and Vulnerable Species",
+      "dek": "submitted by /u/sibun_rath [link] [comments]",
+      "body": "submitted by /u/sibun_rath [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-30T17:09:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t02gq1/scientists_survey_critically_endangered_blue/",
+      "image": "https://external-preview.redd.it/jzar7ba497VPBiB_m7OHVJapNAeYJ9nttYdcwvWgPk4.jpeg?width=640&crop=smart&auto=webp&s=833afbeb5b51908def5cb30c6d1b90dea168a98f",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_322c9c432cac",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-27T09:44:09+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e016/live/bf1520f0-4217-11f1-ac78-2112837ce2aa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a3c055b05f57",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "At least 42 killed in Chad after water well dispute escalates",
-      "dek": "The dispute was initially between two families before escalating into a cycle of reprisal attacks.",
-      "body": "The dispute was initially between two families before escalating into a cycle of reprisal attacks.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-27T09:20:50+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9f/live/2ffb1800-4214-11f1-9a91-2b6b858bae5e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-30T18:09:22+00:00",
+  "generatedAt": "2026-04-30T19:50:01+00:00",
   "items": [
+    {
+      "id": "meme_c5d48a975def",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man hides inside Best Buy after closing ahead of Pokémon card release",
+      "dek": "submitted by /u/SleuthDoggyDawg [link] [comments]",
+      "body": "submitted by /u/SleuthDoggyDawg [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-30T19:13:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t05xtm/man_hides_inside_best_buy_after_closing_ahead_of/",
+      "image": "https://external-preview.redd.it/GYvN284B9a8sCwszVs6VTREDp-u2y6F-xYfc19Yg5YQ.jpeg?width=640&crop=smart&auto=webp&s=88ad80b52d9eb00fc31dc690a4c340be52ea39cd",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b42d8bc1fda2",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-30T17:45:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t03git/gottheimer_lawler_lead_bipartisan_house/",
       "image": "https://external-preview.redd.it/lls365lJU5tjg2KahAfO0Ktma9mi_tqjEBD6aA-xR4A.jpeg?width=640&crop=smart&auto=webp&s=a770c30538beff2f464d0d689ed225d50c6ec9c6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_124ad2c80812",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Scientists Survey Critically Endangered Blue Tarantula in India’s Largest Tiger Reserve, Highlighting Urgent Need to Protect One of the World’s Most Restricted and Vulnerable Species",
-      "dek": "submitted by /u/sibun_rath [link] [comments]",
-      "body": "submitted by /u/sibun_rath [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-30T17:09:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t02gq1/scientists_survey_critically_endangered_blue/",
-      "image": "https://external-preview.redd.it/jzar7ba497VPBiB_m7OHVJapNAeYJ9nttYdcwvWgPk4.jpeg?width=640&crop=smart&auto=webp&s=833afbeb5b51908def5cb30c6d1b90dea168a98f",
       "imageCredit": "Image via original publisher"
     }
   ]
