@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-04-30T21:01:52+00:00",
+  "generatedAt": "2026-04-30T22:09:13+00:00",
   "items": [
+    {
+      "id": "latest_05a86d19e711",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Britney Spears charged in California with driving under influence",
+      "dek": "The pop star's representatives have called the incident \"completely inexcusable\" and she has since checked herself into rehab.",
+      "body": "The pop star's representatives have called the incident \"completely inexcusable\" and she has since checked herself into rehab.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-30T21:46:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d14/live/28616b10-44d2-11f1-8de1-593a7bb5acaa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4561e8fadb7e",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-04-30T20:25:31+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t07y0s/dhs_rebrands_ice_as_nice_in_new_video/",
       "image": "https://external-preview.redd.it/6sE_uuVN9hsVqPNPx8uI1rSEc8LdzCv43enXIJl9ZME.jpeg?width=640&crop=smart&auto=webp&s=f829172b68d317121474d3e996f3457c3bc55450",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ce2dadda5206",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Philadelphia museum brings Rocky statue inside after decades of tension",
-      "dek": "submitted by /u/laybs1 [link] [comments]",
-      "body": "submitted by /u/laybs1 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-30T20:20:28+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t07sy9/philadelphia_museum_brings_rocky_statue_inside/",
-      "image": "https://external-preview.redd.it/tZAJC_VPUP4BJmhOhL4ONjIZ3yCkstiC3id5EixzI_s.jpeg?width=640&crop=smart&auto=webp&s=33c1f5669b248c11f9467f98ee74e2907d4ea559",
       "imageCredit": "Image via original publisher"
     }
   ]
