@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_0af95f4faec6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "DHS rebrands ICE as ‘NICE’ in new video",
+      "dek": "submitted by /u/Kevin7650 [link] [comments]",
+      "body": "submitted by /u/Kevin7650 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-04-30T20:25:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t07y0s/dhs_rebrands_ice_as_nice_in_new_video/",
+      "image": "https://external-preview.redd.it/6sE_uuVN9hsVqPNPx8uI1rSEc8LdzCv43enXIJl9ZME.jpeg?width=640&crop=smart&auto=webp&s=f829172b68d317121474d3e996f3457c3bc55450",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ce2dadda5206",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sx77qy/malatsi_withdraws_ai_policy_after_fictitious/",
       "image": "https://external-preview.redd.it/Hbj91dW2nMHRpOh_gy4acoHIv4KJw70MW2_IqHrest4.jpeg?width=640&crop=smart&auto=webp&s=f1f78fd9e83ce085006f89ad04c480057e6354dd",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_7df4270f3c99",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "What to expect from Mendoza, Love and 34 other rookies in fantasy football",
-      "dek": "Matt Bowen provides his analysis of this year's rookie class in fantasy, in terms of redraft and dynasty value.",
-      "body": "Matt Bowen provides his analysis of this year's rookie class in fantasy, in terms of redraft and dynasty value.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-27T14:25:44+00:00",
-      "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/48561514/2026-fantasy-football-rankings-rookies-value-dynasty-league-redraft",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7df4270f3c99",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
