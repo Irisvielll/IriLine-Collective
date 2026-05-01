@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_6a5e35baada3",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "IKEA to open Furniture Research Museum in Sweden: project implemented by Cobe studio",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-01T20:45:38+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t15faj/ikea_to_open_furniture_research_museum_in_sweden/",
+      "image": "https://external-preview.redd.it/2yy9WVQXxiNQR7FE5E_LMljpDRD5tIe7HcBYsbjgJkM.png?width=640&crop=smart&auto=webp&s=6b8e0940ece4a90b83ebde8594bfddbe1f51ffbf",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_42bfc23acb36",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "'Rogue' AI agent from Cursor goes haywire, deletes company's entire database",
+      "dek": "submitted by /u/FutureStation1418 [link] [comments]",
+      "body": "submitted by /u/FutureStation1418 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-01T20:32:35+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t152w7/rogue_ai_agent_from_cursor_goes_haywire_deletes/",
+      "image": "https://external-preview.redd.it/_XGqX4bEl9X6A-76uvKiZik5Njp61QBk0Tk6ykzkOlA.jpeg?width=640&crop=smart&auto=webp&s=a5325aeac94846fbe5478f46c1f704e023a94049",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_e70140b430d8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Palantir swaps surveilling for tailoring with launch of tech bro chore jacket",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-01T20:28:52+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t14zdk/palantir_swaps_surveilling_for_tailoring_with/",
+      "image": "https://external-preview.redd.it/kBqk0Eg04GHrXEtVtxyJsVnjlUnObjs7cjpXan_KGqM.jpeg?width=640&crop=smart&auto=webp&s=72f738cca4b5196d413767fe0ac7e0cb1cbf004e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_dde09d6d76df",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48618574/mlb-2026-philadelphia-phillies-fire-rob-thomson-don-mattingly-next",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ab88d044ba28",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d01a70da56c0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "What if Liverpool didn't sign Mo Salah? Soccer's u...",
-      "dek": "Mohamed Salah will be remembered as one of the best Liverpool players of all time, but it's easy to forget that he almost didn't even end up at Liverpool. How w",
-      "body": "Mohamed Salah will be remembered as one of the best Liverpool players of all time, but it's easy to forget that he almost didn't even end up at Liverpool. How would the last nine seasons have played out if he'd gone somewhere else?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-28T14:47:19+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48608647/liverpool-mohamed-salah-julian-brandt-jurgen-klopp-history-transfers",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d01a70da56c0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_2022c1c5b5a4",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Why Rayo Vallecano's European run is the miracle o...",
-      "dek": "Rayo Vallecano, who play in a stadium where opponents mock the facilities, are on the cusp of a European final.",
-      "body": "Rayo Vallecano, who play in a stadium where opponents mock the facilities, are on the cusp of a European final.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-28T14:47:19+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48611523/why-rayo-vallecanos-european-run-miracle-season",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2022c1c5b5a4",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_e7213032d0e7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "dek": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-      "body": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-28T14:32:20+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/757a/live/9b97dc60-430e-11f1-bd52-e755d604ece4.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
