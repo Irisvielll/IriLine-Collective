@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-02T06:07:21+00:00",
+  "generatedAt": "2026-05-02T07:59:31+00:00",
   "items": [
+    {
+      "id": "latest_7f8f53ad39fd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Spirit Airlines shutting down after rescue talks collapse",
+      "dek": "The airline had been in talks with the Trump administration about a $500m bailout.",
+      "body": "The airline had been in talks with the Trump administration about a $500m bailout.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T07:55:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/82575fa0-3e86-11f1-89c2-a710be29e252.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_167ba474748d",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-02T04:02:24+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2078/live/b9785300-4565-11f1-b55d-0f258dce1735.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_25b17e4e42c9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘Don’t believe everything you read’: JD Vance can’t believe that fake news reported he is concerned about the Pentagon, when, what do you know, he is",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-02T03:59:48+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t1f7m5/dont_believe_everything_you_read_jd_vance_cant/",
-      "image": "https://external-preview.redd.it/04jrmsZFTvRh2ClZYjiX35gdXm5RPdtT54yW9SgjCJ0.jpeg?width=640&crop=smart&auto=webp&s=5d94eb82537f30e2fd9253e60998d5a4522e3816",
       "imageCredit": "Image via original publisher"
     }
   ]

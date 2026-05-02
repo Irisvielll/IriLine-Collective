@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_25b17e4e42c9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "‘Don’t believe everything you read’: JD Vance can’t believe that fake news reported he is concerned about the Pentagon, when, what do you know, he is",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T03:59:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t1f7m5/dont_believe_everything_you_read_jd_vance_cant/",
+      "image": "https://external-preview.redd.it/04jrmsZFTvRh2ClZYjiX35gdXm5RPdtT54yW9SgjCJ0.jpeg?width=640&crop=smart&auto=webp&s=5d94eb82537f30e2fd9253e60998d5a4522e3816",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_03b9eb19268e",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-28T17:53:49+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48619907/sources-nba-eyes-new-anti-tanking-proposal-draft-lottery",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1adcb4a11533",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_3666d4828b15",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "PSG edge Bayern in historic 9-goal UCL semifinal",
-      "dek": "PSG came out on top 5-4 in the highest-scoring UCL semifinal on record, but Bayern will like their chances in the second leg at home after going almost blow for",
-      "body": "PSG came out on top 5-4 in the highest-scoring UCL semifinal on record, but Bayern will like their chances in the second leg at home after going almost blow for blow with the defending champions in an instant European classic.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-28T17:53:49+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48620511/psg-edge-bayern-munich-historic-9-goal-ucl-semifinal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3666d4828b15",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
