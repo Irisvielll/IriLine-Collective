@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-02T07:59:31+00:00",
+  "generatedAt": "2026-05-02T09:15:54+00:00",
   "items": [
+    {
+      "id": "meme_eea417bcc007",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Politico, The Daily Telegraph owner tells journalists to back Israel or quit",
+      "dek": "submitted by /u/AgeNovel3566 [link] [comments]",
+      "body": "submitted by /u/AgeNovel3566 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T08:45:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t1kepa/politico_the_daily_telegraph_owner_tells/",
+      "image": "https://external-preview.redd.it/sFltmHLIqjN1BtXeSch71ONsjZwwf9RdlceQhZggchk.jpeg?width=640&crop=smart&auto=webp&s=6efbb93c861b8a8446483c18a17df16303ae470e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7f8f53ad39fd",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-02T05:02:14+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b68/live/6087e2b0-457e-11f1-ac78-2112837ce2aa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2339e4250d8a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
-      "dek": "Oral history traces a family's roots to a tree planted in the 13th Century in a Ghanaian fishing town.",
-      "body": "Oral history traces a family's roots to a tree planted in the 13th Century in a Ghanaian fishing town.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-02T04:02:24+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2078/live/b9785300-4565-11f1-b55d-0f258dce1735.png",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2339e4250d8a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
+      "dek": "Oral history traces a family's roots to a tree planted in the 13th Century in a Ghanaian fishing town.",
+      "body": "Oral history traces a family's roots to a tree planted in the 13th Century in a Ghanaian fishing town.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T04:02:24+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2078/live/b9785300-4565-11f1-b55d-0f258dce1735.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_25b17e4e42c9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1sy934t/it_took_nine_seconds_claude_ai_agent_deletes/",
       "image": "https://external-preview.redd.it/u94w11OUFIsQPNwvOhEJZOlyRevAuBn6OWCkNCT96w8.jpeg?width=640&crop=smart&auto=webp&s=66cf5f464681e2e20ce69980dfe0c9040a5664e7",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_1adcb4a11533",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: NBA finalizing lottery reform proposal",
-      "dek": "The NBA has proposed a new anti-tanking draft reform that expands the lottery, flattens odds and penalizes the bottom three teams, sources told ESPN.",
-      "body": "The NBA has proposed a new anti-tanking draft reform that expands the lottery, flattens odds and penalizes the bottom three teams, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-28T17:53:49+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48619907/sources-nba-eyes-new-anti-tanking-proposal-draft-lottery",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1adcb4a11533",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
