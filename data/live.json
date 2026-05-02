@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-02T14:49:02+00:00",
+  "generatedAt": "2026-05-02T15:47:23+00:00",
   "items": [
+    {
+      "id": "latest_dfab5041e566",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "dek": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
+      "body": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T15:31:40+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd8/live/9ece7410-4634-11f1-b14f-8905f097c360.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f01b47dd4949",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-02T14:18:14+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/43592a40-4624-11f1-b55d-0f258dce1735.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d8609e028baf",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Teacher who told pupils ‘this class terrifies me’ chugged gin from a water bottle before vomiting in toilet",
-      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-02T12:53:51+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t1p3ty/teacher_who_told_pupils_this_class_terrifies_me/",
-      "image": "https://external-preview.redd.it/X6iVgF7Pk0Y81_jIIUi5B2bi_QXW8ZT7rTvGrVFPuYI.png?width=640&crop=smart&auto=webp&s=bea4387545d660ad857e51af92300861c8d196cf",
       "imageCredit": "Image via original publisher"
     }
   ]
