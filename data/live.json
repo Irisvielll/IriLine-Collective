@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-02T17:43:27+00:00",
+  "generatedAt": "2026-05-02T18:35:25+00:00",
   "items": [
+    {
+      "id": "latest_1cbdb0389825",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+      "dek": "It is the second time an oil tanker has been hijacked in the area in the past 10 days.",
+      "body": "It is the second time an oil tanker has been hijacked in the area in the past 10 days.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T17:53:07+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/15c6a460-464a-11f1-891c-cf9f2bee9693.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_14119d0046e0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+      "dek": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+      "body": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T17:01:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/323e/live/c03cec40-4642-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_254e258c6b38",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-05-02T16:40:06+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t1utut/kid_rock_rides_apache_helicopter_with_pete/",
       "image": "https://external-preview.redd.it/mx6ZhVVCW4SkKQJ4h3K-vzmH6AnW53MkhQMEXLedVRY.jpeg?width=640&crop=smart&auto=webp&s=16a89963f1d95d43a01d2b433886e49ed1a214df",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_000b8d8dc73a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
-      "dek": "German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected.",
-      "body": "German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-02T16:35:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be1/live/a8b851f0-463c-11f1-aa14-ad910202f501.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dfab5041e566",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "dek": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
-      "body": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-02T15:31:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd8/live/9ece7410-4634-11f1-b14f-8905f097c360.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
