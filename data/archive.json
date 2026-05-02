@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1cbdb0389825",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+      "dek": "It is the second time an oil tanker has been hijacked in the area in the past 10 days.",
+      "body": "It is the second time an oil tanker has been hijacked in the area in the past 10 days.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T17:53:07+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/15c6a460-464a-11f1-891c-cf9f2bee9693.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_14119d0046e0",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-29T07:18:11+00:00",
       "sourceUrl": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c66ab4728286",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_78b07d0ac7fc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "MLB panic meter: Which struggling teams have the m...",
-      "dek": "The Red Sox, Mets and Phillies aren't the only clubs off to disappointing starts.",
-      "body": "The Red Sox, Mets and Phillies aren't the only clubs off to disappointing starts.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-29T07:14:00+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48620433/mlb-2026-panic-meter-struggling-teams-red-sox-mets-phillies-astros",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_78b07d0ac7fc",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
