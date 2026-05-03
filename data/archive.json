@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_8e9eee1e1f75",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Huge crowd attends free Shakira Copacabana beach concert",
+      "dek": "Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.",
+      "body": "Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T07:56:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e745/live/d97351a0-46be-11f1-8e27-e5ac1aa07cb6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2401df4127f8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+      "dek": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
+      "body": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T06:57:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b5b/live/00cc1880-43a0-11f1-a886-afa88c1499c0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9cd074f00325",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48611135/pga-tour-power-rankings-scottie-scheffler-rory-mcilroy-no-1",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_cb226d38a832",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_c57ba28fc60b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "France investigates reappearance of website linked to Pelicot crimes",
-      "dek": "Authorities say the Coco platform has been linked to sexual abuse of children, drug offences, rape and murder.",
-      "body": "Authorities say the Coco platform has been linked to sexual abuse of children, drug offences, rape and murder.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-29T15:10:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df11/live/3fa31000-43c7-11f1-aec0-b189b12f3c07.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0b7a0d145c96",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US Supreme Court limits use of race in drawing electoral maps",
-      "dek": "The decision will make it more difficult to successfully challenge legislative maps for diluting the voting power of racial minorities.",
-      "body": "The decision will make it more difficult to successfully challenge legislative maps for diluting the voting power of racial minorities.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-29T15:05:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27bf/live/55a10400-2d08-11f1-903b-c7d082edabea.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
