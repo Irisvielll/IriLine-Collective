@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-03T17:28:27+00:00",
+  "generatedAt": "2026-05-03T18:30:46+00:00",
   "items": [
+    {
+      "id": "latest_7330eeeddbb1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran says US has responded to its latest peace proposal",
+      "dek": "Before reviewing the proposal on Saturday, US President Donald Trump said he could not imagine it \"would be acceptable\".",
+      "body": "Before reviewing the proposal on Saturday, US President Donald Trump said he could not imagine it \"would be acceptable\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T17:31:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0168/live/a60aab20-470d-11f1-8bd0-c9ca96b627c7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f864884bda41",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-03T13:19:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t2lai6/aziz_ansari_debuts_as_fbi_director_kash_patel_on/",
       "image": "https://external-preview.redd.it/Cb3LS9wwuFe_rRnvWIWZIRQ9tkpyxRbUlFVxFbHb8r0.jpeg?width=640&crop=smart&auto=webp&s=480dc27f4343568ae53f71ace18590a940e6c9fb",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5636b2ad3c6b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two US service members reported missing in Morocco, officials say",
-      "dek": "A search and rescue operation is underway for the service members, the US African Command said.",
-      "body": "A search and rescue operation is underway for the service members, the US African Command said.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T13:12:14+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea27/live/573fd5e0-46f1-11f1-9217-a5b6a670d3f7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
