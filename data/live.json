@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-03T18:30:46+00:00",
+  "generatedAt": "2026-05-03T19:41:15+00:00",
   "items": [
+    {
+      "id": "latest_9bc15006248a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "dek": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+      "body": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T19:39:31+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eef5/live/0122f2c0-471c-11f1-973f-3fcb874893eb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7330eeeddbb1",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-03T15:47:59+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3393/live/3818ab40-4707-11f1-bd22-17beaec4bfbd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_12835b882c86",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Aziz Ansari debuts as FBI Director Kash Patel on 'SNL'",
-      "dek": "submitted by /u/Even-Performance839 [link] [comments]",
-      "body": "submitted by /u/Even-Performance839 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T13:19:49+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t2lai6/aziz_ansari_debuts_as_fbi_director_kash_patel_on/",
-      "image": "https://external-preview.redd.it/Cb3LS9wwuFe_rRnvWIWZIRQ9tkpyxRbUlFVxFbHb8r0.jpeg?width=640&crop=smart&auto=webp&s=480dc27f4343568ae53f71ace18590a940e6c9fb",
       "imageCredit": "Image via original publisher"
     }
   ]

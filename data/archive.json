@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_12835b882c86",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Aziz Ansari debuts as FBI Director Kash Patel on 'SNL'",
+      "dek": "submitted by /u/Even-Performance839 [link] [comments]",
+      "body": "submitted by /u/Even-Performance839 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T13:19:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t2lai6/aziz_ansari_debuts_as_fbi_director_kash_patel_on/",
+      "image": "https://external-preview.redd.it/Cb3LS9wwuFe_rRnvWIWZIRQ9tkpyxRbUlFVxFbHb8r0.jpeg?width=640&crop=smart&auto=webp&s=480dc27f4343568ae53f71ace18590a940e6c9fb",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5636b2ad3c6b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-04-29T17:03:16+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5d/live/92b26890-43ea-11f1-9113-1988573e8ff7.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2dd035dfa926",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-      "dek": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
-      "body": "The BBC takes a look in charts at what the UAE's departure could mean for the oil cartel and more widely.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-29T16:37:08+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1989/live/7cc9b4e0-43ed-11f1-bd52-e755d604ece4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
