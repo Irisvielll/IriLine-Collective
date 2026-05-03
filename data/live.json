@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-03T10:16:05+00:00",
+  "generatedAt": "2026-05-03T11:11:51+00:00",
   "items": [
+    {
+      "id": "latest_ee21be100a91",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "dek": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "body": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T10:16:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d7b/live/aa73d6a0-46d6-11f1-a1bb-13ca62b3ded8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ad7bfbb3d38e",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-03T09:32:27+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t2gu05/man_abandons_suicide_attempt_for_shawarma/",
       "image": "https://external-preview.redd.it/8gFS2mIjF9s3dBnUCS8xtF6eWRtIqQjV2YToXKzo1PI.jpeg?width=640&crop=smart&auto=webp&s=22bd309e7e63ed4e5fe0d7f84094704407c2ef82",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_026f3e12ca98",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "dek": "The chairs of the House and Senate armed services committees say withdrawing 5,000 service personnel risked undermining deterrence.",
-      "body": "The chairs of the House and Senate armed services committees say withdrawing 5,000 service personnel risked undermining deterrence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T08:41:23+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a5/live/745df6a0-46c6-11f1-8675-51b72e8f4a66.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
