@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T22:00:41+00:00",
+  "generatedAt": "2026-05-03T23:03:10+00:00",
   "items": [
     {
       "id": "latest_9bc15006248a",
@@ -17,33 +17,33 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_7330eeeddbb1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "dek": "Before reviewing the proposal on Saturday, US President Donald Trump said he could not imagine it \"would be acceptable\".",
-      "body": "Before reviewing the proposal on Saturday, US President Donald Trump said he could not imagine it \"would be acceptable\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T17:31:31+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0168/live/a60aab20-470d-11f1-8bd0-c9ca96b627c7.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_61153451d3a2",
+      "id": "sports_a5276791d0e6",
       "section": "sports",
       "sectionLabel": "Sports",
       "type": "REAL",
       "category": "SPORTS",
-      "title": "Young finishes off his wire-to-wire win at Doral",
-      "dek": "Cameron Young went wire-to-wire alone on the lead at the Cadillac Championship, a final round of 4-under 68 getting him to 19 under for the week and six shots c",
-      "body": "Cameron Young went wire-to-wire alone on the lead at the Cadillac Championship, a final round of 4-under 68 getting him to 19 under for the week and six shots clear of world No. 1 Scottie Scheffler.",
+      "title": "Pistons cap comeback with Game 7 rout of Magic",
+      "dek": "The Pistons beat the Magic 116-94 in Game 7 on Sunday to win a playoff series for the first time in 18 years.",
+      "body": "The Pistons beat the Magic 116-94 in Game 7 on Sunday to win a playoff series for the first time in 18 years.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T17:29:35+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48669100/cameron-young-finishes-wire-wire-win-cadillac-championship",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_61153451d3a2",
+      "publishedAt": "2026-05-03T18:42:55+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48670016/pistons-finish-comeback-3-1-hole-game-7-rout-magic",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a5276791d0e6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_7dbf86db48be",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Wolves list Edwards questionable for Game 1",
+      "dek": "Timberwolves star Anthony Edwards was cleared for on-court activities and is questionable for Game 1 vs. the Spurs on Monday night.",
+      "body": "Timberwolves star Anthony Edwards was cleared for on-court activities and is questionable for Game 1 vs. the Spurs on Monday night.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T18:42:55+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48669874/timberwolves-list-anthony-edwards-questionable-game-1",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7dbf86db48be",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
