@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-03T04:59:07+00:00",
+  "generatedAt": "2026-05-03T07:22:36+00:00",
   "items": [
+    {
+      "id": "latest_2401df4127f8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+      "dek": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
+      "body": "More than 100 gangs are operating nationwide as the growing use of political thugs raises fears of election violence.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T06:57:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b5b/live/00cc1880-43a0-11f1-a886-afa88c1499c0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_9cd074f00325",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Japanese toilet maker Toto surges 18% on AI chip component expansion plan",
+      "dek": "submitted by /u/Antrikshy [link] [comments]",
+      "body": "submitted by /u/Antrikshy [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T06:09:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t2db2c/japanese_toilet_maker_toto_surges_18_on_ai_chip/",
+      "image": "https://external-preview.redd.it/dWlIlA3661qYHVzWDhrJ98p9X8MW9aX_E2AEASFBFaE.jpeg?width=640&crop=smart&auto=webp&s=de11cad27c60a671ef3ad9f3b11c8d77ad271669",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ed98b1712de6",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-05-03T02:11:24+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t28oem/ebay_soars_on_report_that_gamestop_is_preparing_a/",
       "image": "https://external-preview.redd.it/ArerOTwJ8yNKQSni13hWscJnrSxX-tiTSaYaELPviV0.jpeg?width=640&crop=smart&auto=webp&s=75594b34fd849481ea1f09e64a6481a5b13ebeb7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_04bb8622de81",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Taco Bell worker accused of shooting customers over soda in water cup",
-      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
-      "body": "submitted by /u/HowLongIsThi [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T01:56:32+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t28cu0/taco_bell_worker_accused_of_shooting_customers/",
-      "image": "https://external-preview.redd.it/3_zXHNrA2-Sw5O1u5EUh0cDM4SlYto9xa2g-uKMz4kM.jpeg?width=640&crop=smart&auto=webp&s=00a2367e8d08d37a125a06a92346ab5458cd2951",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d3ac798e9d03",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
-      "dek": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-      "body": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T01:48:01+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2466/live/843ef730-4690-11f1-b55d-0f258dce1735.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

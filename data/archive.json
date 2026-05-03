@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_04bb8622de81",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Taco Bell worker accused of shooting customers over soda in water cup",
+      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
+      "body": "submitted by /u/HowLongIsThi [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T01:56:32+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t28cu0/taco_bell_worker_accused_of_shooting_customers/",
+      "image": "https://external-preview.redd.it/3_zXHNrA2-Sw5O1u5EUh0cDM4SlYto9xa2g-uKMz4kM.jpeg?width=640&crop=smart&auto=webp&s=00a2367e8d08d37a125a06a92346ab5458cd2951",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d3ac798e9d03",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
+      "dek": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
+      "body": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-03T01:48:01+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2466/live/843ef730-4690-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_d6fb04ebbdfc",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -148,6 +178,21 @@
       "publishedAt": "2026-05-02T23:15:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t24w6r/welcome_to_anxietyland_theme_park_where_the_rides/",
       "image": "https://external-preview.redd.it/YXOknBguwKMkW0hM6oHMwCRiBCWgy4up5VsPTvL65ek.jpeg?width=640&crop=smart&auto=webp&s=ab90441b173d5377ffca0535559e75b1e1775583",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_aacd1fc76843",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Laufey on making jazz cool again (and the fish that brought out her inner rage)",
+      "dek": "The Icelandic star reflects on a phenomenal year, and the music video that let her go \"primal\".",
+      "body": "The Icelandic star reflects on a phenomenal year, and the music video that let her go \"primal\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-02T23:05:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c08b/live/cfab1ad0-446c-11f1-97e2-ede52d59c1ad.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4454,51 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36b/live/fdf2dbd0-43d6-11f1-bf3e-3d07e81b01ce.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_19ea6350c59a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
-      "dek": "The 28-year-old was arrested in February after a man had been shot at his home in Johannesburg.",
-      "body": "The 28-year-old was arrested in February after a man had been shot at his home in Johannesburg.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-29T14:09:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc56/live/0dc03f70-43c4-11f1-a0e9-f392511be4c3.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_91ec9b06e98a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Texans, LB Al-Shaair agree to 3-year extension",
-      "dek": "The Texans and linebacker Azeez Al-Shaair have reached agreement on a three-year extension, according to NFL Network.",
-      "body": "The Texans and linebacker Azeez Al-Shaair have reached agreement on a three-year extension, according to NFL Network.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-29T13:54:53+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48628975/texans-lb-azeez-al-shaair-agree-3-year-extension",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_91ec9b06e98a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_990053fc99fb",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Red Sox ace Crochet to IL after rocky start to '26...",
-      "dek": "The Red Sox placed ace Garrett Crochet on the 15-day IL with inflammation in his pitching shoulder.",
-      "body": "The Red Sox placed ace Garrett Crochet on the 15-day IL with inflammation in his pitching shoulder.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-04-29T13:54:53+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48628582/red-sox-place-garrett-crochet-il-shoulder-inflammation",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_990053fc99fb",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
