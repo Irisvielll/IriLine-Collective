@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-04T11:26:20+00:00",
+  "generatedAt": "2026-05-04T13:08:35+00:00",
   "items": [
+    {
+      "id": "latest_941110fac313",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
+      "dek": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
+      "body": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-04T11:59:58+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbc/live/fb585db0-453d-11f1-be1a-bdd45fc37339.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_fb31009c40c3",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-04T09:58:58+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t3d6wl/bot_auto_delivers_first_freight_load_with_no_one/",
       "image": "https://external-preview.redd.it/mV-RNQr6m0W32hreHcckdCXbLS7s3nl0iDahoHJIoxs.jpeg?width=640&crop=smart&auto=webp&s=88896f25625409e12bf6fcbcd91048a1df0321b8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_85f378f5733d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "dek": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
-      "body": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-04T09:49:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9519/live/86d66810-479a-11f1-ac78-2112837ce2aa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
