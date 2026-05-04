@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-04T04:09:03+00:00",
+  "generatedAt": "2026-05-04T07:24:01+00:00",
   "items": [
+    {
+      "id": "sports_0c1417fba352",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "C's Brown says refs had 'agenda,' calls out Embiid...",
+      "dek": "Jaylen Brown, appearing on his Twitch stream Sunday, took issue with the officiating against him during the Celtics-76ers series, as well as with Joel Embiid, w",
+      "body": "Jaylen Brown, appearing on his Twitch stream Sunday, took issue with the officiating against him during the Celtics-76ers series, as well as with Joel Embiid, whom he accused of the type of flopping that has \"ruined our game.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-04T00:38:43+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48672626/celtics-jaylen-brown-rips-refs-calls-embiid-flopping",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0c1417fba352",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_ecfa28292eea",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Avalanche overwhelm Wild in 9-6 Game 1 shootout",
+      "dek": "In just the 10th playoff game in NHL history with at least 15 combined goals, the Colorado Avalanche overcame blowing a three-goal lead to defeat the short-hand",
+      "body": "In just the 10th playoff game in NHL history with at least 15 combined goals, the Colorado Avalanche overcame blowing a three-goal lead to defeat the short-handed Minnesota Wild 9-6 on Sunday in a wacky Game 1 of this Western Conference semifinal series.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-04T00:38:43+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48672528/colorado-avalanche-top-minnesota-wild-high-scoring-opener",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ecfa28292eea",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "sports_ebb2789e1734",
       "section": "sports",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-05-03T23:56:56+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48658943/nba-2025-2026-playoffs-first-round-findings-second-round-impact-lakers-spurs-thunder-76ers-pistons",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ebb2789e1734",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_795af5227bee",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Cavs close out Raptors in 7 behind Allen's 22-19",
-      "dek": "Jarrett Allen tied his playoff career high with 22 points and grabbed 19 rebounds as the Cavaliers advanced to the Eastern Conference semifinals with a 114-102 ",
-      "body": "Jarrett Allen tied his playoff career high with 22 points and grabbed 19 rebounds as the Cavaliers advanced to the Eastern Conference semifinals with a 114-102 victory over the Raptors in Game 7 of their series Sunday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T23:29:08+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48671932/cavaliers-close-raptors-game-7-advance-face-pistons-east-semifinals",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_795af5227bee",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_10b507f2aa85",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Canadiens win Game 7 with just nine shots on net",
-      "dek": "Alex Newhook and Nick Suzuki scored goals, and the Montreal Canadiens, despite posting just nine shots on net, defeated the favored Lightning 2-1 in Game 7 of t",
-      "body": "Alex Newhook and Nick Suzuki scored goals, and the Montreal Canadiens, despite posting just nine shots on net, defeated the favored Lightning 2-1 in Game 7 of the Eastern Conference quarterfinals Sunday night, a fourth straight Round 1 exit for Tampa Bay.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T23:29:08+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48671341/montreal-canadiens-win-game-7-just-9-shots-goal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_10b507f2aa85",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
