@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-04T21:37:03+00:00",
+  "generatedAt": "2026-05-04T22:39:26+00:00",
   "items": [
+    {
+      "id": "meme_67aa562ea36b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bill aims to crack down on strip clubs by requiring Oklahoma exotic entertainers get licensed",
+      "dek": "submitted by /u/halxp01 [link] [comments]",
+      "body": "submitted by /u/halxp01 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-04T22:38:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t3x5co/bill_aims_to_crack_down_on_strip_clubs_by/",
+      "image": "https://external-preview.redd.it/uBbM_h24CgwfjpqcV3lTzVIw1nxII_IduGKJXppmccs.jpeg?width=640&crop=smart&auto=webp&s=283895c4ef14c6966c4e5eef3be1f331e1ca5ecb",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_81c824291475",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-04T18:40:52+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t3ql7n/some_children_are_drawing_on_fake_moustaches_to/",
       "image": "https://external-preview.redd.it/t2qoPCaoYMLbOrk7YdJNuIt9LT3_FLUvHZv1NMFZHAs.jpeg?width=640&crop=smart&auto=webp&s=661e9627cd9363d32ecec6f04e54a41b42366761",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5d9521af2eb8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mali junta leader names himself defence minister after predecessor killed",
-      "dek": "Former Defence Minister Sadio Camara was killed in a massive offensive by combined jihadist and separatist forces.",
-      "body": "Former Defence Minister Sadio Camara was killed in a massive offensive by combined jihadist and separatist forces.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-04T18:31:38+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c8r8jr7x8mlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f4/live/8072f230-47dc-11f1-ac78-2112837ce2aa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
