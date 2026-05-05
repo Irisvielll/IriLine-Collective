@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_8507fd0720a9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "A 'fun' superstar stuns rivals and reshapes politics in an Indian state",
+      "dek": "Film star Vijay has defied naysayers to almost sweep Tamil Nadu polls, marking a break in the political order.",
+      "body": "Film star Vijay has defied naysayers to almost sweep Tamil Nadu polls, marking a break in the political order.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-05T07:32:52+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c8xwjx54zggo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e212/live/09ebcad0-47d5-11f1-906e-5bd3c4d4c16e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_1b52198574e6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Do viruses spread more easily on cruise ships?",
+      "dek": "The BBC explains what experts have to say about the infection risks associated with cruise ships.",
+      "body": "The BBC explains what experts have to say about the infection risks associated with cruise ships.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-05T06:38:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cdxpn5r2nlgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5418/live/5e343470-484c-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_541a5b262ff0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Explosion at China fireworks factory kills 26 people",
+      "dek": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
+      "body": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-05T06:06:42+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1e/live/c47dcee0-4832-11f1-a015-7171d6e89aef.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2748c34ddc5a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-05-01T02:51:11+00:00",
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/48643016/clark-ok-exiting-fever-preseason-home-opener-early",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_35f4ff22fb1a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_06ef9564ac20",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wolves eliminate Nuggets as McDaniels scores 32",
-      "dek": "Jaden McDaniels had 32 points and 10 rebounds as Minnesota eliminated Denver with a 110-98 victory in Game 6 on Thursday night.",
-      "body": "Jaden McDaniels had 32 points and 10 rebounds as Minnesota eliminated Denver with a 110-98 victory in Game 6 on Thursday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-01T02:51:11+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48644115/jaden-mcdaniels-leads-wolves-ends-nuggets-ousted",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_06ef9564ac20",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_3d1310894349",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Jokic on early exit: Nuggets 'far' from contention...",
-      "dek": "Nikola Jokic said he wants to be \"a Nugget forever\" following the team's first-round exit from the playoffs, but acknowledged the team is \"far away\" from title ",
-      "body": "Nikola Jokic said he wants to be \"a Nugget forever\" following the team's first-round exit from the playoffs, but acknowledged the team is \"far away\" from title contention.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-01T02:51:11+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48644826/jokic-early-playoff-exit-nuggets-far-title-contention",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3d1310894349",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_656749f74371",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Wild def. Stars for 1st playoff series win since '...",
-      "dek": "Quinn Hughes led Minnesota to its first playoff series victory in 11 years, scoring twice in the Wild's 5-2 victory over Dallas in Game 6 on Thursday night.",
-      "body": "Quinn Hughes led Minnesota to its first playoff series victory in 11 years, scoring twice in the Wild's 5-2 victory over Dallas in Game 6 on Thursday night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-01T02:51:11+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48643449/wild-beat-stars-5-2-1st-playoff-series-win-11-years",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_656749f74371",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
