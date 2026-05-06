@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_9b14d677ef3d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+      "dek": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+      "body": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-06T19:49:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca2/live/a4e50820-4984-11f1-93fe-cfc8bb3523fc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_037dd2cf4060",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/horse-racing/story/_/id/48657934/kentucky-derby-celebrities-years",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_19957d160d6c",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_dfab5041e566",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "dek": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
-      "body": "Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-02T15:31:40+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bd8/live/9ece7410-4634-11f1-b14f-8905f097c360.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

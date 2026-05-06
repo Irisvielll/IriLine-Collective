@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-06T21:31:46+00:00",
+  "generatedAt": "2026-05-06T22:31:06+00:00",
   "items": [
+    {
+      "id": "latest_be4de451c7ac",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+      "dek": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
+      "body": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-06T21:29:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e1/live/196c22f0-494e-11f1-bd44-e578c5bd51ff.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e258316c49e2",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t5p26b/man_in_hospital_after_car_slams_into_wall_painted/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_93964e733387",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_9b14d677ef3d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
-      "dek": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-      "body": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-06T19:49:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca2/live/a4e50820-4984-11f1-93fe-cfc8bb3523fc.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
