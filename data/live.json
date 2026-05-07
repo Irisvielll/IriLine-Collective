@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-07T16:50:31+00:00",
+  "generatedAt": "2026-05-07T18:24:25+00:00",
   "items": [
+    {
+      "id": "latest_4de47867e119",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+      "dek": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+      "body": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-07T18:13:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a50/live/05bdb9e0-4a38-11f1-a70d-c72ff4101914.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_170eabcab6b5",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-07T16:00:05+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5f/live/de8d56e0-4a06-11f1-9595-b54f38a93bc1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_721537acdc40",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Humanoid robot becomes Buddhist monk in South Korea",
-      "dek": "submitted by /u/Famous-Register-2814 [link] [comments]",
-      "body": "submitted by /u/Famous-Register-2814 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-07T15:30:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t6dy5t/humanoid_robot_becomes_buddhist_monk_in_south/",
-      "image": "https://external-preview.redd.it/YKNHHUG_GZYuixoESk5QIGqm5X14G8H9W3wdHL4on5g.jpeg?width=640&crop=smart&auto=webp&s=b8e6e94a34924f29dcf162177090cc58b7c93e41",
       "imageCredit": "Image via original publisher"
     }
   ]

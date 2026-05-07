@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_721537acdc40",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Humanoid robot becomes Buddhist monk in South Korea",
+      "dek": "submitted by /u/Famous-Register-2814 [link] [comments]",
+      "body": "submitted by /u/Famous-Register-2814 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-07T15:30:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t6dy5t/humanoid_robot_becomes_buddhist_monk_in_south/",
+      "image": "https://external-preview.redd.it/YKNHHUG_GZYuixoESk5QIGqm5X14G8H9W3wdHL4on5g.jpeg?width=640&crop=smart&auto=webp&s=b8e6e94a34924f29dcf162177090cc58b7c93e41",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_9ee6e43202d8",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/48670717/duece-jones-drew-son-former-nfl-all-pro-commits-ucla-bruins-football",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7287f000b9c1",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_b4b16718ef2d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "European leaders converge on Armenia as Russia looks on",
-      "dek": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
-      "body": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-03T23:19:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1995/live/397d5960-455c-11f1-a4b0-8306ec2ff5e9.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
