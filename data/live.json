@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-08T04:36:12+00:00",
+  "generatedAt": "2026-05-08T06:21:35+00:00",
   "items": [
+    {
+      "id": "latest_8aa70821589b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "From oil giants to banks - these companies are making billions from Iran war",
+      "dek": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
+      "body": "Through surging profits or soaring share prices, the war has been a boon for some firms.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-08T05:00:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be46/live/8d97a640-4985-11f1-a49f-cb939a5301ad.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7c25d1c77187",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-08T04:10:45+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cp9py4k8mllo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cdf/live/88882360-4a92-11f1-8003-0be2843e54d1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9648b133765c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Spirit Airlines passenger with dementia found dead after staff ‘abandoned’ him at airport, lawsuit says",
-      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-08T03:59:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t6wvm5/spirit_airlines_passenger_with_dementia_found/",
-      "image": "https://external-preview.redd.it/vZuSViFoY10GbqYxZnk5Q5YfekrK6MGjX7RH752-4BM.jpeg?width=640&crop=smart&auto=webp&s=3259e3d0a4ed63c6d18c693f56b8a37741762fb7",
       "imageCredit": "Image via original publisher"
     }
   ]
