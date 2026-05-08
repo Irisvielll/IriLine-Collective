@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_06eac2c09ef2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
+      "dek": "The Bridesmaids star claims an actress retracted a complaint about sexual harassment by a producer.",
+      "body": "The Bridesmaids star claims an actress retracted a complaint about sexual harassment by a producer.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-08T06:33:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f675/live/0c1cb720-4a9f-11f1-859d-cdc2d74f1ea0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_562c2286e37a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -629,6 +644,21 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5f/live/de8d56e0-4a06-11f1-9595-b54f38a93bc1.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_3e723ccd708d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Power Rankings, playoff odds and everything to kno...",
+      "dek": "Where do all 15 teams open in our rankings? Can the Aces run it back? How good will the Fever be?",
+      "body": "Where do all 15 teams open in our rankings? Can the Aces run it back? How good will the Fever be?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-07T15:39:12+00:00",
+      "sourceUrl": "https://www.espn.com/wnba/story/_/id/48657250/2026-wnba-season-preview-preseason-power-rankings-predictions-bpi-opening-day-odds-playoffs",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3e723ccd708d",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "meme_721537acdc40",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-05-04T14:15:06+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t3iyq9/utah_first_state_to_hold_websites_liable_for/",
       "image": "https://external-preview.redd.it/nvZcOyYPn0t2IitlYJvR59zb5q2G00TtK6f-VKF63xI.jpeg?width=640&crop=smart&auto=webp&s=ea97d12828c2e16e7cf79cea9af2921a24aa411e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_049b9fde82a9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Moment United Airlines flight strikes vehicle during landing",
-      "dek": "Flight 169 from Venice, Italy, landed safely at Newark Airport with no reported injuries among the 231 passengers and crew. The lorry driver sustained minor inj",
-      "body": "Flight 169 from Venice, Italy, landed safely at Newark Airport with no reported injuries among the 231 passengers and crew. The lorry driver sustained minor injuries.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-04T13:39:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cr7pvgl9dpeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c9d/live/e7418d60-47bd-11f1-ac78-2112837ce2aa.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d95830a10a17",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Starbucks CEO defends $9 coffee says ‘it’s not a $10 coffee and you get a premium experience’",
-      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-04T13:15:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t3hf0c/starbucks_ceo_defends_9_coffee_says_its_not_a_10/",
-      "image": "https://external-preview.redd.it/w1I1r0gYoftqPzKXzMjGf5CRu9tStMn85XQ8KtZMJ-c.jpeg?width=640&crop=smart&auto=webp&s=88cab5d71d19e96032e5d704b97a38a3919b1a18",
       "imageCredit": "Image via original publisher"
     }
   ]
