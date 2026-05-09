@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-09T07:06:58+00:00",
+  "generatedAt": "2026-05-09T08:51:47+00:00",
   "items": [
+    {
+      "id": "latest_6afdadeb1f69",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "dek": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+      "body": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-09T08:27:48+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf1/live/87bc8ec0-4b7e-11f1-ac78-2112837ce2aa.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_e99c11f0754d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "GameStop's CEO gets banned from eBay after trying to buy the company",
+      "dek": "submitted by /u/Morlock2023 [link] [comments]",
+      "body": "submitted by /u/Morlock2023 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-09T07:36:58+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t7y6tf/gamestops_ceo_gets_banned_from_ebay_after_trying/",
+      "image": "https://external-preview.redd.it/aOYjDUK-Wd3Kvt08p0h5yXuwYTjm_9WCZvfgNL0Ynu0.png?width=640&crop=smart&auto=webp&s=bd51adbf595be928a62a11368f0ac9899b56cbf0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f474861976bc",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-05-09T06:32:08+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t7x0jt/lauren_boebert_shares_deep_thoughts_on_demonic/",
       "image": "https://external-preview.redd.it/9OOPtOyEZsrBFRoqEwJ01HhFSV5e0YBctbFhE0h2dpg.png?width=640&crop=smart&auto=webp&s=7337c7a67a3ee51725bdb8bca50ffbb39d8a3fa5",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a1f814d0cc07",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Ask for a little more': Chipotle CEO, customers at odds over portions",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-09T06:15:33+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t7wppy/ask_for_a_little_more_chipotle_ceo_customers_at/",
-      "image": "https://external-preview.redd.it/HAmyKATqosuiajeLwDhlFD7XRQeRTY6th3Oyv0LcVj4.jpeg?width=640&crop=smart&auto=webp&s=55f72e986751d1021631a13c6e283c10ce57fe9a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_84d7f3116e4b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Dueling Victory Day ceasefires for war in Ukraine collapse almost immediately",
-      "dek": "submitted by /u/miauguau44 [link] [comments]",
-      "body": "submitted by /u/miauguau44 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-09T02:43:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t7sicu/dueling_victory_day_ceasefires_for_war_in_ukraine/",
-      "image": "https://external-preview.redd.it/YtZX3C01uyYgBmOLSt7o4lHS7sNHf_a5qmyaTncUGoc.jpeg?width=640&crop=smart&auto=webp&s=8bf5563851a52985d33839634275621616cb06dd",
       "imageCredit": "Image via original publisher"
     }
   ]
