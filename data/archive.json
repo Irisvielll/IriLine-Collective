@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_13a73e4420ea",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "dek": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
+      "body": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-09T14:03:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3b5/live/f0d37a60-4bae-11f1-a339-0992e1239801.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_bd2d720b5d99",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-05T22:42:23+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t4uwv3/the_super_mario_galaxy_movie_wasnt_localized_from/",
       "image": "https://external-preview.redd.it/StWgwywqTPWRKvirR2NWMTSZatW9khH9KMJ_MNOC8F4.jpeg?width=640&crop=smart&auto=webp&s=51287cd91e41f5d22c36893ac917553587fdfcc7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ec4b9939214f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
-      "dek": "As a spate of incidents in the Strait of Hormuz test the ceasefire, an Iranian official says, \"We are just getting started\".",
-      "body": "As a spate of incidents in the Strait of Hormuz test the ceasefire, an Iranian official says, \"We are just getting started\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-05T22:17:44+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a6/live/c3091050-48ce-11f1-8ab6-0772c697a4ec.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
