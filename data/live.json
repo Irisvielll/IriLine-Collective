@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-09T21:02:55+00:00",
+  "generatedAt": "2026-05-09T22:01:40+00:00",
   "items": [
+    {
+      "id": "meme_c11d02cce08b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The End of Involuntary Electroshock in Connecticut",
+      "dek": "submitted by /u/Old-Dirt563 [link] [comments]",
+      "body": "submitted by /u/Old-Dirt563 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-09T21:48:35+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t8o4ne/the_end_of_involuntary_electroshock_in_connecticut/",
+      "image": "https://external-preview.redd.it/dYjTKpVDay2-ZGzlQn5tBYUuUX8dxcL0rxxykHNaiNE.jpeg?width=640&crop=smart&auto=webp&s=42b0cbf638c016035ee48c6ef0751bf919e511b5",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_bfaa35621ad2",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-09T19:45:15+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t8hefd/man_smashes_through_wall_at_punxsutawney_hospital/",
       "image": "https://external-preview.redd.it/z4SugDtVYU8cH9TVWNArQ_XKv-BaTCThFbAPakz8MxU.jpeg?width=320&crop=smart&auto=webp&s=4bbe897c307eb712eb8800ed7a4846eb9ebc1e3b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_183fab66c55f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mexican parents criticise ending school year a month early for World Cup",
-      "dek": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
-      "body": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-09T19:40:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb16/live/f878bfa0-4bdb-11f1-b55d-0f258dce1735.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

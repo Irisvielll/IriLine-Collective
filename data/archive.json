@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_183fab66c55f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mexican parents criticise ending school year a month early for World Cup",
+      "dek": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
+      "body": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-09T19:40:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb16/live/f878bfa0-4bdb-11f1-b55d-0f258dce1735.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a58d3de19ab3",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-06T06:39:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbdd/live/57504f40-4923-11f1-b55d-0f258dce1735.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_838db69165ef",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-      "dek": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
-      "body": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-06T04:53:31+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e87/live/c1ed0290-47c9-11f1-9368-6d6a6ae2e6a7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
