@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-10T13:55:56+00:00",
+  "generatedAt": "2026-05-10T14:55:52+00:00",
   "items": [
+    {
+      "id": "latest_693a34ad9a1f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bread dresses and gowns inspired by cathedrals at Nigeria fashion spectacle",
+      "dek": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
+      "body": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-10T14:29:45+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4803/live/a9f52620-4c7b-11f1-8898-83029ebf7f92.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_52a0b4fc9a96",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-10T12:47:01+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t960gw/email_from_susie_wiles_warning_white_house_staff/",
       "image": "https://external-preview.redd.it/slNWGKmTvIT7SCxDsG31-c1jbzyxUigZa27c28RKkEI.jpeg?width=640&crop=smart&auto=webp&s=eb7587d0cbfb5708930000ae0858cb60eca3d36f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_67894ac14b6e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
-      "dek": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
-      "body": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-10T12:22:06+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6618/live/ae2197f0-4c5e-11f1-8823-efe9fd112af6.png",
       "imageCredit": "Image via original publisher"
     }
   ]
