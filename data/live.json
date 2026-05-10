@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T06:47:06+00:00",
+  "generatedAt": "2026-05-10T08:54:08+00:00",
   "items": [
     {
       "id": "latest_619484c875fa",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_5b7d9ad63df4",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_56a6cf72377b",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "How could extreme weather affect World Cup 2026?",
-      "dek": "With almost a month to go until the start of the World Cup Simon King looks ahead to the weather's potential to disrupt the tournament this summer.",
-      "body": "With almost a month to go until the start of the World Cup Simon King looks ahead to the weather's potential to disrupt the tournament this summer.",
+      "category": "SPORTS",
+      "title": "UFC 328 takeaways: Van cements his champ status; C...",
+      "dek": "Joshua Van is just getting started, whereas Khamzat Chimaev's middleweight run might be ending.",
+      "body": "Joshua Van is just getting started, whereas Khamzat Chimaev's middleweight run might be ending.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-05-10T02:56:30+00:00",
-      "sourceUrl": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a2/live/dbe0e370-4a25-11f1-bfb3-af42b3144659.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-05-10T03:00:09+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/48727632/ufc-328-takeaways-van-cements-champ-status-chimaev-deal-defeat",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_56a6cf72377b",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

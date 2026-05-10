@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_5b7d9ad63df4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How could extreme weather affect World Cup 2026?",
+      "dek": "With almost a month to go until the start of the World Cup Simon King looks ahead to the weather's potential to disrupt the tournament this summer.",
+      "body": "With almost a month to go until the start of the World Cup Simon King looks ahead to the weather's potential to disrupt the tournament this summer.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-10T02:56:30+00:00",
+      "sourceUrl": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a2/live/dbe0e370-4a25-11f1-bfb3-af42b3144659.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_0a03366a93ab",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-06T14:21:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t5ee2e/kash_patel_claims_ai_has_stopped_school_shootings/",
       "image": "https://external-preview.redd.it/mFCftb7QZ5qDNTyvoYIz34v-BpMVrQjqsVrHeUn11vk.png?width=640&crop=smart&auto=webp&s=d21614b7b63526b27be944a466dd8c771770c774",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_fb125430e6c9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Buddhist sect welcomes humanoid robot Gabi with precept ceremony",
-      "dek": "submitted by /u/RolePsychological890 [link] [comments]",
-      "body": "submitted by /u/RolePsychological890 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-06T14:20:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t5eci4/buddhist_sect_welcomes_humanoid_robot_gabi_with/",
-      "image": "https://external-preview.redd.it/Io6vgMOOSLSc8ZjnNLoBfJ6uiA0z8fhp8a1IgiYCcCs.jpeg?width=640&crop=smart&auto=webp&s=d4843d34c364e7c8f24f9c4eb0f9f1d3384ccb34",
       "imageCredit": "Image via original publisher"
     }
   ]
