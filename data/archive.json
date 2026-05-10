@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_56a6cf72377b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "UFC 328 takeaways: Van cements his champ status; C...",
+      "dek": "Joshua Van is just getting started, whereas Khamzat Chimaev's middleweight run might be ending.",
+      "body": "Joshua Van is just getting started, whereas Khamzat Chimaev's middleweight run might be ending.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-10T03:00:09+00:00",
+      "sourceUrl": "https://www.espn.com/mma/story/_/id/48727632/ufc-328-takeaways-van-cements-champ-status-chimaev-deal-defeat",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_56a6cf72377b",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_5b7d9ad63df4",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-06T14:26:15+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ba/live/72ac4170-4957-11f1-91ca-0f2f4e61b132.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7d1ebbc586bb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kash Patel claims AI has stopped school shootings: ‘I’m using it everywhere’",
-      "dek": "submitted by /u/yakitorispelling [link] [comments]",
-      "body": "submitted by /u/yakitorispelling [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-06T14:21:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t5ee2e/kash_patel_claims_ai_has_stopped_school_shootings/",
-      "image": "https://external-preview.redd.it/mFCftb7QZ5qDNTyvoYIz34v-BpMVrQjqsVrHeUn11vk.png?width=640&crop=smart&auto=webp&s=d21614b7b63526b27be944a466dd8c771770c774",
       "imageCredit": "Image via original publisher"
     }
   ]
