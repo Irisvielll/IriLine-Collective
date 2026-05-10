@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-10T18:05:37+00:00",
+  "generatedAt": "2026-05-10T19:33:10+00:00",
   "items": [
+    {
+      "id": "meme_e41bc6c87b87",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Scottish Green candidate launches fundraiser to help pay for UK work visa",
+      "dek": "submitted by /u/Skrilli [link] [comments]",
+      "body": "submitted by /u/Skrilli [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-10T19:18:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t9g4zr/scottish_green_candidate_launches_fundraiser_to/",
+      "image": "https://external-preview.redd.it/OoHFRYQvDP-xAO8gHCPuScKNaqYpnL7PzuPZo1_Cqgw.jpeg?width=640&crop=smart&auto=webp&s=f2dd73655a3a7d18a72a79fb53f5bb123e9866ff",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_1f5cd71aa7e4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Small Georgia town reinstates police officers and department 2 days after the mayor fired them all",
+      "dek": "submitted by /u/DavidShaw90s [link] [comments]",
+      "body": "submitted by /u/DavidShaw90s [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-10T18:42:52+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t9f6g9/small_georgia_town_reinstates_police_officers_and/",
+      "image": "https://external-preview.redd.it/WkWoWc2yP2ggQLiB51r2fnWtdu4mz5Q7aArSg1JbTCo.jpeg?width=640&crop=smart&auto=webp&s=a1c1b35d1223eced20c9caf2ea63f7899615a274",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_bf7a110d0ce8",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t9dv6e/sydney_sweeneys_euphoria_sex_worker_is_really/",
       "image": "https://external-preview.redd.it/0vMhl5KO82xhYxbZLJ7xvZnA27UwsG8K-FwVOly_pPY.jpeg?width=640&crop=smart&auto=webp&s=388f5d49ea7d15327561015e67388e4daa11601b",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_693a34ad9a1f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bread dresses and gowns inspired by cathedrals at Nigeria fashion spectacle",
-      "dek": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
-      "body": "Celebrities, filmmakers and creators put up a performance at Africa's biggest night of film and fashion.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-10T14:29:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4803/live/a9f52620-4c7b-11f1-8898-83029ebf7f92.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_92b4551397fc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Arsenal near title after Trossard goal, VAR escape...",
-      "dek": "Arsenal took a giant leap towards a first Premier League title in 20 years after beating West Ham 1-0 at the London Stadum on Sunday.",
-      "body": "Arsenal took a giant leap towards a first Premier League title in 20 years after beating West Ham 1-0 at the London Stadum on Sunday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-10T13:44:22+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/740955",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_92b4551397fc",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
