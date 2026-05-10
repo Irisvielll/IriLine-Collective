@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "sports_0a03366a93ab",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Strickland stuns bitter rival Chimaev for UFC titl...",
+      "dek": "Sean Strickland dethroned the previously unbeaten Khamzat Chimaev in a razor-close split decision at UFC 238 for the middleweight championship.",
+      "body": "Sean Strickland dethroned the previously unbeaten Khamzat Chimaev in a razor-close split decision at UFC 238 for the middleweight championship.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-10T02:11:26+00:00",
+      "sourceUrl": "https://www.espn.com/mma/ufc/story/_/id/48728368/strickland-stuns-chimaev-ufc-middleweight-title",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0a03366a93ab",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_84adea973d18",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Avs pull Wedgewood, 'have a decision to make'",
+      "dek": "Adversity has hit the Colorado Avalanche, who suffered their first loss of the postseason Saturday night, and had to pull starting goaltender Scott Wedgewood af",
+      "body": "Adversity has hit the Colorado Avalanche, who suffered their first loss of the postseason Saturday night, and had to pull starting goaltender Scott Wedgewood after he allowed a third goal on just 12 shots in 24:23 against Minnesota.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-10T02:11:26+00:00",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48728526/avalanche-replace-wedgewood-blackwood-game-3-loss",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_84adea973d18",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_29f87638e1ab",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-05-06T14:20:18+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t5eci4/buddhist_sect_welcomes_humanoid_robot_gabi_with/",
       "image": "https://external-preview.redd.it/Io6vgMOOSLSc8ZjnNLoBfJ6uiA0z8fhp8a1IgiYCcCs.jpeg?width=640&crop=smart&auto=webp&s=d4843d34c364e7c8f24f9c4eb0f9f1d3384ccb34",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_26220ab1bb06",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man who donated his mother’s body to a center for Alzheimer’s research, discovers it was sold to the US military for $6,000, strapped to a chair, and blown up in a ‘blast test’",
-      "dek": "submitted by /u/Droppin_Bombs [link] [comments]",
-      "body": "submitted by /u/Droppin_Bombs [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-06T14:19:15+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t5ebhk/man_who_donated_his_mothers_body_to_a_center_for/",
-      "image": "https://external-preview.redd.it/xGTLCLdk3GYJ2o1wn62q3e_gk5uCcaMztvcQNc8bQbc.png?width=640&crop=smart&auto=webp&s=f559d5d3b7238783ac6fc67dc0e32ccab70582a0",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_6f1ec5798f8f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "FBI director Kash Patel claims AI has stopped school shootings: ‘I’m using it everywhere’",
-      "dek": "submitted by /u/ChocolateTsar [link] [comments]",
-      "body": "submitted by /u/ChocolateTsar [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-06T14:16:55+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1t5e95f/fbi_director_kash_patel_claims_ai_has_stopped/",
-      "image": "https://external-preview.redd.it/mFCftb7QZ5qDNTyvoYIz34v-BpMVrQjqsVrHeUn11vk.png?width=640&crop=smart&auto=webp&s=d21614b7b63526b27be944a466dd8c771770c774",
       "imageCredit": "Image via original publisher"
     }
   ]
