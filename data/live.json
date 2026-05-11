@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-11T18:58:07+00:00",
+  "generatedAt": "2026-05-11T20:49:13+00:00",
   "items": [
+    {
+      "id": "meme_1405c7ff0ca7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Lorry sent to repair rural potholes … gets stuck in a pothole",
+      "dek": "submitted by /u/Sufficient-Bonus-961 [link] [comments]",
+      "body": "submitted by /u/Sufficient-Bonus-961 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-11T20:02:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1taeol3/lorry_sent_to_repair_rural_potholes_gets_stuck_in/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_1405c7ff0ca7",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "latest_18bdd87bfffe",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-11T18:17:34+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ea0f05ba3152",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US passengers from ship quarantined as officials say public risk 'very low'",
-      "dek": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
-      "body": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-11T17:17:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d9b/live/a1fc43f0-4d51-11f1-a556-3191549e7ed9.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
