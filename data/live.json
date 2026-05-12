@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-12T00:11:09+00:00",
+  "generatedAt": "2026-05-12T04:06:22+00:00",
   "items": [
+    {
+      "id": "latest_981cd1776f66",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
+      "dek": "David Malpass also said that Beijing's claim to be a developing nation is no longer credible.",
+      "body": "David Malpass also said that Beijing's claim to be a developing nation is no longer credible.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-12T03:40:29+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/695d/live/496c2800-4daa-11f1-a2b3-e5c6e523fa77.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d79122a91175",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_6eb09d249197",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Wesley Dingus",
-      "dek": "submitted by /u/Jiveassmofo [link] [comments]",
-      "body": "submitted by /u/Jiveassmofo [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-11T22:05:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tai337/wesley_dingus/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_6eb09d249197",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_b35303ad9d4c",
+      "id": "latest_9c29db4e06a3",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "South African president says he will not step down after impeachment call",
-      "dek": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
-      "body": "President Cyril Ramaphosa said he would not resign on Monday evening after days of speculation.",
+      "title": "US in closely-guarded talks to open new bases in Greenland",
+      "dek": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
+      "body": "It is seeking to open three bases in the south of the Arctic territory, according to multiple officials familiar with the talks.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-05-11T21:44:20+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4cb/live/b037b6f0-4d80-11f1-8969-a5026beeba5c.jpg",
+      "publishedAt": "2026-05-11T23:56:11+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d5/live/8f903210-4b1e-11f1-bd52-e755d604ece4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
