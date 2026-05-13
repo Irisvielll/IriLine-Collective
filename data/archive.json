@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6af252ecd2ea",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Philippine Senate in lockdown after gunshots fired",
+      "dek": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge.",
+      "body": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-13T15:04:16+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c51/live/430c22c0-4ed7-11f1-91ee-f79d495dca9f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_59cf42ee8a74",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -103,6 +118,21 @@
       "publishedAt": "2026-05-13T13:40:14+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tbzzyl/five_iraqi_players_denied_visas_just_a_month/",
       "image": "https://external-preview.redd.it/U9VopHFrF8IQ_uRFCYRQvdUBwj2hgR-DCKWg4Rq0gaA.jpeg?width=640&crop=smart&auto=webp&s=2a980705777d03aab6c69ac6e014fa0973bd4dba",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_4ce1b2271cef",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+      "dek": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+      "body": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-13T13:37:53+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8257/live/fa538c50-42d6-11f1-bd52-e755d604ece4.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-05-09T15:03:57+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/48722844/harbaugh-call-odell-beckham-jr-wait-training-camp",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1c334a9e8a6e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_de94a72ed9e7",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Guardians land Gold Glove C Bailey from Giants",
-      "dek": "The Guardians have acquired catcher Patrick Bailey from the Giants in return for the No. 29 pick in this year's MLB draft and pitching prospect Matt Wilkinson.",
-      "body": "The Guardians have acquired catcher Patrick Bailey from the Giants in return for the No. 29 pick in this year's MLB draft and pitching prospect Matt Wilkinson.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-09T15:03:57+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48721649/guardians-acquire-gold-glove-catcher-bailey-giants",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_de94a72ed9e7",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_75b5d3bf4bbe",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "A May MLB trade!? Grading deal sending Patrick Bai...",
-      "dek": "Cleveland acquired an elite defensive catcher from San Francisco. Which side fared best in the surprising swap?",
-      "body": "Cleveland acquired an elite defensive catcher from San Francisco. Which side fared best in the surprising swap?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-09T14:37:10+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48722469/mlb-2026-trade-grades-patrick-bailey-cleveland-guardians-san-francisco-giants-report-card",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_75b5d3bf4bbe",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
