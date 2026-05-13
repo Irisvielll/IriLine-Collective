@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_bd5fbf6173f1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russian governor suggests 'explosive device' caused commuter train derailment, then edits it out",
+      "dek": "submitted by /u/duckanroll [link] [comments]",
+      "body": "submitted by /u/duckanroll [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-13T19:21:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tc9x0s/russian_governor_suggests_explosive_device_caused/",
+      "image": "https://external-preview.redd.it/jEjgzIj6Z_xnnncWf63fOC93N4IZ3B2hHF_iKjQ_wFk.png?width=640&crop=smart&auto=webp&s=d78bba759aea04a6dd5e6419bda8455509a520c8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_cfd61028b5b8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/mma/story/_/id/48725711/jose-ochoa-ufc-328-proposal",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b5616739edac",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_bfaa35621ad2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "dek": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "body": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-09T19:49:49+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/014d/live/7398ef90-4bc1-11f1-8bbe-110a0d5a715a.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
