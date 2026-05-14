@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_5dfb42449e6b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Town of Allegany is reminding residents to not fire cannons",
+      "dek": "submitted by /u/shrodikan [link] [comments]",
+      "body": "submitted by /u/shrodikan [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-13T22:21:11+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tcexvu/town_of_allegany_is_reminding_residents_to_not/",
+      "image": "https://external-preview.redd.it/NfecQcncUSPVwDdaOfG1_qoHvnXP-mYksWM2kB2RmJY.jpeg?width=640&crop=smart&auto=webp&s=7da7accc4014a0a3238c98a2a604005e93234a5e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_0afc1d3a8ae0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Iran asks FIFA to ban Pride flags at its World Cup matches",
+      "dek": "submitted by /u/Purple_Writing_8432 [link] [comments]",
+      "body": "submitted by /u/Purple_Writing_8432 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-13T22:03:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tcehb1/iran_asks_fifa_to_ban_pride_flags_at_its_world/",
+      "image": "https://external-preview.redd.it/mDurplW8W0aOc0DiTWngsQPGiiSOoUEZ13TdxCyf6jI.jpeg?width=640&crop=smart&auto=webp&s=226b463443eeb0857dad24814ff8b9c340bfeadb",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_25080f830efd",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ecc/live/304aa9b0-4bfb-11f1-ac78-2112837ce2aa.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_d9226c691535",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "OKC improves to 7-0 after blitzing L.A. in Game 3",
-      "dek": "The Thunder improved to 7-0 in the playoffs after running away from the Lakers in the third quarter of Game 3 to take a 3-0 series lead.",
-      "body": "The Thunder improved to 7-0 in the playoffs after running away from the Lakers in the third quarter of Game 3 to take a 3-0 series lead.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-10T00:10:15+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48727515/thunder-blow-lakers-game-3-improve-7-0-playoffs",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d9226c691535",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_59404549e8cd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Kerr agrees to 2-year deal to stay with Warriors",
-      "dek": "Steve Kerr agreed to a two-year contract to return as head coach of the Golden State Warriors, Dan Eveloff and Rick Smith of Priority Sports told ESPN on Saturd",
-      "body": "Steve Kerr agreed to a two-year contract to return as head coach of the Golden State Warriors, Dan Eveloff and Rick Smith of Priority Sports told ESPN on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-10T00:10:15+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/48724788/steve-kerr-agrees-2-year-deal-remain-warriors",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_59404549e8cd",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
