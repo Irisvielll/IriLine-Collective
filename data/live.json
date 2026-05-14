@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-14T22:11:48+00:00",
+  "generatedAt": "2026-05-14T23:12:17+00:00",
   "items": [
+    {
+      "id": "meme_43261736f418",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "CDC not requiring hantavirus cruise passengers to isolate at home",
+      "dek": "submitted by /u/BillWilberforce [link] [comments]",
+      "body": "submitted by /u/BillWilberforce [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-14T22:53:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tde2hu/cdc_not_requiring_hantavirus_cruise_passengers_to/",
+      "image": "https://external-preview.redd.it/e7vyKgzqRVqe2OnVDYJDRga2Hj5DIAXxV57tQ2qzxnk.jpeg?width=640&crop=smart&auto=webp&s=8da8695ccf845e3fb999c530439711ba9dab6ae7",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_95e35673ef2f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-14T21:10:35+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tdbfcg/alberta_mounties_apprehend_fox_with_stolen_hot/",
       "image": "https://external-preview.redd.it/kRwPEghDZe-gqAC-XsidOjQ6DK_nQ99YZiii68UpLaE.jpeg?width=640&crop=smart&auto=webp&s=1bf0e1b6e0a5369142b37a74afe152a2e931eabc",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_025c8e1a7e94",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Five Italians die during cave dive in Maldives",
-      "dek": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
-      "body": "Italy says the incident happened at a depth of 50m. Maldivian rescuers have so far found one body.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-14T20:48:26+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c108/live/0e164e80-4fd4-11f1-a2ac-8711222752cc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
