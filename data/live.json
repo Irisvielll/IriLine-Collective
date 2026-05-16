@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-15T23:12:09+00:00",
+  "generatedAt": "2026-05-16T00:07:30+00:00",
   "items": [
+    {
+      "id": "meme_5001b2e449df",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+      "dek": "submitted by /u/DistortedCrag [link] [comments]",
+      "body": "submitted by /u/DistortedCrag [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-15T23:31:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tectuy/cisco_announces_record_revenue_and_4000_layoffs/",
+      "image": "https://external-preview.redd.it/MKFnT4RuhbNbaMIYbVdwwoQsxtWwZBelI5vMd-aHEcQ.jpeg?width=640&crop=smart&auto=webp&s=71cb8cf3f52745900c790109b9a8e5fa25e3fe76",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_475b2d4fb1b0",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-15T22:35:23+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tebguu/indonesian_police_opened_fire_during_a_high/",
       "image": "https://external-preview.redd.it/eFWXuyqMY5P_Jo5FYIZHrE2Bts_hveOjzPQEWpSJG8A.png?width=640&crop=smart&auto=webp&s=baab87d24df3a269dc57bf0e6f57a2b2e836ba09",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7f5675b19da7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-      "dek": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
-      "body": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-15T21:17:05+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb5/live/e66605e0-508e-11f1-89a3-d1f559421220.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
