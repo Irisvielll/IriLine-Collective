@@ -61,6 +61,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_5c230d8f594d",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Celebrini shines as Canada blanks Italy at worlds",
+      "dek": "Macklin Celebrini scored twice and added an assist as Canada improved to 2-0 at the world championships with a 6-0 victory over Italy.",
+      "body": "Macklin Celebrini scored twice and added an assist as Canada improved to 2-0 at the world championships with a 6-0 victory over Italy.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-16T13:40:15+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/hockey/story/_/id/48788247/macklin-celebrini-nets-2-canada-shuts-italy-worlds",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5c230d8f594d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_8432a44afb52",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -88,6 +103,21 @@
       "publishedAt": "2026-05-16T12:57:04+00:00",
       "sourceUrl": "https://www.espn.com/golf/story/_/id/48783284/pga-championship-2026-third-round-sights-sounds-best-shots",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3fd0820fc640",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "sports_d05f7b7d3cfe",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Takeaways: Spurs close out Timberwolves",
+      "dek": "Here's what we've learned from the Wolves-Spurs series.",
+      "body": "Here's what we've learned from the Wolves-Spurs series.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-16T12:15:39+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48676289/2026-nba-playoffs-conference-semifinals-round-2-takeaways",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d05f7b7d3cfe",
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-05-13T02:54:59+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tbn3jh/solar_developer_seeks_connection_to_wrong/",
       "image": "https://external-preview.redd.it/SSzBkfcFEhqWCaGo5gQvfhLw6YbHEhqO5hD1e122xaI.jpeg?width=640&crop=smart&auto=webp&s=426425dbf7eedd1c7ee7d735ac024bc134c89e7a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d6a772e8fc96",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-      "dek": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.",
-      "body": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-13T01:59:53+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f040/live/d4bf8df0-4e5b-11f1-9305-3566b5d14ae1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_6cf5b5f1e732",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Vendors at Alligator Alcatraz told the immigration detention center is closing",
-      "dek": "submitted by /u/CircumspectCapybara [link] [comments]",
-      "body": "submitted by /u/CircumspectCapybara [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-13T01:56:52+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tblso4/vendors_at_alligator_alcatraz_told_the/",
-      "image": "https://external-preview.redd.it/TGzr9T_3VI7DU59uH2tVlEk7Ro9XYgFuyKxdpMMgI4Y.jpeg?width=640&crop=smart&auto=webp&s=38faa69b6c03a4798921c90afbd07af68d63c2d0",
       "imageCredit": "Image via original publisher"
     }
   ]
