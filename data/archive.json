@@ -16,6 +16,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "sports_b7284fbd7306",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Manchester City celebrate WSL success as Shaw says...",
+      "dek": "Manchester City beat West Ham and celebrated their Women's Super League title, while Bunny Shaw said goodbye with two key goals.",
+      "body": "Manchester City beat West Ham and celebrated their Women's Super League title, while Bunny Shaw said goodbye with two key goals.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-16T12:04:12+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48786462/manchester-city-celebrate-wsl-success-shaw-says-goodbye-perfect-way",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b7284fbd7306",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_c62d988ef397",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/boxing/story/_/id/21675272/divisional-rankings-best-top-10-fighters-per-division",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a2db51e28983",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_faa69aae94fb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
-      "dek": "Collins shared late last year that he had been diagnosed with an aggressive form of brain cancer.",
-      "body": "Collins shared late last year that he had been diagnosed with an aggressive form of brain cancer.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-13T00:40:54+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f53/live/0b673990-4e5f-11f1-b3b3-0b50bfaa6ecf.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
