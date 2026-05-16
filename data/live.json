@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-16T06:34:15+00:00",
+  "generatedAt": "2026-05-16T08:27:33+00:00",
   "items": [
+    {
+      "id": "latest_f5b578280024",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man killed by 13ft great white shark in Western Australia",
+      "dek": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
+      "body": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-16T07:04:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3951/live/8a118df0-50f2-11f1-93a7-b1fded84e358.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_687195a96b1d",
       "section": "latest",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_5001b2e449df",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
-      "dek": "submitted by /u/DistortedCrag [link] [comments]",
-      "body": "submitted by /u/DistortedCrag [link] [comments]",
+      "id": "latest_ae72e8534313",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+      "dek": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
+      "body": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-05-15T23:31:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tectuy/cisco_announces_record_revenue_and_4000_layoffs/",
-      "image": "https://external-preview.redd.it/MKFnT4RuhbNbaMIYbVdwwoQsxtWwZBelI5vMd-aHEcQ.jpeg?width=640&crop=smart&auto=webp&s=71cb8cf3f52745900c790109b9a8e5fa25e3fe76",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_475b2d4fb1b0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man spends millions chasing immortality and publishes everything he learned. The internet is not sure whether to laugh or tell him to ask for a refund",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-15T22:50:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tebudj/man_spends_millions_chasing_immortality_and/",
-      "image": "https://external-preview.redd.it/9swcyFevA_OACJVBd1m0Xc_aM3imtFkGKre9FZ3h2HE.jpeg?width=640&crop=smart&auto=webp&s=7129b694c3ef72a9276bdc5b8c4820e4c4c17220",
+      "publishedAt": "2026-05-16T01:37:27+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7816/live/82d5a7f0-50bc-11f1-a365-3d2203a67fc4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
