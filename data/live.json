@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-16T04:02:17+00:00",
+  "generatedAt": "2026-05-16T06:34:15+00:00",
   "items": [
+    {
+      "id": "latest_687195a96b1d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump says senior IS leader killed by US and Nigerian forces",
+      "dek": "The US president says the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "body": "The US president says the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-16T06:26:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5001b2e449df",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-15T22:50:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tebudj/man_spends_millions_chasing_immortality_and/",
       "image": "https://external-preview.redd.it/9swcyFevA_OACJVBd1m0Xc_aM3imtFkGKre9FZ3h2HE.jpeg?width=640&crop=smart&auto=webp&s=7129b694c3ef72a9276bdc5b8c4820e4c4c17220",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9f5d8b5397f2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Indonesian police opened fire during a high school graduation parade in West Papua when the banned Morning Star flag was displayed.",
-      "dek": "submitted by /u/Mean_Yak5873 [link] [comments]",
-      "body": "submitted by /u/Mean_Yak5873 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-15T22:35:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tebguu/indonesian_police_opened_fire_during_a_high/",
-      "image": "https://external-preview.redd.it/eFWXuyqMY5P_Jo5FYIZHrE2Bts_hveOjzPQEWpSJG8A.png?width=640&crop=smart&auto=webp&s=baab87d24df3a269dc57bf0e6f57a2b2e836ba09",
       "imageCredit": "Image via original publisher"
     }
   ]
