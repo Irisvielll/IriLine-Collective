@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-17T10:50:52+00:00",
+  "generatedAt": "2026-05-17T11:59:52+00:00",
   "items": [
+    {
+      "id": "meme_dec87155297f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Cops used chewing gum to match murder suspect’s DNA in cold cases",
+      "dek": "submitted by /u/DavidShaw90s [link] [comments]",
+      "body": "submitted by /u/DavidShaw90s [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-17T10:56:47+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tfm90t/cops_used_chewing_gum_to_match_murder_suspects/",
+      "image": "https://external-preview.redd.it/UXHcstBInUrG9Wtmb9YvDMacdbdYS-IBLtzkuUvJMxY.jpeg?width=640&crop=smart&auto=webp&s=d80bbbe8fcd7353d989394b638e3cd1350668578",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c33a8d587501",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tfiwtb/14_year_old_kid_goes_on_joyride_in_stolen_buss/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_6749480410aa",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_51a0fc426cd9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "dek": "In Ukraine, local officials report eight injured in overnight Russian drone strikes and shelling.",
-      "body": "In Ukraine, local officials report eight injured in overnight Russian drone strikes and shelling.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-17T07:21:03+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/043b/live/04a83f80-51bd-11f1-a61d-97b09d8870ae.png",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
