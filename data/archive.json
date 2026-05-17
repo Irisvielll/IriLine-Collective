@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_f44e93abad58",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Omaha bar is not a barbershop, State Barber Board tells a bar named 'Barber Shop'",
+      "dek": "submitted by /u/DavidShaw90s [link] [comments]",
+      "body": "submitted by /u/DavidShaw90s [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-17T14:09:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tfqlxc/omaha_bar_is_not_a_barbershop_state_barber_board/",
+      "image": "https://external-preview.redd.it/8y-w4R93-7aqbzFe0klOLQfsPm44nHExovixpbitqBE.jpeg?width=640&crop=smart&auto=webp&s=40c5765658316b00880f836dd7c62c2107dc3ea4",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_6a6d427c5229",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "White House to host mass prayer event to promote Christian origins of the US",
+      "dek": "The boys are getting so accurate. I think the American president might take the next step... submitted by /u/InvestigatorSoft5764 [link] [comments]",
+      "body": "The boys are getting so accurate. I think the American president might take the next step... submitted by /u/InvestigatorSoft5764 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-17T13:39:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tfptyv/white_house_to_host_mass_prayer_event_to_promote/",
+      "image": "https://external-preview.redd.it/TWVuFJIg0zLk-hkE0k4QH-HZ6KDap8P66Z-18UCQhm8.jpeg?width=640&crop=smart&auto=webp&s=ba6efe58d8c563804e02d672ca38d8e5daa17c83",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b68885ae450f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tc73qd/town_of_allegany_is_reminding_residents_to_not/",
       "image": "https://external-preview.redd.it/NfecQcncUSPVwDdaOfG1_qoHvnXP-mYksWM2kB2RmJY.jpeg?width=640&crop=smart&auto=webp&s=7da7accc4014a0a3238c98a2a604005e93234a5e",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8aa4ab591a5c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "dek": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
-      "body": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-13T15:20:58+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b26/live/5b3c6660-4edd-11f1-88a2-2b60a3feece0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c96dfb1e6707",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Trump admin waves visa bonds for World Cup fans",
-      "dek": "The Trump administration is suspending a requirement that foreign visitors from certain countries pay as much as $15,000 in bonds as long as they are confirmed ",
-      "body": "The Trump administration is suspending a requirement that foreign visitors from certain countries pay as much as $15,000 in bonds as long as they are confirmed World Cup ticket holders.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-13T15:20:55+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48760094/2026-world-cup-visa-bonds-tickets-fans-trump-administration",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c96dfb1e6707",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
