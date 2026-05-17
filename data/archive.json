@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1f72020e97b2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+      "dek": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
+      "body": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-17T03:23:08+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a2c/live/abce2a10-5198-11f1-b57e-4930d304e43a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fe6a4325b973",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-13T10:39:59+00:00",
       "sourceUrl": "https://www.espn.com/mlb/story/_/id/48750180/mlb-mlbpa-labor-battle-cba-salary-cap-players-union-manfred-negotiations-faq",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9240c4aade98",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_a9b37911e8e8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "A new sense of urgency in the Bronx? For Aaron Jud...",
-      "dek": "Amid mounting pressure to end his team's title drought, the Yankees' captain is keeping his expectations -- and his numbers at the plate -- sky-high.",
-      "body": "Amid mounting pressure to end his team's title drought, the Yankees' captain is keeping his expectations -- and his numbers at the plate -- sky-high.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-13T10:39:59+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48751272/mlb-2026-aaron-judge-new-york-yankees-urgency-captain-world-series-legacy",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a9b37911e8e8",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
