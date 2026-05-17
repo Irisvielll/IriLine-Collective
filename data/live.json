@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-17T01:24:12+00:00",
+  "generatedAt": "2026-05-17T05:09:54+00:00",
   "items": [
+    {
+      "id": "meme_05f2873fffa8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Eye drops made from pig semen deliver cancer treatment to mice",
+      "dek": "Jiansong Zhao et al. ,Harnessing semen-derived exosomes for noninvasive fundus drug delivery: A paradigm for exosome-based ocular fundus therapeutics.Sci. Adv.1",
+      "body": "Jiansong Zhao et al. ,Harnessing semen-derived exosomes for noninvasive fundus drug delivery: A paradigm for exosome-based ocular fundus therapeutics.Sci. Adv.12,eadw7275(2026).DOI:10.1126/sciadv.adw7275 submitted by /u/Fundoscope [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-17T01:23:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tfbdvx/eye_drops_made_from_pig_semen_deliver_cancer/",
+      "image": "https://external-preview.redd.it/WAKjGnP_hHzFD4Zr5UCEvNgvubx_irvVlCCq3wRVNs8.jpeg?width=640&crop=smart&auto=webp&s=bdbcf16e2451d6474737a124a637d48485a26abd",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_fb33111b9ccb",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-16T23:29:19+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tf8wjg/humpback_whale_released_after_spectacular_rescue/",
       "image": "https://external-preview.redd.it/bYZzvaGe8gb-camUinpE5wUBKe-GkZOHLVxE-bKL4Io.jpeg?width=640&crop=smart&auto=webp&s=0cd4488ba96938d8166b35f516f34bc456149628",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c9e28e66cb1f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
-      "dek": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
-      "body": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-16T23:15:30+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ff/live/376628f0-506f-11f1-8c42-ed39d04e1525.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
