@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-17T09:24:22+00:00",
+  "generatedAt": "2026-05-17T10:50:52+00:00",
   "items": [
+    {
+      "id": "meme_c33a8d587501",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Judge bars Kars4Kids from advertising in California, saying it misled donors about Orthodox Jewish mission",
+      "dek": "submitted by /u/yuval_3 [link] [comments]",
+      "body": "submitted by /u/yuval_3 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-17T09:26:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tfkmcq/judge_bars_kars4kids_from_advertising_in/",
+      "image": "https://external-preview.redd.it/mr_x-lbxRh0v_FwTey8tu4BRVfOH9kEVPbbvG6N4Mbc.jpeg?width=640&crop=smart&auto=webp&s=f2950e61c7763421957ac33e6c035a6a84079bee",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6749480410aa",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-17T07:21:03+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/043b/live/04a83f80-51bd-11f1-a61d-97b09d8870ae.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cacb67b04df2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-      "dek": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-      "body": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-17T07:08:26+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/7be494d0-51be-11f1-a61d-97b09d8870ae.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
