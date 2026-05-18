@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-18T20:46:56+00:00",
+  "generatedAt": "2026-05-18T22:03:19+00:00",
   "items": [
+    {
+      "id": "latest_83a35b21a70e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+      "dek": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+      "body": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-18T21:09:07+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4744ffa79046",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-18T20:25:42+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f0/live/35981a80-52f2-11f1-93ce-6b7334a653b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_75a8a80dc595",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Joel Osteen says people \"make stuff up\" about his wealth, says Ye went \"a little off course\"",
-      "dek": "submitted by /u/ottodaotterdaughter [link] [comments]",
-      "body": "submitted by /u/ottodaotterdaughter [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-18T19:45:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tgywod/joel_osteen_says_people_make_stuff_up_about_his/",
-      "image": "https://external-preview.redd.it/YR6hwpuA-42FFKT3ys-LTfJYWf3MbVaNNZzZ2zqqGz4.jpeg?width=640&crop=smart&auto=webp&s=5a16176bc1fee9670fcd1e9e7d71ebe936a58abc",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_75a8a80dc595",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Joel Osteen says people \"make stuff up\" about his wealth, says Ye went \"a little off course\"",
+      "dek": "submitted by /u/ottodaotterdaughter [link] [comments]",
+      "body": "submitted by /u/ottodaotterdaughter [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-18T19:45:57+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tgywod/joel_osteen_says_people_make_stuff_up_about_his/",
+      "image": "https://external-preview.redd.it/YR6hwpuA-42FFKT3ys-LTfJYWf3MbVaNNZzZ2zqqGz4.jpeg?width=640&crop=smart&auto=webp&s=5a16176bc1fee9670fcd1e9e7d71ebe936a58abc",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_92621754a851",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-14T19:05:39+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48772434/nba-officials-no-call-cavs-pistons-game-5-was-correct",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8818added8cd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e660a1cbceb0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Rahm apologizes for 'inexcusable' incident at PGA",
-      "dek": "Jon Rahm apologized for hitting a volunteer in the face and shoulder with a divot after he took a swing in frustration during the first round of the PGA Champio",
-      "body": "Jon Rahm apologized for hitting a volunteer in the face and shoulder with a divot after he took a swing in frustration during the first round of the PGA Championship on Thursday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-14T19:05:39+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/48772653/jon-rahm-apologizes-divot-anger-hits-volunteer-pga",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e660a1cbceb0",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
