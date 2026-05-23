@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T14:17:29+00:00",
+  "generatedAt": "2026-05-23T15:40:57+00:00",
   "items": [
     {
       "id": "latest_6bde31abdf98",
@@ -32,19 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_452279ac10af",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_5aba182d64e5",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Senegal's president sacks prime minister Sonko after months of tensions",
-      "dek": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
-      "body": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+      "category": "SPORTS",
+      "title": "Latvia stuns the U.S. 4-2 at ice hockey worlds",
+      "dek": "Sandis Vilmanis scored two empty-net goals to help Latvia upset the United States 4-2 for the defending champion's third loss at the ice hockey world championsh",
+      "body": "Sandis Vilmanis scored two empty-net goals to help Latvia upset the United States 4-2 for the defending champion's third loss at the ice hockey world championship.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-05-23T09:50:00+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a632/live/7be53410-567f-11f1-8b8c-6d33e1d5abb6.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-05-23T11:14:17+00:00",
+      "sourceUrl": "https://www.espn.com/olympics/hockey/story/_/id/48851602/latvia-hands-us-their-third-loss-ice-hockey-worlds",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5aba182d64e5",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
