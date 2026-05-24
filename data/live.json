@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-24T12:11:20+00:00",
+  "generatedAt": "2026-05-24T14:00:56+00:00",
   "items": [
+    {
+      "id": "meme_d5b8b592486c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Scottsbluff police respond to gunfire at convenience store after dog accidentally shoots person with a shotgun",
+      "dek": "submitted by /u/Wauwuaw5983 [link] [comments]",
+      "body": "submitted by /u/Wauwuaw5983 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-24T13:35:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tmcdws/scottsbluff_police_respond_to_gunfire_at/",
+      "image": "https://external-preview.redd.it/nBaifqtyP5SE8cB_3owVYjJvxU9v1FqF9dMCtbc0-VQ.jpeg?width=640&crop=smart&auto=webp&s=9cec99e87151ffbb591de8cee906ebc4f9bd1556",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_18a8ef7d04ce",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-24T11:48:02+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tm9zvd/disney_sued_over_new_facial_recognition/",
       "image": "https://external-preview.redd.it/_Zzr4HWO8sZNi16hfAr7Graz3wvpmNM4t2tkWlB-0gs.jpeg?width=320&crop=smart&auto=webp&s=38bcf38a905704134f34aa4ed68b508170585318",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3afae8575a78",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
-      "dek": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
-      "body": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-24T11:42:48+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d23/live/eb850c20-5763-11f1-877a-2941ddb55210.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
