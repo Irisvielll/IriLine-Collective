@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_92edced62503",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bay Area shelters cut ties with rescue after records claim dogs found shot, buried",
+      "dek": "submitted by /u/Ant-Tea-Social [link] [comments]",
+      "body": "submitted by /u/Ant-Tea-Social [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-24T15:11:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tmetvl/bay_area_shelters_cut_ties_with_rescue_after/",
+      "image": "https://external-preview.redd.it/ay3EJgIkxX9sqajoaOQbEvMbQ2fFLjkmHpEoNaaiE1o.jpeg?width=640&crop=smart&auto=webp&s=3a3ba2e220f9484e7cf45786887f9b39b652edf2",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_8b40fb44233f",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-21T01:30:16+00:00",
       "sourceUrl": "https://www.espn.com/espn/story/_/id/48830447/joey-chestnut-defend-hot-dog-title-probation",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_3815bdf045dd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_d3392dd766e8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "🏆 Inside Arsenal's 5-phase plan to win the PL tit...",
-      "dek": "Arsenal's Premier League title triumph has been years in the making. For the first time, ESPN can reveal the strategy which took them back to the top.",
-      "body": "Arsenal's Premier League title triumph has been years in the making. For the first time, ESPN can reveal the strategy which took them back to the top.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-21T01:30:16+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48823578/inside-arsenal-five-phase-plan-win-premier-league-title-mikel-arteta-edu",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d3392dd766e8",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
