@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-25T21:33:42+00:00",
+  "generatedAt": "2026-05-25T22:41:01+00:00",
   "items": [
+    {
+      "id": "meme_4e67a3cdf9fe",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Loose umbrella fatally strikes woman at Lake Marion restaurant, coroner says",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-25T22:32:35+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tno3x5/loose_umbrella_fatally_strikes_woman_at_lake/",
+      "image": "https://external-preview.redd.it/o-9-YjB-sVbsCNBJQsQbjXyiX0gFAxGv4Wz2blpZ9gE.jpeg?width=640&crop=smart&auto=webp&s=a86e23a8280ffb57328241a6b03ba841dfcfae4b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dd291d69090e",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-25T21:03:38+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tnluhj/loose_umbrella_fatally_strikes_woman_at_lake/",
       "image": "https://external-preview.redd.it/o-9-YjB-sVbsCNBJQsQbjXyiX0gFAxGv4Wz2blpZ9gE.jpeg?width=640&crop=smart&auto=webp&s=a86e23a8280ffb57328241a6b03ba841dfcfae4b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_09899fc24a0a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-      "dek": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
-      "body": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-25T20:11:59+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/495b/live/f1da04c0-586e-11f1-b682-cf91850925ea.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
