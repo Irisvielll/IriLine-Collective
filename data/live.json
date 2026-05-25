@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-25T16:31:22+00:00",
+  "generatedAt": "2026-05-25T18:15:00+00:00",
   "items": [
+    {
+      "id": "latest_a000b6c49a38",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "dek": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+      "body": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-25T17:42:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_e7912d3cc35c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Naked man shot, killed after emerging from Biloxi River, attacking Woolmarket man, police say",
+      "dek": "submitted by /u/GetOffMyGrassBrats [link] [comments]",
+      "body": "submitted by /u/GetOffMyGrassBrats [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-25T17:08:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tnfbm3/naked_man_shot_killed_after_emerging_from_biloxi/",
+      "image": "https://external-preview.redd.it/dnFPzPAQ59C2rpwhpdYFUZakaj9B-kd9J9u7ZWZQsp8.jpeg?width=640&crop=smart&auto=webp&s=02805af8cd2ecc4246af65b413eb52e4696e70c5",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2fc9af052c0d",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-05-25T16:21:04+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tndzrv/moscow_to_file_icj_complaint_over_baltic_states/",
       "image": "https://external-preview.redd.it/5AADa6CNuZzthiR9VCM-0_wTQgDu3V8vU-KkHHrkhQU.png?width=640&crop=smart&auto=webp&s=c301ef11ce32093a97e4538e8832d5f843ead807",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7962a175e41f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Men named Chris or talking animals more likely to be star of the film than older women",
-      "dek": "submitted by /u/InvestigatorSoft5764 [link] [comments]",
-      "body": "submitted by /u/InvestigatorSoft5764 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-25T16:10:38+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tndp5v/men_named_chris_or_talking_animals_more_likely_to/",
-      "image": "https://external-preview.redd.it/-HK1js2QlzTSnOp0ZIGmFJP32UYOruJC9G8tpPYrqbo.jpeg?width=108&crop=smart&auto=webp&s=c12e6e9a867126fcdb556f5368609417ec034b83",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c512b77f88e7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
-      "dek": "The suspect previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.",
-      "body": "The suspect previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-25T15:45:27+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b3/live/5b1dbf50-5737-11f1-9f3d-ad10f589a5a3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
