@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-25T23:45:54+00:00",
+  "generatedAt": "2026-05-26T03:37:35+00:00",
   "items": [
+    {
+      "id": "latest_33766ce72b5d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US military says it has launched new strikes on southern Iran",
+      "dek": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+      "body": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-26T02:44:19+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a6/live/298e0590-5899-11f1-a1da-d1d49c6758a7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_4ac80fdd3114",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+      "dek": "submitted by /u/VariationNo7977 [link] [comments]",
+      "body": "submitted by /u/VariationNo7977 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-26T01:00:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tnrkk9/citing_gandalf_pope_leo_says_we_must_disarm_ai/",
+      "image": "https://external-preview.redd.it/DGrBTKP9CwpPicAII7L63yBiJKwgYYZXFm-uzR0B8nc.jpeg?width=640&crop=smart&auto=webp&s=e77ad674e7af915e514f0e590174b65438d5d908",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4e67a3cdf9fe",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-05-25T22:32:35+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tno3x5/loose_umbrella_fatally_strikes_woman_at_lake/",
       "image": "https://external-preview.redd.it/o-9-YjB-sVbsCNBJQsQbjXyiX0gFAxGv4Wz2blpZ9gE.jpeg?width=640&crop=smart&auto=webp&s=a86e23a8280ffb57328241a6b03ba841dfcfae4b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_16c38f6e47ec",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump to undergo annual medical exam ahead of 80th birthday",
-      "dek": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
-      "body": "The BBC’s Bernd Debusmann explains the routine medical check of the president of the US.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-25T22:18:43+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c1j22wp5e6no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3776/live/14a6e330-5877-11f1-b682-cf91850925ea.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dd291d69090e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Mermaid for hire: Blue Zoo closure leaves Iowa mermaid out of work",
-      "dek": "submitted by /u/ia16309 [link] [comments]",
-      "body": "submitted by /u/ia16309 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-25T21:25:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tnmfc4/mermaid_for_hire_blue_zoo_closure_leaves_iowa/",
-      "image": "https://external-preview.redd.it/zZnHmJ3q6Tj5JFAvgXKEKjy78rmoM6qTO79q6KLoyAY.jpeg?width=640&crop=smart&auto=webp&s=1f86e6a46eec3e038c3ede9bcb33d9a694efeb53",
       "imageCredit": "Image via original publisher"
     }
   ]
