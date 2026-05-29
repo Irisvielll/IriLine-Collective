@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-05-29T07:41:17+00:00",
+  "generatedAt": "2026-05-29T10:58:58+00:00",
   "items": [
+    {
+      "id": "latest_42ed248789de",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+      "dek": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+      "body": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-29T10:38:46+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3d4/live/c55b7990-5b4a-11f1-a62b-2f41c7c3a318.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_80a3681ccc95",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "dek": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+      "body": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-29T10:34:23+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d19b/live/f7023e70-5b40-11f1-9f9e-2f9c8c5baaa2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_062def5ca9a5",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-05-29T07:09:04+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d9/live/a7082610-5b26-11f1-89a3-d1f559421220.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cef0585023eb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Moment 14-year-old wins US national spelling bee",
-      "dek": "A teenager from California has won the 2026 Scripps National Spelling Bee, after days of fierce competition.",
-      "body": "A teenager from California has won the 2026 Scripps National Spelling Bee, after days of fierce competition.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-29T06:38:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df2b/live/49ba0b50-5b1b-11f1-89a3-d1f559421220.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_73b583e822d9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
-      "dek": "submitted by /u/EchoOfOppenheimer [link] [comments]",
-      "body": "submitted by /u/EchoOfOppenheimer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-29T05:33:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tqs6nn/researchers_let_ai_models_run_a_simulated_society/",
-      "image": "https://external-preview.redd.it/AgcEHnMM7iGzdmLmpYJqjJPBBWeoG_BiVtwodWtA3dA.jpeg?width=640&crop=smart&auto=webp&s=9b5674fcc5400875b3653ce19320b4d6c6a07fc0",
       "imageCredit": "Image via original publisher"
     }
   ]
