@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_3bee98fff9fe",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Chat GPT ate my salami!: Customer shamed online trying to defraud pizzeria with AI",
+      "dek": "submitted by /u/MellowEchoo [link] [comments]",
+      "body": "submitted by /u/MellowEchoo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-30T12:19:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tryfvb/chat_gpt_ate_my_salami_customer_shamed_online/",
+      "image": "https://external-preview.redd.it/QpTwH81Mb70ewKYf2WNagg0pGOBQyB7D-mykuofw-pM.jpeg?width=640&crop=smart&auto=webp&s=5b37c6878bdb49880be102e5bddb90fb039bf0b9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b72d7e0b0c38",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "dek": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "body": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-30T12:16:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_45e0f5047c1f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Politician who claimed to have dwarfism resigns after passport leak reveals he is actually a child",
+      "dek": "submitted by /u/AspieAsshole [link] [comments]",
+      "body": "submitted by /u/AspieAsshole [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-30T11:12:32+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1trx2q4/politician_who_claimed_to_have_dwarfism_resigns/",
+      "image": "https://external-preview.redd.it/ZLD7p1YxdrIKTgfV2BBB7cS7btFQ_-rEBDjFk613QWM.jpeg?width=108&crop=smart&auto=webp&s=6f7f303dd8cde6ecdc880acd0006a8a1f56588dd",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_c377b34ec11a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-05-26T12:53:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1to62t5/california_judges_are_testing_a_new_ai_clerk_and/",
       "image": "https://external-preview.redd.it/UXYxiOLNzs_DhTRwLJJ9CRLGE1yRCz97nDEuJodFPt8.jpeg?width=640&crop=smart&auto=webp&s=6a08cb9e3c6cd5723b2c6721deec81379d5fb376",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_5c6e12a597b7",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NBA futures: Knicks close out Cavs, OKC favored in...",
-      "dek": "The Thunder and Spurs continue their battle in a critical Game 5, and the Knicks are headed the NBA Finals, where they have the second-shortest title odds.",
-      "body": "The Thunder and Spurs continue their battle in a critical Game 5, and the Knicks are headed the NBA Finals, where they have the second-shortest title odds.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-26T12:48:38+00:00",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5c6e12a597b7",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_063937d8c64e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Stanley Cup odds: Carolina odds-on favorites over ...",
-      "dek": "The Hurricanes remain the Stanley Cup favorites, with the Golden Knights just behind on the odds board.",
-      "body": "The Hurricanes remain the Stanley Cup favorites, with the Golden Knights just behind on the odds board.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-26T12:48:37+00:00",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/44686270/2026-nhl-stanley-cup-playoffs-championship-odds",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_063937d8c64e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_5e954b80e294",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "dek": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
-      "body": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-26T12:44:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1caf/live/cf3a1cc0-58f5-11f1-afe0-d7f70885c2dd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
