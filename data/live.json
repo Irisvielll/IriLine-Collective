@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-30T14:54:49+00:00",
+  "generatedAt": "2026-05-30T16:04:49+00:00",
   "items": [
+    {
+      "id": "latest_03b43db4f93f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "dek": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+      "body": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-30T15:39:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bf/live/654e96a0-5c34-11f1-9597-5f5d9cc81ab3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e1b81be2ec2c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-30T13:47:15+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ts0g6q/georgia_man_who_stole_11_million_from_behind_bars/",
       "image": "https://external-preview.redd.it/coNBbr_Pjj1hekqdXezwn_FuLqiUTcSIbabWlhjaY6w.jpeg?width=640&crop=smart&auto=webp&s=0d8eb30ba0b12ee94c07b7121ce62a844cc2eb7e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b2781cc03c8f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "City Employee Forced to Work Into His 90s, Finally In Line for Pension He Deserved",
-      "dek": "submitted by /u/dmurf26 [link] [comments]",
-      "body": "submitted by /u/dmurf26 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-30T12:27:17+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1trylu6/city_employee_forced_to_work_into_his_90s_finally/",
-      "image": "https://external-preview.redd.it/a7aRoiMNxgecKDKH-tafqFHpYFEh8AwIlyvXO6MJP2A.jpeg?width=640&crop=smart&auto=webp&s=0c2f6ca9993bdb7fa29721f808b71bcda09a5abd",
       "imageCredit": "Image via original publisher"
     }
   ]
