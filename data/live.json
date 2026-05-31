@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-05-31T15:55:47+00:00",
+  "generatedAt": "2026-05-31T17:08:47+00:00",
   "items": [
+    {
+      "id": "latest_23b31831d830",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "dek": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+      "body": "Insurgents say it was caused by explosives being used for mining close to the Chinese border.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-31T16:59:55+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89f3/live/bc5821d0-5d08-11f1-9dbd-c1cee1747804.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_14cc914d6500",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-05-31T13:44:03+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tsvro0/man_banned_from_all_six_flags_parks_for_life/",
       "image": "https://external-preview.redd.it/UqsJw814tuzmWHmRzdMGPNbjJrYsbgR-sM0g4QPYhAk.jpeg?width=640&crop=smart&auto=webp&s=7a3b753c151eb1bf32ea356416200c42c291162d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_74e6bf8e08e3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "dek": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
-      "body": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-31T12:18:24+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d5/live/7e11c3d0-5cdc-11f1-89a3-d1f559421220.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

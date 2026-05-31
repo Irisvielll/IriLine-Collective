@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_74e6bf8e08e3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "dek": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
+      "body": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-05-31T12:18:24+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1d5/live/7e11c3d0-5cdc-11f1-89a3-d1f559421220.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_2a19b331393d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-05-27T03:02:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db79/live/43312e50-5948-11f1-af8d-3f91c4027c92.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5d1e6bb41763",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
-      "dek": "The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim Soo-hyun.",
-      "body": "The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim Soo-hyun.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-05-27T02:54:19+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f84a/live/15d8aa90-5976-11f1-9955-87cb5dddc6f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
