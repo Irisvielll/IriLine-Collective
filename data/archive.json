@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_0fc25cb90a1c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Mom found moving worms and parasites in daughter’s SpaghettiOs, lawsuit says",
+      "dek": "submitted by /u/Le-Pepper [link] [comments]",
+      "body": "submitted by /u/Le-Pepper [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-05T22:34:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1txzokn/mom_found_moving_worms_and_parasites_in_daughters/",
+      "image": "https://external-preview.redd.it/1f9hDIatROCxNP-exesIz7m60oxwiQsMLS_a3UZfT6I.jpeg?width=640&crop=smart&auto=webp&s=9004c25775aaceb1e9a6425775a30d48fd09f645",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_a6badd85b50e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Illinois treasurer’s gift to Pope Leo? $8.65 of pontiff’s own money",
+      "dek": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "body": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-05T21:55:04+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1txypug/illinois_treasurers_gift_to_pope_leo_865_of/",
+      "image": "https://external-preview.redd.it/ZQ9usd54ZYiFHABpxE_0kKzKxGH3COCxdEpy0U7BbFY.jpeg?width=640&crop=smart&auto=webp&s=2d9cd01795aa19c5e2904c296555bdde8c5c83f0",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_94f9f51baecc",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aede/live/aad19c60-28ed-11f1-a95f-75471ca6e71e.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_30b87eccd05b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africa police investigate killing of two Mozambican men",
-      "dek": "The deaths come after a day of violent protests against illegal migration in the town of Mossel Bay.",
-      "body": "The deaths come after a day of violent protests against illegal migration in the town of Mossel Bay.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-02T14:51:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847d/live/006acf90-5e84-11f1-82d1-3f140356d043.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_bc557254dbf7",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Jacobs at practice as prosecutors mull charges",
-      "dek": "Josh Jacobs is practicing with the Packers while prosecutors consider whether to file charges against the RB following his arrest on domestic abuse allegations.",
-      "body": "Josh Jacobs is practicing with the Packers while prosecutors consider whether to file charges against the RB following his arrest on domestic abuse allegations.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-02T14:43:43+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48949345/josh-jacobs-packers-practice-prosecutors-mull-charges",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bc557254dbf7",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
