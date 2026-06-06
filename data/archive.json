@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_8e567bcfef00",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The administrator of the meme Telegram channel “Free Laplandia” has been sentenced to 15 years in prison.",
+      "dek": "submitted by /u/InvestigatorSoft5764 [link] [comments]",
+      "body": "submitted by /u/InvestigatorSoft5764 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-06T13:05:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tygsbm/the_administrator_of_the_meme_telegram_channel/",
+      "image": "https://external-preview.redd.it/ApqaFh0UMFAOuYRiBZdvw0QAI3V6UjS90JncHiM3JIY.png?width=640&crop=smart&auto=webp&s=c7b23c7b9e20bba93edf31cd113cd53d1207b9ca",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b130098f47ee",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "dek": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "body": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-06T11:37:19+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ae7e74652f47",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-03T02:21:40+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tvbw3j/woman_who_banned_herself_from_pennsylvania/",
       "image": "https://external-preview.redd.it/aecn8wUx08bTzlRWHqKNiopQHA_p-0HRVHQroB23dDQ.jpeg?width=640&crop=smart&auto=webp&s=61cd97e5af4db138ec580b79131a81c36c4fda10",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3defe65b6c69",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Man attacked by bear at steel works in Japan",
-      "dek": "The bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
-      "body": "The bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-03T01:13:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ae2/live/07f78fe0-5f16-11f1-89a3-d1f559421220.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c45463cbb2e4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Man attacked by bear at steel works in Japan",
-      "dek": "Watch: Man attacked by bear at steel works in Japan",
-      "body": "Watch: Man attacked by bear at steel works in Japan",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-03T00:58:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/programmes/p0npr053?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0npr161.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
