@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-06T13:44:27+00:00",
+  "generatedAt": "2026-06-06T15:01:35+00:00",
   "items": [
+    {
+      "id": "meme_948d959359db",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Pope acknowledges stiff competition with Bad Bunny this weekend in Spain",
+      "dek": "submitted by /u/Juice_Isloose [link] [comments]",
+      "body": "submitted by /u/Juice_Isloose [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-06T14:22:09+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tyil8e/pope_acknowledges_stiff_competition_with_bad/",
+      "image": "https://external-preview.redd.it/VWTXJuYafhiMuUv2bZ-YYwWNS7cejk33Aa5Yt5ZwDeg.jpeg?width=640&crop=smart&auto=webp&s=3ae083bfe53f40773f59406d20442a442bcbed09",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8e567bcfef00",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-06T11:37:19+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ae7e74652f47",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Lebanon says three soldiers killed in Israeli attack on car",
-      "dek": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "body": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-06T10:57:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
       "imageCredit": "Image via original publisher"
     }
   ]

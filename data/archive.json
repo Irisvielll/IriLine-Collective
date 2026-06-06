@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ae7e74652f47",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "dek": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "body": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-06T10:57:28+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba62/live/980b5df0-6191-11f1-b927-d7e60ed16f70.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_b858eaa7c2cc",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-03T00:58:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/programmes/p0npr053?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0npr161.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e95b307b4e29",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘Condom’ charged with murder over stabbing death – iWitness News",
-      "dek": "submitted by /u/MajesticBread9147 [link] [comments]",
-      "body": "submitted by /u/MajesticBread9147 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-03T00:49:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tv9sbj/condom_charged_with_murder_over_stabbing_death/",
-      "image": "https://external-preview.redd.it/6n_CwhthaKSdHgGlp7BPNR6c4uGkaDvwyQeT9yBuNpU.jpeg?width=640&crop=smart&auto=webp&s=bd179eb8a60547ce5727da36b9e91bb885fb8c72",
       "imageCredit": "Image via original publisher"
     }
   ]
