@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_17e234016801",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Scans by Dutch Pokémon Go players may have helped U.S. develop military drone technology",
+      "dek": "submitted by /u/DavidShaw90s [link] [comments]",
+      "body": "submitted by /u/DavidShaw90s [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-07T12:45:05+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tzb6jh/scans_by_dutch_pokémon_go_players_may_have_helped/",
+      "image": "https://external-preview.redd.it/jHv0EOJTB14Zwmk1wXUkVam1A_kD93J3woZ6mAWSHC4.jpeg?width=640&crop=smart&auto=webp&s=5e4849ce7a3bd71f13ab7017f45ff1f1c8729674",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_01af75f279a9",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tw0o6k/cannons_lost_underwater_during_the_american/",
       "image": "https://external-preview.redd.it/d1-x1xMWl05OBDKF6LG7IpdsAzA2WSgPZFT8jiRumpw.jpeg?width=640&crop=smart&auto=webp&s=e6e3f31dde0b680135ea6e4c4ffd5eb45218b8eb",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_b72384f31ae8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How back is the U? Can Clemson rebound? Previewing...",
-      "dek": "Repeat run for Miami? Revenge for Duke? Reset for Clemson? Redemption at UNC? Intrigue abounds in the ACC.",
-      "body": "Repeat run for Miami? Revenge for Duke? Reset for Clemson? Redemption at UNC? Intrigue abounds in the ACC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-03T19:48:33+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/48947564/2026-acc-college-football-preview-predictions-top-transfers-more",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b72384f31ae8",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
