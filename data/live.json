@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-07T19:46:42+00:00",
+  "generatedAt": "2026-06-07T21:13:01+00:00",
   "items": [
+    {
+      "id": "latest_4a9fbd24c3bf",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+      "dek": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+      "body": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-07T19:55:49+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed85/live/bc540b70-62a0-11f1-b682-cf91850925ea.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_46601b63ceb8",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-07T19:31:34+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tzlmkh/it_was_not_fuel_customers_say_gas_station_sold/",
       "image": "https://external-preview.redd.it/tldaJDPnITc1hQAsCxXG77cjgWQUA8OlX2ORvF3ebi8.jpeg?width=640&crop=smart&auto=webp&s=0b24036e052680055a0c5598e12e8687791f00a1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_feafe6130b8a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Northwest suburban gas station canopy collapses for second time in 6 months",
-      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
-      "body": "submitted by /u/HowLongIsThi [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-07T19:21:07+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tzlcmf/northwest_suburban_gas_station_canopy_collapses/",
-      "image": "https://external-preview.redd.it/ihduq6nwdx726eH3TT9-TATNCy2RKXLchlfFYF7UGPk.png?width=640&crop=smart&auto=webp&s=5ff4467d5e58a5d13823acf5d053e13d1d069595",
       "imageCredit": "Image via original publisher"
     }
   ]
