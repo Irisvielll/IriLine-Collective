@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-07T09:50:45+00:00",
+  "generatedAt": "2026-06-07T11:48:11+00:00",
   "items": [
+    {
+      "id": "meme_7798c6f9c4d6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Humanoid Robot In Clown Wig Roundhouse Kicks Child In China, Video Goes Viral",
+      "dek": "submitted by /u/Buy_Sell_Collect [link] [comments]",
+      "body": "submitted by /u/Buy_Sell_Collect [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-07T10:36:13+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tz8o24/humanoid_robot_in_clown_wig_roundhouse_kicks/",
+      "image": "https://external-preview.redd.it/iS6DeYXhzNrMiZ9Ys-xnUYwLUmxZInfE5w8LYzz6UBw.jpeg?width=640&crop=smart&auto=webp&s=ab9126709a0d3739861e02f65033db8f432a3c6f",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b9237fe42011",
       "section": "latest",
@@ -17,34 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_bcb2f72176e3",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_303171152951",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "dek": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
-      "body": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "category": "SPORTS",
+      "title": "Reche Caldwell's murder still unsolved after 6 yea...",
+      "dek": "Frustrations abound over slow progress despite evidence pointing to a suspect.",
+      "body": "Frustrations abound over slow progress despite evidence pointing to a suspect.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-06-07T07:11:18+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59f4/live/aa950a10-623c-11f1-89a3-d1f559421220.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3a744368947a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Photographer traveling with Iraqi national soccer team denied entry to US at O'Hare Airport: CBP",
-      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
-      "body": "submitted by /u/HowLongIsThi [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-07T04:52:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tz2pgp/photographer_traveling_with_iraqi_national_soccer/",
-      "image": "https://external-preview.redd.it/4XioEYGHOaW5hUEiuJqRpJqMWF3Ftgdt1bgafBafN2o.jpeg?width=640&crop=smart&auto=webp&s=ed53b6ece0f43426e14084668097ae2ef24ba8ef",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-06-07T07:11:55+00:00",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48939585/caldwell-murder-investigation-cold-case",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_303171152951",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
