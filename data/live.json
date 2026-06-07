@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-07T06:38:06+00:00",
+  "generatedAt": "2026-06-07T09:50:45+00:00",
   "items": [
+    {
+      "id": "latest_b9237fe42011",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+      "dek": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+      "body": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-07T08:53:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a43/live/c432bc30-6249-11f1-8b8c-6d33e1d5abb6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_bcb2f72176e3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "dek": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "body": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-07T07:11:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59f4/live/aa950a10-623c-11f1-89a3-d1f559421220.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3a744368947a",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-06-07T04:52:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tz2pgp/photographer_traveling_with_iraqi_national_soccer/",
       "image": "https://external-preview.redd.it/4XioEYGHOaW5hUEiuJqRpJqMWF3Ftgdt1bgafBafN2o.jpeg?width=640&crop=smart&auto=webp&s=ed53b6ece0f43426e14084668097ae2ef24ba8ef",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dd3b1944e94f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Angry swarm of bees surrounds hive truck rollover on Warrego Highway west of Roma",
-      "dek": "submitted by /u/Polyphagous_person [link] [comments]",
-      "body": "submitted by /u/Polyphagous_person [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-07T03:13:32+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tz0rrs/angry_swarm_of_bees_surrounds_hive_truck_rollover/",
-      "image": "https://external-preview.redd.it/FbZmcJqMJKC6t2Q0odAQ3FBiZ8hhZCuODHsggX3nFg4.jpeg?width=640&crop=smart&auto=webp&s=03f57fb34c367e5b3ff1ad9640f609633699a6cd",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a14e1b9f3589",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Judge tosses Kennedy Center suit against musician who canceled Christmas Eve show",
-      "dek": "submitted by /u/HowLongIsThi [link] [comments]",
-      "body": "submitted by /u/HowLongIsThi [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-07T02:46:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1tz087h/judge_tosses_kennedy_center_suit_against_musician/",
-      "image": "https://external-preview.redd.it/SqqUB4Ju6Iu9vmkBI8K_C-KBNwjESiAnkfpXEX_VyRU.jpeg?width=640&crop=smart&auto=webp&s=ff1c3da0ce24492e1b49f7fa6cadcd53af51ace4",
       "imageCredit": "Image via original publisher"
     }
   ]
