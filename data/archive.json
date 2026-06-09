@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2c4e7bce1493",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+      "dek": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
+      "body": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-09T20:14:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d65c/live/1bb30f40-6435-11f1-8546-8f19e4fe30f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_eecb212df659",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-05T15:25:02+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/48976577/usa-world-cup-chris-richards-injury-mauricio-pochettino-germany",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_33c70adada3e",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_8258ea70db6e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "FIFA cancels WC tickets mistakenly given for free",
-      "dek": "FIFA has canceled World Cup tickets issued to about 60 fans who mistakenly got them for free because of a website error.",
-      "body": "FIFA has canceled World Cup tickets issued to about 60 fans who mistakenly got them for free because of a website error.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-05T15:25:02+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48974024/fifa-cancels-world-cup-tickets-60-fans-got-free-error",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8258ea70db6e",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

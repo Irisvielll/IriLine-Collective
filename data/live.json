@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-09T21:13:48+00:00",
+  "generatedAt": "2026-06-09T22:52:01+00:00",
   "items": [
+    {
+      "id": "latest_5f51232d7b28",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "dek": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+      "body": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-09T21:13:17+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/677d/live/192e0db0-6417-11f1-9216-c3eba4acaf31.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e771baf8b1ba",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-09T20:38:55+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2a/live/f8ece660-52a2-11f0-a2ff-17a82c2e8bc4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2c4e7bce1493",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-      "dek": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
-      "body": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-09T20:14:12+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d65c/live/1bb30f40-6435-11f1-8546-8f19e4fe30f4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
