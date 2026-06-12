@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_5fddae8a3999",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Video shows police officer accidentally shot by fellow cop in 'horseplay' incident",
+      "dek": "submitted by /u/Buy_Sell_Collect [link] [comments]",
+      "body": "submitted by /u/Buy_Sell_Collect [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-11T20:56:05+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u3b7ey/video_shows_police_officer_accidentally_shot_by/",
+      "image": "https://external-preview.redd.it/c43XPfcu0xvg_x1S4h7j_NP95sb0TvmeEoRA-H9zRHs.jpeg?width=640&crop=smart&auto=webp&s=37b270931935154301774f275ba9877b2c85d95b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a967e5002e00",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
+      "dek": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+      "body": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-11T20:26:06+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a4/live/8f0db940-65c5-11f1-8546-8f19e4fe30f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ebd1c284a414",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-08T08:48:37+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c596/live/76071270-6304-11f1-89a3-d1f559421220.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2538a697c1f1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran releases footage of missiles launched at Israel",
-      "dek": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\"",
-      "body": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-08T07:26:45+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a6/live/df26b4a0-6308-11f1-b682-cf91850925ea.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d467cdd8d860",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-      "dek": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
-      "body": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-08T06:09:53+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b48b/live/a1b6a3e0-60e3-11f1-82ca-1380a42b6773.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-11T22:29:09+00:00",
+  "generatedAt": "2026-06-12T00:06:30+00:00",
   "items": [
+    {
+      "id": "meme_4ccd974793d1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Marketing genius or own goal? Science World soccer ball free advertising for Adidas, FIFA",
+      "dek": "Source: CBC submitted by /u/nic_tesla [link] [comments]",
+      "body": "Source: CBC submitted by /u/nic_tesla [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-11T22:38:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u3dsij/marketing_genius_or_own_goal_science_world_soccer/",
+      "image": "https://external-preview.redd.it/PgaWzuzSZmMfZRL-pkrnN3RWpYvvdMLInOyGxHPCOBw.jpeg?width=320&crop=smart&auto=webp&s=18750fa568f7fcf656184f956e34fb50f9a3c7a1",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_2993b0087844",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Planes from Scotland running out of beer as Tartan Army arrive in US",
+      "dek": "submitted by /u/onahighhorse [link] [comments]",
+      "body": "submitted by /u/onahighhorse [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-11T22:38:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u3drwv/planes_from_scotland_running_out_of_beer_as/",
+      "image": "https://external-preview.redd.it/Ftn1DKwwrHCFT9J8TiyHybxgbS2m3EFludinH5Kzi1g.jpeg?width=640&crop=smart&auto=webp&s=868f0888246ca42741a2f4bd526cbb31a0a0c96a",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dedb004a863e",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u3bcy5/rubio_compares_the_founding_of_the_ufc_to_landing/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_dedb004a863e",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_5fddae8a3999",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Video shows police officer accidentally shot by fellow cop in 'horseplay' incident",
-      "dek": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "body": "submitted by /u/Buy_Sell_Collect [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-11T20:56:05+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u3b7ey/video_shows_police_officer_accidentally_shot_by/",
-      "image": "https://external-preview.redd.it/c43XPfcu0xvg_x1S4h7j_NP95sb0TvmeEoRA-H9zRHs.jpeg?width=640&crop=smart&auto=webp&s=37b270931935154301774f275ba9877b2c85d95b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a967e5002e00",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-      "dek": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
-      "body": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-11T20:26:06+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a4/live/8f0db940-65c5-11f1-8546-8f19e4fe30f4.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
