@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_3d5bb7fc038d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bear wandering around with pipe stuck on head rescued by B.C. conservation officers",
+      "dek": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "body": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-13T09:30:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u4mgre/bear_wandering_around_with_pipe_stuck_on_head/",
+      "image": "https://external-preview.redd.it/gNj0wVrdG_xbTxnoQZLXAyGVWBSIO5MHmoefZgheEzw.jpeg?width=320&crop=smart&auto=webp&s=a64d98dfdadd97706f0dcb9a84b9bcaa15e3032a",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_7cf9aef6cfbd",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "dek": "submitted by /u/CaoSlayer [link] [comments]",
+      "body": "submitted by /u/CaoSlayer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-13T07:20:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u4kc5o/pokémon_go_players_unwittingly_contributed_to/",
+      "image": "https://external-preview.redd.it/aDVQkkl-0ShCeFsraFVXLIzbewSwPWqJgGmF-nfc_w4.jpeg?width=640&crop=smart&auto=webp&s=76615d0d1a79569059ddc614fa2de799d766be19",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_7f897ea441b0",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u1d4rj/massachusetts_senate_approves_outdoor_drinking/",
       "image": "https://external-preview.redd.it/-SEyVmfQC0w72YVsnn2iPNDppc3ZelDQ3lXH5yHUj0Q.jpeg?width=640&crop=smart&auto=webp&s=e5cb5b9d0e9f71d45395a60417c2c3a53deb6481",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2f1d794c25da",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Does referee case show Fifa has lost control of its own World Cup?",
-      "dek": "With referee Omar Artan denied entry to the United States and worries over staff and supporters being turned back, what does this tell us about the World Cup?",
-      "body": "With referee Omar Artan denied entry to the United States and worries over staff and supporters being turned back, what does this tell us about the World Cup?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-09T17:55:45+00:00",
-      "sourceUrl": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b66/live/c8b5be70-6419-11f1-b8c4-d17e7970dcab.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_12df65d8371d",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "2026 MLB All-Star predictions: Full AL, NL rosters...",
-      "dek": "Bryce Harper or Freddie Freeman? Ben Rice or Nick Kurtz? Here's our one-month-out look at who will make it to Philadelphia.",
-      "body": "Bryce Harper or Freddie Freeman? Ben Rice or Nick Kurtz? Here's our one-month-out look at who will make it to Philadelphia.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-09T17:51:23+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49001809/mlb-2026-all-star-predictions-al-nl-rosters-debates",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_12df65d8371d",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
