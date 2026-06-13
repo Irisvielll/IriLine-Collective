@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-13T17:39:27+00:00",
+  "generatedAt": "2026-06-13T18:56:51+00:00",
   "items": [
+    {
+      "id": "latest_4c36419dd432",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+      "dek": "Before the US president's comments, Iran expressed caution about the exact timing.",
+      "body": "Before the US president's comments, Iran expressed caution about the exact timing.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-13T18:39:26+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ff/live/e53f0010-674d-11f1-8546-8f19e4fe30f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d0482acbb41b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-13T16:18:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u4v2w7/fetterman_scoffs_at_platner_hes_not_even_a/",
       "image": "https://external-preview.redd.it/QUPUoXdio-vxuLd1h36_fJ5qDv4dUo9YTAIlQwn_1Sg.png?width=640&crop=smart&auto=webp&s=e35bdbdf71f6ffb627af7d0b840fe2b01be8e4e7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0bc91bde0da0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kidnapped Nigerian retired general dies in captivity",
-      "dek": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
-      "body": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-13T15:25:09+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fcd/live/c841d5e0-5ce5-11f1-8b8c-6d33e1d5abb6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
