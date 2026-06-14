@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-14T10:02:48+00:00",
+  "generatedAt": "2026-06-14T12:14:59+00:00",
   "items": [
+    {
+      "id": "latest_488a99534e9f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Swiss voters reject 10 million population cap, early projections say",
+      "dek": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+      "body": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-14T11:31:32+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94f7/live/fd42fdf0-67df-11f1-8546-8f19e4fe30f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_fe455415ad5d",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_9c5b6f3da014",
+      "id": "latest_94da7560a058",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Armed men kidnap high-ranking security official in Haiti",
-      "dek": "James Boyard's abduction is the highest-ranking abduction in the violence-wracked country in recent years, according to reports.",
-      "body": "James Boyard's abduction is the highest-ranking abduction in the violence-wracked country in recent years, according to reports.",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "dek": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+      "body": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-06-14T08:07:55+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc12/live/54f50230-67c4-11f1-8ca6-eb07b94f604c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_67e6cc448a69",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
-      "dek": "New York's basketball team won the NBA championship for the first time in over 50 years after beating the Spurs in Texas.",
-      "body": "New York's basketball team won the NBA championship for the first time in over 50 years after beating the Spurs in Texas.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-14T06:34:11+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9dd/live/60ff49b0-67b9-11f1-b1db-af71d47507d6.jpg",
+      "publishedAt": "2026-06-14T09:00:08+00:00",
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3c/live/7f657ff0-635e-11f1-8b15-6100cfbc3083.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
