@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "sports_86d5d553d207",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "'The first step of our story': Lewis Hamilton fina...",
+      "dek": "Is the seven-time world champion back in peak form? It might be too soon to tell, but don't count him out, either.",
+      "body": "Is the seven-time world champion back in peak form? It might be too soon to tell, but don't count him out, either.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-14T18:01:06+00:00",
+      "sourceUrl": "https://www.espn.com/racing/f1/story/_/id/49062893/formula-1-2026-barcelona-catalunya-grand-prix-lewis-hamilton-ferrari-win-means",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_86d5d553d207",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "sports_fe127244bb09",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-10T21:13:07+00:00",
       "sourceUrl": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ce/live/673f07c0-6502-11f1-b1db-af71d47507d6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5a7ee16e4a3a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "French singer Patrick Bruel faces rape charges",
-      "dek": "Bruel has been placed under judicial investigation, which means an examining magistrate will look more deeply into the case.",
-      "body": "Bruel has been placed under judicial investigation, which means an examining magistrate will look more deeply into the case.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-10T21:07:01+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fd/live/13787380-64e7-11f1-8546-8f19e4fe30f4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
