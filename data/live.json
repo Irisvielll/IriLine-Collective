@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-14T23:37:08+00:00",
+  "generatedAt": "2026-06-15T02:04:45+00:00",
   "items": [
+    {
+      "id": "meme_42d00b66018b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Microsoft paid $20 million to protect one letter from Linux",
+      "dek": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "body": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-15T00:23:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u61b3a/microsoft_paid_20_million_to_protect_one_letter/",
+      "image": "https://external-preview.redd.it/fvc0cKrrhINUw4wzl0LnShb8nFmrFA0uzFM34fVC0wM.jpeg?width=640&crop=smart&auto=webp&s=08091d7ad812a4aaaa089befb0c2c1b1ce4c1177",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5a8045631de1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-14T19:49:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u5uucu/tyra_banks_sues_netflix_for_defamation_alleges/",
       "image": "https://external-preview.redd.it/EUTa6x_KQSSyP5YJqkKXBF_ei5v8-wfA6JvokcNpEs4.jpeg?width=640&crop=smart&auto=webp&s=2c12c294d4324b9e4bbca0cfc256d328f98b3469",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5ad4e5095c73",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Protesters clash with police ahead of G7 summit in Geneva",
-      "dek": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
-      "body": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-14T19:46:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e640/live/efdb6b60-6821-11f1-8e1d-bbbb1017d210.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

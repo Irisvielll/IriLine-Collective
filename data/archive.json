@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_5ad4e5095c73",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Protesters clash with police ahead of G7 summit in Geneva",
+      "dek": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+      "body": "Swiss police deployed a water cannon and fired tear gas to disperse anti-G7 protesters after clashes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-14T19:46:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e640/live/efdb6b60-6821-11f1-8e1d-bbbb1017d210.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_86d5d553d207",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-10T21:22:25+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u2fczg/coors_light_launches_a_massive_tallerboy_canister/",
       "image": "https://external-preview.redd.it/4LPzGipFvacbPU7nHkxy0Er-L3xrXllcXB-ro5NQp-0.jpeg?width=640&crop=smart&auto=webp&s=5591a80e833a1a63a8c5a198bca734173ed0f0ed",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0271bbdc2736",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Thousands fill Barcelona streets for Pope Leo visit",
-      "dek": "Pope Leo XIV visited Barcelona's iconic Sagrada Família basilica as part of his week-long visit to Spain.",
-      "body": "Pope Leo XIV visited Barcelona's iconic Sagrada Família basilica as part of his week-long visit to Spain.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-10T21:13:07+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ce/live/673f07c0-6502-11f1-b1db-af71d47507d6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
