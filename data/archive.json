@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_9d27bc231d3c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Sony Patents PlayStation Controller With Buttons That Hardern & Soften Based on Gameplay",
+      "dek": "submitted by /u/m1n3c7afty [link] [comments]",
+      "body": "submitted by /u/m1n3c7afty [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-16T18:26:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u7ls0t/sony_patents_playstation_controller_with_buttons/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_9d27bc231d3c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_452de61ee79e",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2c/live/d7a50d30-666e-11f1-8e1d-bbbb1017d210.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_54d1df64e33f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Travis Kelce present for Taylor Swift's Songwriter...",
-      "dek": "The Chiefs tight end flew 1,100 miles to support his fiancée at her Songwriters Hall of Fame induction.",
-      "body": "The Chiefs tight end flew 1,100 miles to support his fiancée at her Songwriters Hall of Fame induction.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-12T14:55:18+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49042188/travis-kelce-taylor-swift-kansas-city-chiefs-songwriters-hall-fame",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_54d1df64e33f",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

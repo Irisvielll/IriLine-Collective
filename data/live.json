@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-16T20:51:21+00:00",
+  "generatedAt": "2026-06-16T22:52:35+00:00",
   "items": [
+    {
+      "id": "latest_7e1e5436bda7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
+      "dek": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
+      "body": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-16T22:01:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8833/live/e785ef90-69ce-11f1-84fd-21e83c1eab66.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_0e9b8e20f3fb",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u7nsy2/safe_firearm_storage_may_reduce_pediatric_lead/",
       "image": "https://external-preview.redd.it/kSyxAIRVrN3gkZMLAxo5-47IbSG4OGo7yylLLvjBAzw.jpeg?width=640&crop=smart&auto=webp&s=8bf630e3795f5832c3a060a2d6e58c28ae58577e",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9d27bc231d3c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sony Patents PlayStation Controller With Buttons That Hardern & Soften Based on Gameplay",
-      "dek": "submitted by /u/m1n3c7afty [link] [comments]",
-      "body": "submitted by /u/m1n3c7afty [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T18:26:29+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u7ls0t/sony_patents_playstation_controller_with_buttons/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_9d27bc231d3c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
