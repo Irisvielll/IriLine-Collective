@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_a7ed98c2696d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Premier Doug Ford compares new Thunder Bay, Ont., jail to Four Seasons Hotel after latest inmate inquest",
+      "dek": "submitted by /u/StormComfortable9333 [link] [comments]",
+      "body": "submitted by /u/StormComfortable9333 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-18T21:11:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1u9ikob/premier_doug_ford_compares_new_thunder_bay_ont/",
+      "image": "https://external-preview.redd.it/L5XnhaOaxJT-FOTIlYJgfUGihVGng2AMvQrtPkStdd0.jpeg?width=320&crop=smart&auto=webp&s=1a5c18f9b85067ed360652b54e8654e41efae91e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_152a4485fb0f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Obamas host star-studded opening of Chicago presidential centre",
+      "dek": "The campus opens to the public this weekend with a museum, community amenities and more to honour the 44th US president.",
+      "body": "The campus opens to the public this weekend with a museum, community amenities and more to honour the 44th US president.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-18T21:02:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2602/live/66a38030-6b46-11f1-bc34-19faf070d2ff.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ef1c88fadb60",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-14T17:45:25+00:00",
       "sourceUrl": "https://www.espn.com/racing/nascar/story/_/id/49064313/denny-hamlin-wins-pocono-third-straight-nascar-cup-victory",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2cc1a12e524b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1c046499f3e1",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Germany's demolition of Curaçao shows pros and con...",
-      "dek": "Curaçao delivered a moment for the nation to remember, but they never stood a chance against mighty Germany.",
-      "body": "Curaçao delivered a moment for the nation to remember, but they never stood a chance against mighty Germany.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-14T17:07:21+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49063542/germany-big-win-shows-pros-cons-expanded-world-cup",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1c046499f3e1",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_bb60fed67b18",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Havertz double leads Germany in WC opening rout",
-      "dek": "Kai Havertz scored two goals as Germany pulled away from World Cup first-timer Curaçao late in the opening half and piled on after that in a 7-1 win Sunday in a",
-      "body": "Kai Havertz scored two goals as Germany pulled away from World Cup first-timer Curaçao late in the opening half and piled on after that in a 7-1 win Sunday in a group match.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-14T15:48:38+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/report/_/gameId/760422",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_bb60fed67b18",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
