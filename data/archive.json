@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_843e0898e463",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bangkok bar offers Optimus Prime figure prayers for business success",
+      "dek": "submitted by /u/Waste_Yak_990 [link] [comments]",
+      "body": "submitted by /u/Waste_Yak_990 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-19T15:12:57+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ua4n0n/bangkok_bar_offers_optimus_prime_figure_prayers/",
+      "image": "https://external-preview.redd.it/EMV82JWBRaqyAmwJC59_3Tg4QdkMdl1gmkdg3SwE624.jpeg?width=640&crop=smart&auto=webp&s=434df98b2769ab0963f97b492427a4220a3bf449",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_0dc7d4e4a708",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "dek": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "body": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-19T14:45:57+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/defa/live/2098db00-6be4-11f1-b1db-af71d47507d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_08d51f5480c6",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-15T19:16:46+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/49075775/fifa-finds-no-evidence-racist-gesture-var-assistant",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8fba9cd076bb",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_529bb9430081",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Bulls finalizing hiring of Splitter as HC...",
-      "dek": "Chicago has reached a deal to hire Tiago Splitter, who guided the Trail Blazers to a 42-20 record, to succeed Billy Donovan as the Bulls' coach, sources told ES",
-      "body": "Chicago has reached a deal to hire Tiago Splitter, who guided the Trail Blazers to a 42-20 record, to succeed Billy Donovan as the Bulls' coach, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-15T19:16:46+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49072541/sources-bulls-finalizing-hire-tiago-splitter-head-coach",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_529bb9430081",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_f102e18c8246",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "🏀 NBA mock draft: Predicting all 60 picks",
-      "dek": "We have an updated 2026 mock draft, predicting all 60 picks as trade talks heat up a week out from draft night.",
-      "body": "We have an updated 2026 mock draft, predicting all 60 picks as trade talks heat up a week out from draft night.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-15T19:16:46+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f102e18c8246",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

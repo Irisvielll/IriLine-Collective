@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-19T16:20:33+00:00",
+  "generatedAt": "2026-06-19T18:15:47+00:00",
   "items": [
+    {
+      "id": "latest_5fd9a55e043c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+      "dek": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
+      "body": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-19T17:02:02+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6893/live/8c956090-6bf7-11f1-8bf6-931d18012412.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_98529b30ce98",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Midjourney changes course: from AI image generation to a medical spa with body scanning where patients will bathe in “golden light”",
+      "dek": "submitted by /u/StormComfortable9333 [link] [comments]",
+      "body": "submitted by /u/StormComfortable9333 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-19T16:36:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ua6tej/midjourney_changes_course_from_ai_image/",
+      "image": "https://external-preview.redd.it/YZuvTJdKF8tJohIpD9oVzxq7uvF7QpbkVXZrIjbbouw.jpeg?width=640&crop=smart&auto=webp&s=b13a05d7028195177e399f00516c387af38367a0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2c69a24b7626",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-06-19T16:12:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ua66jn/brazilian_soccer_fans_at_the_world_cup_heed/",
       "image": "https://external-preview.redd.it/vdTD-X318KxR_4BCh-dtvSGJD3Z06-PFetcLsqQo2Qs.jpeg?width=640&crop=smart&auto=webp&s=b940cbb47bff3984ce9d375153c8f2e60be002f7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_843e0898e463",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Bangkok bar offers Optimus Prime figure prayers for business success",
-      "dek": "submitted by /u/Waste_Yak_990 [link] [comments]",
-      "body": "submitted by /u/Waste_Yak_990 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-19T15:12:57+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ua4n0n/bangkok_bar_offers_optimus_prime_figure_prayers/",
-      "image": "https://external-preview.redd.it/EMV82JWBRaqyAmwJC59_3Tg4QdkMdl1gmkdg3SwE624.jpeg?width=640&crop=smart&auto=webp&s=434df98b2769ab0963f97b492427a4220a3bf449",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0dc7d4e4a708",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-      "dek": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
-      "body": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-19T14:45:57+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/defa/live/2098db00-6be4-11f1-b1db-af71d47507d6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
