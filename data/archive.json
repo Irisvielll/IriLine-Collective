@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_389eb3bdd2a3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "dek": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "body": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T10:19:34+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_39441f9392ae",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russia no longer needs so many graduates, country’s education minister warns",
+      "dek": "submitted by /u/duckanroll [link] [comments]",
+      "body": "submitted by /u/duckanroll [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T10:04:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uass51/russia_no_longer_needs_so_many_graduates_countrys/",
+      "image": "https://external-preview.redd.it/527oxN7ZHx0jpBY7SZKqmtGLd-YktlOl9Whq40GijL4.png?width=640&crop=smart&auto=webp&s=fc4b908036fa1a25df6462127eb68b40779c05fb",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2bd6c3997c85",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-16T16:13:54+00:00",
       "sourceUrl": "https://www.espn.com/nba/story/_/id/49075738/chicago-bulls-sirius-player-introduction-song-alan-parsons-project",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_56288d1a9f3a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_17ea8aed4728",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
-      "dek": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
-      "body": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T16:11:17+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76bb/live/f3fbc9c0-6979-11f1-a63b-a7cb529e1ca8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c035f2a409a5",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'I feel like I can beat anyone': Is Jackson Koivun...",
-      "dek": "The world's top-ranked amateur is playing the U.S. Open and then turning pro. Will he succeed at the next level?",
-      "body": "The world's top-ranked amateur is playing the U.S. Open and then turning pro. Will he succeed at the next level?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T16:07:03+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/49000634/jackson-koivun-us-open-2026-pga-tour-top-amateur",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c035f2a409a5",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

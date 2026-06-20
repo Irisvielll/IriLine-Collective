@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-20T12:14:34+00:00",
+  "generatedAt": "2026-06-20T14:33:56+00:00",
   "items": [
+    {
+      "id": "latest_1300e319fa25",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
+      "dek": "Trump said the Italian leader asked \"over and over\" for a picture at G7, after she said the US president \"made-up\" a story that she \"begged\" for a photo.",
+      "body": "Trump said the Italian leader asked \"over and over\" for a picture at G7, after she said the US president \"made-up\" a story that she \"begged\" for a photo.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T14:24:35+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/614c/live/49688d60-6bd9-11f1-b1db-af71d47507d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_555177ab2561",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Judge squashes efforts to remove eggplant, peach statues",
+      "dek": "submitted by /u/Alternative-Tune8314 [link] [comments]",
+      "body": "submitted by /u/Alternative-Tune8314 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T13:58:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uaxbhc/judge_squashes_efforts_to_remove_eggplant_peach/",
+      "image": "https://external-preview.redd.it/u-ZKsrklJh7QjwF2K8tVBMsPrVdYJRHEsvYmIAyLWG4.jpeg?width=640&crop=smart&auto=webp&s=7d8c10bf3ad412527d6682a841122557e9c6d17a",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7866d2e4a1d0",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-06-20T10:42:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uatfho/russian_commanders_threaten_to_shoot_troops_who/",
       "image": "https://external-preview.redd.it/zGVLlXCpfFBbYyu7uQ0kjx509gPDEjW6Ee6GC1ik5kQ.jpeg?width=640&crop=smart&auto=webp&s=3b5c00a6f5009a08b57d07d9eef3562d76037709",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_389eb3bdd2a3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "dek": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "body": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-20T10:19:34+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_39441f9392ae",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russia no longer needs so many graduates, country’s education minister warns",
-      "dek": "submitted by /u/duckanroll [link] [comments]",
-      "body": "submitted by /u/duckanroll [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-20T10:04:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uass51/russia_no_longer_needs_so_many_graduates_countrys/",
-      "image": "https://external-preview.redd.it/527oxN7ZHx0jpBY7SZKqmtGLd-YktlOl9Whq40GijL4.png?width=640&crop=smart&auto=webp&s=fc4b908036fa1a25df6462127eb68b40779c05fb",
       "imageCredit": "Image via original publisher"
     }
   ]
