@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-20T20:50:04+00:00",
+  "generatedAt": "2026-06-20T22:07:14+00:00",
   "items": [
+    {
+      "id": "latest_a495715f1e14",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "dek": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "body": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T21:57:36+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfd/live/e03cdc90-6ced-11f1-bb4f-2f04956fdc7f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_90783781ce63",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-20T17:40:43+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1117/live/35c8f160-6cc3-11f1-95c0-035571ba4bec.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_db2644793266",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Swedish World Cup fan goes viral for praising Texas gas station chain that sold him fabulous cowboy hat",
-      "dek": "submitted by /u/Constant_Mention_488 [link] [comments]",
-      "body": "submitted by /u/Constant_Mention_488 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-20T16:55:19+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ub1hsj/swedish_world_cup_fan_goes_viral_for_praising/",
-      "image": "https://external-preview.redd.it/P-GzxDKrX6aC1pSRaK29IevjM_PurOH6QBbi0I9M5Vg.png?width=640&crop=smart&auto=webp&s=f1ace83f48bc858265851236681040e2a41d1ca7",
       "imageCredit": "Image via original publisher"
     }
   ]

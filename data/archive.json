@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_db2644793266",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Swedish World Cup fan goes viral for praising Texas gas station chain that sold him fabulous cowboy hat",
+      "dek": "submitted by /u/Constant_Mention_488 [link] [comments]",
+      "body": "submitted by /u/Constant_Mention_488 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T16:55:19+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ub1hsj/swedish_world_cup_fan_goes_viral_for_praising/",
+      "image": "https://external-preview.redd.it/P-GzxDKrX6aC1pSRaK29IevjM_PurOH6QBbi0I9M5Vg.png?width=640&crop=smart&auto=webp&s=f1ace83f48bc858265851236681040e2a41d1ca7",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_d239a7c69db4",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_97e4a658839a",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_ddf597038133",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-      "dek": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
-      "body": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T16:20:33+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f0/live/d36dc9e0-6994-11f1-b1db-af71d47507d6.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
