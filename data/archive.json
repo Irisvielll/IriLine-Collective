@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_35acf2dbbfb2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "dek": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+      "body": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T17:40:43+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1117/live/35c8f160-6cc3-11f1-95c0-035571ba4bec.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_db2644793266",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-16T16:21:24+00:00",
       "sourceUrl": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_73cadcf17ba0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_97e4a658839a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Buzz: Can managers rely on Rashee Rice for the who...",
-      "dek": "Mike Clay breaks down the Chiefs WR's outlook for the 2026 season.",
-      "body": "Mike Clay breaks down the Chiefs WR's outlook for the 2026 season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T16:21:24+00:00",
-      "sourceUrl": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_97e4a658839a",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
