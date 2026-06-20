@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_725702860125",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
+      "dek": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
+      "body": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T03:13:18+00:00",
+      "sourceUrl": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53bf/live/ef5c43d0-6c54-11f1-b1db-af71d47507d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_319b865632de",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2027-march-madness-men-field-predictions",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8a95b58533f0",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_a2b5a8963646",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "dek": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
-      "body": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T10:37:16+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802d/live/a26f4a30-6962-11f1-9f4a-21531e88e991.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
