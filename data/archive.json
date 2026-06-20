@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_d239a7c69db4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "dek": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+      "body": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T16:34:15+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ac/live/3a650b90-6cbf-11f1-9fea-e751269afdb9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_76a2fd91a26a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+      "dek": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "body": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-20T16:07:44+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b522/live/df959320-6cb8-11f1-9fea-e751269afdb9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_6d4a43306ed5",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f0/live/d36dc9e0-6994-11f1-b1db-af71d47507d6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ff48fc0535f5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Drones create the first-ever Fifa scoreboard in Seattle sky",
-      "dek": "BBC reporter Max Matza is in Seattle, Washington, where 400 drones lit up the night sky on Monday to display the score of the Egypt v Belgium match.",
-      "body": "BBC reporter Max Matza is in Seattle, Washington, where 400 drones lit up the night sky on Monday to display the score of the Egypt v Belgium match.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T16:20:04+00:00",
-      "sourceUrl": "https://www.bbc.com/news/videos/ced4y9ljye9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12cb/live/82656b70-699e-11f1-b1db-af71d47507d6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_fea870c2eced",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Family to have Smith's brain checked for CTE",
-      "dek": "The family of Aldon Smith has decided to send his brain to medical experts in Boston to see whether CTE played a role in the former NFL defensive lineman's deat",
-      "body": "The family of Aldon Smith has decided to send his brain to medical experts in Boston to see whether CTE played a role in the former NFL defensive lineman's death.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T16:13:55+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49081473/family-aldon-smith-having-brain-checked-cte",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fea870c2eced",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
