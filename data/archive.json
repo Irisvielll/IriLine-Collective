@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_4371eb6b7364",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "dek": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "body": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-19T21:18:47+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/aa7d3d80-6c1a-11f1-82ca-39eb136d082f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_470c7412790a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-16T07:05:54+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be3/live/3aa49d90-6946-11f1-b8da-53bba3cad46c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1489f295da91",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tunisia sack head coach just one game into World Cup",
-      "dek": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
-      "body": "Tunisia sack Sabri Lamouchi one game into their World Cup, with former Morocco and Saudi Arabia manager Herve Renard replacing him.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-16T06:43:19+00:00",
-      "sourceUrl": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e22/live/ff8e8a90-695e-11f1-8546-8f19e4fe30f4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
