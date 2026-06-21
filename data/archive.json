@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_3f3d3ee9e5ee",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "New study finds people have an 'anticlockwise bias'",
+      "dek": "submitted by /u/StatsFactsRants [link] [comments]",
+      "body": "submitted by /u/StatsFactsRants [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-21T13:15:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ubpt5z/new_study_finds_people_have_an_anticlockwise_bias/",
+      "image": "https://external-preview.redd.it/1JvjDA1cvesJFU-xlZt5B2UXHtZDhY048N50sbLW7Jw.jpeg?width=640&crop=smart&auto=webp&s=fa0ad806fa0974d122390df4ecd71cbb6439ad66",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_87becc837475",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-17T09:46:25+00:00",
       "sourceUrl": "https://www.espn.com/mma/story/_/id/49087037/pereira-accuses-gane-illegal-blows-ufc-freedom-250",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_697ef14035f0",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c5c6387c8de8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "⛳ Top U.S. Open storylines from Shinnecock Hills",
-      "dek": "Is Scottie Scheffler still the favorite? How hard will Shinnecock Hills play? We break down what to watch at the 2026 U.S. Open.",
-      "body": "Is Scottie Scheffler still the favorite? How hard will Shinnecock Hills play? We break down what to watch at the 2026 U.S. Open.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-17T09:46:25+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/49083772/top-storylines-us-open-2026-scottie-scheffler-russell-henley",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c5c6387c8de8",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
