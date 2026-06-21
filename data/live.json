@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-20T23:35:48+00:00",
+  "generatedAt": "2026-06-21T02:04:49+00:00",
   "items": [
+    {
+      "id": "meme_5a088f0f75a5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kathy Bates Threw ‘Waterboy’ Script in Trash Because She “Didn’t Know Who Adam Sandler Was”",
+      "dek": "submitted by /u/noraad [link] [comments]",
+      "body": "submitted by /u/noraad [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-21T00:27:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ubby1w/kathy_bates_threw_waterboy_script_in_trash/",
+      "image": "https://external-preview.redd.it/iv9BH-Sio6-gik5s1xsCres81zCgCJuqOY8483zstv4.png?width=640&crop=smart&auto=webp&s=ae08f537b20c89590b2bf3d264de7afc71d06bb1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_48b4fe0056e2",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_a495715f1e14",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_dc68232fb26e",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "dek": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
-      "body": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "category": "SPORTS",
+      "title": "If anyone can catch Wyndham Clark at the 2026 U.S....",
+      "dek": "Scheffler is six shots back headed into Sunday, which might seem insurmountable. But he's in the final group with Clark and has a chance to do something histori",
+      "body": "Scheffler is six shots back headed into Sunday, which might seem insurmountable. But he's in the final group with Clark and has a chance to do something historic.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-06-20T21:57:36+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfd/live/e03cdc90-6ced-11f1-bb4f-2f04956fdc7f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_90783781ce63",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Ranch lovers, rejoice: Kraft to debut TSA‑friendly kit amid viral craze",
-      "dek": "submitted by /u/Minifig81 [link] [comments]",
-      "body": "submitted by /u/Minifig81 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-20T17:56:51+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ub2zm8/ranch_lovers_rejoice_kraft_to_debut_tsafriendly/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_90783781ce63",
+      "publishedAt": "2026-06-20T21:59:56+00:00",
+      "sourceUrl": "https://www.espn.com/golf/story/_/id/49129497/wyndham-clark-2026-us-open-scottie-scheffler-shinnecock",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dc68232fb26e",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
