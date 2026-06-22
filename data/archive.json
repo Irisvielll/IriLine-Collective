@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_5bcfc41ac0a8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "dek": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.",
+      "body": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-22T17:06:12+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b756/live/41bbbd80-6e5e-11f1-b1db-af71d47507d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e1013f38f394",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kenya minister found in contempt of court over US-backed Ebola centre",
+      "dek": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
+      "body": "Aden Duale defied a High Court order to stop building work on a controversial US-funded facility.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-22T16:34:39+00:00",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c291/live/c5747d10-6e54-11f1-b648-1b56797cb133.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a00d9b11abfd",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/49100686/new-york-knicks-nba-championship-parade-sights-sounds-moments",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_93b6541786f8",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_db5eec41c754",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "The lifelong education of USMNT goalkeeper (and Ha...",
-      "dek": "The starting USMNT goalkeeper has an economics degree from Harvard. In his remarkable family, that makes him the underachiever.",
-      "body": "The starting USMNT goalkeeper has an economics degree from Harvard. In his remarkable family, that makes him the underachiever.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-18T09:54:18+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48977192/the-education-usmnt-world-cup-goalkeeper-harvard-grad-matt-freese",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_db5eec41c754",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_804665c74f49",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
-      "dek": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
-      "body": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-18T09:47:47+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ad91a090-6af5-11f1-8546-8f19e4fe30f4.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
