@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_f6409dff45d7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "2 arrested after detective finds drugs in bag labeled ‘definitely not a bag full of drugs'",
+      "dek": "submitted by /u/GetOffMyGrassBrats [link] [comments]",
+      "body": "submitted by /u/GetOffMyGrassBrats [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-22T20:42:09+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ucwde1/2_arrested_after_detective_finds_drugs_in_bag/",
+      "image": "https://external-preview.redd.it/PBYUd-oNFLISeDsYC0jQ9G0KpLZr7or6ThtvD6Det54.jpeg?width=640&crop=smart&auto=webp&s=f94e66be05f7cbe3da83639b0628a32afb6db9dd",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e6df4b7a5866",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-18T14:03:27+00:00",
       "sourceUrl": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cb/live/82d01bd0-6aa9-11f1-9a45-c56b5234f7dc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a7e6a5bd9d23",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
-      "dek": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
-      "body": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-18T14:02:52+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/d741c4e0-6b0b-11f1-b1db-af71d47507d6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
