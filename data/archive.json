@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_b52a7c332679",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "EU Court Says Private Jet Manufacturing Can Qualify as Green Investment Under Taxonomy",
+      "dek": "submitted by /u/Impossible_Offer7988 [link] [comments]",
+      "body": "submitted by /u/Impossible_Offer7988 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-24T18:50:04+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uem9vk/eu_court_says_private_jet_manufacturing_can/",
+      "image": "https://external-preview.redd.it/FP3r6q8t6GKBvVzESC2LA2Vy1HDu_8GJwsqhmAGRrWc.jpeg?width=640&crop=smart&auto=webp&s=52284928adf914805c3beb71b38cb20d74035439",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9b4b59d76261",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.com/news/articles/cm203gndx0lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301b/live/fb716f70-6d07-11f1-b622-5db122690c78.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_4dd0b087fc7a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Curaçao GK ties Howard's WC save record in draw",
-      "dek": "Curaçao goalkeeper Eloy Room made 15 saves to equal the World Cup record and help earn the island nation its first-ever World Cup point with a 0-0 draw against ",
-      "body": "Curaçao goalkeeper Eloy Room made 15 saves to equal the World Cup record and help earn the island nation its first-ever World Cup point with a 0-0 draw against heavily favored Ecuador on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-21T01:01:01+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49131334/curacao-goalkeeper-eloy-room-tim-howard-world-cup-save-record",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4dd0b087fc7a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
