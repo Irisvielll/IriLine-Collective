@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-25T09:43:56+00:00",
+  "generatedAt": "2026-06-25T12:07:28+00:00",
   "items": [
+    {
+      "id": "latest_ea6b67cbba9a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ryanair 'reluctantly' agrees to let parents sit with children for free",
+      "dek": "Previously, the airline had typically charged parents a fee of £8 each way to sit with their young children.",
+      "body": "Previously, the airline had typically charged parents a fee of £8 each way to sit with their young children.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-25T11:47:37+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a212/live/48b073b0-7089-11f1-9ccf-7b8f89cb6e74.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_233f1d679fce",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+      "dek": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
+      "body": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-25T10:04:43+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e645/live/ebbfb1a0-7071-11f1-9af3-ff9a7832a0f3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5ba2b0bed80c",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-06-25T09:42:18+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0216/live/e8edcdf0-7066-11f1-9af3-ff9a7832a0f3.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8abe084a51b1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Find out which university degrees could earn you most across your lifetime",
-      "dek": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime.",
-      "body": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-25T08:32:12+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54e3/live/8ff129b0-6fb0-11f1-9d49-f71d5004325f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_388a8f5f5292",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oil price falls to levels not seen since before Iran war",
-      "dek": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
-      "body": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-25T07:34:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7180/live/a13f7c30-7046-11f1-bb77-f7f099abe27b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
