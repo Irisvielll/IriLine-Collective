@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-26T00:09:23+00:00",
+  "generatedAt": "2026-06-26T04:39:29+00:00",
   "items": [
+    {
+      "id": "latest_28bd1f762263",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rescues and prayers a day after Venezuelan earthquakes",
+      "dek": "The BBC's Vanessa Silva reports from Caracas as the city faces the aftermath of back-to-back tremors.",
+      "body": "The BBC's Vanessa Silva reports from Caracas as the city faces the aftermath of back-to-back tremors.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-26T01:54:39+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cz6vny382q9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d675/live/e7096500-70ff-11f1-8e1d-bbbb1017d210.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2e1951eb048d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-25T23:12:22+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faff/live/2fe09860-6f49-11f1-897c-c7b91b969999.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_8df75911bed2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Gracie the giraffe has gone missing in Texas",
-      "dek": "submitted by /u/wakeupthebuddha [link] [comments]",
-      "body": "submitted by /u/wakeupthebuddha [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-25T23:00:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ufpf9k/gracie_the_giraffe_has_gone_missing_in_texas/",
-      "image": "https://external-preview.redd.it/AsNBUoHzK3AGtxl622cuQfcKkqf2jIPYanmFPdmquN0.jpeg?width=640&crop=smart&auto=webp&s=45e25ba9f6da9f0cd584dbfa22156dbf22823ca1",
       "imageCredit": "Image via original publisher"
     }
   ]

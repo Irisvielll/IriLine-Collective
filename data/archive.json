@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_bcf502e98b2b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The abundant but expensive energy source that's under your feet",
+      "dek": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+      "body": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-25T23:05:05+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_8df75911bed2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Gracie the giraffe has gone missing in Texas",
+      "dek": "submitted by /u/wakeupthebuddha [link] [comments]",
+      "body": "submitted by /u/wakeupthebuddha [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-25T23:00:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ufpf9k/gracie_the_giraffe_has_gone_missing_in_texas/",
+      "image": "https://external-preview.redd.it/AsNBUoHzK3AGtxl622cuQfcKkqf2jIPYanmFPdmquN0.jpeg?width=640&crop=smart&auto=webp&s=45e25ba9f6da9f0cd584dbfa22156dbf22823ca1",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a698a2284881",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-22T10:59:05+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uchfdy/loved_ones_receive_shocking_surprise_in_keepsake/",
       "image": "https://external-preview.redd.it/NBhnpioyNdwdZ9EAmViurCr3tyBBAtyWNyyGyQo_QKQ.jpeg?width=640&crop=smart&auto=webp&s=b628543138d0d8adb6d447654f9662770ac1e8a9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9d075447f04e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
-      "dek": "The 32-year-old California native died whilst on his world tour, ahead of a date in Brazil.",
-      "body": "The 32-year-old California native died whilst on his world tour, ahead of a date in Brazil.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-22T10:19:25+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48fe/live/4f2264b0-6e27-11f1-b1db-af71d47507d6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fe727c2b94d3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'I witnessed Maradona's Hand of God' - a goal still talked about 40 years on",
-      "dek": "One BBC journalist's first football game had one of the sport's most controversial moments and also one of the most celebrated.",
-      "body": "One BBC journalist's first football game had one of the sport's most controversial moments and also one of the most celebrated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-22T10:13:28+00:00",
-      "sourceUrl": "https://www.bbc.com/news/articles/cqx1gwl7wnno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ee2/live/9b80b940-64ec-11f1-a1ac-711fb29896f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
