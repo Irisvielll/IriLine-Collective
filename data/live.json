@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-26T15:40:51+00:00",
+  "generatedAt": "2026-06-26T17:23:53+00:00",
   "items": [
+    {
+      "id": "latest_1eb35b597264",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "dek": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
+      "body": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-26T17:00:31+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/bda21270-714a-11f1-8546-8f19e4fe30f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e7a7993bc325",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "dek": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "body": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-26T16:45:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcea/live/a513f030-716c-11f1-a4f8-ed826651ef10.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7ca44f62f69a",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-06-26T15:34:39+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3a/live/c3659d30-7168-11f1-a589-278435dff441.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e7a1d642d59b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Canada eligible to join Eurovision competition",
-      "dek": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-      "body": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-26T13:41:36+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1b/live/3e3335f0-7172-11f1-a417-dfae8167aae6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7dd6dbf0ecda",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "dek": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "body": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-26T12:54:18+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6932/live/4b749ee0-715c-11f1-909a-0f95894a566f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
