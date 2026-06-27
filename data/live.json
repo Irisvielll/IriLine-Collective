@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-27T21:45:46+00:00",
+  "generatedAt": "2026-06-27T23:02:37+00:00",
   "items": [
+    {
+      "id": "latest_63af20bc73a8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "dek": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "body": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-27T21:35:40+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a5/live/076a6550-7241-11f1-930d-75324f3b4c6e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_6846c22d3560",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-27T20:31:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uhd4iu/former_parent_of_the_year_facing_over_45_charges/",
       "image": "https://external-preview.redd.it/fpQZktMQq5Qz01IJXe1DGoYer5AAW622qAY9-mpfeKc.jpeg?width=640&crop=smart&auto=webp&s=4643a18116337734551e9f7dee92b18860665914",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_24b5c6863435",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Heatwave breaks more records in northern and central Europe",
-      "dek": "Germany, Denmark and the Czech republic are among the countries recording new all-time high temperatures.",
-      "body": "Germany, Denmark and the Czech republic are among the countries recording new all-time high temperatures.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-27T20:08:45+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

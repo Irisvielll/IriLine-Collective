@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_24b5c6863435",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Heatwave breaks more records in northern and central Europe",
+      "dek": "Germany, Denmark and the Czech republic are among the countries recording new all-time high temperatures.",
+      "body": "Germany, Denmark and the Czech republic are among the countries recording new all-time high temperatures.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-27T20:08:45+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_0182357415ba",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-23T16:44:13+00:00",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f376/live/dcd06300-6f05-11f1-87e9-1dc598ae70b3.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b052963f843c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
-      "dek": "Savannah Guthrie spoke on NBC's Today show about a note sent to the media in February regarding her missing mother, Nancy Guthrie, which claimed she had died.",
-      "body": "Savannah Guthrie spoke on NBC's Today show about a note sent to the media in February regarding her missing mother, Nancy Guthrie, which claimed she had died.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-23T16:41:44+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241f/live/e060c8d0-6f1d-11f1-b1db-af71d47507d6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
