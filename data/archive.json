@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_0182357415ba",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "dek": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "body": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-27T20:03:26+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a0/live/b6678a80-725d-11f1-b4a5-2d0098f6c080.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_57ac82c1a05c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241f/live/e060c8d0-6f1d-11f1-b1db-af71d47507d6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3466b0df2e3a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Lebanon Announces Golden Visa Plans: “Not the Right Timing, Nor the Right Framework”",
-      "dek": "\"Her sharper objection is commercial. Wehbe asked who would commit US$500,000, plus US$50,000 a year per family member, to Lebanon when the same capital could g",
-      "body": "\"Her sharper objection is commercial. Wehbe asked who would commit US$500,000, plus US$50,000 a year per family member, to Lebanon when the same capital could go to countries “that are not on the FATF gray list, have not endured one of the largest banking collapses and alleged Ponzi-like financial crises in modern history, and are not still dealing with the aftermath of billions of dollars in frozen deposits since 2019.”\" submitted by /u/BorderTrader [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-23T16:00:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1udl6rp/lebanon_announces_golden_visa_plans_not_the_right/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_3466b0df2e3a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
