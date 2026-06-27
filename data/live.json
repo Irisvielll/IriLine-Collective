@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-06-26T23:47:00+00:00",
+  "generatedAt": "2026-06-27T03:31:19+00:00",
   "items": [
+    {
+      "id": "meme_b9fdebebed68",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Debra Messing says she’s considering moving to Israel because she feels safer there than in New York City, “regardless of all of the missiles”",
+      "dek": "submitted by /u/Pyrts3 [link] [comments]",
+      "body": "submitted by /u/Pyrts3 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-27T02:53:13+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ugqzjo/debra_messing_says_shes_considering_moving_to/",
+      "image": "https://external-preview.redd.it/EitcP-xaL9gtmDggDazUVQyguBywuHBBwvuiah5H_mg.jpeg?width=640&crop=smart&auto=webp&s=d59bb993cd2d9d79752f3e2a7eb75d1529c50238",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_be81a3127176",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Religion row as Texas makes Bible stories required reading in schools",
+      "dek": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+      "body": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-27T00:31:42+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea2/live/c60f3030-71a6-11f1-8e1d-bbbb1017d210.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_0e2c56d1160d",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-06-26T23:43:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ugmwsd/man_jailed_after_joining_cambodia_scam_syndicate/",
       "image": "https://external-preview.redd.it/c5wrNwSv1xfZWSduX5JYKSdsfnsx4hMPzvGWy1UAp6I.jpeg?width=640&crop=smart&auto=webp&s=489daff88fd76af26c4e8150514435cb212b7a48",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_21d8fa9ea1ba",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "dek": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "body": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-26T22:32:53+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731d/live/eebb89d0-71a0-11f1-b1db-af71d47507d6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d89d96a68905",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "dek": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-      "body": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-26T21:15:37+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
