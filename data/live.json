@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-27T06:42:52+00:00",
+  "generatedAt": "2026-06-27T09:17:01+00:00",
   "items": [
+    {
+      "id": "meme_ae9f7f033614",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Fake Cop Pulls Over Undercover Hillsborough County Deputy",
+      "dek": "submitted by /u/gootyy [link] [comments]",
+      "body": "submitted by /u/gootyy [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-27T07:01:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ugvqa7/fake_cop_pulls_over_undercover_hillsborough/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_ae9f7f033614",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_c2dcd9b973f6",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-27T02:53:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ugqzjo/debra_messing_says_shes_considering_moving_to/",
       "image": "https://external-preview.redd.it/EitcP-xaL9gtmDggDazUVQyguBywuHBBwvuiah5H_mg.jpeg?width=640&crop=smart&auto=webp&s=d59bb993cd2d9d79752f3e2a7eb75d1529c50238",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_be81a3127176",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Religion row as Texas makes Bible stories required reading in schools",
-      "dek": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-      "body": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-27T00:31:42+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea2/live/c60f3030-71a6-11f1-8e1d-bbbb1017d210.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
