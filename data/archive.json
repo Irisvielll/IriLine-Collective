@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_39d1c5d0efaf",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "dek": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+      "body": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-28T16:38:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_13e16d539f41",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-24T08:53:14+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/49162159/world-cup-daily-messi-turns-39-midnight-workout-three-groups-decided",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_965d2689370f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_0e40cefb66dd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "World Cup VAR review: Why England were lucky not t...",
-      "dek": "null",
-      "body": "null",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-24T08:53:14+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49027532/world-cup-2026-var-review-red-card-penalty-handball-goal-line-technology",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0e40cefb66dd",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]

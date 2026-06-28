@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-28T21:01:27+00:00",
+  "generatedAt": "2026-06-28T22:14:22+00:00",
   "items": [
+    {
+      "id": "meme_5f8eff2486a1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Lifeguard rescues man who drove his Tesla into a pool",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-28T21:34:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ui9hml/lifeguard_rescues_man_who_drove_his_tesla_into_a/",
+      "image": "https://external-preview.redd.it/dzj9gH3pPJUL8qOoCt_eHDyxk-spRXj9IOfhbkORkwE.jpeg?width=640&crop=smart&auto=webp&s=1701d26d9d24da3b109256a35c25690e9a5215da",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_9dc633187b51",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-28T17:32:30+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce5/live/19bd1460-7317-11f1-8546-8f19e4fe30f4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_39d1c5d0efaf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "dek": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-      "body": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-28T16:38:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
