@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-06-28T14:15:40+00:00",
+  "generatedAt": "2026-06-28T15:49:27+00:00",
   "items": [
+    {
+      "id": "latest_7a646a05f7c5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australian man charged with murder after girl found dead in suitcase in Thailand",
+      "dek": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+      "body": "The 17-year-old's body was found discarded near a railway track on Saturday, police say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-28T14:30:05+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/50421640-72ed-11f1-8e1d-bbbb1017d210.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_99966f9ef47c",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-06-28T13:03:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uhws6t/she_posted_about_ice_five_months_later_dhs_agents/",
       "image": "https://external-preview.redd.it/WD6EIlKWR2JARf_o046G8-huaPLLklJOOI-X72722BU.jpeg?width=640&crop=smart&auto=webp&s=17facea03f333115247c1e02639fc96c64c8af5b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_160e71c3456a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "dek": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy ma",
-      "body": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-28T12:39:41+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png",
       "imageCredit": "Image via original publisher"
     }
   ]

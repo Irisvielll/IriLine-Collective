@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_160e71c3456a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "dek": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy ma",
+      "body": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-28T12:39:41+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_8d2307ae5164",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-24T05:18:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ue4f74/extreme_heat_conference_cancelled_due_to_extreme/",
       "image": "https://external-preview.redd.it/a2OO0U7B2q7Zlg4_9ABoT_OF6KLiFCSuHd2mGYfSAv4.jpeg?width=320&crop=smart&auto=webp&s=a09b22ee1c206ade9ef0a456e8b1179e08d41159",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_38be6fa08afa",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-      "dek": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-      "body": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-24T05:07:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
