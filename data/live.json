@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T21:47:11+00:00",
+  "generatedAt": "2026-07-01T23:16:09+00:00",
   "items": [
     {
       "id": "meme_66144d68a0c0",
@@ -17,6 +17,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "latest_ef198d69261f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "dek": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+      "body": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-01T21:27:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2078/live/ee675030-758e-11f1-92e5-efd489c4d444.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c9c1806803e7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-01T21:10:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uky7jm/german_pundit_blames_wives_and_girlfriends_of/",
       "image": "https://external-preview.redd.it/uNaAYClpZFQnaLrXPAJOahBJiOtRBSMg8mdg-cXW0_I.jpeg?width=640&crop=smart&auto=webp&s=9626bb266f8e2221562c71ff81963ef59dbc8c47",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_05fee7a8197d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kentucky pastor defends viral video showing mock firing squad in front of children",
-      "dek": "submitted by /u/SelectiveSanity [link] [comments]",
-      "body": "submitted by /u/SelectiveSanity [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-01T20:14:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ukwprg/kentucky_pastor_defends_viral_video_showing_mock/",
-      "image": "https://external-preview.redd.it/R3X3b3QOqMSm1x89OptSZKka2IKx9YdVMD0_TT97eR4.jpeg?width=640&crop=smart&auto=webp&s=8b54bb3d74b26fe1bc2323e9b2995e0b43c5c02e",
       "imageCredit": "Image via original publisher"
     }
   ]
