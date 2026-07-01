@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_789eaf69b168",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "dek": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
+      "body": "The president earned millions more from real estate, Trump-themed Bibles, watches and other items.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-01T01:18:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4736/live/00072a20-74dd-11f1-816e-6b18feb3817d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_59c6af169de9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "dek": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "body": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-01T01:13:36+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/1a317af0-74e1-11f1-b04d-d9f777e609eb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_7f2655e5fe90",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+      "dek": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "body": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-06-30T23:49:19+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8c/live/75e572e0-74da-11f1-8546-8f19e4fe30f4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_b64b2021d647",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-06-26T19:36:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uggoxu/san_tan_valley_woman_hospitalized_with_severe/",
       "image": "https://external-preview.redd.it/XnxbIb15jMERIRixafkuCdrJuDT8ofDd8aekQVYT5i8.png?width=640&crop=smart&auto=webp&s=0485208945ae64dd5b94cc22d52264ea1f247d45",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fe207c77fe0d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel and Lebanon sign framework agreement after US-brokered talks",
-      "dek": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
-      "body": "Previous ceasefires between Israel and Hezbollah have still seen near-daily cross-border strikes",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-26T19:29:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91cd/live/9c0fbac0-718d-11f1-b32d-379da24cff6f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_715f95b9b956",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Lightning strikes seen across UK",
-      "dek": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
-      "body": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-26T19:26:58+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6416/live/757933b0-7191-11f1-8546-8f19e4fe30f4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0d5f2fa60dc7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Debris falls after plane hits Beijing's tallest building",
-      "dek": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.",
-      "body": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-26T18:36:42+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/591d/live/7f3c3b90-718c-11f1-8e1d-bbbb1017d210.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
