@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6fe06905ab74",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Killers of British couple in South Africa sentenced to life",
+      "dek": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+      "body": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-02T18:43:07+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec3/live/58a41cc0-7644-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_1c8a8080556e",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a6a/live/b6f81890-734b-11f1-8e1d-bbbb1017d210.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c1e3607d3e31",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'I do not believe in free press': Uganda military chief orders shutdown of major media outlets",
-      "dek": "submitted by /u/Bernardmark [link] [comments]",
-      "body": "submitted by /u/Bernardmark [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-29T00:01:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uicv86/i_do_not_believe_in_free_press_uganda_military/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c1e3607d3e31",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
