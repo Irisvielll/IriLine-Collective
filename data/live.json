@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-02T18:56:56+00:00",
+  "generatedAt": "2026-07-02T20:21:32+00:00",
   "items": [
+    {
+      "id": "latest_01b426b41dfa",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "dek": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+      "body": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-02T19:48:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062b/live/8a25abc0-764d-11f1-a011-354a7c444b02.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_012634744651",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A number of Dirty [...] brand potato chip products, sold by Utz, were recalled for possible salmonella contamination.",
+      "dek": "I mean- what did you expect? 🤷‍♂️ submitted by /u/Gloomy-Restaurant-42 [link] [comments]",
+      "body": "I mean- what did you expect? 🤷‍♂️ submitted by /u/Gloomy-Restaurant-42 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-02T19:26:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ulrynx/a_number_of_dirty_brand_potato_chip_products_sold/",
+      "image": "https://external-preview.redd.it/JzJu_cN-fUAMFOdySC6fqojk0nVoHuQoZKJQ-rJbhew.jpeg?width=640&crop=smart&auto=webp&s=285dfb3886c3a647705d5be0f37bd1282d779d8a",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_6fe06905ab74",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-02T18:43:07+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec3/live/58a41cc0-7644-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1c8a8080556e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'End American Aid': Netanyahu Says Israel No Longer Needs US Assistance",
-      "dek": "submitted by /u/ivantheiceman [link] [comments]",
-      "body": "submitted by /u/ivantheiceman [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T18:41:29+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ulqqnu/end_american_aid_netanyahu_says_israel_no_longer/",
-      "image": "https://external-preview.redd.it/fTL2cWwpEF1BbTL2xuilnB44HtoTmw9AEhCIgv73XnM.jpeg?width=640&crop=smart&auto=webp&s=cec26ba973e699d6856cbb9553d3b46f185faf99",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a88b3e837c08",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-      "dek": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
-      "body": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T17:56:18+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbab/live/7f056730-7639-11f1-a627-714adb4eed6e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_1c8a8080556e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "'End American Aid': Netanyahu Says Israel No Longer Needs US Assistance",
+      "dek": "submitted by /u/ivantheiceman [link] [comments]",
+      "body": "submitted by /u/ivantheiceman [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-02T18:41:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ulqqnu/end_american_aid_netanyahu_says_israel_no_longer/",
+      "image": "https://external-preview.redd.it/fTL2cWwpEF1BbTL2xuilnB44HtoTmw9AEhCIgv73XnM.jpeg?width=640&crop=smart&auto=webp&s=cec26ba973e699d6856cbb9553d3b46f185faf99",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a88b3e837c08",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "dek": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+      "body": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-02T17:56:18+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbab/live/7f056730-7639-11f1-a627-714adb4eed6e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c32c542a0954",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-29T00:01:10+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uicv86/i_do_not_believe_in_free_press_uganda_military/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c1e3607d3e31",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_fa1648d67996",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Source: Fire in final stage of deal for Lewandowsk...",
-      "dek": "Chicago Fire FC and Robert Lewandowski are finalizing the details of a deal that would see the Poland striker move to MLS this summer, a source confirmed to ESP",
-      "body": "Chicago Fire FC and Robert Lewandowski are finalizing the details of a deal that would see the Poland striker move to MLS this summer, a source confirmed to ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-28T23:50:38+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49211267/chicago-fire-signing-robert-lewandowski",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fa1648d67996",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_b547fbce00da",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "📈Marcotti's best World Cup XI so far",
-      "dek": "The 2026 World Cup group stage has given us tons to cheer about, from superstars on form to wonderful underdog stories. How do you turn that into a best XI? Gab",
-      "body": "The 2026 World Cup group stage has given us tons to cheer about, from superstars on form to wonderful underdog stories. How do you turn that into a best XI? Gab Marcotti gives it a shot.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-28T23:50:38+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49208415/world-cup-best-xi-group-stage-lionel-messi-kylian-mbappe-vinicius-junior-gab-marcotti",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_b547fbce00da",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
