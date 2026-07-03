@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-03T19:23:17+00:00",
+  "generatedAt": "2026-07-03T20:38:13+00:00",
   "items": [
+    {
+      "id": "meme_376ad1a22cb4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "England allowed to use Viagra by WADA to help players rise to World Cup altitude",
+      "dek": "submitted by /u/russtripledub [link] [comments]",
+      "body": "submitted by /u/russtripledub [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-03T20:02:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1umokji/england_allowed_to_use_viagra_by_wada_to_help/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_376ad1a22cb4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_cc91c34b503f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-03T17:12:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1umk98s/man_arrested_in_oban_after_seagull_allegedly_used/",
       "image": "https://external-preview.redd.it/NmIavUawmy-v-2PfL2jNEEg5vKvIxlRyY_1GwQ353bI.jpeg?width=640&crop=smart&auto=webp&s=5d10ccd0083068872b281a189143629bac205591",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4b731e1ef939",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Polish PM warns critical months ahead in face of Russian threat",
-      "dek": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-      "body": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-03T16:41:00+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
