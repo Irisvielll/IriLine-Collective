@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-03T20:38:13+00:00",
+  "generatedAt": "2026-07-03T21:45:29+00:00",
   "items": [
+    {
+      "id": "latest_7f92ccc6ad0d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "dek": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+      "body": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-03T21:00:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d94/live/7466db40-7721-11f1-aedc-e7917f776e03.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_376ad1a22cb4",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-03T19:05:18+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1umn5jy/doj_launches_investigation_into_alaska_candidate/",
       "image": "https://external-preview.redd.it/p-urSZ8KyMeDhV13Ow0PIlaLOJ_polY0B82bW4QnVPU.jpeg?width=640&crop=smart&auto=webp&s=8c40ced2a842e6e726a768c4ec6430b4a059f976",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_60076dcfe278",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man arrested in Oban after seagull allegedly 'used as weapon'",
-      "dek": "submitted by /u/Wish-I-Was-You [link] [comments]",
-      "body": "submitted by /u/Wish-I-Was-You [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-03T17:12:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1umk98s/man_arrested_in_oban_after_seagull_allegedly_used/",
-      "image": "https://external-preview.redd.it/NmIavUawmy-v-2PfL2jNEEg5vKvIxlRyY_1GwQ353bI.jpeg?width=640&crop=smart&auto=webp&s=5d10ccd0083068872b281a189143629bac205591",
       "imageCredit": "Image via original publisher"
     }
   ]
