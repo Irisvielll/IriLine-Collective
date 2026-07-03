@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_01b426b41dfa",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "dek": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+      "body": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-02T19:48:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062b/live/8a25abc0-764d-11f1-a011-354a7c444b02.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_012634744651",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-06-29T02:34:03+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uig1zd/georgia_man_dies_of_heart_attack_while_dumping/",
       "image": "https://external-preview.redd.it/IIKMkvxYwKaQrjzOUbY1UqUHVcp7aEWLxicaWzGjHRY.jpeg?width=640&crop=smart&auto=webp&s=95f062a1a73c21fc318565e48d337988d16de53b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c75a71de2abe",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Michigan House passes bill to let children run lemonade stands without permits or fees",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-29T00:54:33+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uidzzj/michigan_house_passes_bill_to_let_children_run/",
-      "image": "https://external-preview.redd.it/fXWjHcMPUdIX30J503IBzqJ0JV0K5Qj4myjfTHSs3kY.jpeg?width=640&crop=smart&auto=webp&s=88bd5e50bbdb0627cb68f82fb3e08dd6d1c54423",
       "imageCredit": "Image via original publisher"
     }
   ]

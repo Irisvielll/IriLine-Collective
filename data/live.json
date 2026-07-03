@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-02T22:47:56+00:00",
+  "generatedAt": "2026-07-03T00:05:23+00:00",
   "items": [
+    {
+      "id": "meme_963004cd2571",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Peter Thiel in Aspen: The pope is ‘working for the Chinese Communists’",
+      "dek": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "body": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-02T22:58:36+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ulxe9h/peter_thiel_in_aspen_the_pope_is_working_for_the/",
+      "image": "https://external-preview.redd.it/q97Wi_pPLnUreGlhJj41P9Jca9OT1qDqy9IIQJQwu9E.jpeg?width=640&crop=smart&auto=webp&s=6b8a81e8dc0eaf6a89eeb08f8928bcc57d0dcc9d",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_6ab00486e6b4",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-02T20:27:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ultknq/cant_afford_a_snazzy_library_fake_it_with/",
       "image": "https://external-preview.redd.it/WtCgytC2J3AauAeCAzYrUivHGhC6VUHdDsm-zYJfU-I.png?width=108&crop=smart&auto=webp&s=512df3245be8c6fe77c51e6482256f78a122d982",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_01b426b41dfa",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
-      "dek": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-      "body": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T19:48:21+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/062b/live/8a25abc0-764d-11f1-a011-354a7c444b02.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
