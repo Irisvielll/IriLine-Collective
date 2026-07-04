@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-04T12:18:22+00:00",
+  "generatedAt": "2026-07-04T14:08:55+00:00",
   "items": [
+    {
+      "id": "latest_0a6fbb1c8b9e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "dek": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "body": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T14:07:31+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b3ad5b583572",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+      "dek": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
+      "body": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T12:05:41+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c6f/live/aa7b3860-77a4-11f1-a627-714adb4eed6e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_67eeb70ac899",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-04T11:37:56+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1un6ucx/doe_deletes_webpage_instructing_people_to_lower/",
       "image": "https://external-preview.redd.it/rihzu15COiGuqCUjmXcyMPCj96gRkm7D1xbgMkvLWOQ.png?width=640&crop=smart&auto=webp&s=5b87ce9d3dd93eeec5790c00d771b3ca3082154d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_657a802cb3fb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
-      "dek": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-      "body": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-04T10:42:47+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f69/live/f6627020-7788-11f1-a627-714adb4eed6e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_32c61b4e5ddf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-      "dek": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-      "body": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-04T09:45:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

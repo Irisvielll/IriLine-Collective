@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_657a802cb3fb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "dek": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
+      "body": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T10:42:47+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f69/live/f6627020-7788-11f1-a627-714adb4eed6e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_32c61b4e5ddf",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "dek": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+      "body": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T09:45:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_db7b58539424",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-30T15:15:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1d1/live/a9929a90-70a8-11f1-88b6-991d05fc2cf9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_107aa284dcf1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Gujarat HC denies bail to Muslim man accused of cow slaughter, says cow & \"sacred\" to many communities",
-      "dek": "submitted by /u/NotHereToLove [link] [comments]",
-      "body": "submitted by /u/NotHereToLove [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-30T14:48:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ujrbos/gujarat_hc_denies_bail_to_muslim_man_accused_of/",
-      "image": "https://external-preview.redd.it/RBRT1OTDhP4ydMuRNpz6Odff629I8p7YkqBesi0aMo8.jpeg?width=640&crop=smart&auto=webp&s=c758d640fb527ebdebd09d7ae7507c94f1ebc991",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5764d0d4d117",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Supreme Court's birthright ruling is major blow to Trump",
-      "dek": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
-      "body": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-30T14:37:54+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3737/live/24fbc0a0-748f-11f1-8546-8f19e4fe30f4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
