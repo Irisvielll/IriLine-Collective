@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_773b59919bc5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Americans have no idea what America’s 250th is actually celebrating",
+      "dek": "USA! USA! USA! 🇺🇸 submitted by /u/ttechredraider [link] [comments]",
+      "body": "USA! USA! USA! 🇺🇸 submitted by /u/ttechredraider [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T16:02:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uncrcf/americans_have_no_idea_what_americas_250th_is/",
+      "image": "https://external-preview.redd.it/3wXzD7Y1cg5rk-v7oJqj9aYJXEJuiuISDjnhyh2oDWY.jpeg?width=640&crop=smart&auto=webp&s=569af2ee650434fc42709db4e95d79d34fdd9fe5",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_1bf49b6d054f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Former chess champion Kramnik banned over cheating remarks",
+      "dek": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
+      "body": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T15:45:15+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffb/live/51aa3090-77b5-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_65ac580605d9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-30T19:30:37+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/49230019/kylian-mbappe-france-sweden-world-cup-knockout-goal-record-2026",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d9b799b72053",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_9ea32f04007a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Serena falls in 3-set Wimbledon thriller in return...",
-      "dek": "Serena Williams, 44, was beaten 6-3, 6-7 (6) 6-3 by 20-year-old Maya Joint of Australia in her first professional singles match in nearly four years in the open",
-      "body": "Serena Williams, 44, was beaten 6-3, 6-7 (6) 6-3 by 20-year-old Maya Joint of Australia in her first professional singles match in nearly four years in the opening round of Wimbledon.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-30T19:30:37+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/49229361/serena-williams-falls-maya-joint-1st-singles-match-nearly-4-years",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9ea32f04007a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_ff7f85296198",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "WNBA's Thomas got death threats over Clark tiff",
-      "dek": "Mercury forward Alyssa Thomas said she has received death threats and been called racial slurs following last week's in-game incident with Fever star Caitlin Cl",
-      "body": "Mercury forward Alyssa Thomas said she has received death threats and been called racial slurs following last week's in-game incident with Fever star Caitlin Clark.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-30T19:30:37+00:00",
-      "sourceUrl": "https://www.espn.com/wnba/story/_/id/49229769/alyssa-thomas-received-death-threats-caitlin-clark-incident",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ff7f85296198",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
