@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-04T07:14:37+00:00",
+  "generatedAt": "2026-07-04T09:32:06+00:00",
   "items": [
+    {
+      "id": "latest_82919e706105",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "dek": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "body": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T07:52:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ad4/live/e811c470-777a-11f1-bfcd-0551ebb03f4c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6281401eb136",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/49262637/messi-argentina-nearly-suffered-historic-world-cup-upset-cape-verde",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_4d767eaea25c",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_1d0cd46e5f9e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
-      "dek": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-      "body": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-04T02:57:48+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8188/live/f848ea30-7716-11f1-8716-9bf866a7588e.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

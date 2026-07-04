@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1d0cd46e5f9e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
+      "dek": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+      "body": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T02:57:48+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8188/live/f848ea30-7716-11f1-8716-9bf866a7588e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_0a6f5e3a89db",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -178,6 +193,21 @@
       "publishedAt": "2026-07-04T00:55:10+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a638/live/5cb62200-75d5-11f1-b2ef-f150187f763a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3a36f1e7ef63",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
+      "dek": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
+      "body": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T00:51:44+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0042/live/3a021450-76e1-11f1-9510-1546718f668b.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-06-30T14:12:31+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ujqdia/companies_are_making_claude_and_codex_talk_like/",
       "image": "https://external-preview.redd.it/IybxxD6TFGt_GSqHNuarIIpuWFdsih07FswI6ufyPrE.png?width=640&crop=smart&auto=webp&s=79d9df7098a7eb5a6980bd029f1d97f9bcafa746",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1275dc0966a3",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Mt. Olive Pickles withdraws from Great American State Fair after Confederate flag at NC booth",
-      "dek": "submitted by /u/laybs1 [link] [comments]",
-      "body": "submitted by /u/laybs1 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-30T13:15:19+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ujoxw3/mt_olive_pickles_withdraws_from_great_american/",
-      "image": "https://external-preview.redd.it/Q-H77xZgZheYiL9rW8yR8YWn2s4cGZJg_wTp9AE3AxI.jpeg?width=640&crop=smart&auto=webp&s=210a2423c2544471e53e99cb6214780a31f4410a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_79aa87eac41b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Canadians share hopes and wishes for America's 250th birthday",
-      "dek": "We asked Canadians across the country what they would say and give to their southern neighbour.",
-      "body": "We asked Canadians across the country what they would say and give to their southern neighbour.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-06-30T12:21:38+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/7cf85520-73f4-11f1-8e1d-bbbb1017d210.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
