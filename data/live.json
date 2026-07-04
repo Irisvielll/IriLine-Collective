@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-04T11:10:58+00:00",
+  "generatedAt": "2026-07-04T12:18:22+00:00",
   "items": [
+    {
+      "id": "meme_67eeb70ac899",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "DoE Deletes Webpage Instructing People To Lower Thermostat to 78",
+      "dek": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "body": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T11:37:56+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1un6ucx/doe_deletes_webpage_instructing_people_to_lower/",
+      "image": "https://external-preview.redd.it/rihzu15COiGuqCUjmXcyMPCj96gRkm7D1xbgMkvLWOQ.png?width=640&crop=smart&auto=webp&s=5b87ce9d3dd93eeec5790c00d771b3ca3082154d",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_657a802cb3fb",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-04T09:45:55+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_db7b58539424",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-      "dek": "Celebrities and sports stars were spotted as the A-list couple tied the knot in New York on Friday.",
-      "body": "Celebrities and sports stars were spotted as the A-list couple tied the knot in New York on Friday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-04T08:24:17+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/010f/live/2953a370-778c-11f1-a146-99f41269c606.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
