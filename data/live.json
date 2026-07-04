@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-04T16:42:08+00:00",
+  "generatedAt": "2026-07-04T17:46:01+00:00",
   "items": [
+    {
+      "id": "latest_314d992c13c6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+      "dek": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
+      "body": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T16:49:36+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f6e/live/e254b5d0-77be-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_773b59919bc5",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-04T15:45:15+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffb/live/51aa3090-77b5-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_65ac580605d9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man arrested in Oban after seagull allegedly 'used as weapon'",
-      "dek": "submitted by /u/kwentongskyblue [link] [comments]",
-      "body": "submitted by /u/kwentongskyblue [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-04T15:23:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1unbspz/man_arrested_in_oban_after_seagull_allegedly_used/",
-      "image": "https://external-preview.redd.it/NmIavUawmy-v-2PfL2jNEEg5vKvIxlRyY_1GwQ353bI.jpeg?width=640&crop=smart&auto=webp&s=5d10ccd0083068872b281a189143629bac205591",
       "imageCredit": "Image via original publisher"
     }
   ]
