@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-04T22:30:28+00:00",
+  "generatedAt": "2026-07-04T23:43:29+00:00",
   "items": [
+    {
+      "id": "latest_b50439a266cd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "dek": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
+      "body": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-04T21:46:43+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2f/live/7e277ba0-77ec-11f1-9510-1546718f668b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_1736888503e1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-04T20:36:02+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1unjdl7/oban_police_investigate_after_report_of_man_using/",
       "image": "https://external-preview.redd.it/vxG_PyOH1lqhFBSBAXzWyLPohOkxv6JdRX3ZNvY0vEc.jpeg?width=640&crop=smart&auto=webp&s=f557594bc02aa653592e331eeb27bc26fb1a9d4c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bd380f81ed73",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Eala wins 'for all the girls with ruffled socks and chubby cheeks'",
-      "dek": "Alexandra Eala dedicates her stunning win over defending Wimbledon champion Iga Swiatek to \"all the girls with ruffled socks and chubby cheeks\".",
-      "body": "Alexandra Eala dedicates her stunning win over defending Wimbledon champion Iga Swiatek to \"all the girls with ruffled socks and chubby cheeks\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-04T20:19:11+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cjwgpz3wj69o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a602/live/96aa5aa0-77c7-11f1-a627-714adb4eed6e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
