@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T10:51:31+00:00",
+  "generatedAt": "2026-07-05T12:15:59+00:00",
   "items": [
     {
       "id": "latest_14d996589110",
@@ -17,34 +17,34 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_c9103465194b",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_99bccffccc98",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "Scorching heat and delays: How Washington DC marked America 250",
-      "dek": "The United States of America marked its 250th birthday with fireworks, flyovers, some intense weather across the country.",
-      "body": "The United States of America marked its 250th birthday with fireworks, flyovers, some intense weather across the country.",
+      "category": "SPORTS",
+      "title": "Boston's Gray fueled by ASG snub, gets 10th win",
+      "dek": "Red Sox right-hander Sonny Gray admitted being \"bummed\" that he was not named an All-Star on Saturday but proceeded to get his 10th win of the season in an 8-1 ",
+      "body": "Red Sox right-hander Sonny Gray admitted being \"bummed\" that he was not named an All-Star on Saturday but proceeded to get his 10th win of the season in an 8-1 victory over the Angels.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-07-05T07:19:08+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9fa/live/25cb0190-783f-11f1-9510-1546718f668b.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-07-05T07:53:44+00:00",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49274270/red-sox-gray-bummed-all-star-snub-picks-10th-win",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_99bccffccc98",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
-      "id": "meme_48e41a32e5fe",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Australia's spy agency turns to Vogue to find recruits",
-      "dek": "submitted by /u/Polyphagous_person [link] [comments]",
-      "body": "submitted by /u/Polyphagous_person [link] [comments]",
+      "id": "sports_09281b4d9bab",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Postcards from the World Cup: Seeing the U.S., Can...",
+      "dek": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark O",
+      "body": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-07-05T07:10:46+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1unvj9h/australias_spy_agency_turns_to_vogue_to_find/",
-      "image": "https://external-preview.redd.it/8NC7hLI5-kytUS17ClB1hCZPvM8tYqPgmkTNfaRoAaY.jpeg?width=640&crop=smart&auto=webp&s=216704aca225e29988591f4650adf12ea378994d",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-07-05T07:52:10+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49249888/world-cup-postcards-travel-usa-los-angeles-mexico-guadalajara-canada-vancouver",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_09281b4d9bab",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
