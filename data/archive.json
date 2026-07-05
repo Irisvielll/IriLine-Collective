@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_129633f2e718",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kids associate foreign accents with cartoon bad guys, Canadian study finds — and that has consequences",
+      "dek": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "body": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-05T12:58:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uo1kyb/kids_associate_foreign_accents_with_cartoon_bad/",
+      "image": "https://external-preview.redd.it/bNgdPN12WnCQtwYxNuMie88c22aQhPzKZ8zYIsHL2ps.jpeg?width=320&crop=smart&auto=webp&s=7c9453a3158ee146cd45600d463f597e90c59621",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_23eadbf6a23a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australia probes mystery space balls that washed up on beach",
+      "dek": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
+      "body": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-05T12:55:58+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/4062f360-7866-11f1-ab53-3dbca6ef5ee1.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ddc678e5176a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-01T10:27:44+00:00",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/49233418/world-cup-daily-live-haaland-buys-cowboy-hat-usmnt-england-action",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_d9ed7922fa84",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1827f70df5d3",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ranking the remaining NHL trade candidates this of...",
-      "dek": "With a handful of blockbusters already in the books, which difference-makers could be swapping franchises this summer?",
-      "body": "With a handful of blockbusters already in the books, which difference-makers could be swapping franchises this summer?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-01T10:27:25+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/48968493/nhl-2026-offseason-trades-rankings-targets-market-draft-picks-contracts",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1827f70df5d3",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e523fde0073c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Live NHL free agency tracker: Contract details for...",
-      "dek": "Get up to speed on all the latest veteran additions teams are making beginning on June 30.",
-      "body": "Get up to speed on all the latest veteran additions teams are making beginning on June 30.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-01T10:27:24+00:00",
-      "sourceUrl": "https://www.espn.com/nhl/story/_/id/49235590/nhl-free-agency-tracker-2026-contracts-teams-analysis-updates",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e523fde0073c",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
