@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-05T08:30:39+00:00",
+  "generatedAt": "2026-07-05T10:51:31+00:00",
   "items": [
+    {
+      "id": "latest_14d996589110",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "dek": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+      "body": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-05T09:26:56+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccc/live/14f8dd50-7840-11f1-a9d9-f754ec615ffe.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c9103465194b",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-05T07:10:46+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1unvj9h/australias_spy_agency_turns_to_vogue_to_find/",
       "image": "https://external-preview.redd.it/8NC7hLI5-kytUS17ClB1hCZPvM8tYqPgmkTNfaRoAaY.jpeg?width=640&crop=smart&auto=webp&s=216704aca225e29988591f4650adf12ea378994d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_94a48c1943f6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "dek": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "body": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-05T05:58:21+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a119/live/d5d21d80-782b-11f1-b976-0b9c15b0ccfc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

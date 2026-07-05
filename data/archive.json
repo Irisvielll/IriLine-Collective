@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_94a48c1943f6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "dek": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+      "body": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-05T05:58:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a119/live/d5d21d80-782b-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c121d31d4dbc",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-01T05:20:15+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ukcitr/california_senators_kill_bill_barring_registered/",
       "image": "https://external-preview.redd.it/m83L-cSBD4dzbvbHZhVE95-05H-mFhorNA449rk6nSw.jpeg?width=640&crop=smart&auto=webp&s=51f994aecd6b31b7e26d38752b213fb8cd991160",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ec0e2da797c9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
-      "dek": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
-      "body": "As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-01T05:00:13+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb9/live/3eea7350-7528-11f1-b8b8-e187759eae96.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
