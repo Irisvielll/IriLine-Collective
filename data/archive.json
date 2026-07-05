@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_858c9b88907c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump thanks Fifa for overturning USA striker's ban",
+      "dek": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
+      "body": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-05T19:36:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf1/live/3ab6d9e0-7898-11f1-9510-1546718f668b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_26fc4b3f9967",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
+      "dek": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
+      "body": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-05T18:35:23+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a724/live/0c338b30-7899-11f1-87a6-29e20436c2da.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_96e91bafece5",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1b/live/3e3335f0-7172-11f1-a417-dfae8167aae6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_db70443b6456",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Lakers trade 2 first-rounders for Kessler...",
-      "dek": "The Lakers are acquiring Walker Kessler from the Jazz for unprotected first-round picks in 2031 and 2033 and first-round swaps in 2028 and 2030, sources told ES",
-      "body": "The Lakers are acquiring Walker Kessler from the Jazz for unprotected first-round picks in 2031 and 2033 and first-round swaps in 2028 and 2030, sources told ESPN.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-01T11:47:04+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49237403/lakers-trading-jazz-center-walker-kessler-sources-say",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_db70443b6456",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_31425f2ef94a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Sources: Conley to C's, 12th to reach 20 seasons",
-      "dek": "Free agent guard Mike Conley Jr. has agreed to a one-year deal to sign with the Boston Celtics, sources told ESPN, with Conley becoming the 14th player to reach",
-      "body": "Free agent guard Mike Conley Jr. has agreed to a one-year deal to sign with the Boston Celtics, sources told ESPN, with Conley becoming the 14th player to reach 20 NBA seasons.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-01T11:47:04+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49236921/conley-celtics-becomes-12th-reach-20-nba-seasons",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_31425f2ef94a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
