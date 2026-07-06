@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-06T19:15:51+00:00",
+  "generatedAt": "2026-07-06T21:10:11+00:00",
   "items": [
+    {
+      "id": "meme_2ed3c9857803",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Canada’s government is expanding power to identify Canadians online, access their data—and punish them",
+      "dek": "submitted by /u/Mean_Yak5873 [link] [comments]",
+      "body": "submitted by /u/Mean_Yak5873 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-06T19:21:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1up7dc6/canadas_government_is_expanding_power_to_identify/",
+      "image": "https://external-preview.redd.it/UO1Viwj-1Uo_SKQKETsCmyuS4FpOGkt5WsBeyvpeiEA.jpeg?width=640&crop=smart&auto=webp&s=a132f6d78ac15c6ba59658cc034e478c93ae0c19",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_00cd25644be0",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-06T17:48:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1up4nh3/russian_retailers_see_horse_sales_surge_amid/",
       "image": "https://external-preview.redd.it/wOIqx7Fgw3N2YyrmWWGF13BRC3rNqdzQZMgtiRPIoWE.jpeg?width=640&crop=smart&auto=webp&s=ad3577c6bac65d4b1481d97bb467744df93ee37a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3ce56cc2b4b0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Tilly Norwood, AI ‘actor’ denounced by actors union, to star in feature film",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-06T17:31:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1up462j/tilly_norwood_ai_actor_denounced_by_actors_union/",
-      "image": "https://external-preview.redd.it/ZgwtWo5vsZ3rYix1LIFS3Uzh3urmnVkrxqcaNU5H2pk.jpeg?width=640&crop=smart&auto=webp&s=e1fc7bae5d85dd0e68291f2e6bbd3aa220e9f109",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_3ce56cc2b4b0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Tilly Norwood, AI ‘actor’ denounced by actors union, to star in feature film",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-06T17:31:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1up462j/tilly_norwood_ai_actor_denounced_by_actors_union/",
+      "image": "https://external-preview.redd.it/ZgwtWo5vsZ3rYix1LIFS3Uzh3urmnVkrxqcaNU5H2pk.jpeg?width=640&crop=smart&auto=webp&s=e1fc7bae5d85dd0e68291f2e6bbd3aa220e9f109",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_38e792a55a32",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -119,6 +134,21 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_27c881b9fd7e",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Wimbledon quarters: Has Coco Gauff finally solved ...",
+      "dek": "Coco Gauff will face Jessica Pegula in her first Wimbledon quarterfinal -- and it will be Gauff's biggest moment yet to break through on a grass court.",
+      "body": "Coco Gauff will face Jessica Pegula in her first Wimbledon quarterfinal -- and it will be Gauff's biggest moment yet to break through on a grass court.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-06T15:17:24+00:00",
+      "sourceUrl": "https://www.espn.com/tennis/story/_/id/49287914/wimbledon-quarterfinals-preview-coco-gauff-belinda-bencic-jessica-pegula",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_27c881b9fd7e",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_8f58452e27a3",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/boxing/story/_/id/49083384/america-250-espn-road-trip-boxing-rise-demise-muhammad-ali-buster-douglas-julio-cesar-chavez-terence-crawford-las-vegas-atlantic-city",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_dda39f0e1aa6",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e5b2c1f3dc31",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "A new mom discovers the oldest secret in sports",
-      "dek": "What makes a sport American? Fans leave clues at a Florida pickleball party, a Charleston crawfish-eating contest and Vince Lombardi's grave.",
-      "body": "What makes a sport American? Fans leave clues at a Florida pickleball party, a Charleston crawfish-eating contest and Vince Lombardi's grave.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T08:14:31+00:00",
-      "sourceUrl": "https://www.espn.com/espn/story/_/id/49043230/america-250-espn-road-trip-fans-sports-pickleball-golf-baskeball-lacrosse-baseball-cricket",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e5b2c1f3dc31",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_c7f6d31a3c14",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Alleged Scattered Spider hacker arrested in Finland",
-      "dek": "The 19-year-old dual American-Estonian national has been extradited to the US, where he is facing federal charges.",
-      "body": "The 19-year-old dual American-Estonian national has been extradited to the US, where he is facing federal charges.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T08:02:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e962/live/1f88eaa0-75f5-11f1-8c3f-e37c76e39331.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
