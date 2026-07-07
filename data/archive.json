@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_eac5190b84db",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Fatal Typhoon Maysak floods burst dam wall in China",
+      "dek": "At least two have been killed by flooding due to Maysak, while another 480,000 have been evacuated across the southern Guangxi province.",
+      "body": "At least two have been killed by flooding due to Maysak, while another 480,000 have been evacuated across the southern Guangxi province.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T00:58:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a3/live/90030330-79a4-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_dffd67a357a3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Why some African nations are turning down Trump aid money",
+      "dek": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
+      "body": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T00:49:08+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/e2f21850-763f-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_cb0543c83554",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-02T13:11:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b20/live/c527be30-760b-11f1-ac6e-25f7e4f0c9b9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_68918412f677",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
-      "dek": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
-      "body": "Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T12:37:02+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4478/live/e50d1bd0-760d-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2e245ba7f0bf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: PM's former top aide on Starmer's first call with Trump",
-      "dek": "Trump was more 'funny' than he had been expecting, Morgan McSweeney told the BBC.",
-      "body": "Trump was more 'funny' than he had been expecting, Morgan McSweeney told the BBC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T12:21:04+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c04yxek0qyzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fac/live/5a580bf0-7610-11f1-b976-0b9c15b0ccfc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
