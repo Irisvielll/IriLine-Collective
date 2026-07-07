@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-07T21:40:39+00:00",
+  "generatedAt": "2026-07-07T22:43:51+00:00",
   "items": [
+    {
+      "id": "meme_eb26b8db039b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Waymo turns in misbehaving teens",
+      "dek": "submitted by /u/jasonskjonsby [link] [comments]",
+      "body": "submitted by /u/jasonskjonsby [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T22:24:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uqa5h0/waymo_turns_in_misbehaving_teens/",
+      "image": "https://external-preview.redd.it/A_EOMISVBUoTWInrLsPi40rBHBGwDyYe3aMzf3DumEc.png?width=640&crop=smart&auto=webp&s=2d27f822eb793f0ace693830ae29673cf15f7468",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2cb8fd2b6fb4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "dek": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "body": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T22:19:40+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_99c1fbf4105a",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-07T20:21:11+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b984/live/df536310-7a37-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_71a3b6527051",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
-      "dek": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
-      "body": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T20:20:24+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/3ce3f0f0-7a36-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a405ddf80252",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "dek": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-      "body": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T20:00:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9139/live/497a46a0-7a3d-11f1-ab76-d75965dea4d1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

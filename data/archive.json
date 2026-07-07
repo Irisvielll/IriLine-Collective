@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_71a3b6527051",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "New video shows man believed to be Tyler Robinson before Charlie Kirk shooting",
+      "dek": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
+      "body": "The footage shown during the second day of a preliminary hearing appears to show Robinson walking through a parking garage and running across a roof.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T20:20:24+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cn59ne3vqeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab1/live/3ce3f0f0-7a36-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a405ddf80252",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+      "dek": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+      "body": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T20:00:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9139/live/497a46a0-7a3d-11f1-ab76-d75965dea4d1.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_dd88be69c1e1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-03T10:00:56+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uma8ys/high_court_rejects_16_documents_presented_by_man/",
       "image": "https://external-preview.redd.it/oC2nC7eDr_fgDjMtlfjuDfMoITZIcBCsjwvVp65gJhs.jpeg?width=640&crop=smart&auto=webp&s=2891fe067022797e0fa7832bf82521a5add9ca97",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_9d223f017a5f",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "World Series of Poker updates: Mota leads in chips as Hellmuth makes super entrance",
-      "dek": "Action is starting in Las Vegas for the 2026 World Series of Poker main event.",
-      "body": "Action is starting in Las Vegas for the 2026 World Series of Poker main event.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-03T10:00:09+00:00",
-      "sourceUrl": "https://www.espn.com/espn/betting/story/_/id/49247958/world-series-poker-main-event-wsop-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_9d223f017a5f",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_bf2433b08f8a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
-      "dek": "The bus was travelling from Quetta to Peshawar, when it crashed in the Dana Sar mountain range.",
-      "body": "The bus was travelling from Quetta to Peshawar, when it crashed in the Dana Sar mountain range.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-03T09:56:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e6/live/4898ec30-76ac-11f1-9b91-4ff46439d279.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
