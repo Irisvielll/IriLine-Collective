@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_61ed0000f1ea",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "dek": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+      "body": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T10:13:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/90590610-79de-11f1-a400-b302bc872d47.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_c81834d60b16",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "dek": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "body": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T10:12:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0a8/live/174f7230-79da-11f1-a627-714adb4eed6e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_92960a93e7ad",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "United Airlines Loses Bid To Dismiss Lawsuit Over 'Windowless' Window Seats",
+      "dek": "submitted by /u/degeneratelunatic [link] [comments]",
+      "body": "submitted by /u/degeneratelunatic [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T09:35:49+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1upq49e/united_airlines_loses_bid_to_dismiss_lawsuit_over/",
+      "image": "https://external-preview.redd.it/rXOVwRV6fBqU5_1qwgM6bYXeba9DAS_sXRCGMj--5g4.jpeg?width=640&crop=smart&auto=webp&s=9078f7b5a04cbcbc565a9029fa132b6988850efb",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_d663c1686b8b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-02T15:33:04+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ulljl4/greece_is_in_a_dispute_with_turkey_and_azerbaijan/",
       "image": "https://external-preview.redd.it/s3SkVw3upMRBsc3wRw4tp5zkf13P-zBWFjeBL57Wu8A.jpeg?width=320&crop=smart&auto=webp&s=ab93d18d6b2819e8dc2723901c98a1c561e1830e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_86b4e4f79b8a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Watch: Leak from 2024 shows off Microsoft’s Copilot OS for PCs, and it’s nothing like Windows 11",
-      "dek": "submitted by /u/Special-Midnight-152 [link] [comments]",
-      "body": "submitted by /u/Special-Midnight-152 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T15:31:35+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ulli56/watch_leak_from_2024_shows_off_microsofts_copilot/",
-      "image": "https://external-preview.redd.it/1t1z2iwHhRd6aUsTvtw7w_xlvmf-Htf9-neNElv2NaM.jpeg?width=640&crop=smart&auto=webp&s=804ddbaf4f097a385eb9b7db35082bb0ca3b0909",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_edb96b469a1e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Eala smokes Joint, blazes way to Wimbledon third round",
-      "dek": "submitted by /u/MachBrn [link] [comments]",
-      "body": "submitted by /u/MachBrn [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T15:28:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ullfh9/eala_smokes_joint_blazes_way_to_wimbledon_third/",
-      "image": "https://external-preview.redd.it/gT8vBC5NJwTpJcsTKbTR7_AtzCcBLpHth_AsltSfLjs.jpeg?width=640&crop=smart&auto=webp&s=19fabb333f7c46a12edcec4f1a56f33495efd3f8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f29fb69590b0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths",
-      "dek": "Some residents reluctantly hung their dogs to avoid being arrested or fined, locals tell the BBC.",
-      "body": "Some residents reluctantly hung their dogs to avoid being arrested or fined, locals tell the BBC.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-02T15:13:29+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a04/live/db4e9a10-760d-11f1-9510-1546718f668b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
