@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_2cb8fd2b6fb4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "dek": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "body": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T22:19:40+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_99c1fbf4105a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Marine Le Pen confirms run for French presidency",
+      "dek": "The National Rally leader also said she will attempt to appeal an embezzlement conviction.",
+      "body": "The National Rally leader also said she will attempt to appeal an embezzlement conviction.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-07T20:21:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/clyexverp0lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b984/live/df536310-7a37-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_71a3b6527051",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-03T10:08:35+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3780/live/a5443970-76c6-11f1-9510-1546718f668b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bf2a78539b23",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Michael Phillips: Man who claims to have world’s smallest penis launches GoFundMe for enlargement surgery",
-      "dek": "submitted by /u/SleuthDoggyDawg [link] [comments]",
-      "body": "submitted by /u/SleuthDoggyDawg [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-03T10:01:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uma922/michael_phillips_man_who_claims_to_have_worlds/",
-      "image": "https://external-preview.redd.it/UBAkIwrLQlFcWUH4mc26b7w8dxsIBwrKfJoQwGgEt0c.jpeg?width=640&crop=smart&auto=webp&s=e3f68622435754d694cafba74bb0a0e3a4b2a76c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_475ba66bb589",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "High Court Rejects 16 Documents Presented By Man As Proof Of Citizenship",
-      "dek": "submitted by /u/prady8899 [link] [comments]",
-      "body": "submitted by /u/prady8899 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-03T10:00:56+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uma8ys/high_court_rejects_16_documents_presented_by_man/",
-      "image": "https://external-preview.redd.it/oC2nC7eDr_fgDjMtlfjuDfMoITZIcBCsjwvVp65gJhs.jpeg?width=640&crop=smart&auto=webp&s=2891fe067022797e0fa7832bf82521a5add9ca97",
       "imageCredit": "Image via original publisher"
     }
   ]
