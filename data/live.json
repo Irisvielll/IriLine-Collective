@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-10T08:40:40+00:00",
+  "generatedAt": "2026-07-10T11:33:40+00:00",
   "items": [
+    {
+      "id": "latest_934d9d74c18a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "dek": "Headed for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "body": "Headed for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-10T10:42:13+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_f0eca6d4f72d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
+      "dek": "submitted by /u/andmario_com [link] [comments]",
+      "body": "submitted by /u/andmario_com [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-10T10:42:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1usk0ga/count_binface_the_intergalactic_warrior_who_could/",
+      "image": "https://external-preview.redd.it/R_kABP9r9xxVt8Q6kRGblMKRYdM23vGbLGbau9SUQDM.jpeg?width=640&crop=smart&auto=webp&s=d56b10600bfa96986139aa95e977e645dff5432f",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_389024f54702",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-10T07:21:45+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1usgi9l/pakistans_field_marshal_to_tackle_population/",
       "image": "https://external-preview.redd.it/fcbS9FI6uf0eTmOyUF0jRVusNsgBq1t5j6hnwcQOHZw.jpeg?width=640&crop=smart&auto=webp&s=8791aba1f86d756a2115a9668c1968036963bc94",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bbed93bfd169",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Surgery ‘temporarily’ paused at Central Illinois hospital due to ‘extreme heat’",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T05:36:38+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1usem61/surgery_temporarily_paused_at_central_illinois/",
-      "image": "https://external-preview.redd.it/98C7PF7V3QSchcxIjWqLbM1jIoCcnFm4o09yCXY-VmE.jpeg?width=640&crop=smart&auto=webp&s=a84c9a17219c2a11971952c72db60e94ead14097",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7f151ce4d4a9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "dek": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-      "body": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T02:48:18+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb7/live/4865ed80-7c0b-11f1-a0e5-951d7247156a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
