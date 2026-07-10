@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-10T22:15:09+00:00",
+  "generatedAt": "2026-07-10T23:15:53+00:00",
   "items": [
+    {
+      "id": "latest_c5c585145202",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "dek": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "body": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-10T22:54:16+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2adef0c6bca3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Inside the 30-hour dating retreat run by monks",
+      "dek": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
+      "body": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-10T22:02:42+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca1d/live/86d62e90-7c1f-11f1-9510-1546718f668b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_12b82a674c42",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-10T21:30:57+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2f8bc1193ba8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "State cuts razor wire “ribbon” for new Women’s Prison in Rapid City",
-      "dek": "submitted by /u/bigdaddygibson [link] [comments]",
-      "body": "submitted by /u/bigdaddygibson [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T21:23:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ut0nio/state_cuts_razor_wire_ribbon_for_new_womens/",
-      "image": "https://external-preview.redd.it/MRaC0zZDi1OP2S9Jhp5h_j2wcgu9Bso8jl_otNt9iao.jpeg?width=640&crop=smart&auto=webp&s=fcc613607850a2df5bc37b94b484f5e57d4058d4",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_53f5eb647c31",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Nazi 'unemployable' after salute during Holocaust movie",
-      "dek": "submitted by /u/dvnts-ReDoX [link] [comments]",
-      "body": "submitted by /u/dvnts-ReDoX [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T20:20:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1usz06s/nazi_unemployable_after_salute_during_holocaust/",
-      "image": "https://external-preview.redd.it/vb6MmB_s617ef2HOOL_DFP7Q2GiQvZfIYaW4nn6CBUk.jpeg?width=640&crop=smart&auto=webp&s=d273ee217c0528d3d9660fc457e764b83a1f5b24",
       "imageCredit": "Image via original publisher"
     }
   ]
