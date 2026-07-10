@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-10T01:08:25+00:00",
+  "generatedAt": "2026-07-10T05:07:30+00:00",
   "items": [
+    {
+      "id": "latest_7f151ce4d4a9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "dek": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+      "body": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-10T02:48:18+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb7/live/4865ed80-7c0b-11f1-a0e5-951d7247156a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_5329cfa810b2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Twelve die in wildfire in Spain as heatwave continues in southern Europe",
+      "dek": "Six people were injured in the blaze in Los Gallardos in the province of Almería.",
+      "body": "Six people were injured in the blaze in Los Gallardos in the province of Almería.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-10T02:44:18+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0de1/live/cb2200c0-7c05-11f1-9510-1546718f668b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e054d4dc75dc",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-10T00:31:53+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1us8a2p/ubisoft_barcelona_celebrates_successful_assassins/",
       "image": "https://external-preview.redd.it/7SvosnYw51TAOMQJKysg8vsXRpfSO0ghfzOCLEqrrwM.jpeg?width=640&crop=smart&auto=webp&s=18727efa8db7fa598cd5a178ca1311627ddef2d3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5177779891a8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Federal government proposes to lessen nuclear reactor environmental reviews",
-      "dek": "submitted by /u/FinancialGarage245 [link] [comments]",
-      "body": "submitted by /u/FinancialGarage245 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T00:05:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1us7o58/federal_government_proposes_to_lessen_nuclear/",
-      "image": "https://external-preview.redd.it/rWebBZcG9NnVEYRMRE6hmbXARynrUlCubd4NXnB5JAc.jpeg?width=640&crop=smart&auto=webp&s=eae0d5ceb46e4fe0aeda3f91249b7ae8477e8348",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0d1e4e2befbf",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Zebra, emu, alpaca among 60 animals confiscated from West Omaha home",
-      "dek": "submitted by /u/noob_pro_gamingYT [link] [comments]",
-      "body": "submitted by /u/noob_pro_gamingYT [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-09T23:54:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1us7drd/zebra_emu_alpaca_among_60_animals_confiscated/",
-      "image": "https://external-preview.redd.it/KOm_o9oosOoenE72q_d-3WL0qsR1FJ-m5VWxybq30Es.jpeg?width=640&crop=smart&auto=webp&s=8bf16fc9aa0bcdc96426084216196af823dfb037",
       "imageCredit": "Image via original publisher"
     }
   ]
