@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_8fbe35c985b7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Landmark US housing bill becomes law despite Trump protest",
+      "dek": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
+      "body": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T13:35:09+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_7fb6f8b66976",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "dek": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+      "body": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T13:29:51+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee7/live/695fd8a0-7d2f-11f1-8f06-e145dd803033.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d669ffca3fef",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+      "dek": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
+      "body": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T13:11:52+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7562/live/ef363980-cfa0-11ef-b967-0b921216563e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_caecf9c049f0",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-07T20:00:57+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9139/live/497a46a0-7a3d-11f1-ab76-d75965dea4d1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dd88be69c1e1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "dek": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-      "body": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T19:55:59+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3959/live/095fc1e0-7a32-11f1-ab76-d75965dea4d1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_1f79c36b360b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Coco Gauff vs. Karolina Muchova: Who will win",
-      "dek": "It's a clash of firepower in this Wimbledon semifinal. Is it finally Muchova's time -- or will Gauff's experience pay off?",
-      "body": "It's a clash of firepower in this Wimbledon semifinal. Is it finally Muchova's time -- or will Gauff's experience pay off?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T19:17:02+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/49297869/wimbledon-semifinals-muchova-gauff",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1f79c36b360b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_2cb5c862d106",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-      "dek": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-      "body": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T18:56:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fce/live/b4660930-7a34-11f1-ab76-d75965dea4d1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
