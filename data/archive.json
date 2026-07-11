@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_f1a444987dbd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran supreme leader calls for revenge after father's burial",
+      "dek": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "body": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T19:30:36+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ab996cac53c0",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -14,6 +29,21 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ccf1fdf0-7d46-11f1-8417-c9f35e2ce384.jpg",
       "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_0887179c886b",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "Hornets GM Peterson: Ball deal fed 'multiple goals...",
+      "dek": "Calling it \"probably the most difficult\" decision he has made, Charlotte president of basketball operations Jeff Peterson told reporters Saturday in Las Vegas t",
+      "body": "Calling it \"probably the most difficult\" decision he has made, Charlotte president of basketball operations Jeff Peterson told reporters Saturday in Las Vegas that the LaMelo Ball trade was done with the goal of building sustained success for the Hornets.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T17:54:50+00:00",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/49337303/ball-trade-help-hornets-compete-championships",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0887179c886b",
+      "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
       "id": "sports_f82754f4d9b9",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-08T07:26:49+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb94/live/2de1cbf0-7a9e-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0e88e2912508",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Meta’s data center contaminates the town’s water system with deadly bacteria",
-      "dek": "submitted by /u/rpgnoob17 [link] [comments]",
-      "body": "submitted by /u/rpgnoob17 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T06:58:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uql3q2/metas_data_center_contaminates_the_towns_water/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_0e88e2912508",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_e291b387c879",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "The pastor who wants to repeal voting rights for women is becoming more mainstream",
-      "dek": "submitted by /u/Affectionate_One_700 [link] [comments]",
-      "body": "submitted by /u/Affectionate_One_700 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T05:55:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uqjzae/the_pastor_who_wants_to_repeal_voting_rights_for/",
-      "image": "https://external-preview.redd.it/j9iL2p0RI0Ve9KBnrb10wMjvv069SQfuY1q65j7lUGM.png?width=640&crop=smart&auto=webp&s=9cdee2edb94a8e27579d28d1edaf373d29fab26f",
       "imageCredit": "Image via original publisher"
     }
   ]
