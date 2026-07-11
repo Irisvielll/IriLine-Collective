@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-11T17:16:40+00:00",
+  "generatedAt": "2026-07-11T18:25:48+00:00",
   "items": [
+    {
+      "id": "latest_ab996cac53c0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "dek": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+      "body": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T18:00:09+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ccf1fdf0-7d46-11f1-8417-c9f35e2ce384.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_915483fbddd3",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-11T15:28:29+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1utn2ys/pitbull_sets_guinness_world_record_for_largest/",
       "image": "https://external-preview.redd.it/rnxzLlL1ziM9PYaaSMOg4JOVqKAbLcIZRydvzirG_l8.jpeg?width=640&crop=smart&auto=webp&s=56c4909ea2c38d97ac187e258ea67b19d16fd5f8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_fd38f26aeae8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Microsoft has run out of reasons to push Edge over Chrome, so one of the four is just Microsoft recommended",
-      "dek": "submitted by /u/Special-Midnight-152 [link] [comments]",
-      "body": "submitted by /u/Special-Midnight-152 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T14:58:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1utmbo4/microsoft_has_run_out_of_reasons_to_push_edge/",
-      "image": "https://external-preview.redd.it/m1utYQlQom2f4Ug5oqdXy78gpghc0S2VoqEGNIGwK-A.jpeg?width=640&crop=smart&auto=webp&s=b1c28e284bc37ef60571950a79862ad7e3ff588b",
       "imageCredit": "Image via original publisher"
     }
   ]

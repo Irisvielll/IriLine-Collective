@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_fd38f26aeae8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Microsoft has run out of reasons to push Edge over Chrome, so one of the four is just Microsoft recommended",
+      "dek": "submitted by /u/Special-Midnight-152 [link] [comments]",
+      "body": "submitted by /u/Special-Midnight-152 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T14:58:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1utmbo4/microsoft_has_run_out_of_reasons_to_push_edge/",
+      "image": "https://external-preview.redd.it/m1utYQlQom2f4Ug5oqdXy78gpghc0S2VoqEGNIGwK-A.jpeg?width=640&crop=smart&auto=webp&s=b1c28e284bc37ef60571950a79862ad7e3ff588b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ea1599da6a86",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-07T23:59:53+00:00",
       "sourceUrl": "https://www.espn.com/golf/story/_/id/49299774/companies-claiming-world-golf-league-concept-sue-liv-others",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_65fc77af9adb",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_5803d0018b8e",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "💍Lions WR St. Brown announces engagement",
-      "dek": "St. Brown proposed aboard a flower-lined yacht, with the couple sharing the news on social media.",
-      "body": "St. Brown proposed aboard a flower-lined yacht, with the couple sharing the news on social media.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T23:59:53+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49190671/amon-ra-st-brown-brooklyn-adams-engagement-announcement",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_5803d0018b8e",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
