@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_af1d057f501f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Do not bring grenades to police stations, OPP advise, after resident brings one to Ottawa detachment",
+      "dek": "submitted by /u/ThrowAwayPurellFoam [link] [comments]",
+      "body": "submitted by /u/ThrowAwayPurellFoam [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T04:54:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1utalvk/do_not_bring_grenades_to_police_stations_opp/",
+      "image": "https://external-preview.redd.it/pc3599xzkMmg3p8bBsaOWugpddhQnKxHT60wC_4mUes.jpeg?width=640&crop=smart&auto=webp&s=8b97469669055461d208bca615fce565f862e654",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_400be1eebde9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Small plane crash in Bahamas kills 10 people",
+      "dek": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
+      "body": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T04:47:37+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ca/live/66dbf810-7cdb-11f1-8c49-6f4d70563315.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_223c5ccd042b",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1upuxyu/russian_channel_blurs_out_rainbow_in_episode_of/",
       "image": "https://external-preview.redd.it/S0p1kZGRqrNgWQvvnQoGw_3TS_yg2S13JKjSSuYt2FI.png?width=640&crop=smart&auto=webp&s=38959aa7a85bebfdcd5e9c093122f7be6147e4b8",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_e2dc9b78c427",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "🧌 'Overturn this': Belgium troll U.S. after win",
-      "dek": "Belgium defeated the USMNT 4-1 in the 2026 World Cup round-of-16 match Monday night -- and poked fun at the U.S. afterward.",
-      "body": "Belgium defeated the USMNT 4-1 in the 2026 World Cup round-of-16 match Monday night -- and poked fun at the U.S. afterward.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T13:21:05+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49292810/belgium-trolls-united-states-2026-world-cup-victory-round-16",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e2dc9b78c427",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_eadfceb4cfea",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Late Cowboys' player Kneeland diagnosed with CTE",
-      "dek": "Former Cowboys defensive end Marshawn Kneeland has been posthumously diagnosed with CTE.",
-      "body": "Former Cowboys defensive end Marshawn Kneeland has been posthumously diagnosed with CTE.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T13:21:04+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49296262/late-cowboys-player-marshawn-kneeland-diagnosed-cte",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_eadfceb4cfea",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
