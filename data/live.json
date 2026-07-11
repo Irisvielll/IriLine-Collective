@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-11T19:41:16+00:00",
+  "generatedAt": "2026-07-11T20:29:23+00:00",
   "items": [
+    {
+      "id": "meme_c64fc44523bb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Fake homeless encampment in San Francisco is actually a movie set for new Netflix thriller",
+      "dek": "submitted by /u/ChocolateTsar [link] [comments]",
+      "body": "submitted by /u/ChocolateTsar [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T20:21:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1utulb7/fake_homeless_encampment_in_san_francisco_is/",
+      "image": "https://external-preview.redd.it/oqtiQ98BcAsOVyiCFlRo83SLQ9zbj6g-re5XvZamz9Y.jpeg?width=640&crop=smart&auto=webp&s=b496092d4dc76941fb0adf701b6f750c941ea312",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_983923e110d2",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-11T19:30:36+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/721f/live/8f50baf0-7d59-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ab996cac53c0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "dek": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "body": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T18:00:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/892a/live/ccf1fdf0-7d46-11f1-8417-c9f35e2ce384.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
