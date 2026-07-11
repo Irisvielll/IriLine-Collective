@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-11T08:27:59+00:00",
+  "generatedAt": "2026-07-11T10:01:23+00:00",
   "items": [
+    {
+      "id": "latest_8c753cdbdf71",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Newly-released video shows Peter Falconio's killer questioned",
+      "dek": "Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the ",
+      "body": "Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T08:35:33+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cd0/live/5ef686d0-7d01-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_243cbe03ff68",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-11T06:26:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1utcasu/climate_change_becoming_a_major_driver_of_child/",
       "image": "https://external-preview.redd.it/JjT_IdU6eVgZiUI9dlYyv7GZ7xmLuIEce_X-LGqevXY.jpeg?width=640&crop=smart&auto=webp&s=589a500279aa5da74b7ae158c0eb76375fb86d8e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e491946e5fb5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'Kill Indians, Sell Their Women...': Chilling Audio Exposes Racism Indian Truckers In Australia Face",
-      "dek": "submitted by /u/Nandu_alias_Parthu [link] [comments]",
-      "body": "submitted by /u/Nandu_alias_Parthu [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T04:59:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1utap4o/kill_indians_sell_their_women_chilling_audio/",
-      "image": "https://external-preview.redd.it/YLTQUhGrYHxDPGWlAf9kUQ3fTAAxu2-2yI6CFcVnBc8.jpeg?width=640&crop=smart&auto=webp&s=83e12a34c03b371c1f030849c70565f9544bd7da",
       "imageCredit": "Image via original publisher"
     }
   ]
