@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_dc6825a6608e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "dek": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "body": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T00:17:54+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89bb/live/90ab13b0-7cbd-11f1-926f-c90d1bcfbc84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ca1d59fc23ce",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+      "dek": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
+      "body": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-11T00:17:15+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c2/live/46d36bc0-7cbd-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_81d0e62b1a96",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-07T13:21:04+00:00",
       "sourceUrl": "https://www.espn.com/olympics/story/_/id/49295983/ioc-moves-end-russian-neutrality-2028-los-angeles-olympics",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_f73077cd9c10",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_11ec96e3ab02",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Brewers call up prospect Lara after 7-year deal",
-      "dek": "Outfield prospect Luis Lara, 21, was called up to the Brewers on Tuesday before their doubleheader with the Cardinals.",
-      "body": "Outfield prospect Luis Lara, 21, was called up to the Brewers on Tuesday before their doubleheader with the Cardinals.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T13:21:04+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49296550/brewers-luis-lara-called-month-signing-7-year-deal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_11ec96e3ab02",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_8c050f84729b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Viral student manager reunites with Wade at LSU",
-      "dek": "Amir Khan, the viral student manager from the 2025 NCAA men's basketball tournament, has entered the transfer portal to reunite with Will Wade at LSU.",
-      "body": "Amir Khan, the viral student manager from the 2025 NCAA men's basketball tournament, has entered the transfer portal to reunite with Will Wade at LSU.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-07T13:21:04+00:00",
-      "sourceUrl": "https://www.espn.com/mens-college-basketball/story/_/id/49295291/amir-khan-viral-student-manager-reunites-wade-lsu",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8c050f84729b",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
