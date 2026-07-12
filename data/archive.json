@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_cecfc532df27",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires",
+      "dek": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
+      "body": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T10:18:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8883/live/9b0fc300-7dda-11f1-91f9-abeb669686c2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d77c05cc08a7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-08T14:22:55+00:00",
       "sourceUrl": "https://www.espn.com/college-football/story/_/id/49308081/ncaa-opens-inquiry-cincinnati-regarding-sorsby",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c250e1e0b3ce",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_89f490c2eb47",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "'Time has come': Verlander to retire after season",
-      "dek": "Three-time Cy Young winner and 2011 American League MVP Justin Verlander, the oldest active player in the major leagues at 43, will retire after the 2026 season",
-      "body": "Three-time Cy Young winner and 2011 American League MVP Justin Verlander, the oldest active player in the major leagues at 43, will retire after the 2026 season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T14:22:55+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49307720/tigers-justin-verlander-retire-2026-season",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_89f490c2eb47",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
