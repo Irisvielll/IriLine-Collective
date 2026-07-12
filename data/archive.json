@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_418a44317f49",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+      "dek": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "body": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T21:12:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uurpbb/peter_thiel_and_other_tech_billionaires_are/",
+      "image": "https://external-preview.redd.it/4dxVql44IENUKcBp-MVqW58kvYFXom5Z4odbjbaCrlw.jpeg?width=640&crop=smart&auto=webp&s=fab55a068716efcd82fafd66959e2dc943926329",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_87ad06d2b73e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "dek": "Firefighters were called to the scene just after midnight local time and discovered patrons fleeing through the flame-enveloped front door of the venue.",
+      "body": "Firefighters were called to the scene just after midnight local time and discovered patrons fleeing through the flame-enveloped front door of the venue.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T20:13:14+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf4/live/784b04d0-7e28-11f1-a203-d7c6aaf9b69a.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e1f2c6e00fa4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "dek": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "body": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T19:42:26+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5d/live/bd733900-7e29-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_48bdfbec1728",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-08T18:29:10+00:00",
       "sourceUrl": "https://www.espn.com/college-sports/story/_/id/49308194/nil-clearinghouse-rejected-90m-deals",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fc74d9c8b6bf",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_c7c45391e739",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Bucks' GM Horst: Trading Giannis 'very difficult'",
-      "dek": "Bucks general manager Jon Horst called the move to trade Giannis Antetokounmpo a \"very difficult decision.\"",
-      "body": "Bucks general manager Jon Horst called the move to trade Giannis Antetokounmpo a \"very difficult decision.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T18:29:10+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49308932/bucks-gm-horst-says-trading-antetokounmpo-very-difficult",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c7c45391e739",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1289df540b9c",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Regan, ex-MLB pitcher and coach, dies at age 89",
-      "dek": "Phil Regan, a former major league pitcher and longtime pitching coach, has died at age 89.",
-      "body": "Phil Regan, a former major league pitcher and longtime pitching coach, has died at age 89.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T18:29:10+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49308231/phil-regan-ex-mlb-pitcher-long-coach-dies-age-89",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1289df540b9c",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_efb72d80c6f7",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Ukraine's Kostyuk slams IOC decision on Russia",
-      "dek": "After advancing to her first Wimbledon semifinal Wednesday, Ukrainian tennis player Marta Kostyuk slammed the IOC's decision to provisionally lift its ban on Ru",
-      "body": "After advancing to her first Wimbledon semifinal Wednesday, Ukrainian tennis player Marta Kostyuk slammed the IOC's decision to provisionally lift its ban on Russia and recommend that individual sports drop the neutral status for athletes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T18:29:10+00:00",
-      "sourceUrl": "https://www.espn.com/tennis/story/_/id/49308432/ukraine-tennis-player-wimbledon-semifinalist-marta-kostyuk-slams-ioc-decision-russia",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_efb72d80c6f7",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
