@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-12T19:39:59+00:00",
+  "generatedAt": "2026-07-12T20:26:30+00:00",
   "items": [
+    {
+      "id": "latest_87ad06d2b73e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
+      "dek": "Firefighters were called to the scene just after midnight local time and discovered patrons fleeing through the flame-enveloped front door of the venue.",
+      "body": "Firefighters were called to the scene just after midnight local time and discovered patrons fleeing through the flame-enveloped front door of the venue.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T20:13:14+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf4/live/784b04d0-7e28-11f1-a203-d7c6aaf9b69a.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e1f2c6e00fa4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+      "dek": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "body": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T19:42:26+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5d/live/bd733900-7e29-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_48bdfbec1728",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a2/live/dc811170-7e22-11f1-a1b8-3d436696a874.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_89293e980a06",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Investigators Say Colorado Bear That Ate Human Remains Shouldn’t Crave People",
-      "dek": "submitted by /u/chemicalgeekery [link] [comments]",
-      "body": "submitted by /u/chemicalgeekery [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T18:36:14+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uunlrn/investigators_say_colorado_bear_that_ate_human/",
-      "image": "https://external-preview.redd.it/k5JaKCOh67Zrsi-qv_J6dut5rtHW2oDdImLHWsHEn9M.jpeg?width=640&crop=smart&auto=webp&s=2be17a93c17c130e88a03fbfe13592bc4c7f0e41",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_66d8b2911d04",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "“Pubic Hair” croissant from Pattaya, Thailand goes viral",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T18:08:02+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uumttv/pubic_hair_croissant_from_pattaya_thailand_goes/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_66d8b2911d04",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
