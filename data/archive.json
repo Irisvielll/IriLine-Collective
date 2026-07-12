@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_016ef484d105",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Want a piece of the World Cup final field? FIFA is selling the grass for $450",
+      "dek": "submitted by /u/heyzeus92 [link] [comments]",
+      "body": "submitted by /u/heyzeus92 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T05:46:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uu6ssz/want_a_piece_of_the_world_cup_final_field_fifa_is/",
+      "image": "https://external-preview.redd.it/0wd9eB27VZN4Tcc0IpUIc0rk5Mxa0DhF5Gk2MA8qGhQ.jpeg?width=640&crop=smart&auto=webp&s=9f11674efe36baba7b7b1d1e3de5e829254c1341",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_047de533cd42",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "dek": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "body": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T05:00:15+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2e08f536e3e7",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uqqcft/vandals_blow_up_13_porta_potties_in_montana/",
       "image": "https://external-preview.redd.it/6hWmJf_bnusf7uwl52d0JaKrnYMsEJ2_5TU_P93cnPs.jpeg?width=640&crop=smart&auto=webp&s=b56235d7a43bbb9dd8c9fd686977810a58146717",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b323ebc1f6b3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "dek": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-      "body": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T11:18:28+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303b/live/574a8a30-7ab8-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_57f1e22233be",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "McGregor says he's the UFC's featherweight GOAT",
-      "dek": "Conor McGregor is fighting Max Holloway as a welterweight in UFC 329, but he believes a win would firmly cement him as the greatest featherweight of all time.",
-      "body": "Conor McGregor is fighting Max Holloway as a welterweight in UFC 329, but he believes a win would firmly cement him as the greatest featherweight of all time.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T11:10:04+00:00",
-      "sourceUrl": "https://www.espn.com/mma/story/_/id/49306017/conor-mcgregor-says-ufc-greatest-featherweight-all",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_57f1e22233be",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

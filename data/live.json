@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-12T07:16:26+00:00",
+  "generatedAt": "2026-07-12T09:26:11+00:00",
   "items": [
+    {
+      "id": "latest_4d6d49016613",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "People flee as Russian strike hits near Ukraine coffee shop",
+      "dek": "Three cameras caught the moment people ducked then ran for cover in Sumy, in north eastern Ukraine.",
+      "body": "Three cameras caught the moment people ducked then ran for cover in Sumy, in north eastern Ukraine.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T09:03:17+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbc/live/992be8d0-7dcf-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_8ae6e20b0fee",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "dek": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+      "body": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T09:01:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a1a6ae338030",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-12T07:05:53+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uu897c/woman_arrested_over_allegedly_sewing_roommates/",
       "image": "https://external-preview.redd.it/5ygZBdOy6boInw95BStnxxxL4H6-erMHgCH5VweKt5s.jpeg?width=640&crop=smart&auto=webp&s=434fcd9efe773a23b830ae788eab9541fa61070c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_016ef484d105",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Want a piece of the World Cup final field? FIFA is selling the grass for $450",
-      "dek": "submitted by /u/heyzeus92 [link] [comments]",
-      "body": "submitted by /u/heyzeus92 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T05:46:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uu6ssz/want_a_piece_of_the_world_cup_final_field_fifa_is/",
-      "image": "https://external-preview.redd.it/0wd9eB27VZN4Tcc0IpUIc0rk5Mxa0DhF5Gk2MA8qGhQ.jpeg?width=640&crop=smart&auto=webp&s=9f11674efe36baba7b7b1d1e3de5e829254c1341",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_047de533cd42",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "dek": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-      "body": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T05:00:15+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
