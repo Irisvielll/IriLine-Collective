@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-12T01:05:50+00:00",
+  "generatedAt": "2026-07-12T04:39:30+00:00",
   "items": [
+    {
+      "id": "latest_2e08f536e3e7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least two killed in Toronto street festival shooting",
+      "dek": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+      "body": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T03:56:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a2/live/bfc51ee0-7d92-11f1-b0c0-b9b367ec5905.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b0fa67216b5f",
       "section": "latest",
@@ -17,34 +32,19 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "latest_389380505e5a",
-      "section": "latest",
-      "sectionLabel": "Latest",
+      "id": "sports_0a7b092bc526",
+      "section": "sports",
+      "sectionLabel": "Sports",
       "type": "REAL",
-      "category": "WORLD",
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "dek": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "body": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "category": "SPORTS",
+      "title": "Argentina survive again to book England semifinal",
+      "dek": "Julián Álvarez sent defending champions Argentina into the World Cup semifinals with an extra-time goal against Switzerland.",
+      "body": "Julián Álvarez sent defending champions Argentina into the World Cup semifinals with an extra-time goal against Switzerland.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T23:58:40+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c6bde9591fa6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How men with female surnames are standing up to ridicule in Kenya",
-      "dek": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
-      "body": "Children often inherit their father's first name as a surname, but traditions are changing and causing upset.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T23:27:45+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98c/live/d92be410-7b92-11f1-881d-8fcf7e2296a7.jpg",
-      "imageCredit": "Image via original publisher"
+      "publishedAt": "2026-07-12T00:22:18+00:00",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49339687/argentina-switzerland-2026-world-cup-julian-alvarez-england",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_0a7b092bc526",
+      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
