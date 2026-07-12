@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-12T20:26:30+00:00",
+  "generatedAt": "2026-07-12T21:23:51+00:00",
   "items": [
+    {
+      "id": "meme_418a44317f49",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Peter Thiel and other tech billionaires are publicly shielding their children from the products that made them rich",
+      "dek": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "body": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T21:12:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uurpbb/peter_thiel_and_other_tech_billionaires_are/",
+      "image": "https://external-preview.redd.it/4dxVql44IENUKcBp-MVqW58kvYFXom5Z4odbjbaCrlw.jpeg?width=640&crop=smart&auto=webp&s=fab55a068716efcd82fafd66959e2dc943926329",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_87ad06d2b73e",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-12T19:42:26+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5d/live/bd733900-7e29-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_48bdfbec1728",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
-      "dek": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
-      "body": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T18:57:17+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a2/live/dc811170-7e22-11f1-a1b8-3d436696a874.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

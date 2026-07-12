@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_48bdfbec1728",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "dek": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "body": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T18:57:17+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a2/live/dc811170-7e22-11f1-a1b8-3d436696a874.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_89293e980a06",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.espn.com/tennis/story/_/id/49308432/ukraine-tennis-player-wimbledon-semifinalist-marta-kostyuk-slams-ioc-decision-russia",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_efb72d80c6f7",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_757dcd2c954b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Keir Starmer wasn't weird enough for Westminster",
-      "dek": "submitted by /u/Fyou_Signedthecat [link] [comments]",
-      "body": "submitted by /u/Fyou_Signedthecat [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T17:41:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uqztuc/keir_starmer_wasnt_weird_enough_for_westminster/",
-      "image": "https://external-preview.redd.it/nVaUlnF7OEZPVIcL8mvsqtVqKLsW2xnQ2sPzKXWszuc.jpeg?width=640&crop=smart&auto=webp&s=c92a631b546938d2a65cf0081b4801105d2c319e",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
