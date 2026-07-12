@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-12T18:26:26+00:00",
+  "generatedAt": "2026-07-12T19:39:59+00:00",
   "items": [
+    {
+      "id": "latest_48bdfbec1728",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "dek": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "body": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T18:57:17+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a2/live/dc811170-7e22-11f1-a1b8-3d436696a874.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_89293e980a06",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Investigators Say Colorado Bear That Ate Human Remains Shouldn’t Crave People",
+      "dek": "submitted by /u/chemicalgeekery [link] [comments]",
+      "body": "submitted by /u/chemicalgeekery [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T18:36:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uunlrn/investigators_say_colorado_bear_that_ate_human/",
+      "image": "https://external-preview.redd.it/k5JaKCOh67Zrsi-qv_J6dut5rtHW2oDdImLHWsHEn9M.jpeg?width=640&crop=smart&auto=webp&s=2be17a93c17c130e88a03fbfe13592bc4c7f0e41",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_66d8b2911d04",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uumttv/pubic_hair_croissant_from_pattaya_thailand_goes/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_66d8b2911d04",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_fc2158c98cf1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man accused of cutting off his genitals, using them to start a fire, authorities say",
-      "dek": "submitted by /u/MiyamotoUsagi1587 [link] [comments]",
-      "body": "submitted by /u/MiyamotoUsagi1587 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T17:19:11+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uuli3c/man_accused_of_cutting_off_his_genitals_using/",
-      "image": "https://external-preview.redd.it/Ru01uVT7VqD2KK4Q4x8hoiGQW3EJoyE6JAepRugtpdA.jpeg?width=640&crop=smart&auto=webp&s=24867e4e1f17593723756870c0f554632682181b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a41d1c6ce98a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "dek": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "body": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T16:35:50+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
