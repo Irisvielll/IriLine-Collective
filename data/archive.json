@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_bf36c3f8f1d1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kentucky pastor defends viral video showing mock firing squad in front of children",
+      "dek": "submitted by /u/Equivalent-Resort-63 [link] [comments]",
+      "body": "submitted by /u/Equivalent-Resort-63 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T21:36:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uusaxq/kentucky_pastor_defends_viral_video_showing_mock/",
+      "image": "https://external-preview.redd.it/R3X3b3QOqMSm1x89OptSZKka2IKx9YdVMD0_TT97eR4.jpeg?width=640&crop=smart&auto=webp&s=8b54bb3d74b26fe1bc2323e9b2995e0b43c5c02e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_418a44317f49",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-08T18:29:11+00:00",
       "sourceUrl": "https://www.espn.com/wnba/story/_/id/49309072/in-letter-lawmakers-seek-accountability-wnba-clark",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ebd5f2280797",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_fc74d9c8b6bf",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "NIL clearinghouse has rejected $90M in deals",
-      "dek": "The clearinghouse charged with analyzing NIL deals has rejected $90 million worth of those submitted.",
-      "body": "The clearinghouse charged with analyzing NIL deals has rejected $90 million worth of those submitted.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T18:29:10+00:00",
-      "sourceUrl": "https://www.espn.com/college-sports/story/_/id/49308194/nil-clearinghouse-rejected-90m-deals",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_fc74d9c8b6bf",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
