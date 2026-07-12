@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_8ae6e20b0fee",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "dek": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+      "body": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T09:01:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_a1a6ae338030",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Woman arrested over allegedly sewing roommate’s lips together",
+      "dek": "submitted by /u/StatsFactsRants [link] [comments]",
+      "body": "submitted by /u/StatsFactsRants [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T07:05:53+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uu897c/woman_arrested_over_allegedly_sewing_roommates/",
+      "image": "https://external-preview.redd.it/5ygZBdOy6boInw95BStnxxxL4H6-erMHgCH5VweKt5s.jpeg?width=640&crop=smart&auto=webp&s=434fcd9efe773a23b830ae788eab9541fa61070c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_016ef484d105",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-08T13:41:19+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uqt199/playstation_can_delete_all_your_digital_games/",
       "image": "https://external-preview.redd.it/w5suOeyD8GgReJ7Bzgz0yeKX_ocO6IY6Xz-MeC9mUho.jpeg?width=640&crop=smart&auto=webp&s=302c05ee0b087d3bd93079534e7b620307bb4e87",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8a19e0588989",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
-      "dek": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
-      "body": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T13:05:14+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ab/live/fc9f67d0-7a9f-11f1-932b-1f29e7985956.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_edf7af336566",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Vandals Blow Up 13 Porta Potties In Montana, Company Blames Wyoming Fireworks",
-      "dek": "email subject line was: Exploding Portable Toilets submitted by /u/vitaminD_junkie [link] [comments]",
-      "body": "email subject line was: Exploding Portable Toilets submitted by /u/vitaminD_junkie [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-08T11:48:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uqqcft/vandals_blow_up_13_porta_potties_in_montana/",
-      "image": "https://external-preview.redd.it/6hWmJf_bnusf7uwl52d0JaKrnYMsEJ2_5TU_P93cnPs.jpeg?width=640&crop=smart&auto=webp&s=b56235d7a43bbb9dd8c9fd686977810a58146717",
       "imageCredit": "Image via original publisher"
     }
   ]

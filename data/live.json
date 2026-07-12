@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-12T09:26:11+00:00",
+  "generatedAt": "2026-07-12T10:54:11+00:00",
   "items": [
+    {
+      "id": "latest_cecfc532df27",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Badly burned British couple rescued from ravine during Spain wildfires",
+      "dek": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
+      "body": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T10:18:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8883/live/9b0fc300-7dda-11f1-91f9-abeb669686c2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_d77c05cc08a7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Norwegian Air swaps Instagram logo after losing World Cup bet to British Airways",
+      "dek": "submitted by /u/Alarming-Safety3200 [link] [comments]",
+      "body": "submitted by /u/Alarming-Safety3200 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-12T09:30:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uuaqv0/norwegian_air_swaps_instagram_logo_after_losing/",
+      "image": "https://external-preview.redd.it/JxeHH5ch4b_I76Al5KCtDAA50b5gAskv8W1Ji3oFLu8.jpeg?width=640&crop=smart&auto=webp&s=476fec3569dfc58f6e22c8fb0b05fe3ce4452aaf",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_4d6d49016613",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-12T09:03:17+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbc/live/992be8d0-7dcf-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8ae6e20b0fee",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "dek": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
-      "body": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T09:01:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a1a6ae338030",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Woman arrested over allegedly sewing roommate’s lips together",
-      "dek": "submitted by /u/StatsFactsRants [link] [comments]",
-      "body": "submitted by /u/StatsFactsRants [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T07:05:53+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uu897c/woman_arrested_over_allegedly_sewing_roommates/",
-      "image": "https://external-preview.redd.it/5ygZBdOy6boInw95BStnxxxL4H6-erMHgCH5VweKt5s.jpeg?width=640&crop=smart&auto=webp&s=434fcd9efe773a23b830ae788eab9541fa61070c",
       "imageCredit": "Image via original publisher"
     }
   ]
