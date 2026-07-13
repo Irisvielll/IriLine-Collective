@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-13T04:46:13+00:00",
+  "generatedAt": "2026-07-13T08:16:34+00:00",
   "items": [
+    {
+      "id": "latest_6df00a0d1d22",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
+      "dek": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+      "body": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-13T07:19:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab1/live/ee081470-7c79-11f1-b976-0b9c15b0ccfc.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_39080de2a8af",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: At the scene where Bangkok's deadly bar fire unfolded",
+      "dek": "The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand.",
+      "body": "The BBC’s South East Asia correspondent visits the site where at least 27 people were killed during a bar fire in Thailand.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-13T04:58:01+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/clyrd9nwn9wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7b9/live/b3499260-7e76-11f1-926f-c90d1bcfbc84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_1f37a4912d17",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03f/live/5cc84d20-7e6a-11f1-bee8-53ce494e1abc.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8433441fe32c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
-      "dek": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
-      "body": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T03:36:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df6a/live/a52c1460-7e57-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_ba50170f2328",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Dybantsa nets 23 in potential summer league finale...",
-      "dek": "In what could be his last game of summer league, No. 1 pick AJ Dybantsa scored 23 points to go along with seven rebounds, helping the Washington Wizards remain ",
-      "body": "In what could be his last game of summer league, No. 1 pick AJ Dybantsa scored 23 points to go along with seven rebounds, helping the Washington Wizards remain undefeated with a 104-85 victory over the Sacramento Kings Sunday night in Las Vegas.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T00:13:17+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49347819/dybantsa-leads-wizards-win-potential-summer-swan-song",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_ba50170f2328",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
