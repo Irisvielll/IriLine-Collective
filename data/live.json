@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-14T17:47:36+00:00",
+  "generatedAt": "2026-07-14T19:20:00+00:00",
   "items": [
+    {
+      "id": "latest_8deb8d3d91fb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Strait of Hormuz remains a fault line as Iran and US drift back into war",
+      "dek": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+      "body": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T19:13:49+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_eb401a3942c6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Goat aids firefighters battling Colorado wildfire",
+      "dek": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "body": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T18:24:56+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwgxtm/goat_aids_firefighters_battling_colorado_wildfire/",
+      "image": "https://external-preview.redd.it/4DCazv6_XFzBGmitvVpyIE48rxvfvzReu9JHK7hUv5Q.jpeg?width=640&crop=smart&auto=webp&s=727b6910c6f761ad180a64b41df7b008d4ac42e1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_4c491c6cf8d3",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-14T16:54:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf4/live/42878740-7f9c-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d0c989715ae8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Thief tries to rob bank in Beltsville with stolen kitten in hand",
-      "dek": "submitted by /u/tinticred [link] [comments]",
-      "body": "submitted by /u/tinticred [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T16:42:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwe0gd/thief_tries_to_rob_bank_in_beltsville_with_stolen/",
-      "image": "https://external-preview.redd.it/9y4d1veNwlUKHS4BTvVYihURA_iIb97ijSV0o3Tud1o.jpeg?width=640&crop=smart&auto=webp&s=8898626857d7ff7c14ae8d34ae4c1c550d660275",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1b3348113d69",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "dek": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
-      "body": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T16:19:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14c/live/efc3d020-7f98-11f1-a5f4-433bb9aa2e5a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
