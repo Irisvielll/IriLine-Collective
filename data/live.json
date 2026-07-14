@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-14T05:56:42+00:00",
+  "generatedAt": "2026-07-14T08:15:45+00:00",
   "items": [
+    {
+      "id": "meme_9b9c9b30683a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "McConnell’s Been on Sick Leave for a Month. US Workers Aren’t Guaranteed a Day.",
+      "dek": "submitted by /u/Lonely-Ordinary1478 [link] [comments]",
+      "body": "submitted by /u/Lonely-Ordinary1478 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T07:09:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uw1djo/mcconnells_been_on_sick_leave_for_a_month_us/",
+      "image": "https://external-preview.redd.it/hzJWS28Qn6bom9uXx5-G1LKT6L-s5tyUJEASsvGeLjY.jpeg?width=640&crop=smart&auto=webp&s=dc83ebc30baaf6a98e812b0adecca61169601346",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6ee0641541fa",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-14T05:00:03+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b7/live/dad63ca0-7e9b-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6cb524e3c896",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-      "dek": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
-      "body": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T03:47:41+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d2/live/afef9d70-7f30-11f1-87b5-9b54c3cfd843.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_6cb524e3c896",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "dek": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+      "body": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T03:47:41+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d2/live/afef9d70-7f30-11f1-87b5-9b54c3cfd843.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "sports_a5e33e9516b4",
+      "section": "sports",
+      "sectionLabel": "Sports",
+      "type": "REAL",
+      "category": "SPORTS",
+      "title": "World Series of Poker main event final table set",
+      "dek": "The nine players who will be competing for the $10 million first prize at the 2026 World Series of Poker are Lucas Jumalon, Rami Hammoud, Jamie Shaevel, Greg Mu",
+      "body": "The nine players who will be competing for the $10 million first prize at the 2026 World Series of Poker are Lucas Jumalon, Rami Hammoud, Jamie Shaevel, Greg Mueller, Michael Gagliano, Mario Boos, Lauri Saaskilahti, Han Feng and Evagoras Evagorou.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T02:58:46+00:00",
+      "sourceUrl": "https://www.espn.com/poker/story/_/id/49356117/2026-world-series-poker-main-event-final-table-set",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_a5e33e9516b4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_8e1b42be5e09",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0de1/live/cb2200c0-7c05-11f1-9510-1546718f668b.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_2eb9d8165f21",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Dybantsa outduels Peterson in Las Vegas debut",
-      "dek": "AJ Dybantsa, this year's No. 1 pick, led all players with 27 points to power the Wizards to a win over the Jazz and No. 2 pick Darryn Peterson.",
-      "body": "AJ Dybantsa, this year's No. 1 pick, led all players with 27 points to power the Wizards to a win over the Jazz and No. 2 pick Darryn Peterson.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T02:08:55+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49321789/wizards-dybantsa-outduels-jazz-peterson-summer-league-debut",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_2eb9d8165f21",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_7328559d81a0",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Copy of Dybantsa vs. Peterson, Round 1: Biggest takeaways ...",
-      "dek": "The NBA's top picks from the 2026 draft faced off at the Las Vegas summer league. How did AJ Dybantsa and Darryn Peterson fare?",
-      "body": "The NBA's top picks from the 2026 draft faced off at the Las Vegas summer league. How did AJ Dybantsa and Darryn Peterson fare?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T01:24:51+00:00",
-      "sourceUrl": "https://www.espn.com/nba/story/_/id/49317237/nba-summer-league-takeaways-aj-dybantsa-debut-darryn-peterson-washington-wizards-utah-jazz",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_7328559d81a0",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
