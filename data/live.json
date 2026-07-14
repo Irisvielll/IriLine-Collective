@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-13T23:12:44+00:00",
+  "generatedAt": "2026-07-14T00:08:39+00:00",
   "items": [
+    {
+      "id": "meme_bb88104b219e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "He was having a mental health crisis. Memphis task force agents came and shot him",
+      "dek": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "body": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-13T23:54:09+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uvsgs6/he_was_having_a_mental_health_crisis_memphis_task/",
+      "image": "https://external-preview.redd.it/sRuQDMdJU8crcGR_aQGxj8yfc9uD2DFok8rqW5ZR5_w.jpeg?width=640&crop=smart&auto=webp&s=b36013bb39552476565a80ee1376eb4eb66b57ae",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_874ae62ce10e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Investment firm’s cofounder sues after being fired for neglecting the in-person work mandate he signed, saying it applies to employees not owners",
+      "dek": "submitted by /u/fermataplays [link] [comments]",
+      "body": "submitted by /u/fermataplays [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-13T23:42:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uvs794/investment_firms_cofounder_sues_after_being_fired/",
+      "image": "https://external-preview.redd.it/wmNaad68KiVnsXue7uomCxib36dWfLqzd1dXvaqIAbE.jpeg?width=640&crop=smart&auto=webp&s=02a839cc2d71c056ff8273a187f4d2117de64f78",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_8d599b0e302e",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-13T20:46:27+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uvnqf1/darline_graham_nordone_sister_of_lindsey_graham/",
       "image": "https://external-preview.redd.it/WPn6gYPzXSC4C-9vqVi7HUuxegrBuy6PIrFFjPLSmpY.jpeg?width=640&crop=smart&auto=webp&s=810cd1ed7d41589be0e0026f900400b8c9589d46",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_aae1c314c67a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hungary parliament votes to remove president from office",
-      "dek": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
-      "body": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T20:39:14+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3314/live/d7e89fb0-7ef5-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_158458965cf9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "dek": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
-      "body": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T20:26:15+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd0/live/138c2e00-7ecf-11f1-9c5a-f7e0cba0ab3f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
