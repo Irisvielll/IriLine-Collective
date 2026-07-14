@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_eb401a3942c6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Goat aids firefighters battling Colorado wildfire",
+      "dek": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "body": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T18:24:56+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwgxtm/goat_aids_firefighters_battling_colorado_wildfire/",
+      "image": "https://external-preview.redd.it/4DCazv6_XFzBGmitvVpyIE48rxvfvzReu9JHK7hUv5Q.jpeg?width=640&crop=smart&auto=webp&s=727b6910c6f761ad180a64b41df7b008d4ac42e1",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "sports_4374d67b328a",
       "section": "sports",
       "sectionLabel": "Sports",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-10T19:09:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1usx3on/ai_fiction_is_easy_to_detect_because_its_stupid/",
       "image": "https://external-preview.redd.it/GJCtxHbl9CMWypmXH1dH5HCihYUeDEgtTLSjiwylm4o.jpeg?width=640&crop=smart&auto=webp&s=4e93bad074476e588cf03c0b9bd9b1dd7ab930df",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_063bb7df24f0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Really frightening, unbelievably quick': Witnesses describe fleeing deadly Spain wildfire",
-      "dek": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
-      "body": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T18:56:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9329/live/e3e1d130-7c6e-11f1-98fd-6b03daaf8a77.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
