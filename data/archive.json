@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_4c491c6cf8d3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+      "dek": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+      "body": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T16:54:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf4/live/42878740-7f9c-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d0c989715ae8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1usuzb6/xbox_ceo_asha_sharma_named_as_adviser_to_us/",
       "image": "https://external-preview.redd.it/74ZQr-529OIHB5j1SRq-hIqsy4UQLM8Nled-twPrclU.jpeg?width=640&crop=smart&auto=webp&s=94dbb1e8c7b25ed677d8d8db41b6ccaa22554f4a",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_32a535d61a37",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Vote for the 2026 ESPYS Winners",
-      "dek": "Nominees include A'ja Wilson, Jalen Brunson, Shohei Ohtani and more. Vote and help choose which athletes win an ESPY.",
-      "body": "Nominees include A'ja Wilson, Jalen Brunson, Shohei Ohtani and more. Vote and help choose which athletes win an ESPY.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T17:52:50+00:00",
-      "sourceUrl": "https://www.espn.com/espys/story/_/page/Voting2026/vote-2026-espys-winners",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_32a535d61a37",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

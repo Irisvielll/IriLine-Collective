@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-14T19:20:00+00:00",
+  "generatedAt": "2026-07-14T20:37:25+00:00",
   "items": [
+    {
+      "id": "meme_63fc96da15bc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "California DMV Threatens to Cancel Drivers' Licenses, File Charges Amid Massive Cheating Scandal",
+      "dek": "submitted by /u/DonkeyFuel [link] [comments]",
+      "body": "submitted by /u/DonkeyFuel [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T19:34:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwiuoc/california_dmv_threatens_to_cancel_drivers/",
+      "image": "https://external-preview.redd.it/nqYK1ZZrT9Ey_YiTicDiB5y1NopFQZvmdTjImzR0PlA.jpeg?width=640&crop=smart&auto=webp&s=e8c1eca9eb2361ee4e42dd8ac141c1b94898cd7c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8deb8d3d91fb",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-14T18:24:56+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwgxtm/goat_aids_firefighters_battling_colorado_wildfire/",
       "image": "https://external-preview.redd.it/4DCazv6_XFzBGmitvVpyIE48rxvfvzReu9JHK7hUv5Q.jpeg?width=640&crop=smart&auto=webp&s=727b6910c6f761ad180a64b41df7b008d4ac42e1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4c491c6cf8d3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
-      "dek": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-      "body": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T16:54:46+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf4/live/42878740-7f9c-11f1-b976-0b9c15b0ccfc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
