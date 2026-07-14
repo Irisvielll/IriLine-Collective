@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_63fc96da15bc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "California DMV Threatens to Cancel Drivers' Licenses, File Charges Amid Massive Cheating Scandal",
+      "dek": "submitted by /u/DonkeyFuel [link] [comments]",
+      "body": "submitted by /u/DonkeyFuel [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T19:34:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwiuoc/california_dmv_threatens_to_cancel_drivers/",
+      "image": "https://external-preview.redd.it/nqYK1ZZrT9Ey_YiTicDiB5y1NopFQZvmdTjImzR0PlA.jpeg?width=640&crop=smart&auto=webp&s=e8c1eca9eb2361ee4e42dd8ac141c1b94898cd7c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_8deb8d3d91fb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Strait of Hormuz remains a fault line as Iran and US drift back into war",
+      "dek": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+      "body": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T19:13:49+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_eb401a3942c6",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_69befa4f1ab9",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_f0ed4516adbf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "New species named after Cape Verde goalkeeper Vozinha",
-      "dek": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "body": "A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T19:30:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c0c/live/adb97d00-7c92-11f1-b9b6-03aa1610fbc2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_8a68357e8c12",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "AI Fiction Is Easy to Detect Because It's Stupid and Bad, Research Finds",
-      "dek": "submitted by /u/Fan387 [link] [comments]",
-      "body": "submitted by /u/Fan387 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T19:09:22+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1usx3on/ai_fiction_is_easy_to_detect_because_its_stupid/",
-      "image": "https://external-preview.redd.it/GJCtxHbl9CMWypmXH1dH5HCihYUeDEgtTLSjiwylm4o.jpeg?width=640&crop=smart&auto=webp&s=4e93bad074476e588cf03c0b9bd9b1dd7ab930df",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

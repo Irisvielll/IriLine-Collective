@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-14T22:39:21+00:00",
+  "generatedAt": "2026-07-14T23:33:54+00:00",
   "items": [
+    {
+      "id": "latest_d689fd92a2d9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+      "dek": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+      "body": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T23:13:38+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdb1/live/16d66c60-7f92-11f1-ac71-510b51a60620.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_312a63ee511d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+      "dek": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
+      "body": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T22:17:43+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b761/live/c7a2b980-7e80-11f1-926f-c90d1bcfbc84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_168f70cae10c",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-14T21:43:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwmb8y/taco_bell_issues_statement_as_explosive_diarrhea/",
       "image": "https://external-preview.redd.it/7pVuRj-PmtD26sRCFZIAkLWDJl31kQULWS_ZKB-mR_8.jpeg?width=640&crop=smart&auto=webp&s=62b4dffa0aa558c631f6b75205ed388ce24041c8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_63fc96da15bc",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "California DMV Threatens to Cancel Drivers' Licenses, File Charges Amid Massive Cheating Scandal",
-      "dek": "submitted by /u/DonkeyFuel [link] [comments]",
-      "body": "submitted by /u/DonkeyFuel [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T19:34:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwiuoc/california_dmv_threatens_to_cancel_drivers/",
-      "image": "https://external-preview.redd.it/nqYK1ZZrT9Ey_YiTicDiB5y1NopFQZvmdTjImzR0PlA.jpeg?width=640&crop=smart&auto=webp&s=e8c1eca9eb2361ee4e42dd8ac141c1b94898cd7c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8deb8d3d91fb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Strait of Hormuz remains a fault line as Iran and US drift back into war",
-      "dek": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
-      "body": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T19:13:49+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d0c/live/39f9d170-7fa9-11f1-a5f4-433bb9aa2e5a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
