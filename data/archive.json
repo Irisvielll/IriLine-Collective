@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_ba8852a33887",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
+      "dek": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
+      "body": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-15T10:44:15+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cd1/live/0dc02dc0-8030-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_784deb10e83a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Celebrations as Gibraltar-Spain border fence removed",
+      "dek": "The symbolic midnight ceremony was followed by large crowds crossing between Gibraltar and Spain without border checks.",
+      "body": "The symbolic midnight ceremony was followed by large crowds crossing between Gibraltar and Spain without border checks.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-15T10:19:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4799/live/09be09a0-8034-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a9fa473c092f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Three killed as Russian bombing of Odesa continues",
+      "dek": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
+      "body": "In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-15T10:17:38+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9fd24eba52f8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-11T04:06:56+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb59/live/c4e20b70-7cd6-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_63db67ce3346",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Experts say avoid produce from select countries if travelling to U.S., or risk explosive diarrhea",
-      "dek": "submitted by /u/itslitstraightupyeah [link] [comments]",
-      "body": "submitted by /u/itslitstraightupyeah [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T01:26:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ut6f2l/experts_say_avoid_produce_from_select_countries/",
-      "image": "https://external-preview.redd.it/gMmwuJoY2GEiJW4he_ik2AFQzSgh4tQYad8_PJdEdUQ.jpeg?width=640&crop=smart&auto=webp&s=f6c03785957f061f3bdb16c319816964a7702c51",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_93ed358829db",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "dek": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-      "body": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T01:24:49+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c332f7bb02f2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
-      "dek": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
-      "body": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-11T00:46:15+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27a0/live/80ca2f10-7c83-11f1-926f-c90d1bcfbc84.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
