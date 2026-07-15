@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-15T20:08:48+00:00",
+  "generatedAt": "2026-07-15T21:14:26+00:00",
   "items": [
+    {
+      "id": "meme_f26fd0e560b8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Smart Glasses Are Getting People Charged With Crimes",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-15T20:54:36+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uxi1oi/smart_glasses_are_getting_people_charged_with/",
+      "image": "https://external-preview.redd.it/CTOOw8j9qIX5o8UA3CQIOmApXckb-gy_I77SD1Qne4g.jpeg?width=640&crop=smart&auto=webp&s=7dc54f2582111d6c223ef71c9f7c1715875eb8b6",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_baec9ccc22c6",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-15T18:14:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uxdx9l/black_covers_installed_on_fencing_along_lincoln/",
       "image": "https://external-preview.redd.it/1it2uHYll7Pc1970trUr4NxNtGle9SSWCIadbpPwlP4.jpeg?width=640&crop=smart&auto=webp&s=a690d81ac18fc83da4d6fe367f04a05e6de6a18b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_31ae8a9b4382",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What if Bluey spoke one of the world's oldest living languages?",
-      "dek": "Five episodes of the award-winning children’s cartoon have been released in Australian Indigenous language for the first time.",
-      "body": "Five episodes of the award-winning children’s cartoon have been released in Australian Indigenous language for the first time.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T18:07:05+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c07y7r91vz9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b908/live/2768aa90-8017-11f1-b976-0b9c15b0ccfc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
