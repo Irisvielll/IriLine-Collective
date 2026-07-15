@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-15T06:35:17+00:00",
+  "generatedAt": "2026-07-15T08:59:43+00:00",
   "items": [
+    {
+      "id": "latest_37ef21d3f260",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "dek": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
+      "body": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-15T08:25:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9d/live/a4f76250-8024-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_eb60283d0191",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Google sued after AI overview mixes up Canadian fiddler with child diddler.",
+      "dek": "submitted by /u/Nicetrydicklips [link] [comments]",
+      "body": "submitted by /u/Nicetrydicklips [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-15T07:05:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwye8k/google_sued_after_ai_overview_mixes_up_canadian/",
+      "image": "https://external-preview.redd.it/CwAeBfv_sV6QCTZWBBQwCNClTCnRx08dlZuTFJnIilE.jpeg?width=320&crop=smart&auto=webp&s=1542fd1c39ac092d9675516d3e7a32be7eb0a966",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_57c687f17161",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-15T05:39:08+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwwtd4/563_peruvian_babies_named_haaland_norway_striker/",
       "image": "https://external-preview.redd.it/dF4N__088DThh-67rlO4qLAlz1QaosRuQVikPDUl19g.jpeg?width=640&crop=smart&auto=webp&s=f016828c671cc770aef5ffe475090fa208f945c6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_01b7166c4812",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
-      "dek": "Chit you not… Taco Bell is being probed for explosive diarrhea. Multiple State investigation. submitted by /u/SuprisinglyBigCock [link] [comments]",
-      "body": "Chit you not… Taco Bell is being probed for explosive diarrhea. Multiple State investigation. submitted by /u/SuprisinglyBigCock [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T05:32:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwwott/probe_into_explosive_diarrheal_cases_points_to/",
-      "image": "https://external-preview.redd.it/wggygwTKO9b5JLiTPuUArC9T9UU2iJPNUxVRLuqx4xE.jpeg?width=640&crop=smart&auto=webp&s=3368b634f9446c74e7cd7d6f48f8596e6138fc6e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d2a65d4f020e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "China economic growth falls sharply, missing target",
-      "dek": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-      "body": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T05:12:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
