@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "latest_1d9065a835e4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "dek": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+      "body": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T23:17:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_f5ba588e7350",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US Congress takes next step to make daylight saving time permanent",
+      "dek": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
+      "body": "The House of Representatives passed a Trump-backed bill that would end decades of Americans having to reset their clocks twice a year.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T23:15:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8854/live/13a1fe10-7fce-11f1-82bc-eb96a9eb8087.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d689fd92a2d9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How a former 'street kid' is key to South Africa's police corruption inquiry",
+      "dek": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+      "body": "Vusimusi \"Cat\" Matlala, due to appear at the Madlanga Commission, grew up hustling to make a living.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-14T23:13:38+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdb1/live/16d66c60-7f92-11f1-ac71-510b51a60620.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_312a63ee511d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-10T23:02:35+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1edf/live/7311ddc0-793e-11f1-86fe-4309bed8b569.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c5c585145202",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "dek": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "body": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T22:54:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2adef0c6bca3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Inside the 30-hour dating retreat run by monks",
-      "dek": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
-      "body": "Forget coffee or drinks, the latest dating trend in South Korea takes place somewhere very different, a Buddhist temple.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T22:02:42+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca1d/live/86d62e90-7c1f-11f1-9510-1546718f668b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b8694969b3d0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Twelve men and 12 women enter a Buddhist temple - will the monks help them find love?",
-      "dek": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
-      "body": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-10T22:02:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/932a/live/fd05d8d0-7bb2-11f1-9510-1546718f668b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
