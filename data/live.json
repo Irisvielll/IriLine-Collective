@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-15T23:28:12+00:00",
+  "generatedAt": "2026-07-16T00:58:51+00:00",
   "items": [
+    {
+      "id": "latest_7eec10a7dc97",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
+      "dek": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
+      "body": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-16T00:33:23+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798e/live/712f9f80-80ad-11f1-926f-c90d1bcfbc84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d05bf1a0c6cc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+      "dek": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+      "body": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-15T23:35:39+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e360/live/a8a2b180-7628-11f1-ac11-19a4319081d7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_21c8effbc5da",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-15T23:02:49+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e22/live/d37622b0-805b-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d2e5e8da1b6b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-      "dek": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
-      "body": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T23:02:37+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c0/live/1516edc0-8071-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5ab320c1a6cd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Argentina face fine for Falklands banner in semi-final win",
-      "dek": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country'",
-      "body": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T22:49:47+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
