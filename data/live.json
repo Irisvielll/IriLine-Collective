@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-16T20:11:58+00:00",
+  "generatedAt": "2026-07-16T21:17:09+00:00",
   "items": [
+    {
+      "id": "meme_02673916344a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "GameStop CEO Says Games Are \"Irrelevant\" To Company",
+      "dek": "submitted by /u/StraightFromUranus [link] [comments]",
+      "body": "submitted by /u/StraightFromUranus [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-16T20:47:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uyeuat/gamestop_ceo_says_games_are_irrelevant_to_company/",
+      "image": "https://external-preview.redd.it/DGPR7yhdiSXvE7Zy_NIfgMGCxjJBxfigKF54X2EzLZ4.jpeg?width=640&crop=smart&auto=webp&s=0cae7cb29e116f2b722ab0d34b5ca64229da5683",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_b9d2dac9c84f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-16T18:52:35+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/499c/live/7e558130-8147-11f1-badc-afcab3cff8b6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d8a2c3dd8503",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: What to know as Genoa bridge disaster trial ends",
-      "dek": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
-      "body": "More than 50 defendants have been on trial in Italy over the 2018 bridge collapse which killed 43 people.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-16T18:52:01+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e310/live/ee97e540-8143-11f1-926f-c90d1bcfbc84.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
