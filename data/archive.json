@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_1b6dbc3db642",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "NYC Mayor Zohran Mamdani Plays Mario Kart 8 Deluxe on Twitch",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-17T05:42:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uyquvi/nyc_mayor_zohran_mamdani_plays_mario_kart_8/",
+      "image": "https://external-preview.redd.it/5dGUdfJVlEKAUcwhrol294W-ZB5uxvzuY3omEFifjfI.png?width=640&crop=smart&auto=webp&s=6d273fec054c9d288aae7d34aa4683ebf92c95a6",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_4c300e4125ce",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "School bus crash kills at least 20 pupils in Uganda",
+      "dek": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "body": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-17T05:36:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2407/live/9aae3f90-819f-11f1-a603-673178e2b07e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_4f642199e20a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-13T00:05:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4005/live/916366b0-7b8a-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_13513965303a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
-      "dek": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
-      "body": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T23:41:00+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8b/live/f2b1e0f0-7e3b-11f1-bc25-ef36095a5e54.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_30e427085ae7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-      "dek": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-      "body": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-12T23:29:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
