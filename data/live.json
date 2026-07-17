@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-17T21:33:23+00:00",
+  "generatedAt": "2026-07-17T22:31:19+00:00",
   "items": [
+    {
+      "id": "latest_4dce3d0675f9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+      "dek": "Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.",
+      "body": "Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-17T22:14:12+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4def/live/c42d9d00-820f-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_fa63b2054087",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-17T20:54:41+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uzbx2t/not_employee_surveillance_microsoft_defends_teams/",
       "image": "https://external-preview.redd.it/2pJt__h_BMih-X1xG2XHPj6z4OVS4FL8EHQ0wfa5vJk.jpeg?width=640&crop=smart&auto=webp&s=b2872ca5decf1ba3124bc517a8f765736276c9ca",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ce21d4c925b5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "United Airlines argues a ‘window seat’ doesn’t have to be by the window during a legal fight",
-      "dek": "submitted by /u/trykes [link] [comments]",
-      "body": "submitted by /u/trykes [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T20:32:07+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uzbbpi/united_airlines_argues_a_window_seat_doesnt_have/",
-      "image": "https://external-preview.redd.it/tDC23SoYkGGKFhhHUaFqOTFRzGEPt-xxR8TKQgk-TS4.jpeg?width=640&crop=smart&auto=webp&s=6513749640928dcb758662981d4b30f5f64aa057",
       "imageCredit": "Image via original publisher"
     }
   ]
