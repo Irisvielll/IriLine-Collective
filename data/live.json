@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-17T08:57:38+00:00",
+  "generatedAt": "2026-07-17T10:53:05+00:00",
   "items": [
+    {
+      "id": "meme_696837a92c3c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "New monkey discovered with orange lips in Democratic Republic of Congo",
+      "dek": "submitted by /u/Pretend-Feedback-546 [link] [comments]",
+      "body": "submitted by /u/Pretend-Feedback-546 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-17T09:06:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uyufla/new_monkey_discovered_with_orange_lips_in/",
+      "image": "https://external-preview.redd.it/M9-4EIzyLpjfHJlguDIu918E7BZPrrcUk09LBnIRJuU.jpeg?width=640&crop=smart&auto=webp&s=86b1bf6b8c0ebc85c8a70e14269b3f871ac9eb6e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_90408b2e0c4c",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uysxrh/china_firmly_opposes_uk_nationalisation_of/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_805d6a8a72d8",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_a23140431650",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump Media to sell early access to key social posts",
-      "dek": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "body": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T06:28:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
