@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_42d492236980",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Plane passenger invoked Sharia law to not sit next to woman and hit stewardess",
+      "dek": "submitted by /u/piesaresquarey [link] [comments]",
+      "body": "submitted by /u/piesaresquarey [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-18T14:20:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uzx66c/plane_passenger_invoked_sharia_law_to_not_sit/",
+      "image": "https://external-preview.redd.it/6OZYSZ9BGodaGGDlp-Q215LatBR5dYr39G0T3RQy0Yo.jpeg?width=640&crop=smart&auto=webp&s=fe3bd41bb6e302cbd641e7fe7361ce957b6ecb60",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5212a67cda7f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-13T17:15:03+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uvhqys/sudden_appearance_of_sprawling_san_francisco/",
       "image": "https://external-preview.redd.it/0gcDJkGpHWQBnSJ2yyBpnAj2h4JNspdq8Iv1EXfSSGk.jpeg?width=640&crop=smart&auto=webp&s=1d9c67f697d28d78f681ff23e47b42eb9c7840ff",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9968657810a3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Horses evacuated as fire approaches riding centre near Paris",
-      "dek": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.",
-      "body": "The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T16:28:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8a/live/c07ad5a0-7ed7-11f1-b976-0b9c15b0ccfc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
