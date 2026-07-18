@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-18T19:31:03+00:00",
+  "generatedAt": "2026-07-18T20:28:23+00:00",
   "items": [
+    {
+      "id": "meme_3444eca118ff",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Billionaire U.S. ambassador greeted by protests in Venice on latest stop of super yacht diplomacy tour",
+      "dek": "submitted by /u/Camtastrophe [link] [comments]",
+      "body": "submitted by /u/Camtastrophe [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-18T19:34:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v054ui/billionaire_us_ambassador_greeted_by_protests_in/",
+      "image": "https://external-preview.redd.it/LTZ8Zos4A2TBMhU7jwwuN8anI24wijhXIxCudr8Smhw.jpeg?width=640&crop=smart&auto=webp&s=0a8edc1e4be963289ca42db3dc884095d23577f6",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_239300016ef2",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-18T18:19:16+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v037sp/indian_police_forcibly_hospitalize_a_prominent/",
       "image": "https://external-preview.redd.it/_70w3NJbLY8xrEtvCcmyJpae5Ouid3kaXWTTN82PhJo.jpeg?width=640&crop=smart&auto=webp&s=bc62cb0b8620449d60b2defff0bc84e41380b889",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a6a3a34900a7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "dek": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-      "body": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-18T17:33:28+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3314/live/d7e89fb0-7ef5-11f1-bee8-53ce494e1abc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
