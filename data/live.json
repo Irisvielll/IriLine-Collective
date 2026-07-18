@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-18T13:48:40+00:00",
+  "generatedAt": "2026-07-18T14:52:36+00:00",
   "items": [
+    {
+      "id": "latest_3ed861653ce1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "German politician resigns over surrogacy child controversy",
+      "dek": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
+      "body": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-18T14:20:32+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6f/live/e67395c0-82a7-11f1-84ea-29e7008b1ad8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_42d492236980",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Plane passenger invoked Sharia law to not sit next to woman and hit stewardess",
+      "dek": "submitted by /u/piesaresquarey [link] [comments]",
+      "body": "submitted by /u/piesaresquarey [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-18T14:20:31+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uzx66c/plane_passenger_invoked_sharia_law_to_not_sit/",
+      "image": "https://external-preview.redd.it/6OZYSZ9BGodaGGDlp-Q215LatBR5dYr39G0T3RQy0Yo.jpeg?width=640&crop=smart&auto=webp&s=fe3bd41bb6e302cbd641e7fe7361ce957b6ecb60",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5212a67cda7f",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-18T13:06:25+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d5511899f12c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "dek": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-      "body": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-18T09:30:32+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/32672200-a8c8-11ef-a4fe-a3e9a6c5d640.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_334056b13520",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Tom Cruise couldn't stop saying 'The Odyssey' was 'so fucking sick' while watching it",
-      "dek": "submitted by /u/Super_Cold8789 [link] [comments]",
-      "body": "submitted by /u/Super_Cold8789 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-18T08:52:27+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uzqpeq/tom_cruise_couldnt_stop_saying_the_odyssey_was_so/",
-      "image": "https://external-preview.redd.it/VuAl6XJ56q2pxAtyTUr2cklCGii3K1NetEbf5lsmPWs.jpeg?width=640&crop=smart&auto=webp&s=dc21c5102c0a94c9a34e859721af37484681ec6e",
       "imageCredit": "Image via original publisher"
     }
   ]
