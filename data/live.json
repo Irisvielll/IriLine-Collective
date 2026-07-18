@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-18T12:04:28+00:00",
+  "generatedAt": "2026-07-18T13:48:40+00:00",
   "items": [
+    {
+      "id": "latest_5212a67cda7f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "dek": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "body": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-18T13:06:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d5511899f12c",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-18T08:52:27+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uzqpeq/tom_cruise_couldnt_stop_saying_the_odyssey_was_so/",
       "image": "https://external-preview.redd.it/VuAl6XJ56q2pxAtyTUr2cklCGii3K1NetEbf5lsmPWs.jpeg?width=640&crop=smart&auto=webp&s=dc21c5102c0a94c9a34e859721af37484681ec6e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_eefb445ceee8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Helicopters dump water as huge Norway fire destroys homes",
-      "dek": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
-      "body": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-18T07:13:07+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8a/live/8eae9040-8277-11f1-8d6f-59537052d5b3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

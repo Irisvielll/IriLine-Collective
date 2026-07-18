@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_eefb445ceee8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Helicopters dump water as huge Norway fire destroys homes",
+      "dek": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
+      "body": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-18T07:13:07+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8a/live/8eae9040-8277-11f1-8d6f-59537052d5b3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_0561ffd68e63",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-13T15:17:21+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uveh5e/i_bought_the_3000_fitness_suit_that_electrocutes/",
       "image": "https://external-preview.redd.it/bVQPq5I8NGZfZoB2XngOdQsNWnPOI5PH55K2Cfxowj8.png?width=640&crop=smart&auto=webp&s=272c0e165d1132c64d1371ed112dfc3b7f64c7fd",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d5e106badd46",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "U.S. Navy microbiologist discovers 14 new viruses and gives them Texas names",
-      "dek": "submitted by /u/AudibleNod [link] [comments]",
-      "body": "submitted by /u/AudibleNod [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T13:54:07+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uvc8oh/us_navy_microbiologist_discovers_14_new_viruses/",
-      "image": "https://external-preview.redd.it/rTmODUEl7D5qN2V_Z3XA_nXCFEV7VPPwOEOzKWPGhDs.jpeg?width=640&crop=smart&auto=webp&s=ac3127c2d2699ae7c2e4b441bc915a3bce67ebf5",
       "imageCredit": "Image via original publisher"
     }
   ]
