@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_5212a67cda7f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "dek": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "body": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-18T13:06:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_d5511899f12c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-13T16:28:19+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8a/live/c07ad5a0-7ed7-11f1-b976-0b9c15b0ccfc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3676fbbb5a01",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-      "dek": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-      "body": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T16:19:15+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e86/live/076e2020-7ec9-11f1-af40-3101fe5a127d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
