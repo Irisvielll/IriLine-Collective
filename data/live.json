@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-19T04:34:47+00:00",
+  "generatedAt": "2026-07-19T07:15:26+00:00",
   "items": [
+    {
+      "id": "latest_fdf722c98f4c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "dek": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "body": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T05:10:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e354/live/adca3400-8323-11f1-926f-c90d1bcfbc84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8b7fdb3f783a",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-19T01:47:59+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c4fef43d2b4d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why the World Cup half-time show may be a taste of things to come",
-      "dek": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
-      "body": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-19T01:11:23+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ef/live/7c99f4a0-81ee-11f1-926f-c90d1bcfbc84.png",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_c4fef43d2b4d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Why the World Cup half-time show may be a taste of things to come",
+      "dek": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
+      "body": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T01:11:23+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ef/live/7c99f4a0-81ee-11f1-926f-c90d1bcfbc84.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e492fd47f918",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caac/live/6d318280-7ece-11f1-a521-db2da184cdb6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_c231b1409d8a",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "All-Stars oppose salary cap, see time to find deal...",
-      "dek": "Paul Skenes, Juan Soto and Bryce Harper are among baseball's All-Stars who say players will never agree to a salary cap but maintain there's plenty of time to a",
-      "body": "Paul Skenes, Juan Soto and Bryce Harper are among baseball's All-Stars who say players will never agree to a salary cap but maintain there's plenty of time to avoid a conflict that could shorten the 2027 season.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T19:16:23+00:00",
-      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49353827/all-stars-oppose-mlb-salary-cap-lot-reach-deal",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_c231b1409d8a",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
