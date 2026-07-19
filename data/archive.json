@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_f4bd263aa059",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "dek": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "body": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T08:37:48+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_01637d9d0c11",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-13T20:39:14+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3314/live/d7e89fb0-7ef5-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_158458965cf9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
-      "dek": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
-      "body": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T20:26:15+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd0/live/138c2e00-7ecf-11f1-9c5a-f7e0cba0ab3f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

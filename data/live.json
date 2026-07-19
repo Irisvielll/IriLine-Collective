@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-19T10:53:43+00:00",
+  "generatedAt": "2026-07-19T11:58:13+00:00",
   "items": [
+    {
+      "id": "meme_74a4c68520e6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Police pose for pictures with UDA boss linked to loyalist feud murder days after appealing for information",
+      "dek": "submitted by /u/ferocious_bandana [link] [comments]",
+      "body": "submitted by /u/ferocious_bandana [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T11:38:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v0oa55/police_pose_for_pictures_with_uda_boss_linked_to/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_74a4c68520e6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_8d70f54d277a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-19T09:20:58+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c6/live/e5bedff0-8350-11f1-8d99-f1f0cec0b1ae.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f4bd263aa059",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "dek": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-      "body": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-19T08:37:48+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
       "imageCredit": "Image via original publisher"
     }
   ]
