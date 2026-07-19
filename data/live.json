@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-19T20:49:33+00:00",
+  "generatedAt": "2026-07-19T21:52:41+00:00",
   "items": [
+    {
+      "id": "latest_8b790c104e41",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+      "dek": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
+      "body": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T21:43:54+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7d/live/bb12d230-83b8-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_dfe10e07b15c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-19T17:47:29+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v0x2fn/looksmaxxers_university_researchers_celebrities/",
       "image": "https://external-preview.redd.it/Oht_Ej-Q8JSuxuneRMH-Jifkae9IFFRAeRpY1KJ7zTM.png?width=640&crop=smart&auto=webp&s=46f34dcd3e88c428df1d83a34d65d632f3e32341",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_921993337e48",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "This Private School Had Students Scrub Floors and Attack a Fellow Classmate. The State Still Funds It.",
-      "dek": "“Reporting Highlights Private School Abuse: At an Arkansas school, a boy was hit by the school’s founder and attacked by classmates in a group session the found",
-      "body": "“Reporting Highlights Private School Abuse: At an Arkansas school, a boy was hit by the school’s founder and attacked by classmates in a group session the founder led, prompting a complaint and her arrest. State Money Still Flows: Despite a jail term for the school’s founder, The Delta Institute for the Developing Brain continues to operate and Arkansas still sends it public funds. Unregulated and Growing: By design, private schools get little oversight in Arkansas even as new opportunities to receive state money have spurred a boom in openings since 2023.” TLDR: The private school hosting a child’s fight club in Jonesboro, Arkansas still receives state funding. submitted by /u/Born-Hold-7326 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-19T17:39:48+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v0wveb/this_private_school_had_students_scrub_floors_and/",
-      "image": "https://external-preview.redd.it/fPRINvyTiTEXAYondrFMNOz5RPGJDiPYforrHCAnGfc.jpeg?width=640&crop=smart&auto=webp&s=a3dd77707f368db73d7de971db1875cd7d53e004",
       "imageCredit": "Image via original publisher"
     }
   ]
