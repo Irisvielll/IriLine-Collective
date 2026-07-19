@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-19T09:26:27+00:00",
+  "generatedAt": "2026-07-19T10:53:43+00:00",
   "items": [
+    {
+      "id": "meme_8d70f54d277a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man arrested after surfing naked on top of moving locomotive",
+      "dek": "submitted by /u/StatsFactsRants [link] [comments]",
+      "body": "submitted by /u/StatsFactsRants [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T09:54:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v0mfc8/man_arrested_after_surfing_naked_on_top_of_moving/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_8d70f54d277a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "latest_fbd02ff0c1ee",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-19T08:37:48+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_01637d9d0c11",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "dek": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
-      "body": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-19T07:47:02+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffba/live/61f9f5c0-8336-11f1-ab22-e5791e60f909.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

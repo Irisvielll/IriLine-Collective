@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_01637d9d0c11",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "dek": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "body": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T07:47:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffba/live/61f9f5c0-8336-11f1-ab22-e5791e60f909.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fdf722c98f4c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd0/live/138c2e00-7ecf-11f1-9c5a-f7e0cba0ab3f.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_103735a42a19",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "A Fuel Thief Hoods His Face and Angles His Car Boot to Blind the Camera — Then Is Undone by the License Plate He Drove In On",
-      "dek": "submitted by /u/dailymisanthrope [link] [comments]",
-      "body": "submitted by /u/dailymisanthrope [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-13T20:15:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uvmv80/a_fuel_thief_hoods_his_face_and_angles_his_car/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_103735a42a19",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
