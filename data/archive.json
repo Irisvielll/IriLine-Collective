@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_eadcf9422681",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump imposes 50% tariff on Canadian imports",
+      "dek": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "body": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-20T22:26:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06cc/live/a320cf00-8481-11f1-926f-c90d1bcfbc84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d299f4599f1f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+      "dek": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "body": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-20T21:09:31+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900b/live/19b1fef0-847d-11f1-8f17-6fca617ac634.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c35cbcb8916a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uwb7kr/taco_bell_now_under_investigation_over_outbreak/",
       "image": "https://external-preview.redd.it/jxbD6W8cHZPfOseSYjrFugcMG3Hkjek2IhKmG7h352s.jpeg?width=640&crop=smart&auto=webp&s=bd9ec97dfa1d444c4a1147d836fd496196715a6a",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_21b58bf6e77b",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Eight new NFL coach-player pairings Solak can't wa...",
-      "dek": "Can Brian Daboll take Cam Ward's game to another level? How will Sean Payton scheme up Jaylen Waddle? Is the Chris Shula-Myles Garrett combo unstoppable?",
-      "body": "Can Brian Daboll take Cam Ward's game to another level? How will Sean Payton scheme up Jaylen Waddle? Is the Chris Shula-Myles Garrett combo unstoppable?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T14:58:49+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49351307/2026-nfl-season-coach-coordinator-playcaller-player-matches-scheme-solak",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_21b58bf6e77b",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_1f509e2e3525",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Who are the Khoslas? Meet the family set to buy th...",
-      "dek": "Vinod Khosla is a prominent venture capitalist, and his wife, Neeru, is an education philanthropist.",
-      "body": "Vinod Khosla is a prominent venture capitalist, and his wife, Neeru, is an education philanthropist.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T14:58:49+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49358800/khosla-family-vinod-neeru-neal-san-francisco-49ers-seattle-seahawks",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1f509e2e3525",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
