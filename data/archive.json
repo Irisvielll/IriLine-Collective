@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_b4bae3639777",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "dek": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+      "body": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T23:18:03+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b142/live/ab70ef20-7f5c-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_07b9468de9e5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Peter Magyar to ask chess legend Judit Polgár to become Hungary's President",
+      "dek": "submitted by /u/ddx-me [link] [comments]",
+      "body": "submitted by /u/ddx-me [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-19T22:56:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v14cgd/peter_magyar_to_ask_chess_legend_judit_polgár_to/",
+      "image": "https://external-preview.redd.it/_-PGLwdwH1m6hHbnSoIZlh1ApzNubGWpO0CTaelXhFM.jpeg?width=640&crop=smart&auto=webp&s=c90333fca9156521298288fed66273344a3956ee",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_1573541d165b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-14T08:12:32+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d6/live/bc919ae0-7e92-11f1-8c82-ff770b17755a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_158e64dcfcfd",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "How DJ Eliot's daughter continues to inspire him a...",
-      "dek": "NC State's defensive coordinator continues to find ways to honor his daughter after she died of cancer.",
-      "body": "NC State's defensive coordinator continues to find ways to honor his daughter after she died of cancer.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T07:44:48+00:00",
-      "sourceUrl": "https://www.espn.com/college-football/story/_/id/49314547/nc-state-defensive-coordinator-dj-eliot-daughter-drue-cancer",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_158e64dcfcfd",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_9b9c9b30683a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "McConnell’s Been on Sick Leave for a Month. US Workers Aren’t Guaranteed a Day.",
-      "dek": "submitted by /u/Lonely-Ordinary1478 [link] [comments]",
-      "body": "submitted by /u/Lonely-Ordinary1478 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T07:09:20+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uw1djo/mcconnells_been_on_sick_leave_for_a_month_us/",
-      "image": "https://external-preview.redd.it/hzJWS28Qn6bom9uXx5-G1LKT6L-s5tyUJEASsvGeLjY.jpeg?width=640&crop=smart&auto=webp&s=dc83ebc30baaf6a98e812b0adecca61169601346",
       "imageCredit": "Image via original publisher"
     }
   ]

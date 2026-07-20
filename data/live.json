@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-19T23:57:27+00:00",
+  "generatedAt": "2026-07-20T03:46:23+00:00",
   "items": [
+    {
+      "id": "latest_84d92b3fdb40",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Norway opens new memorial for victims of 2011 massacre",
+      "dek": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+      "body": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-20T01:11:08+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5a/live/0c2fc2e0-83d7-11f1-ad7d-c7f9656ee7bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_23e2ec7d5c93",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "dek": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "body": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-20T00:19:12+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/150a/live/ddf43180-81e8-11f1-9b73-1d2c7fa8d439.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c9c05700400f",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-19T23:54:47+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v15q65/sausalito_city_manager_arrested_days_after_leave/",
       "image": "https://external-preview.redd.it/vR3Ez2Tp1hIctQX3X9S1arWtvGamzhaU1zHW5XAFRUg.jpeg?width=640&crop=smart&auto=webp&s=8b9cffe1b5c0c7ac8ca42aa18799e0080f98dcb3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b4bae3639777",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
-      "dek": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
-      "body": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-19T23:18:03+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b142/live/ab70ef20-7f5c-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_07b9468de9e5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Peter Magyar to ask chess legend Judit Polgár to become Hungary's President",
-      "dek": "submitted by /u/ddx-me [link] [comments]",
-      "body": "submitted by /u/ddx-me [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-19T22:56:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v14cgd/peter_magyar_to_ask_chess_legend_judit_polgár_to/",
-      "image": "https://external-preview.redd.it/_-PGLwdwH1m6hHbnSoIZlh1ApzNubGWpO0CTaelXhFM.jpeg?width=640&crop=smart&auto=webp&s=c90333fca9156521298288fed66273344a3956ee",
       "imageCredit": "Image via original publisher"
     }
   ]
