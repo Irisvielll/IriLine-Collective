@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_c35cbcb8916a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "JD Vance Credits Charlie Kirk's Death for Getting His Wife Pregnant",
+      "dek": "submitted by /u/rabbirobbie [link] [comments]",
+      "body": "submitted by /u/rabbirobbie [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-20T21:04:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v1y0dc/jd_vance_credits_charlie_kirks_death_for_getting/",
+      "image": "https://external-preview.redd.it/-K1R0_DPExGRJ7cPDDPWwSoFl7rU5H4DYsYK1ivni8g.jpeg?width=640&crop=smart&auto=webp&s=72a0ca0a07ec226a9303dd287bcd097415101865",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_584df09dc608",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Merger deal between Paramount and Warner Bros paused by judge",
+      "dek": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
+      "body": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-20T19:48:13+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6662/live/88431510-846f-11f1-b286-f1d324aa6c22.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_1853e3f6b4bd",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-14T14:58:49+00:00",
       "sourceUrl": "https://www.espn.com/nfl/story/_/id/49358800/khosla-family-vinod-neeru-neal-san-francisco-49ers-seattle-seahawks",
       "image": "https://source.unsplash.com/1600x900/?news&sig=sports_1f509e2e3525",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_8426d77e8a11",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Golfers eye 'unprecedented' conditions at Open",
-      "dek": "Golfers raved about the firm, fast conditions at Royal Birkdale on Tuesday, two days before the start of the Open Championship.",
-      "body": "Golfers raved about the firm, fast conditions at Royal Birkdale on Tuesday, two days before the start of the Open Championship.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T14:51:59+00:00",
-      "sourceUrl": "https://www.espn.com/golf/story/_/id/49359259/golfers-eye-unprecedented-open-conditions-royal-birkdale",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_8426d77e8a11",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e6b473c185cc",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "📈 Execs, coaches rank NFL's best linebackers",
-      "dek": "Evaluators around the league ranked their top 10 off-ball linebackers. Is Fred Warner still No. 1? Which young standout is high on the list?",
-      "body": "Evaluators around the league ranked their top 10 off-ball linebackers. Is Fred Warner still No. 1? Which young standout is high on the list?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-14T14:51:59+00:00",
-      "sourceUrl": "https://www.espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e6b473c185cc",
       "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
