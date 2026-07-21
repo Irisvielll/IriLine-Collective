@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-21T18:49:04+00:00",
+  "generatedAt": "2026-07-21T20:18:16+00:00",
   "items": [
+    {
+      "id": "latest_4ce2c9e1e406",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "dek": "Oleksandr Syrskyi is dismissed after days of unrest over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "body": "Oleksandr Syrskyi is dismissed after days of unrest over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-21T19:57:38+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_84aa866c5ffd",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A Minnesota town now boasts the world's tallest nutcracker",
+      "dek": "submitted by /u/StatsFactsRants [link] [comments]",
+      "body": "submitted by /u/StatsFactsRants [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-21T18:51:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v2rj54/a_minnesota_town_now_boasts_the_worlds_tallest/",
+      "image": "https://external-preview.redd.it/_HE0FAxvaIl1YXQakdPid14Nv_0uvZhImFJeCV-smNY.jpeg?width=640&crop=smart&auto=webp&s=eaea8ef9b8120e585223efd1c6aae2c46a7a5f5b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_cc114afce539",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-21T18:35:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v2r30c/ice_is_arresting_relatives_who_come_forward_to/",
       "image": "https://external-preview.redd.it/HZdK-hUwmqzhGGAuRHviWR6EX20rtzpaSqGGZdo2mSY.jpeg?width=640&crop=smart&auto=webp&s=d39f698db4db59d3f2bb80fcac4741a6e961bc17",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_37d7b0041392",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Anyone in Bluetooth Range Can Unlock Cars, Kill Engines Through Alarms Owners May Never Have Paid For",
-      "dek": "submitted by /u/DonkeyFuel [link] [comments]",
-      "body": "submitted by /u/DonkeyFuel [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-21T18:17:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v2qjcx/anyone_in_bluetooth_range_can_unlock_cars_kill/",
-      "image": "https://external-preview.redd.it/IQITshnD4bfx0N4gjbs2Uf2IoF42OSIO8F0bkFwe4XA.jpeg?width=640&crop=smart&auto=webp&s=3c5856a8d364db35c5ea3b10a05638ca1f0cf657",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_aae7d1db8b1e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘This is AI out of control’: Claude disobeyed Anthropic CEO in simulations",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-21T17:32:16+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v2p86u/this_is_ai_out_of_control_claude_disobeyed/",
-      "image": "https://external-preview.redd.it/uyB-eTlP39txxmgWrL2WA-jutgQxWxVLs2lamZi_1KE.png?width=640&crop=smart&auto=webp&s=d05d1390524727ff47b63853d1c83993b3d4975c",
       "imageCredit": "Image via original publisher"
     }
   ]
