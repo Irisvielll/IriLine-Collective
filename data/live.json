@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-21T15:54:08+00:00",
+  "generatedAt": "2026-07-21T17:19:40+00:00",
   "items": [
+    {
+      "id": "latest_403f1f71e290",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+      "dek": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
+      "body": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-21T16:44:30+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dc/live/1560a4f0-8527-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_68f67680e05b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "dek": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
+      "body": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-21T15:57:29+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c26144c9314b",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-21T15:37:29+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v2lzhg/a_homeless_man_was_charged_with_a_felony_for/",
       "image": "https://external-preview.redd.it/xOqCzuKh_xPH7XtNN-Q_1ENXHsVvwAcg52avLmGZwDE.jpeg?width=640&crop=smart&auto=webp&s=956ecf76f7ad3525a64c51cac51ecd9c3390db5f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0277db438edb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israeli air strike in Gaza City kills family of six, medics say",
-      "dek": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
-      "body": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-21T14:47:41+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b85/live/38d92850-8511-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bafb19f58265",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "AI Companies Are Buying Tons of Old Books Because They’re Free of AI Slop",
-      "dek": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
-      "body": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-21T14:40:05+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v2kdl5/ai_companies_are_buying_tons_of_old_books_because/",
-      "image": "https://external-preview.redd.it/IkbcjPce5yp9q27yXl-5Z6EJRu_NeXjTULVQ4EFDaB4.jpeg?width=640&crop=smart&auto=webp&s=229d167eade87428d8fe8c742fe5573795f36af0",
       "imageCredit": "Image via original publisher"
     }
   ]
