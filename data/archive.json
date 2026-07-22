@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_569128ce13b5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russian senator calls for recruiting women and disabled people into drone defence units",
+      "dek": "submitted by /u/duckanroll [link] [comments]",
+      "body": "submitted by /u/duckanroll [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-22T09:44:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v3bcx0/russian_senator_calls_for_recruiting_women_and/",
+      "image": "https://external-preview.redd.it/u9OzU4R9gKbzhPRy2tpI3CPu7g_aR9V9rJgKYHcx1DU.png?width=640&crop=smart&auto=webp&s=27958b759f62dbcd7d984de1e6ff452a06556311",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_7e875643c8c3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "dek": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
+      "body": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-22T08:38:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5803/live/7ce1c600-85b2-11f1-bee8-53ce494e1abc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e08dce5b3457",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "dek": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "body": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-22T08:37:13+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c7e/live/17a04300-859b-11f1-a6e0-e3aa80f742c2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_c3ccc63a85e7",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-15T13:29:32+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ux5wob/the_senegal_mens_national_team_blamed_their/",
       "image": "https://external-preview.redd.it/OKfBsIfPfd1DjCPvFSIGP2GFrDZ88N8eEjAcmX_WLfw.jpeg?width=640&crop=smart&auto=webp&s=9644d941458093ff5062460e3648d7dbb4e2323f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "sports_e95c0ea36ba8",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "Stock Watch: Who has impressed? Who has struggled?...",
-      "dek": "Which players have stood out, and who has struggled?",
-      "body": "Which players have stood out, and who has struggled?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T12:42:57+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49294190/2026-fifa-world-cup-stock-watch-which-players-starred-struggled",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e95c0ea36ba8",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "sports_e515b72b4f45",
-      "section": "sports",
-      "sectionLabel": "Sports",
-      "type": "REAL",
-      "category": "SPORTS",
-      "title": "USMNT's World Cup over, Pochettino's contract done...",
-      "dek": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
-      "body": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T12:36:22+00:00",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=sports_e515b72b4f45",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_299db04730c4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Venezuela government to launch formal talks with opposition members",
-      "dek": "The opposition says the aim of the talks is to strengthen the democratic institutions and the electoral system.",
-      "body": "The opposition says the aim of the talks is to strengthen the democratic institutions and the electoral system.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T12:21:21+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dbd/live/b45bfff0-803b-11f1-ad4e-5b151eaf0c69.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
