@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T19:58:41+00:00",
+  "generatedAt": "2026-07-22T21:16:45+00:00",
   "items": [
     {
       "id": "meme_7648c1df6bd3",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_b131aa7ae24a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Louvre reopens gallery after jewellery heist",
+      "dek": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
+      "body": "The Louvre Museum reopens its Apollo Gallery nine months after a robbery that shocked France.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-22T16:54:33+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73a/live/7b5a0f90-85e9-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_dca454d718f7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-22T16:47:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v3lp0v/smotrich_claims_israel_has_no_interest_in_joining/",
       "image": "https://external-preview.redd.it/cOWwRstOHywd5Kd2d96qSNoej5hGso84p74v9q57rj8.jpeg?width=640&crop=smart&auto=webp&s=053d7226295aa7b43affb4f58f6c65b4b11b0b8f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_42afee97a5ee",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
-      "dek": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
-      "body": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-22T16:34:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f2/live/87f6aa00-26bd-11f1-be99-cb4fcea31c93.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
