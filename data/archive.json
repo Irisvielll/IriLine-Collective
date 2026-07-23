@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_84e965977ee7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+      "dek": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
+      "body": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-23T16:26:49+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097f/live/f3fca430-86b1-11f1-bee8-53ce494e1abc.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_3e311c561152",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-16T08:38:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyxnvjy706o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a105/live/4d7551d0-7486-11f1-8e1d-bbbb1017d210.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d261d9db15b5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Johnson says Pentagon needs more money for ‘fighting communism on our own shores’",
-      "dek": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "body": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-16T08:10:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uxwj4n/johnson_says_pentagon_needs_more_money_for/",
-      "image": "https://external-preview.redd.it/PqntESnt9IjkCtDOspWZoLSnvtL1PeNbpiYdggiHuP8.jpeg?width=640&crop=smart&auto=webp&s=e95e2313c6656aea0ff47421c4dc35efc143b2f2",
       "imageCredit": "Image via original publisher"
     }
   ]
