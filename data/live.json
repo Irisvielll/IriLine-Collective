@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-23T01:13:12+00:00",
+  "generatedAt": "2026-07-23T04:36:07+00:00",
   "items": [
+    {
+      "id": "latest_341e3e413aab",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+      "dek": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "body": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-23T03:48:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5df9/live/bacada70-862e-11f1-b1b6-99ee8edc68f7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_5b25b75de678",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Rubio says any nuclear agreement the US signs will not lead to nuclear proliferation",
+      "dek": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "body": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-23T02:14:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v40lx9/rubio_says_any_nuclear_agreement_the_us_signs/",
+      "image": "https://external-preview.redd.it/wv6F_F3UFlSsDqhZAlP1pdzdOVvNJ3l1HYYXJltkakw.jpeg?width=640&crop=smart&auto=webp&s=5dba5c50083825004e2ea666ccbec9d8ec5a1426",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_b9e3bb13b44d",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-23T00:39:40+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v3ygwk/israeli_officials_plan_to_add_crocodiles_around/",
       "image": "https://external-preview.redd.it/y5r3cfrEvWsFEygbD8OLFM__pYspd4feJvHNRZq6obM.jpeg?width=640&crop=smart&auto=webp&s=094541d945c399fe516f0fd802032159066a0eed",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b3a4117e165d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "dek": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-      "body": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-23T00:15:12+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5eb/live/f92abbb0-85dd-11f1-9837-c51febdbeb82.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5ed3a6b96954",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Relatives cleaning out the home of a late family member find human remains in a freezer",
-      "dek": "submitted by /u/bluffcitynews [link] [comments]",
-      "body": "submitted by /u/bluffcitynews [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-22T23:24:31+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v3wqhc/relatives_cleaning_out_the_home_of_a_late_family/",
-      "image": "https://external-preview.redd.it/YKB1ZTfJwc44nsFpCm4SDpiFyB_m0F4hFooUr3AlNSo.jpeg?width=640&crop=smart&auto=webp&s=3a933e41dc99921cb1cb3b27dfb8dc5260754c40",
       "imageCredit": "Image via original publisher"
     }
   ]
