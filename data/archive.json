@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_e2725649fb45",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+      "dek": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
+      "body": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-22T23:22:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d00/live/a41b6b40-85f8-11f1-b976-0b9c15b0ccfc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_fa4518dcdcfc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Investigators in southern Italy find cats used to spread wildfires",
+      "dek": "submitted by /u/MultiMillionMiler [link] [comments]",
+      "body": "submitted by /u/MultiMillionMiler [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-22T23:16:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v3wjsp/investigators_in_southern_italy_find_cats_used_to/",
+      "image": "https://external-preview.redd.it/stjfHiA8mAUTmZeOwVN-EVZ0wL48KVUL-yTH-hp8rn4.png?width=640&crop=smart&auto=webp&s=18969a56edcb7be17bba080488acd176bf81996c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_bea210e2aedf",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-15T17:36:23+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uxctm3/cat_burglar_steals_kitten_tries_to_rob_bank_in/",
       "image": "https://external-preview.redd.it/hbL-7u7otF7aFWHw_p3xpb5K_Z9sNObmOMXQLNpOO5E.jpeg?width=640&crop=smart&auto=webp&s=9f04f49a053b46b2b55b1d516a3913629a3fee58",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7c4d5f861fd7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "French MPs approve assisted dying law with strict rules after years of argument",
-      "dek": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "body": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T17:29:26+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430a/live/7bffaa30-805e-11f1-a10f-077d9cf2208e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e018d356978f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Pete Hegseth Announces New Required Pentagon Testosterone Tests",
-      "dek": "submitted by /u/andrewedufresne [link] [comments]",
-      "body": "submitted by /u/andrewedufresne [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-15T17:28:39+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uxclqc/pete_hegseth_announces_new_required_pentagon/",
-      "image": "https://external-preview.redd.it/SbhMh5ZiI1YzTaUdzj04d_9ubolZU6Qsk0lJa-MofqA.jpeg?width=640&crop=smart&auto=webp&s=ac4ece13fa57298c2aa1f49ec14a76367f57480e",
       "imageCredit": "Image via original publisher"
     }
   ]
