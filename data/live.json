@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-23T20:11:47+00:00",
+  "generatedAt": "2026-07-23T21:29:06+00:00",
   "items": [
+    {
+      "id": "latest_ff9b51ec117d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "India activist ends hunger strike after 26 days",
+      "dek": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
+      "body": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-23T21:27:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddaa/live/b1690fb0-86d3-11f1-8749-89447c313de6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_0ffe321ff22c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Tuberville: Mamdani will do something ‘stupid’ enough to ‘send him to Gitmo’",
+      "dek": "submitted by /u/Lower_Ad_1146 [link] [comments]",
+      "body": "submitted by /u/Lower_Ad_1146 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-23T21:17:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v4r2ie/tuberville_mamdani_will_do_something_stupid/",
+      "image": "https://external-preview.redd.it/RDfz_TsX_txI0MFznrxNSidnbtRhag0eK_tC57uyJUU.jpeg?width=640&crop=smart&auto=webp&s=5503f337e996b9137c18b219579917fdaf3a7ba8",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_fdaa1406e401",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-23T19:40:32+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v4odeg/nysut_a_robot_built_by_a_company_associated_with/",
       "image": "https://external-preview.redd.it/WfCprxhpwqkk8dG_DmzZYkoBXwwtHpGmlqy4tvhcLUk.jpeg?width=640&crop=smart&auto=webp&s=4c8332a6f8df723a6c0d285e2cb4f3d0baaa4ba7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_016df056ebfa",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Study reveals worst cities for McDonald’s broken ice cream machines",
-      "dek": "Anyone who has ordered ice cream from McDonald’s knows it can be hit or miss. Despite offering class cones, milkshakes and the famous McFlurry, the machines are",
-      "body": "Anyone who has ordered ice cream from McDonald’s knows it can be hit or miss. Despite offering class cones, milkshakes and the famous McFlurry, the machines are notoriously “down” or “not working” from time to time. In honor of National Ice Cream Day on July 19, Action Network set out to find out which places have this issue the most, and the results were interesting. submitted by /u/miauguau44 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-23T19:22:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v4nuyp/study_reveals_worst_cities_for_mcdonalds_broken/",
-      "image": "https://external-preview.redd.it/wlDjt38RunJSLn6z_Qc-NOq0q1zuhOxq0IvlrwSOoBY.jpeg?width=640&crop=smart&auto=webp&s=934ecb52ac4bd55b8a9eb9e32ac8ffe477e84ef6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_16c6a00a2cb6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "dek": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-      "body": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-23T17:37:59+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
