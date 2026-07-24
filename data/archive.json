@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_d72d61120e4a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "dek": "The app, LG Monitor App Installer, installs itself through a Windows Update alongside monitor driver updates. LG Monitor App Installer then pushes ads for a 30-",
+      "body": "The app, LG Monitor App Installer, installs itself through a Windows Update alongside monitor driver updates. LG Monitor App Installer then pushes ads for a 30-day free trial for McAfee, as well as other software, via a pop-up on affected systems, multiple users have reported. submitted by /u/miauguau44 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-24T12:59:35+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5apf5/microsoft_responds_to_lg_monitors_installing/",
+      "image": "https://external-preview.redd.it/5X3DagfND9maxwu0LidIYYC6XeTVWv6QptWZ65Ao1-Q.jpeg?width=640&crop=smart&auto=webp&s=c5a6ed5e4d2b968040e074773ebf1b084f7d93f9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_fd0e761fa0d5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
+      "dek": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
+      "body": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-24T12:55:58+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab3c/live/0297d810-875d-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_a8a2d2e84177",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Harvard: Up to five cups of coffee a day may benefit heart health",
+      "dek": "submitted by /u/hutch_man0 [link] [comments]",
+      "body": "submitted by /u/hutch_man0 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-24T12:47:33+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5af0x/harvard_up_to_five_cups_of_coffee_a_day_may/",
+      "image": "https://external-preview.redd.it/AinjvjwfewKDWSlG33NBlfb7V5bdCLIiXTEkz1mhCLA.jpeg?width=640&crop=smart&auto=webp&s=26081b53f74fd52ff7b4eb4437ea466a638cf573",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_c8350d1a9e8c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-16T21:22:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f92/live/5f5c0800-8136-11f1-b525-63787292c170.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_02673916344a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "GameStop CEO Says Games Are \"Irrelevant\" To Company",
-      "dek": "submitted by /u/StraightFromUranus [link] [comments]",
-      "body": "submitted by /u/StraightFromUranus [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-16T20:47:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uyeuat/gamestop_ceo_says_games_are_irrelevant_to_company/",
-      "image": "https://external-preview.redd.it/DGPR7yhdiSXvE7Zy_NIfgMGCxjJBxfigKF54X2EzLZ4.jpeg?width=640&crop=smart&auto=webp&s=0cae7cb29e116f2b722ab0d34b5ca64229da5683",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_95ae294835f4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
-      "dek": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
-      "body": "A shirt worn by Pele during the 1958 World Cup final has sold for $4.9m (£3.6m) at a Sotheby's auction in New York.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-16T20:42:30+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcb1/live/ba8b9540-8151-11f1-badc-afcab3cff8b6.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b9d2dac9c84f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kris Jenner's mother Mary Jo dies aged 91",
-      "dek": "Mary Jo Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-      "body": "Mary Jo Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-16T20:03:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21a2/live/384fe450-8151-11f1-badc-afcab3cff8b6.png",
       "imageCredit": "Image via original publisher"
     }
   ]
