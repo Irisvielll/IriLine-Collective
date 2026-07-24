@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-24T09:54:23+00:00",
+  "generatedAt": "2026-07-24T11:42:00+00:00",
   "items": [
+    {
+      "id": "latest_c8350d1a9e8c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "dek": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "body": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-24T10:34:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0b/live/5f10c1f0-873b-11f1-a10e-a5d4f08bc20c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_4541e9ca18e7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Are Trump's tariffs delivering on his objectives?",
+      "dek": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+      "body": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-24T10:21:31+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e698/live/f875fc40-873e-11f1-926f-c90d1bcfbc84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_02a2adc9b254",
       "section": "latest",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_29bf8be0c98c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "dek": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-      "body": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-24T09:20:07+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b45/live/fd31d670-8719-11f1-926f-c90d1bcfbc84.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ec43e6607175",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Parental wealth may be more important than whether they smoke or drink for a child's future health",
-      "dek": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "body": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-24T09:08:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5637s/parental_wealth_may_be_more_important_than/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_ec43e6607175",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
