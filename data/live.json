@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-24T18:22:04+00:00",
+  "generatedAt": "2026-07-24T19:54:35+00:00",
   "items": [
+    {
+      "id": "latest_b94db87565a4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "dek": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "body": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-24T18:57:39+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_8518093b4140",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "dek": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "body": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-24T18:51:17+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e9b47e949428",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-24T18:18:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5jfuh/as_men_and_elon_on_x_call_the_odyssey/",
       "image": "https://external-preview.redd.it/YU8QicctKpyJj-WCqaCKFxoEvL9u20onU17xHAWj5aY.jpeg?width=640&crop=smart&auto=webp&s=c6fb196c0c594c5e2a326cc66d8cf1dae9401fae",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_aa6874e9dc15",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Bill Simmons on Caleb Wilson: ‘If I was a Bulls fan, I would have no sperm left in my body’",
-      "dek": "submitted by /u/beary_neutral [link] [comments]",
-      "body": "submitted by /u/beary_neutral [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-24T17:40:33+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5icaz/bill_simmons_on_caleb_wilson_if_i_was_a_bulls_fan/",
-      "image": "https://external-preview.redd.it/DHxN209RTOe1LDu8jnjDAcPwbtC3T_AONiVsjpTATaM.jpeg?width=640&crop=smart&auto=webp&s=981ff7ff11ce9979fde93290f017f2c9bbf50449",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_813631473f35",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "India cockroach protests: Videos show officers firing 'pellet guns'",
-      "dek": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
-      "body": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-24T16:12:34+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb3/live/32fbb250-8777-11f1-a7ab-8b30adf0800a.png",
       "imageCredit": "Image via original publisher"
     }
   ]
