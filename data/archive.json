@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_65ece58a00f2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "dek": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "body": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T17:44:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_cb4ec34d33d3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "dek": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "body": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T17:13:40+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_906417bdd151",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-17T18:21:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uz7s98/israeli_strikes_kill_palestinians_attending_gaza/",
       "image": "https://external-preview.redd.it/jVapj3q-i5wlWmdn7Jqs8KZ87xDUJy5uv1EtGNSYJpc.jpeg?width=320&crop=smart&auto=webp&s=e44df9c607d85526b004a7f1d0a27abf45dc36ac",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_06f382f21765",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US CD sales rise despite many buyers lacking CD players",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T18:20:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uz7qm9/us_cd_sales_rise_despite_many_buyers_lacking_cd/",
-      "image": "https://external-preview.redd.it/EnJ4Tfe-xb54XqWsj1akZnFPkGWE1buEZRNnFaKxFfA.jpeg?width=640&crop=smart&auto=webp&s=0ae1750f3b17464c80d292cd5a9a54ed0c95376f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9fc9965b0265",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "dek": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
-      "body": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T18:12:54+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7777/live/efb32c20-81fa-11f1-a927-670d17f8e943.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
