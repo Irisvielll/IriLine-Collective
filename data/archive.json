@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_8a47e59434cb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump pokes fun at press during White House Correspondents' Dinner",
+      "dek": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "body": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T04:17:15+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/50718a60-87d8-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_976ea5cca447",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Southern California woman charged after 14 dogs covered in feces, suffering from parasites rescued from hot car",
+      "dek": "submitted by /u/Steap-Edit [link] [comments]",
+      "body": "submitted by /u/Steap-Edit [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T04:13:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5xtni/southern_california_woman_charged_after_14_dogs/",
+      "image": "https://external-preview.redd.it/pwVAEfjL8x_YZHBZGlJcWloS4jAWlkpQPNmENgpgL4s.jpeg?width=640&crop=smart&auto=webp&s=78b4f3dbb004a591d84ed4532265cbdba84ccdf8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_09d81b8a70cb",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-17T11:02:50+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uywhlm/new_york_school_deploys_ai_teaching_robot_from/",
       "image": "https://external-preview.redd.it/mWJlfWJrh36p-ShY_1izC_tv1NHgWXkcWxuaBMqjrvw.jpeg?width=640&crop=smart&auto=webp&s=832f181f4831240e7255cf0086e4800cc95e996f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6a2150643b0b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
-      "dek": "Footage shows a rescuer reaching a family of three stranded by floods that destroyed their house in Uvalde county.",
-      "body": "Footage shows a rescuer reaching a family of three stranded by floods that destroyed their house in Uvalde county.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T10:51:40+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc61/live/402c6260-81cf-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_696837a92c3c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "New monkey discovered with orange lips in Democratic Republic of Congo",
-      "dek": "submitted by /u/Pretend-Feedback-546 [link] [comments]",
-      "body": "submitted by /u/Pretend-Feedback-546 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T09:06:55+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uyufla/new_monkey_discovered_with_orange_lips_in/",
-      "image": "https://external-preview.redd.it/M9-4EIzyLpjfHJlguDIu918E7BZPrrcUk09LBnIRJuU.jpeg?width=640&crop=smart&auto=webp&s=86b1bf6b8c0ebc85c8a70e14269b3f871ac9eb6e",
       "imageCredit": "Image via original publisher"
     }
   ]
