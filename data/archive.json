@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_4cd3f310472b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "dek": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "body": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T06:34:40+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8a47e59434cb",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-17T12:05:05+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uyxscm/luigi_replaces_mario_in_gojiras_lineup_over/",
       "image": "https://external-preview.redd.it/NyybeF89VWjbKAGnrBNKqazP1FrhAqipR4d8MIKdsFo.png?width=640&crop=smart&auto=webp&s=526efd465d4e1985962fde4e9f0d2dcb4a03c864",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5f5b1b7090b1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "New York school deploys AI teaching robot from company linked to sex bots",
-      "dek": "submitted by /u/cinemamama [link] [comments]",
-      "body": "submitted by /u/cinemamama [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T11:02:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uywhlm/new_york_school_deploys_ai_teaching_robot_from/",
-      "image": "https://external-preview.redd.it/mWJlfWJrh36p-ShY_1izC_tv1NHgWXkcWxuaBMqjrvw.jpeg?width=640&crop=smart&auto=webp&s=832f181f4831240e7255cf0086e4800cc95e996f",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-25T11:46:24+00:00",
+  "generatedAt": "2026-07-25T12:47:26+00:00",
   "items": [
+    {
+      "id": "meme_52a2ef48fa56",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Casa Grande couple delivers baby in casino parking lot minutes after hospital discharge",
+      "dek": "submitted by /u/seeyalaterdingdong [link] [comments]",
+      "body": "submitted by /u/seeyalaterdingdong [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T12:32:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v676j8/casa_grande_couple_delivers_baby_in_casino/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_52a2ef48fa56",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_36324886eb60",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-25T10:30:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v64r8h/europol_shuts_down_thousands_of_websites_linked/",
       "image": "https://external-preview.redd.it/x62aqz193uC2YmyLyxusdPzVKFdqX1pIzze6R9bdqlc.jpeg?width=640&crop=smart&auto=webp&s=031f3f1b2893dd87acb98c1d069402318112769b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4cd3f310472b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "dek": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "body": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T06:34:40+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
