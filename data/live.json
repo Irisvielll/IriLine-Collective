@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-25T04:27:40+00:00",
+  "generatedAt": "2026-07-25T06:39:51+00:00",
   "items": [
+    {
+      "id": "latest_4cd3f310472b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "dek": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "body": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T06:34:40+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8a47e59434cb",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-25T04:13:41+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5xtni/southern_california_woman_charged_after_14_dogs/",
       "image": "https://external-preview.redd.it/pwVAEfjL8x_YZHBZGlJcWloS4jAWlkpQPNmENgpgL4s.jpeg?width=640&crop=smart&auto=webp&s=78b4f3dbb004a591d84ed4532265cbdba84ccdf8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_09d81b8a70cb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "ACT wants hunters in charge of game animals on conservation land, not DOC",
-      "dek": "submitted by /u/Fun-Helicopter2234 [link] [comments]",
-      "body": "submitted by /u/Fun-Helicopter2234 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T04:07:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5xp11/act_wants_hunters_in_charge_of_game_animals_on/",
-      "image": "https://external-preview.redd.it/Qtg8JuxjkIEqPj2dHxdPR528t4IXuH19jX3Rpxs4diM.jpeg?width=640&crop=smart&auto=webp&s=87a0db761ced6ce82cb333ab6cba1fb6738afa56",
       "imageCredit": "Image via original publisher"
     }
   ]
