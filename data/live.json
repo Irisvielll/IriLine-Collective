@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-25T18:00:39+00:00",
+  "generatedAt": "2026-07-25T19:34:06+00:00",
   "items": [
+    {
+      "id": "meme_d3dc261a75bf",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Canadian politician reads AI chatbot prompt aloud in legislature",
+      "dek": "submitted by /u/HimelTy [link] [comments]",
+      "body": "submitted by /u/HimelTy [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T18:57:39+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6gpoh/canadian_politician_reads_ai_chatbot_prompt_aloud/",
+      "image": "https://external-preview.redd.it/LYvn6i6gEmpjKhHl2GfA_DvA0YSgSrRWFNpfuI2luP4.png?width=320&crop=smart&auto=webp&s=c05e59161f8d2e2f5e8b314a57a7d87a18474fa7",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_65ece58a00f2",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_906417bdd151",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "dek": "submitted by /u/Steap-Edit [link] [comments]",
-      "body": "submitted by /u/Steap-Edit [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T16:28:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6ctxp/vaticans_official_prayer_app_leaks_700k_global/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_906417bdd151",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
