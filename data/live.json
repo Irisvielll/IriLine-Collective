@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-25T16:57:35+00:00",
+  "generatedAt": "2026-07-25T18:00:39+00:00",
   "items": [
+    {
+      "id": "latest_65ece58a00f2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "dek": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "body": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T17:44:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_cb4ec34d33d3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "dek": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "body": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T17:13:40+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_906417bdd151",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6ctxp/vaticans_official_prayer_app_leaks_700k_global/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_906417bdd151",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_2b91be4578af",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "ChatGPT invoked God, told pastor not to worry about his symptoms. Then pulmonary embolism hit.",
-      "dek": "submitted by /u/marimuthu96 [link] [comments]",
-      "body": "submitted by /u/marimuthu96 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T15:04:58+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6arsk/chatgpt_invoked_god_told_pastor_not_to_worry/",
-      "image": "https://external-preview.redd.it/vn-BX3hm3r8RP8EYjirXISWsA9zLEMTk2QjQMtYNJgk.jpeg?width=640&crop=smart&auto=webp&s=dbe8029a3ff4e750193266a5859c193dc6bb0618",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_26b264d206db",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Nursing home booze ban inspires Minnesota woman to fight for her right to party",
-      "dek": "submitted by /u/Icy_Foot4728 [link] [comments]",
-      "body": "submitted by /u/Icy_Foot4728 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T14:39:29+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6a53z/nursing_home_booze_ban_inspires_minnesota_woman/",
-      "image": "https://external-preview.redd.it/9zoEirhVtcCY9zNQ_D_DU0YT_bdk8YifKdM44sDxDTU.jpeg?width=320&crop=smart&auto=webp&s=98a4889e6c49e539377fb4dc0f23a569cc0cd01a",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
