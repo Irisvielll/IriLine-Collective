@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-25T20:31:45+00:00",
+  "generatedAt": "2026-07-25T21:36:17+00:00",
   "items": [
+    {
+      "id": "latest_1e4ce5560c24",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+      "dek": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
+      "body": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T21:33:00+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e7e/live/f35cd210-886f-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_eb29a80edd1f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-25T20:02:08+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6idps/europol_shuts_down_thousands_of_websites_linked/",
       "image": "https://external-preview.redd.it/x62aqz193uC2YmyLyxusdPzVKFdqX1pIzze6R9bdqlc.jpeg?width=640&crop=smart&auto=webp&s=031f3f1b2893dd87acb98c1d069402318112769b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d3dc261a75bf",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Canadian politician reads AI chatbot prompt aloud in legislature",
-      "dek": "submitted by /u/HimelTy [link] [comments]",
-      "body": "submitted by /u/HimelTy [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T18:57:39+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6gpoh/canadian_politician_reads_ai_chatbot_prompt_aloud/",
-      "image": "https://external-preview.redd.it/LYvn6i6gEmpjKhHl2GfA_DvA0YSgSrRWFNpfuI2luP4.png?width=320&crop=smart&auto=webp&s=c05e59161f8d2e2f5e8b314a57a7d87a18474fa7",
       "imageCredit": "Image via original publisher"
     }
   ]
