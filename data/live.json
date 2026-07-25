@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-25T12:47:26+00:00",
+  "generatedAt": "2026-07-25T14:37:22+00:00",
   "items": [
+    {
+      "id": "latest_1e88c3b787c7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Protesters celebrate resignation of India's education minister",
+      "dek": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "body": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T13:44:01+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d6/live/3284c7d0-882b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_faa59a520c0f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "HP admits 30% of PCs still run Windows 10, rejecting Windows 11, and it's why Microsoft caved on support",
+      "dek": "submitted by /u/Quantum-Coconut [link] [comments]",
+      "body": "submitted by /u/Quantum-Coconut [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T13:02:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v67tpt/hp_admits_30_of_pcs_still_run_windows_10/",
+      "image": "https://external-preview.redd.it/bfZ6v0mOK3d9exeiak9JhN56FIar06S5A8sYV0eDNv8.jpeg?width=640&crop=smart&auto=webp&s=2a5712b653fa87998ddbbf1eb6d595aec962766b",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_52a2ef48fa56",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v676j8/casa_grande_couple_delivers_baby_in_casino/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_52a2ef48fa56",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_36324886eb60",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Oops! Tourist tries to book room at Baguio jail",
-      "dek": "submitted by /u/Alexius08 [link] [comments]",
-      "body": "submitted by /u/Alexius08 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T11:21:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v65pun/oops_tourist_tries_to_book_room_at_baguio_jail/",
-      "image": "https://external-preview.redd.it/oQlTmw-ULsIA8VItTxxpywYAMVziq4RMhy6RMvBK2Fg.jpeg?width=640&crop=smart&auto=webp&s=157934228cf25c4bf0edf3895865d79ae3e526aa",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0b70178a889b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Europol shuts down thousands of websites linked to global nihilist network",
-      "dek": "submitted by /u/AeneasKurtz [link] [comments]",
-      "body": "submitted by /u/AeneasKurtz [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T10:30:30+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v64r8h/europol_shuts_down_thousands_of_websites_linked/",
-      "image": "https://external-preview.redd.it/x62aqz193uC2YmyLyxusdPzVKFdqX1pIzze6R9bdqlc.jpeg?width=640&crop=smart&auto=webp&s=031f3f1b2893dd87acb98c1d069402318112769b",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
