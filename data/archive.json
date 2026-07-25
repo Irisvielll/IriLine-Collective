@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1e88c3b787c7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Protesters celebrate resignation of India's education minister",
+      "dek": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "body": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T13:44:01+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d6/live/3284c7d0-882b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_faa59a520c0f",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-17T16:44:59+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uz52do/inside_the_flock_dragnet_how_systemic_errors_led/",
       "image": "https://external-preview.redd.it/7pc0jtI7VIHSPu-CkUJqPjmgDpiimQdd1fqdI6Mmlz8.jpeg?width=640&crop=smart&auto=webp&s=a7e5fd8af626ece36c083791fe9bf1b62c32c465",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_08f23c11c771",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Domino's sued after driver accused of stabbing Houston man during delivery",
-      "dek": "submitted by /u/chrondotcom [link] [comments]",
-      "body": "submitted by /u/chrondotcom [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-17T16:23:56+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uz4hpi/dominos_sued_after_driver_accused_of_stabbing/",
-      "image": "https://external-preview.redd.it/NGXDSAyER16unyo3BqxHmD69LUKbyxUwbs1v5oivJc8.jpeg?width=640&crop=smart&auto=webp&s=0d96f8ed5444c1abb81bcd66fb274667756ed757",
       "imageCredit": "Image via original publisher"
     }
   ]

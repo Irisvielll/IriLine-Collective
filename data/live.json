@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-25T15:46:22+00:00",
+  "generatedAt": "2026-07-25T16:57:35+00:00",
   "items": [
+    {
+      "id": "meme_906417bdd151",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
+      "dek": "submitted by /u/Steap-Edit [link] [comments]",
+      "body": "submitted by /u/Steap-Edit [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-25T16:28:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6ctxp/vaticans_official_prayer_app_leaks_700k_global/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_906417bdd151",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_2b91be4578af",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-25T14:39:29+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6a53z/nursing_home_booze_ban_inspires_minnesota_woman/",
       "image": "https://external-preview.redd.it/9zoEirhVtcCY9zNQ_D_DU0YT_bdk8YifKdM44sDxDTU.jpeg?width=320&crop=smart&auto=webp&s=98a4889e6c49e539377fb4dc0f23a569cc0cd01a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1e88c3b787c7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Protesters celebrate resignation of India's education minister",
-      "dek": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
-      "body": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T13:44:01+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d6/live/3284c7d0-882b-11f1-b8ee-9b3c26ad07bb.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
