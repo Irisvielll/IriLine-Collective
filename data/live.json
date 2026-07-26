@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-26T04:57:01+00:00",
+  "generatedAt": "2026-07-26T07:38:11+00:00",
   "items": [
+    {
+      "id": "latest_2bec49ca650f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "dek": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "body": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T07:21:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d055/live/c69c5bb0-88b5-11f1-b7ca-b5f2b9ce39f1.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5a665a1378d4",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-26T03:37:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6sj33/us_military_intentionally_allowing_some_iranian/",
       "image": "https://external-preview.redd.it/Zk89ZeXqi30vyecU_gXibuteYo9fa9L4YQuJMzO5_18.jpeg?width=640&crop=smart&auto=webp&s=367499b2c1e1dc4df2d51226c96f2205a97f56d1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_02f6dfe5c895",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The notorious Cameroonian prison with its own record label",
-      "dek": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
-      "body": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T00:24:30+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2e/live/8eb036e0-8117-11f1-926f-c90d1bcfbc84.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
