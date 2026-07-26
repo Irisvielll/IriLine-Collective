@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_a99c189c84e6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Swiss town to fine those who don’t wash up dog pee",
+      "dek": "submitted by /u/stankmanly [link] [comments]",
+      "body": "submitted by /u/stankmanly [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T15:49:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v77k52/swiss_town_to_fine_those_who_dont_wash_up_dog_pee/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a99c189c84e6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_5fad3413b1dc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russian central bank cuts GDP growth forecast to zero, expects faster inflation",
+      "dek": "submitted by /u/HaruhiKinoshita [link] [comments]",
+      "body": "submitted by /u/HaruhiKinoshita [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T14:10:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v74ye5/russian_central_bank_cuts_gdp_growth_forecast_to/",
+      "image": "https://external-preview.redd.it/sBoJL76MFuzRMkzpW4Nil4AFARuy4AAdGHVhelr7na0.jpeg?width=640&crop=smart&auto=webp&s=b9b7dc878055d61572d2ff0f86561435e7d893d8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_0e0de8ffe5d5",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-18T03:55:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1uzlagg/israel_pushes_plan_to_use_crocodiles_around/",
       "image": "https://external-preview.redd.it/WtLdpRyhRpEserXaQAEr-hzlg_CWUtglr8WCFp5aZQw.jpeg?width=640&crop=smart&auto=webp&s=2df74dc3e79cc02ec56f28b8ee20399cd8337136",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1ed149e757c7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-      "dek": "Sonam Wangchuk had urged people to join a protest march to parliament on 20 July.",
-      "body": "Sonam Wangchuk had urged people to join a protest march to parliament on 20 July.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-18T03:54:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/ad78f910-825a-11f1-9346-85db1a1d6a02.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bcb2b11990b6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "dek": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-      "body": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-18T03:02:01+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c76/live/bd872fe0-823f-11f1-926f-c90d1bcfbc84.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

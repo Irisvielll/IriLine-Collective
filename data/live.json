@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-26T21:01:43+00:00",
+  "generatedAt": "2026-07-26T22:12:20+00:00",
   "items": [
+    {
+      "id": "latest_d2eb15cbba98",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+      "dek": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
+      "body": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T22:06:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87f/live/b884e260-873c-11f1-a10e-a5d4f08bc20c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_702c5e1d5d90",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "dek": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "body": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T21:30:20+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_2098bb2dd701",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-26T19:21:26+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a99c189c84e6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Swiss town to fine those who don’t wash up dog pee",
-      "dek": "submitted by /u/stankmanly [link] [comments]",
-      "body": "submitted by /u/stankmanly [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T15:49:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v77k52/swiss_town_to_fine_those_who_dont_wash_up_dog_pee/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a99c189c84e6",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_5fad3413b1dc",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russian central bank cuts GDP growth forecast to zero, expects faster inflation",
-      "dek": "submitted by /u/HaruhiKinoshita [link] [comments]",
-      "body": "submitted by /u/HaruhiKinoshita [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T14:10:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v74ye5/russian_central_bank_cuts_gdp_growth_forecast_to/",
-      "image": "https://external-preview.redd.it/sBoJL76MFuzRMkzpW4Nil4AFARuy4AAdGHVhelr7na0.jpeg?width=640&crop=smart&auto=webp&s=b9b7dc878055d61572d2ff0f86561435e7d893d8",
       "imageCredit": "Image via original publisher"
     }
   ]
