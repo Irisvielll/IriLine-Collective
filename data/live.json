@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-26T01:15:55+00:00",
+  "generatedAt": "2026-07-26T04:57:01+00:00",
   "items": [
+    {
+      "id": "latest_5a665a1378d4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
+      "dek": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
+      "body": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T03:58:51+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ef1/live/4956a870-8777-11f1-b430-afa19a42b819.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_2d2f1aba7191",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "U.S. military intentionally allowing some Iranian projectiles through defenses",
+      "dek": "submitted by /u/steevo [link] [comments]",
+      "body": "submitted by /u/steevo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T03:37:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6sj33/us_military_intentionally_allowing_some_iranian/",
+      "image": "https://external-preview.redd.it/Zk89ZeXqi30vyecU_gXibuteYo9fa9L4YQuJMzO5_18.jpeg?width=640&crop=smart&auto=webp&s=367499b2c1e1dc4df2d51226c96f2205a97f56d1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_02f6dfe5c895",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-26T00:24:30+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2e/live/8eb036e0-8117-11f1-926f-c90d1bcfbc84.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9af0bae84c08",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "After backlash, Upstate NY school district pauses plan to add humanoid robot to classroom",
-      "dek": "submitted by /u/FireProStan [link] [comments]",
-      "body": "submitted by /u/FireProStan [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T00:17:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6oerv/after_backlash_upstate_ny_school_district_pauses/",
-      "image": "https://external-preview.redd.it/EKj6jjmlhG_GKJvzv49tkv9dUFHGRaY4j-sruHMAEZo.jpeg?width=640&crop=smart&auto=webp&s=58ef4cdad9e0ce18dca8ea6b0a2a05daafaf2277",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ae17f05d5974",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Would you pay $58.5m to live in this iconic New York building?",
-      "dek": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
-      "body": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T00:05:03+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84dd/live/916b9330-8481-11f1-b4a3-ff90d93e1201.png",
       "imageCredit": "Image via original publisher"
     }
   ]
