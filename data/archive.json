@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_8da729f778be",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russia cuts GDP forecast to Zero",
+      "dek": "submitted by /u/HaruhiKinoshita [link] [comments]",
+      "body": "submitted by /u/HaruhiKinoshita [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T09:22:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6yx8i/russia_cuts_gdp_forecast_to_zero/",
+      "image": "https://external-preview.redd.it/sBoJL76MFuzRMkzpW4Nil4AFARuy4AAdGHVhelr7na0.jpeg?width=640&crop=smart&auto=webp&s=b9b7dc878055d61572d2ff0f86561435e7d893d8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_9289efc8a1b9",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-18T01:48:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d7/live/d2a335d0-821d-11f1-b966-41edf3b346b4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dbbacd259375",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "He made history in Congress - then the Supreme Court changed its mind",
-      "dek": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
-      "body": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-18T01:35:33+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a078/live/e4fc5290-7f87-11f1-a47a-d94293d2b0e4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
