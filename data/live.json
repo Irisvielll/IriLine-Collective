@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-26T15:32:04+00:00",
+  "generatedAt": "2026-07-26T16:35:43+00:00",
   "items": [
+    {
+      "id": "meme_a99c189c84e6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Swiss town to fine those who don’t wash up dog pee",
+      "dek": "submitted by /u/stankmanly [link] [comments]",
+      "body": "submitted by /u/stankmanly [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-26T15:49:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v77k52/swiss_town_to_fine_those_who_dont_wash_up_dog_pee/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a99c189c84e6",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_5fad3413b1dc",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-26T10:58:48+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v70p3u/f1s_bahrain_gp_to_be_held_in_malaysia/",
       "image": "https://external-preview.redd.it/lyENnybZh5qJB4Ir1BhsBGHnUjO90PMfaDyn2kImyqg.jpeg?width=640&crop=smart&auto=webp&s=9c6121f129ce4da540ed84d442cada51d1554184",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bb7e9947d7bf",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "dek": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-      "body": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T10:26:05+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/a8b251b0-88db-11f1-aeef-edf7e578a56d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
