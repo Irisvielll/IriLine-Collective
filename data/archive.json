@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_d2e79310a13e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "dek": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "body": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-29T22:08:29+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_ae102b3b18cb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "School district pauses plan to deploy humanlike AI teacher over manufacturer’s ties to sex bots",
+      "dek": "submitted by /u/bluffcitynews [link] [comments]",
+      "body": "submitted by /u/bluffcitynews [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-29T21:34:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1va9tbp/school_district_pauses_plan_to_deploy_humanlike/",
+      "image": "https://external-preview.redd.it/id9DJ89NgtPaPP1fxV1b7IwKZ18R5uTWFkmRsQRkg4M.jpeg?width=640&crop=smart&auto=webp&s=e84aa5eb8ab6d89a1eed4476ef9e2beceda2d712",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e7ece2d69f47",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-22T16:47:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v3lp0v/smotrich_claims_israel_has_no_interest_in_joining/",
       "image": "https://external-preview.redd.it/cOWwRstOHywd5Kd2d96qSNoej5hGso84p74v9q57rj8.jpeg?width=640&crop=smart&auto=webp&s=053d7226295aa7b43affb4f58f6c65b4b11b0b8f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_42afee97a5ee",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
-      "dek": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
-      "body": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-22T16:34:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f2/live/87f6aa00-26bd-11f1-be99-cb4fcea31c93.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_33b52a65cf4b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Those Huge Truck Stop Signs Have A Lift Inside—And This Poor Guy Got Stuck In One",
-      "dek": "submitted by /u/DonkeyFuel [link] [comments]",
-      "body": "submitted by /u/DonkeyFuel [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-22T16:31:24+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v3l8e6/those_huge_truck_stop_signs_have_a_lift_insideand/",
-      "image": "https://external-preview.redd.it/AlhnWIqcs7e6FdnAB6_iQA2jFL0w1RQkBaxcpA4Yf9w.jpeg?width=640&crop=smart&auto=webp&s=8b13471112d55a2875d2bb74ada7f75a70cc17a4",
       "imageCredit": "Image via original publisher"
     }
   ]
