@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_9619d77d5480",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Pentagon Photo Shows AI Agent Being Asked to Help ‘Create a War’",
+      "dek": "submitted by /u/return2ozma [link] [comments]",
+      "body": "submitted by /u/return2ozma [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-30T00:45:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vaeigc/pentagon_photo_shows_ai_agent_being_asked_to_help/",
+      "image": "https://external-preview.redd.it/zF-4cHtMK2CTnR8rTjessLPWoAUdDVmJuYZ4ghlY62o.png?width=640&crop=smart&auto=webp&s=f3aae6cffc3d2a318694a22b3acd6ce04cab6955",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_9293fcbb40f7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "dek": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "body": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-30T00:41:28+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_def2e0181062",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Japanese mall explodes after magnitude 6.8 earthquake",
+      "dek": "Search teams are still looking for survivors in the collapsed Aeon shopping centre.",
+      "body": "Search teams are still looking for survivors in the collapsed Aeon shopping centre.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-29T23:29:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1226/live/99b99d30-8ba1-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d36f2c02f386",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-07-22T22:13:24+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f49c/live/4294bd70-85cd-11f1-85bd-254f6de05e48.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b7020b147393",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
-      "dek": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
-      "body": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-22T22:04:07+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3d8/live/ebe69aa0-85a6-11f1-a300-4537eea2be58.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e27be145592c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "dek": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
-      "body": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-22T22:03:43+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5395/live/0daae1a0-840d-11f1-b3ec-1d7f0502d196.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a020267ee3ab",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Fire kills 10 members of same family in Peru, police say",
-      "dek": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.",
-      "body": "Authorities are investigating the cause of the blaze in Lima as local media report it may have been arson.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-22T20:56:26+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e44/live/6c7846a0-860b-11f1-8577-d306e957ffb1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
