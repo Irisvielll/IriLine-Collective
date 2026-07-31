@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_435e0bad2ec0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Penticton gallery faces backlash after donated art ends up at Value Village",
+      "dek": "submitted by /u/Kyzzz [link] [comments]",
+      "body": "submitted by /u/Kyzzz [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-31T17:07:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbwvwg/penticton_gallery_faces_backlash_after_donated/",
+      "image": "https://external-preview.redd.it/3s62KgNXmhzZv9lpf3JllQ81C9n5TOxMCxqIjttv1Bw.jpeg?width=320&crop=smart&auto=webp&s=d34870eb4ec357070550557adaf7ee1a73123747",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_34de844dc3bb",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-24T20:44:16+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5ngto/pentagon_quietly_revises_death_count_of_us_troops/",
       "image": "https://external-preview.redd.it/lIqXvG0LEbp59eeuTxXRVcmu6tgtlQdRcBZXnknp4jc.jpeg?width=640&crop=smart&auto=webp&s=f33ce7e34cfdb0789a2a11f101b7ffb68fc74602",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dd41179d8db2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-      "dek": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
-      "body": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-24T20:37:21+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bf/live/312e9270-8782-11f1-9428-e17279226993.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
