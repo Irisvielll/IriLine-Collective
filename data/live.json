@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-31T16:11:53+00:00",
+  "generatedAt": "2026-07-31T17:53:01+00:00",
   "items": [
+    {
+      "id": "meme_435e0bad2ec0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Penticton gallery faces backlash after donated art ends up at Value Village",
+      "dek": "submitted by /u/Kyzzz [link] [comments]",
+      "body": "submitted by /u/Kyzzz [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-31T17:07:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbwvwg/penticton_gallery_faces_backlash_after_donated/",
+      "image": "https://external-preview.redd.it/3s62KgNXmhzZv9lpf3JllQ81C9n5TOxMCxqIjttv1Bw.jpeg?width=320&crop=smart&auto=webp&s=d34870eb4ec357070550557adaf7ee1a73123747",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_34de844dc3bb",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-31T15:56:39+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbuxen/researchers_start_onlyfans_for_marmots_after/",
       "image": "https://external-preview.redd.it/hVDaHOTSqwlbQkJC2JKjOKcMlQT_ysAxMemPzLFkZO4.jpeg?width=640&crop=smart&auto=webp&s=990eb2afdf8acedd7659e6523f239321e6418126",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ec62d291055f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "dek": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "body": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-31T15:18:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d0/live/ceb09d00-8ce0-11f1-a65d-4f54e31f4a67.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

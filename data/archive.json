@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ec62d291055f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "dek": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "body": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-31T15:18:31+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d0/live/ceb09d00-8ce0-11f1-a65d-4f54e31f4a67.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e00521dce622",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-24T20:10:49+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v5mjox/white_house_wants_veterans_to_replace_immigrant/",
       "image": "https://external-preview.redd.it/DI-Yrw6b9JxGGHivvWEPkXSG67aqS9hZ8X0FgTkeMh8.jpeg?width=640&crop=smart&auto=webp&s=6d921d44cdfbcff67e3fce78d1c0df6a6e3904b7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b94db87565a4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "dek": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "body": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-24T18:57:39+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
