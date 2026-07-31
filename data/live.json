@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-07-30T22:46:22+00:00",
+  "generatedAt": "2026-07-31T00:01:25+00:00",
   "items": [
+    {
+      "id": "latest_2c84d1a306e8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "dek": "Israel and Hamas have yet to comment on the announcement.",
+      "body": "Israel and Hamas have yet to comment on the announcement.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-30T23:30:41+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d8e/live/9614c1f0-8c6e-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_d80eeb8e5fee",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A director of the far right “Dominion Society of Canada” group resigns after online resurfacing of his past 'LGBTQ+' content",
+      "dek": "submitted by /u/Mean_Yak5873 [link] [comments]",
+      "body": "submitted by /u/Mean_Yak5873 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-30T23:09:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vb9e54/a_director_of_the_far_right_dominion_society_of/",
+      "image": "https://external-preview.redd.it/2ndkr1dygWz06xU0-N57EhSrSZXAEHqwdIGQL6TKKdw.jpeg?width=640&crop=smart&auto=webp&s=a3786539e4ea97950a630026c6fa7b501fa87451",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2673d12c9c23",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-07-30T22:35:59+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vb8lbk/haley_stevens_says_46m_in_aipac_funding_should/",
       "image": "https://external-preview.redd.it/xdQJCgLcUVYi5dWrBDZ1v7uIboCsfUf4dV42Fm-_rNw.jpeg?width=640&crop=smart&auto=webp&s=7c6c5ba4ef806f649276b6522609aee2512fa578",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9f76ff455f07",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "All 100,000+ signatures on Arkansas ballot measure rights petition rejected",
-      "dek": "submitted by /u/After-Professional-8 [link] [comments]",
-      "body": "submitted by /u/After-Professional-8 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-30T22:07:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vb7v8p/all_100000_signatures_on_arkansas_ballot_measure/",
-      "image": "https://external-preview.redd.it/OOz7t-V_fpBetBw2DDOCtif12i9FRTDQAZv3QOc6EfY.png?width=640&crop=smart&auto=webp&s=e7d48b847763b0f3386cacb5f2f313f33d5369b3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b1c5cab8fb79",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Netflix Sued For $105 Million After Hard Drive of Unreleased Nicolas Cage Movie Was Stolen From Its Office",
-      "dek": "submitted by /u/Gorotheninja [link] [comments]",
-      "body": "submitted by /u/Gorotheninja [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-30T20:52:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vb5x4a/netflix_sued_for_105_million_after_hard_drive_of/",
-      "image": "https://external-preview.redd.it/iZr28MF06JNIPyPmo6i2c5WfIiqvnhONZOdmQ77yvSQ.jpeg?width=640&crop=smart&auto=webp&s=4841aa36b3169ff37664d4ae0e39061df5508d92",
       "imageCredit": "Image via original publisher"
     }
   ]
