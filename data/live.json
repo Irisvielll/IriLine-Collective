@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-07-31T19:25:00+00:00",
+  "generatedAt": "2026-07-31T20:41:27+00:00",
   "items": [
+    {
+      "id": "meme_b82c78738a0a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "dek": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "body": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-07-31T19:37:53+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vc0z9l/google_pauses_ai_satellite_images_after_fears_of/",
+      "image": "https://external-preview.redd.it/Dky_F0Hr3SecVvYUTz6V7Wuop5g0l33va2W3b0uvuJQ.png?width=640&crop=smart&auto=webp&s=7aaaf4545a567ed05ca0619ce6415ebc7965b7fd",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5ea84c8a064f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-07-31T17:07:14+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbwvwg/penticton_gallery_faces_backlash_after_donated/",
       "image": "https://external-preview.redd.it/3s62KgNXmhzZv9lpf3JllQ81C9n5TOxMCxqIjttv1Bw.jpeg?width=320&crop=smart&auto=webp&s=d34870eb4ec357070550557adaf7ee1a73123747",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_34de844dc3bb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What's in the Gaza peace deal roadmap?",
-      "dek": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-      "body": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-31T16:00:56+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20cd/live/e63e0bc0-8cf8-11f1-adaf-fb8940306590.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
