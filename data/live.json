@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-01T15:44:19+00:00",
+  "generatedAt": "2026-08-01T16:39:43+00:00",
   "items": [
+    {
+      "id": "latest_bddd599ff97b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "dek": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "body": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T16:16:16+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fcf/live/7b087a70-8dbb-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_53f885a72b8d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-01T14:30:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vcowlv/nude_man_claiming_to_be_jesus_crashes_car_into/",
       "image": "https://external-preview.redd.it/R46fU_sUeM8elPRHwQOQYj4aHwBk2fgPuIkZuqJUA60.jpeg?width=640&crop=smart&auto=webp&s=c69462d175cf6a1974ee72dc3347e82f682615b6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a95df0fd7ecc",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Giants suspend Harrison Bader's pay after he reportedly crashed scooter into fire truck",
-      "dek": "submitted by /u/irishgoodbyesss [link] [comments]",
-      "body": "submitted by /u/irishgoodbyesss [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T13:26:03+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vcneje/giants_suspend_harrison_baders_pay_after_he/",
-      "image": "https://external-preview.redd.it/1m6N_xr366S9EI4x5FzomPdEypxC4QdPMBXrbMlXNrI.png?width=640&crop=smart&auto=webp&s=d1699c3ec7c2545f3abc867ac628fff3edc23cdf",
       "imageCredit": "Image via original publisher"
     }
   ]

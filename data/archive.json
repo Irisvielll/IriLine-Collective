@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_a95df0fd7ecc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Giants suspend Harrison Bader's pay after he reportedly crashed scooter into fire truck",
+      "dek": "submitted by /u/irishgoodbyesss [link] [comments]",
+      "body": "submitted by /u/irishgoodbyesss [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T13:26:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vcneje/giants_suspend_harrison_baders_pay_after_he/",
+      "image": "https://external-preview.redd.it/1m6N_xr366S9EI4x5FzomPdEypxC4QdPMBXrbMlXNrI.png?width=640&crop=smart&auto=webp&s=d1699c3ec7c2545f3abc867ac628fff3edc23cdf",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2402b417b76f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-25T17:44:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cb4ec34d33d3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "dek": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "body": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T17:13:40+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
