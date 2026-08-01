@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_bddd599ff97b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "dek": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "body": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T16:16:16+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fcf/live/7b087a70-8dbb-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_53f885a72b8d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-25T20:12:21+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6ims6/sex_work_or_starve_aid_workers_in_nepal_left/",
       "image": "https://external-preview.redd.it/M6CqTKiy1TL_iR62vzax9Oeazxc2ctfBbjSaaj3DfkE.jpeg?width=640&crop=smart&auto=webp&s=19f79a04915107253098d5220111f39141e66ebe",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c11e6bf04f63",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Europol shuts down thousands of websites linked to global nihilist network",
-      "dek": "submitted by /u/StainedInZurich [link] [comments]",
-      "body": "submitted by /u/StainedInZurich [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T20:02:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v6idps/europol_shuts_down_thousands_of_websites_linked/",
-      "image": "https://external-preview.redd.it/x62aqz193uC2YmyLyxusdPzVKFdqX1pIzze6R9bdqlc.jpeg?width=640&crop=smart&auto=webp&s=031f3f1b2893dd87acb98c1d069402318112769b",
       "imageCredit": "Image via original publisher"
     }
   ]
