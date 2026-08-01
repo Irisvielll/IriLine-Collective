@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_937d3ed96e20",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "dek": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "body": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T05:01:56+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678b/live/ea29f390-8c56-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_a48bdd93fd22",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "New Jersey officers dress up as shrubs to catch distracted drivers on their phones",
+      "dek": "submitted by /u/Im_only_here_to_meme [link] [comments]",
+      "body": "submitted by /u/Im_only_here_to_meme [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T04:11:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vccyum/new_jersey_officers_dress_up_as_shrubs_to_catch/",
+      "image": "https://external-preview.redd.it/4WN92AGV_AKRRzajksQTDtWGMxiXdVA0dieNJ-uTLDE.jpeg?width=640&crop=smart&auto=webp&s=421f7a63c88b662c6296ad466812ec6d5ed476f9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_1ff5373d60b0",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-25T13:02:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v67tpt/hp_admits_30_of_pcs_still_run_windows_10/",
       "image": "https://external-preview.redd.it/bfZ6v0mOK3d9exeiak9JhN56FIar06S5A8sYV0eDNv8.jpeg?width=640&crop=smart&auto=webp&s=2a5712b653fa87998ddbbf1eb6d595aec962766b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_52a2ef48fa56",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Casa Grande couple delivers baby in casino parking lot minutes after hospital discharge",
-      "dek": "submitted by /u/seeyalaterdingdong [link] [comments]",
-      "body": "submitted by /u/seeyalaterdingdong [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T12:32:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v676j8/casa_grande_couple_delivers_baby_in_casino/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_52a2ef48fa56",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_36324886eb60",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Oops! Tourist tries to book room at Baguio jail",
-      "dek": "submitted by /u/Alexius08 [link] [comments]",
-      "body": "submitted by /u/Alexius08 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T11:21:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v65pun/oops_tourist_tries_to_book_room_at_baguio_jail/",
-      "image": "https://external-preview.redd.it/oQlTmw-ULsIA8VItTxxpywYAMVziq4RMhy6RMvBK2Fg.jpeg?width=640&crop=smart&auto=webp&s=157934228cf25c4bf0edf3895865d79ae3e526aa",
       "imageCredit": "Image via original publisher"
     }
   ]
