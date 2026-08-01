@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-01T11:46:50+00:00",
+  "generatedAt": "2026-08-01T13:20:59+00:00",
   "items": [
+    {
+      "id": "latest_2402b417b76f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "dek": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "body": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T13:02:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d7525e5ada3c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-01T10:11:39+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ced530318b9b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Uefa has 'lost confidence' in Fifa leadership",
-      "dek": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
-      "body": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T09:51:05+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
