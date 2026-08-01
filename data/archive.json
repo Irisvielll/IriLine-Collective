@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8dcf962fed28",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "dek": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "body": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T20:09:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_6d89d23b7a13",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-26T00:05:03+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84dd/live/916b9330-8481-11f1-b4a3-ff90d93e1201.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_65e32bfc4ea7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What Love Island tells us about the changing face of dating",
-      "dek": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
-      "body": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-25T23:31:49+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6805/live/5b30d6d0-86c6-11f1-8c61-e72dd81a46e3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-01T21:01:41+00:00",
+  "generatedAt": "2026-08-01T22:10:42+00:00",
   "items": [
+    {
+      "id": "meme_c143cb5bb5e0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Japanese developer makes “apology game” in which you can spank his butt to make up for delayed release of Spanking Exorcist",
+      "dek": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "body": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T21:34:15+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vczfws/japanese_developer_makes_apology_game_in_which/",
+      "image": "https://external-preview.redd.it/0b_WX4uzigI8m1tTQIl5zLv444xVWqbZtfxKdmayw88.jpeg?width=640&crop=smart&auto=webp&s=25b2fb99893497472052e367ffca745819f4275c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_947baee6e271",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-01T20:43:34+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vcy7j5/tarona_taafaki_boxer_lands_tuvalus_first/",
       "image": "https://external-preview.redd.it/dvY6chuRyrpfne849Cx7RAxpKr5vPFAxMAwgWnHbqpU.jpeg?width=640&crop=smart&auto=webp&s=c65e38f5d2f0f94a7670c7f71236c497c23d019f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8dcf962fed28",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "dek": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "body": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T20:09:27+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
