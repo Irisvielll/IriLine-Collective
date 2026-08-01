@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-01T14:44:28+00:00",
+  "generatedAt": "2026-08-01T15:44:19+00:00",
   "items": [
+    {
+      "id": "meme_53f885a72b8d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "More than 48,000 migrants return to Morocco after crossing into Ceuta",
+      "dek": "submitted by /u/Agitated_Style7700 [link] [comments]",
+      "body": "submitted by /u/Agitated_Style7700 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T15:01:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vcpn6h/more_than_48000_migrants_return_to_morocco_after/",
+      "image": "https://external-preview.redd.it/xZ7cc7ig9X_Nv4jArE1H8L-dlfjkWVpbifYG6trRuBI.jpeg?width=640&crop=smart&auto=webp&s=8c8f62b518be9e54957c766f580ed8873340a7fa",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3adc585307d8",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-01T13:26:03+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vcneje/giants_suspend_harrison_baders_pay_after_he/",
       "image": "https://external-preview.redd.it/1m6N_xr366S9EI4x5FzomPdEypxC4QdPMBXrbMlXNrI.png?width=640&crop=smart&auto=webp&s=d1699c3ec7c2545f3abc867ac628fff3edc23cdf",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2402b417b76f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "dek": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "body": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T13:02:04+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
