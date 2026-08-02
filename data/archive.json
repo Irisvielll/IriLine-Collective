@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8c29c5363832",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Washington state wildfires trigger evacuations",
+      "dek": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+      "body": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T10:20:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fbc/live/ec11f440-8e55-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_73e67b2ce034",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-27T01:04:16+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v7lsyb/orange_county_police_search_for_spray_paint/",
       "image": "https://external-preview.redd.it/CHBJz8HwpPG6kbTWQWOktNSEJKkinWjruuLflbrg7zQ.jpeg?width=640&crop=smart&auto=webp&s=27452dc1c0ea4b9a9d830a451113e237aabfc70c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c4e62024fac6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "dek": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-      "body": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-27T00:27:58+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
