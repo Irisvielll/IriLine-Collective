@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-02T06:32:58+00:00",
+  "generatedAt": "2026-08-02T08:58:58+00:00",
   "items": [
+    {
+      "id": "meme_73e67b2ce034",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "McDonald’s pulls corn burger in South Korea after customers report finding stones",
+      "dek": "submitted by /u/Odd-Carpenter-4390 [link] [comments]",
+      "body": "submitted by /u/Odd-Carpenter-4390 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T08:42:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vdcs73/mcdonalds_pulls_corn_burger_in_south_korea_after/",
+      "image": "https://external-preview.redd.it/lRZ_VQ9VQlIQNksfAjXElqXa5Pupo_UmXH42TNiMEuU.jpeg?width=640&crop=smart&auto=webp&s=8de2afd77f66a7754f72b1bc790c99a6d5ab51ae",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f189c87d7484",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-02T01:28:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vd4mew/she_was_set_to_get_married_the_night_before_she/",
       "image": "https://external-preview.redd.it/fjFPL_ssl_yVGjky6cTuDPBwl6X5wJrfHDXr0BHNgTY.jpeg?width=640&crop=smart&auto=webp&s=d573e10c33d02f2aa2030899f7f4aed6394f485d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_be8ccf657c9d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "dek": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "body": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T00:55:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

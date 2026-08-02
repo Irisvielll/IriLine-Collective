@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_be8ccf657c9d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "dek": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "body": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T00:55:16+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_01a3756bab17",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -118,6 +133,21 @@
       "publishedAt": "2026-08-01T22:57:55+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/c9f00e60-8df6-11f1-902e-fd8182e85c3f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d515e81635bd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "dek": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "body": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-01T22:23:20+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2098bb2dd701",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Berlin Pride attack suspect shot and killed during police operation",
-      "dek": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-      "body": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T19:21:26+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece8/live/8c522e20-8924-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a99c189c84e6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Swiss town to fine those who don’t wash up dog pee",
-      "dek": "submitted by /u/stankmanly [link] [comments]",
-      "body": "submitted by /u/stankmanly [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T15:49:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v77k52/swiss_town_to_fine_those_who_dont_wash_up_dog_pee/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a99c189c84e6",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
