@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-02T16:12:19+00:00",
+  "generatedAt": "2026-08-02T17:16:52+00:00",
   "items": [
+    {
+      "id": "latest_e6787591c23a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At the scene of deadly Moscow bomb blast",
+      "dek": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "body": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T16:52:35+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bd/live/9c600170-8e88-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2aa3d654b3cd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "dek": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+      "body": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T16:37:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_013842aef050",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-02T15:48:00+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0fa80837ef64",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Helicopters fighting Greece wildfires collide in mid-air",
-      "dek": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
-      "body": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T15:21:56+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282d/live/2cbdf280-8e80-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8cc100f996af",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "dek": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-      "body": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T14:46:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
