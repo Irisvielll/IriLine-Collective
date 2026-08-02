@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-02T15:01:39+00:00",
+  "generatedAt": "2026-08-02T16:12:19+00:00",
   "items": [
+    {
+      "id": "latest_013842aef050",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "dek": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "body": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T15:48:00+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_0fa80837ef64",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Helicopters fighting Greece wildfires collide in mid-air",
+      "dek": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+      "body": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T15:21:56+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282d/live/2cbdf280-8e80-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8cc100f996af",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-02T14:46:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e415eb7f8d5a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Google Removes New Earth AI Tool A Day After Users Create Fake Disasters",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T14:29:28+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vdjjds/google_removes_new_earth_ai_tool_a_day_after/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e415eb7f8d5a",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_e19f538fa598",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Bihar farmer casually walks into police station with a crocodile on his shoulder",
-      "dek": "submitted by /u/find_a_rare_uuid [link] [comments]",
-      "body": "submitted by /u/find_a_rare_uuid [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T13:30:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vdi5i9/bihar_farmer_casually_walks_into_police_station/",
-      "image": "https://external-preview.redd.it/lORtfi66zjNCF5kDyl47ugT-_SuZyqYZ4djV5vP-TLg.jpeg?width=640&crop=smart&auto=webp&s=8f4ab11821dfe0a700fe8337bcf13b4203692da7",
       "imageCredit": "Image via original publisher"
     }
   ]
