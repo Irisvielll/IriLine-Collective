@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-02T20:55:19+00:00",
+  "generatedAt": "2026-08-02T21:56:32+00:00",
   "items": [
+    {
+      "id": "meme_b854d3db0ee6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Crews focus on protecting people, property as ‘catastrophic’ Widemouth 2 Fire grows",
+      "dek": "submitted by /u/pizzacrys [link] [comments]",
+      "body": "submitted by /u/pizzacrys [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T21:16:08+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vdtu8d/crews_focus_on_protecting_people_property_as/",
+      "image": "https://external-preview.redd.it/z61_oav4tfTOhYoigD5-mDOixb8bmul5lBwVmR0Nb3I.jpeg?width=640&crop=smart&auto=webp&s=4310d6c88e07a4f002673a177a70495e1ddeaabd",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e6787591c23a",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-02T16:37:02+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_013842aef050",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "dek": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-      "body": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T15:48:00+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png",
       "imageCredit": "Image via original publisher"
     }
   ]

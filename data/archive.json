@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_013842aef050",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "dek": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "body": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T15:48:00+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50c/live/991bec40-8e83-11f1-9469-c37ab1100afc.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_0fa80837ef64",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-27T07:37:11+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609a/live/478992b0-482a-11f0-b3bf-c9f452e3175b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e60370826632",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australian court upholds racial discrimination ruling against Pauline Hanson",
-      "dek": "One Nation leader loses bid to overturn ruling that she racially discriminated against Senator Mehreen Faruqi.",
-      "body": "One Nation leader loses bid to overturn ruling that she racially discriminated against Senator Mehreen Faruqi.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-27T06:14:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda5/live/d261ea40-8974-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
