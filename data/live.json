@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-02T13:54:21+00:00",
+  "generatedAt": "2026-08-02T15:01:39+00:00",
   "items": [
+    {
+      "id": "latest_8cc100f996af",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "dek": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "body": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T14:46:16+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/aa736060-8e72-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_e415eb7f8d5a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Google Removes New Earth AI Tool A Day After Users Create Fake Disasters",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T14:29:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vdjjds/google_removes_new_earth_ai_tool_a_day_after/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e415eb7f8d5a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_e19f538fa598",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-02T13:30:00+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vdi5i9/bihar_farmer_casually_walks_into_police_station/",
       "image": "https://external-preview.redd.it/lORtfi66zjNCF5kDyl47ugT-_SuZyqYZ4djV5vP-TLg.jpeg?width=640&crop=smart&auto=webp&s=8f4ab11821dfe0a700fe8337bcf13b4203692da7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_68e3e9e8292a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "dek": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
-      "body": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T10:59:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0568/live/171e2720-8e61-11f1-b8ee-9b3c26ad07bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9cb28f9ebed5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "dek": "The vessel with 271 people on board caught fire off Madura island.",
-      "body": "The vessel with 271 people on board caught fire off Madura island.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T10:35:11+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c2/live/1f26b850-8e5d-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
