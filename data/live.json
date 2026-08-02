@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-02T08:58:58+00:00",
+  "generatedAt": "2026-08-02T10:45:36+00:00",
   "items": [
+    {
+      "id": "latest_9cb28f9ebed5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "dek": "The vessel with 271 people on board caught fire off Madura island.",
+      "body": "The vessel with 271 people on board caught fire off Madura island.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T10:35:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c2/live/1f26b850-8e5d-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_73e67b2ce034",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-02T03:05:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d623a9a84641",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "She was set to get married. The night before, she used a tampon to set fire to the Utah church, police say.",
-      "dek": "submitted by /u/Steap-Edit [link] [comments]",
-      "body": "submitted by /u/Steap-Edit [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T01:28:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vd4mew/she_was_set_to_get_married_the_night_before_she/",
-      "image": "https://external-preview.redd.it/fjFPL_ssl_yVGjky6cTuDPBwl6X5wJrfHDXr0BHNgTY.jpeg?width=640&crop=smart&auto=webp&s=d573e10c33d02f2aa2030899f7f4aed6394f485d",
       "imageCredit": "Image via original publisher"
     }
   ]

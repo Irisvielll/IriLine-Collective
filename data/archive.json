@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_d623a9a84641",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "She was set to get married. The night before, she used a tampon to set fire to the Utah church, police say.",
+      "dek": "submitted by /u/Steap-Edit [link] [comments]",
+      "body": "submitted by /u/Steap-Edit [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T01:28:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vd4mew/she_was_set_to_get_married_the_night_before_she/",
+      "image": "https://external-preview.redd.it/fjFPL_ssl_yVGjky6cTuDPBwl6X5wJrfHDXr0BHNgTY.jpeg?width=640&crop=smart&auto=webp&s=d573e10c33d02f2aa2030899f7f4aed6394f485d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_be8ccf657c9d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-26T22:06:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87f/live/b884e260-873c-11f1-a10e-a5d4f08bc20c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_702c5e1d5d90",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-      "dek": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-      "body": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-26T21:30:20+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22a2/live/0e818a60-8922-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
