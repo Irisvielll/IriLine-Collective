@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_e6787591c23a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At the scene of deadly Moscow bomb blast",
+      "dek": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "body": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T16:52:35+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96bd/live/9c600170-8e88-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2aa3d654b3cd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "dek": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+      "body": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-02T16:37:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_013842aef050",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-27T09:21:10+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863a/live/605628b0-8034-11f1-bee8-53ce494e1abc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_155b0d1b6b58",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
-      "dek": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the Worl",
-      "body": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-27T08:07:28+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/28678820-8987-11f1-88b2-635548373e92.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f48cbac42cdc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
-      "dek": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
-      "body": "The rapper takes the witness stand at his trial in Australia where he denies raping a fan in a hotel room.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-27T07:37:11+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609a/live/478992b0-482a-11f0-b3bf-c9f452e3175b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
