@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_15342dce030d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "dek": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+      "body": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-03T10:29:24+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_90da53d4f935",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "dek": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "body": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-03T08:40:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c9/live/2e88e180-8f0f-11f1-be24-a9d46d021d98.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8e661acfedc7",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-27T14:04:01+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fac7/live/ad429a40-89c2-11f1-965a-d70ca8fc6275.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6cf3c75c4b09",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "dek": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
-      "body": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-27T13:31:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eab/live/66b0c1c0-89b2-11f1-b8ee-9b3c26ad07bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_15301df3cbb4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-      "dek": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-      "body": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-27T12:33:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce88/live/8415f670-89af-11f1-9c0c-33faa7b3d86d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

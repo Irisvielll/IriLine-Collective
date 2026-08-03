@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-03T10:54:23+00:00",
+  "generatedAt": "2026-08-03T13:40:41+00:00",
   "items": [
+    {
+      "id": "meme_0c830b132be8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bra Boosters Are Causing a Clothing Controversy at the Tour de France Femmes",
+      "dek": "submitted by /u/rocket_face [link] [comments]",
+      "body": "submitted by /u/rocket_face [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-03T13:13:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ved37v/bra_boosters_are_causing_a_clothing_controversy/",
+      "image": "https://external-preview.redd.it/jyzn7BjJBNEqDE79WUMoAN6s18Geb9-jnRe-PrfJ-Ik.jpeg?width=640&crop=smart&auto=webp&s=a5e4eeb3f2629cba00633f25b1838ec9fb022323",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_c201489b8cd9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "dek": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "body": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-03T12:20:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad4/live/431ecf40-8f34-11f1-b8ee-9b3c26ad07bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5eef6dea9247",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-03T10:46:34+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e0/live/001f8270-8f1b-11f1-b8ee-9b3c26ad07bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_15342dce030d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Sudan army drone strike on court session kills 35, rights group says",
-      "dek": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-      "body": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T10:29:24+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_90da53d4f935",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "dek": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-      "body": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T08:40:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c9/live/2e88e180-8f0f-11f1-be24-a9d46d021d98.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
