@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-04T20:24:33+00:00",
+  "generatedAt": "2026-08-04T21:48:30+00:00",
   "items": [
+    {
+      "id": "latest_0d03df74e8a3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "dek": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
+      "body": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-04T21:24:50+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1923/live/c9a0bc10-904a-11f1-bac4-9bcd48c14c6e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_f5b5fb675e24",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Indiana woman wrestles escape artist alligator picked up by police",
+      "dek": "submitted by /u/UltimateLionsFan [link] [comments]",
+      "body": "submitted by /u/UltimateLionsFan [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-04T21:24:33+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vfnilw/indiana_woman_wrestles_escape_artist_alligator/",
+      "image": "https://external-preview.redd.it/qlq963l82AXOnfYe87IXCbgbqyBNCCdedG0QyvEGiM4.jpeg?width=640&crop=smart&auto=webp&s=9442f31f36dc577d18a63a2ff8350f1e6c812cc7",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3ffc8f215405",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-04T20:00:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vfl8ww/rfk_jr_to_host_cooking_show_critics_accuse_him_of/",
       "image": "https://external-preview.redd.it/LG85z8hyuNUDh38BTM6Kxwp0Jt8AaoCPEzLIsAT0kEU.jpeg?width=640&crop=smart&auto=webp&s=1f00a24bf572bfa39e58bd8d2fe29353f9714b35",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_60c1d7c22de4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Arrests in Egypt after people allegedly impersonate judges",
-      "dek": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
-      "body": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T19:25:00+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b4c/live/9c6ba2a0-9027-11f1-b783-f784376ffc11.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bbcb0836a134",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "dek": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
-      "body": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T19:07:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bb4/live/1636a630-9036-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

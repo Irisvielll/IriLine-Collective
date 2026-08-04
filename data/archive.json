@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_60c1d7c22de4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Arrests in Egypt after people allegedly impersonate judges",
+      "dek": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+      "body": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-04T19:25:00+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b4c/live/9c6ba2a0-9027-11f1-b783-f784376ffc11.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_bbcb0836a134",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
+      "dek": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
+      "body": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-04T19:07:19+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bb4/live/1636a630-9036-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c40bce0191d8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-28T18:22:11+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v96ot6/schools_install_pepper_spray_drones_to_stop/",
       "image": "https://external-preview.redd.it/RA_2DOAMcpUlhHG9NNtTbDjEiBQlXXeLtseZs_t8CTQ.jpeg?width=640&crop=smart&auto=webp&s=7731c14fcd98b27d1c57eb795142e6eb95d89bc3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6431850cff57",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "dek": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-      "body": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-28T18:19:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34f/live/d115eaf0-8a74-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_fee49bc7e048",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "California's largest AI data center is suing for access to 287 million gallons of Colorado River water a year",
-      "dek": "submitted by /u/maslbasl [link] [comments]",
-      "body": "submitted by /u/maslbasl [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-28T18:09:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1v96bv4/californias_largest_ai_data_center_is_suing_for/",
-      "image": "https://external-preview.redd.it/L9_0huHNWky7nDbrGholpQfOdimxkNSy5mrgjTrGPnQ.jpeg?width=640&crop=smart&auto=webp&s=2cce6193d7c7137c4c08f2663f44e461cc0f212c",
       "imageCredit": "Image via original publisher"
     }
   ]
