@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_722799217792",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "dek": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+      "body": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-05T00:09:18+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661a/live/99befec0-905f-11f1-b342-759a22dbd459.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_f663f57a0b90",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-29T05:00:07+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad5c/live/320f9000-8b19-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_61f1ebc9a8dd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran and US trade strikes, shattering brief lull in fighting",
-      "dek": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
-      "body": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-29T02:47:28+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

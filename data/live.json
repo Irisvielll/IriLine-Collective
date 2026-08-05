@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-05T03:37:33+00:00",
+  "generatedAt": "2026-08-05T06:11:35+00:00",
   "items": [
+    {
+      "id": "meme_97ca8f98be38",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Capybaras keep their chill while crashing Brazilian legislature",
+      "dek": "submitted by /u/wds1 [link] [comments]",
+      "body": "submitted by /u/wds1 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-05T03:43:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vfw77c/capybaras_keep_their_chill_while_crashing/",
+      "image": "https://external-preview.redd.it/NOwp2VFcLqwulE_2Z_8F8MgimEXggVAsyNexptOVx5Y.jpeg?width=640&crop=smart&auto=webp&s=f533a59ee57d0f2c374dd15df493785ef904ce35",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d7cb0db074a7",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-05T00:55:14+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vfsk5s/man_arrested_after_dressing_up_in_grim_reaper/",
       "image": "https://external-preview.redd.it/Asr18gO3iw5XMzN1y6_i346i5h397wVsMxq8inVd-2E.jpeg?width=640&crop=smart&auto=webp&s=bed8ee7040f1439dd5a95d5c050e526238ffd6f3",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_722799217792",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "dek": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-      "body": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-05T00:09:18+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661a/live/99befec0-905f-11f1-b342-759a22dbd459.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
