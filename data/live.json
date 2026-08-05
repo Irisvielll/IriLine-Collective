@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-05T00:14:22+00:00",
+  "generatedAt": "2026-08-05T03:37:33+00:00",
   "items": [
+    {
+      "id": "latest_d7cb0db074a7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+      "dek": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "body": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-05T02:55:58+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d257/live/37db70d0-9069-11f1-8039-f181d4773c62.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_f3551a05fa10",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man arrested after dressing up in 'Grim Reaper' costume on hospital roof and staring at patients",
+      "dek": "submitted by /u/NolanTheNotorious [link] [comments]",
+      "body": "submitted by /u/NolanTheNotorious [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-05T00:55:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vfsk5s/man_arrested_after_dressing_up_in_grim_reaper/",
+      "image": "https://external-preview.redd.it/Asr18gO3iw5XMzN1y6_i346i5h397wVsMxq8inVd-2E.jpeg?width=640&crop=smart&auto=webp&s=bed8ee7040f1439dd5a95d5c050e526238ffd6f3",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_722799217792",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-05T00:09:18+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661a/live/99befec0-905f-11f1-b342-759a22dbd459.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f663f57a0b90",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Mike Lindell stepping down as MyPillow CEO to focus on Minnesota governor's race",
-      "dek": "submitted by /u/justalazygamer [link] [comments]",
-      "body": "submitted by /u/justalazygamer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T23:51:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vfr3s3/mike_lindell_stepping_down_as_mypillow_ceo_to/",
-      "image": "https://external-preview.redd.it/kKKPBrPphaPdvohS8qv1ZeXBA7DNGLLceByxK8oXyVQ.jpeg?width=640&crop=smart&auto=webp&s=2bf97a5d7186767b3d6763b7be9d0c0db3075611",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c5d267c18aa4",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Taj Mahal police take aim at marauding monkeys with slingshots",
-      "dek": "submitted by /u/No-Strawberry7 [link] [comments]",
-      "body": "submitted by /u/No-Strawberry7 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T23:33:32+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vfqoj4/taj_mahal_police_take_aim_at_marauding_monkeys/",
-      "image": "https://external-preview.redd.it/Y0EofTZQo-pVSQAkYpX5Kpf8xLY0RcM9pb125I7HhRY.jpeg?width=640&crop=smart&auto=webp&s=74ad4325bebb56ef3d0fabc452cfba3882c82c4e",
       "imageCredit": "Image via original publisher"
     }
   ]
