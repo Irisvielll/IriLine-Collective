@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-07T14:39:29+00:00",
+  "generatedAt": "2026-08-07T15:35:52+00:00",
   "items": [
+    {
+      "id": "latest_35ed01305066",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "dek": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+      "body": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T15:17:59+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4823/live/c54bf9d0-926c-11f1-9f0c-8d4ddef91df6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f67fff69a634",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-07T13:06:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vi051h/ice_will_release_body_camera_video_only_when_in/",
       "image": "https://external-preview.redd.it/IbCptS3PkCtXJAqin89ueIk4ONjaLt0gByXTbosG90c.jpeg?width=640&crop=smart&auto=webp&s=7676cde26485b2445f0f8cc2002db4cab1883bae",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3c73c8f701e1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Pig Farm Transformed Into ‘Thriving' Specialty Mushroom Operation",
-      "dek": "submitted by /u/Mountain_Love23 [link] [comments]",
-      "body": "submitted by /u/Mountain_Love23 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-07T12:24:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vhz6uo/pig_farm_transformed_into_thriving_specialty/",
-      "image": "https://external-preview.redd.it/qqCMhx-rNzeSli4Zdf5_CKrcPxYxsssNiCLT86QPHXA.jpeg?width=640&crop=smart&auto=webp&s=154ea34375fa535dad1fb0653473cd3f2c08a988",
       "imageCredit": "Image via original publisher"
     }
   ]
