@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-07T22:35:24+00:00",
+  "generatedAt": "2026-08-07T23:17:13+00:00",
   "items": [
+    {
+      "id": "meme_7a60bac00560",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "‘Cyclospora skinny’: Missouri health officials warn the disease is not a diet",
+      "dek": "submitted by /u/el_monstruo [link] [comments]",
+      "body": "submitted by /u/el_monstruo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T22:33:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1viexoj/cyclospora_skinny_missouri_health_officials_warn/",
+      "image": "https://external-preview.redd.it/L5thBj3vLegJ81oWEqNEm6hWhoJUQwx2mxxcym9mroc.jpeg?width=640&crop=smart&auto=webp&s=c4d8eca4c52494adcde2eb6ca1ef06ed0f1dce39",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f66a47c275c9",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-07T21:19:27+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_baf47c1de51a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What is birthright citizenship and how common is birth tourism in the US?",
-      "dek": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-      "body": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-07T21:09:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a4/live/42c552d0-9290-11f1-9e22-67b4720e20ea.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

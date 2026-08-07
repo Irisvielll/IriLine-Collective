@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_baf47c1de51a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What is birthright citizenship and how common is birth tourism in the US?",
+      "dek": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
+      "body": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T21:09:51+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a4/live/42c552d0-9290-11f1-9e22-67b4720e20ea.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_4e33a89a919d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-01T02:44:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3eb/live/c9375910-8d6f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0d6f452bb14e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man tried to smuggle $34,000 worth of cocaine under his toupee, police say",
-      "dek": "submitted by /u/ArachnidNo2269 [link] [comments]",
-      "body": "submitted by /u/ArachnidNo2269 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T00:49:29+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vc8q1h/man_tried_to_smuggle_34000_worth_of_cocaine_under/",
-      "image": "https://external-preview.redd.it/v0TobjtdXyOieKy-cWIio2Fe2ECNpy7HcXZN4fvcaG0.jpeg?width=640&crop=smart&auto=webp&s=53fb6c5246a39b45d97bca9a9bc784a65242f4e7",
       "imageCredit": "Image via original publisher"
     }
   ]
