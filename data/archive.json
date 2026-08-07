@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_7dc1d2ca7c75",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "dek": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+      "body": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T15:59:01+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_804b3dd0038c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-31T15:56:39+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbuxen/researchers_start_onlyfans_for_marmots_after/",
       "image": "https://external-preview.redd.it/hVDaHOTSqwlbQkJC2JKjOKcMlQT_ysAxMemPzLFkZO4.jpeg?width=640&crop=smart&auto=webp&s=990eb2afdf8acedd7659e6523f239321e6418126",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ec62d291055f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "dek": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "body": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-31T15:18:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d0/live/ceb09d00-8ce0-11f1-a65d-4f54e31f4a67.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
