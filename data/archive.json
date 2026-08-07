@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_d52008db0f15",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "dek": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+      "body": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T08:32:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5095/live/720754b0-922e-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e3be9518cc1d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-07-31T08:47:33+00:00",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a661/live/91ce3570-8cac-11f1-a1f4-f50057266998.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3ff0bc8276f0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Malaysian pilot arrested at Indonesia airport with over 70,000 ecstasy pills",
-      "dek": "submitted by /u/Superb_Branch4749 [link] [comments]",
-      "body": "submitted by /u/Superb_Branch4749 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-31T07:08:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbjkku/malaysian_pilot_arrested_at_indonesia_airport/",
-      "image": "https://external-preview.redd.it/Vdb1K7ojJuOGylIy3Vvdv6Qwhy3TBXVOj9X11aCv3Hc.jpeg?width=640&crop=smart&auto=webp&s=ddf365a37425367581cceac55b99e8b066b296f0",
       "imageCredit": "Image via original publisher"
     }
   ]
