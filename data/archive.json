@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_2f83371b5baf",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "dek": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "body": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T09:50:54+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_12c1f1dfede0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Public safety official arrested for allegedly helping son flee shooting: Police",
+      "dek": "submitted by /u/AeneasKurtz [link] [comments]",
+      "body": "submitted by /u/AeneasKurtz [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T09:12:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vhvjse/public_safety_official_arrested_for_allegedly/",
+      "image": "https://external-preview.redd.it/kWvGVM58Gz2RLasNAcUoQq2s-gxFvTFGMn9qXxB1Jc4.jpeg?width=640&crop=smart&auto=webp&s=5004b898888d1df515fdb63c41a37eb4dbe12634",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a5d7ce55ab35",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-07-31T10:11:28+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbmsmq/brawl_video_puts_embattled_detroit_police/",
       "image": "https://external-preview.redd.it/FxjazV3wvGYrCa7d4oEbjOIlS5nIJgm21LjDkTHvRs0.png?width=640&crop=smart&auto=webp&s=2c2814fe63404ea5b5198604595703970971a216",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ef4d4a3d4df9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Tr*mp and NYT Say There’s a Russian Spy Base in Cuba. Turns Out, It’s a School",
-      "dek": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "body": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-31T09:53:02+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbmgmb/trmp_and_nyt_say_theres_a_russian_spy_base_in/",
-      "image": "https://external-preview.redd.it/EMitZ1Mvf1YsloHlSWt32ksFBdSj9bEn71Ko6Ffee8s.png?width=640&crop=smart&auto=webp&s=e3eb0eecb66d5cd9e9048fc8799ab81235db3b8f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4998dcb4d4ea",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russian courts to start hiring law students amid staffing shortages",
-      "dek": "submitted by /u/duckanroll [link] [comments]",
-      "body": "submitted by /u/duckanroll [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-07-31T09:34:39+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vbm4yx/russian_courts_to_start_hiring_law_students_amid/",
-      "image": "https://external-preview.redd.it/DimDY1c_RSVmc4uQQ6dazYl3Go6LWZ5cqpkwS1B_zUA.png?width=640&crop=smart&auto=webp&s=df9c35950033a880b3c94ec995247e02c5cbaffd",
       "imageCredit": "Image via original publisher"
     }
   ]
