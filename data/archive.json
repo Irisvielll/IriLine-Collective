@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_119065f42189",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "dek": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "body": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-08T19:00:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_3b792cf68597",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-02T00:55:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_01a3756bab17",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-      "dek": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-      "body": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T23:56:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75c5/live/1df356c0-8dc0-11f1-8e90-d5da5aa44106.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

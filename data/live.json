@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-08T19:16:15+00:00",
+  "generatedAt": "2026-08-08T19:53:36+00:00",
   "items": [
+    {
+      "id": "latest_639e1a78a571",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "dek": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "body": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-08T19:18:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_59177df26e47",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-08T19:01:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vj44qb/raccoon_named_mayonesa_rescued_after_head_caught/",
       "image": "https://external-preview.redd.it/AtAUMqkLm42mn7_B5ZCMqGLU1a4tIUY-1AQuC4f9lYk.jpeg?width=640&crop=smart&auto=webp&s=8fc79fc90ba51dbb78db4873db1f2a5797b16f5e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_119065f42189",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "dek": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "body": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T19:00:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
       "imageCredit": "Image via original publisher"
     }
   ]
