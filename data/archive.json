@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b58e53d751b2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "dek": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "body": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-07T21:19:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_baf47c1de51a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-01T02:51:33+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vcbbdc/arizona_supreme_court_clergy_not_required_to/",
       "image": "https://external-preview.redd.it/-QetlqXUkdk3PZ6SFv8ujEzAaCDnpDubYkLYJc0seJs.jpeg?width=640&crop=smart&auto=webp&s=0b10dd2a0c79aff833ee157b726a9571c3027f8e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c74abc613566",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
-      "dek": "The BBC's Shaimaa Khalil explains why Gianni Infantino has backed down on his controversial investment proposal.",
-      "body": "The BBC's Shaimaa Khalil explains why Gianni Infantino has backed down on his controversial investment proposal.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T02:44:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3eb/live/c9375910-8d6f-11f1-b8ee-9b3c26ad07bb.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
