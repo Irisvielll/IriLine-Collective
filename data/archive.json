@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_d56edb344975",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "dek": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "body": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-08T04:23:33+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_81455afdcd4e",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bc/live/9b18d720-8da6-11f1-9e26-8164f877b701.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d7525e5ada3c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Doctor jailed after getting his own legs amputated for 'sexual fetish,' then making insurance claim",
-      "dek": "submitted by /u/Przedrzag [link] [comments]",
-      "body": "submitted by /u/Przedrzag [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T10:59:59+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vckc9e/doctor_jailed_after_getting_his_own_legs/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d7525e5ada3c",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
