@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b6d6eae1830c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Scale of devastation shocks US city's fire-seasoned residents",
+      "dek": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
+      "body": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-08T00:51:16+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4d/live/41f52500-92a5-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_7d2ba5b03b27",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-01T10:11:39+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ced530318b9b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Uefa has 'lost confidence' in Fifa leadership",
-      "dek": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
-      "body": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-01T09:51:05+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

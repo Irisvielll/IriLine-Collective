@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-08T06:06:36+00:00",
+  "generatedAt": "2026-08-08T07:14:52+00:00",
   "items": [
+    {
+      "id": "meme_57651fb5e091",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "ICE agents leave car in Fort Myers road after arrest, causing traffic hazard",
+      "dek": "submitted by /u/PlayaSlayaX [link] [comments]",
+      "body": "submitted by /u/PlayaSlayaX [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-08T06:25:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vioh77/ice_agents_leave_car_in_fort_myers_road_after/",
+      "image": "https://external-preview.redd.it/LElPuzshzLTlVkUdJA-3N-OMSkUbcLtL0QcvHhtAp-4.jpeg?width=640&crop=smart&auto=webp&s=5cce5b2e9c490509e1a1e338ce44ffed3a2c9571",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_d56edb344975",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-08T01:44:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vij2iu/child_standing_in_seat_and_refusing_a_seatbelt/",
       "image": "https://external-preview.redd.it/QP1AXrQNCacZwuN6-y6NL8QMDf4XYBbIjiMYBN9hFDA.jpeg?width=640&crop=smart&auto=webp&s=6fd7f8fae4548784dfaea138f4154c66c40a4b34",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b6d6eae1830c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Scale of devastation shocks US city's fire-seasoned residents",
-      "dek": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-      "body": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T00:51:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4d/live/41f52500-92a5-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
