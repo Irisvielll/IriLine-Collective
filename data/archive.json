@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_639e1a78a571",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "dek": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "body": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-08T19:18:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_59177df26e47",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-02T08:42:00+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vdcs73/mcdonalds_pulls_corn_burger_in_south_korea_after/",
       "image": "https://external-preview.redd.it/lRZ_VQ9VQlIQNksfAjXElqXa5Pupo_UmXH42TNiMEuU.jpeg?width=640&crop=smart&auto=webp&s=8de2afd77f66a7754f72b1bc790c99a6d5ab51ae",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f189c87d7484",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-      "dek": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
-      "body": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-02T03:05:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
