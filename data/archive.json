@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1032d605d584",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "dek": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+      "body": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T15:34:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4de/live/4cc53a50-9404-11f1-a10f-45ed743c6e4b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_dbf9548a1556",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_d6ba968df6b3",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US military asks troops for ‘creative and unconventional’ ideas to punish Iran",
-      "dek": "submitted by /u/voxadam [link] [comments]",
-      "body": "submitted by /u/voxadam [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T06:27:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ve5fjd/us_military_asks_troops_for_creative_and/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d6ba968df6b3",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
