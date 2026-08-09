@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_0b1c85a57be9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Republican senator issues eulogy for vacuum: 'I will miss you'",
+      "dek": "submitted by /u/quietcucumber [link] [comments]",
+      "body": "submitted by /u/quietcucumber [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T15:39:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjt1o2/republican_senator_issues_eulogy_for_vacuum_i/",
+      "image": "https://external-preview.redd.it/6FeMfsJ7ID_-q-zVGZeafgi8e6ltdkLbKspKK5jsCSM.png?width=640&crop=smart&auto=webp&s=91c0e5a8208affd92412acfa01750f4501cc3257",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_1032d605d584",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-03T07:49:33+00:00",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0fe/live/77f3d980-8d91-11f1-800e-433295bded5e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8e661acfedc7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "dek": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-      "body": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T06:53:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
