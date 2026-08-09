@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_dbf9548a1556",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "dek": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
+      "body": "Twelve people were rescued from the water after a large search and rescue operation, police say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T15:25:50+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_5908284d0d79",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ve5fjd/us_military_asks_troops_for_creative_and/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d6ba968df6b3",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_1d2b0647418c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "dek": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
-      "body": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T05:31:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4fc/live/39fee800-8ef3-11f1-9414-7f9a7ecedd61.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
