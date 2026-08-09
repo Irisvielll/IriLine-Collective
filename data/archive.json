@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_a2055b0b979b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "dek": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "body": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T19:57:28+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d6f5c0ce1cdc",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-03T13:13:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1ved37v/bra_boosters_are_causing_a_clothing_controversy/",
       "image": "https://external-preview.redd.it/jyzn7BjJBNEqDE79WUMoAN6s18Geb9-jnRe-PrfJ-Ik.jpeg?width=640&crop=smart&auto=webp&s=a5e4eeb3f2629cba00633f25b1838ec9fb022323",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c201489b8cd9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "dek": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-      "body": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T12:20:11+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad4/live/431ecf40-8f34-11f1-b8ee-9b3c26ad07bb.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

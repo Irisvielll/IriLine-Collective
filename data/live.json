@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-09T22:30:42+00:00",
+  "generatedAt": "2026-08-09T23:04:52+00:00",
   "items": [
+    {
+      "id": "meme_e993f9a4c834",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "The dark underbelly of “Paw Patrol”",
+      "dek": "Are the Paw Patrol enforcers for authoritarian capitalism? submitted by /u/My_hilarious_name [link] [comments]",
+      "body": "Are the Paw Patrol enforcers for authoritarian capitalism? submitted by /u/My_hilarious_name [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T22:41:36+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vk3l45/the_dark_underbelly_of_paw_patrol/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e993f9a4c834",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_ccf8625eec43",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-09T20:27:45+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vk0dgu/myspace_eyes_comeback_as_an_antidote_to_social/",
       "image": "https://external-preview.redd.it/SMNZM18yoGBpSzpKBgFlyma4EHsDf2rGLtAVM9wMGt8.jpeg?width=640&crop=smart&auto=webp&s=aad5205aad5ad3c814599dd4de7aa9e4dcfa1160",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a2055b0b979b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-      "dek": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "body": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T19:57:28+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
