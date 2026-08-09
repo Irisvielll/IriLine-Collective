@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-09T09:56:12+00:00",
+  "generatedAt": "2026-08-09T10:37:11+00:00",
   "items": [
+    {
+      "id": "latest_8e8f81d9a107",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "dek": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "body": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T10:02:52+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f91811d4b1e0",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-09T04:32:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3db4117cbbd1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Arizona Racers Proved Lawn Mowers Could Do More Than Cut Grass",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T03:58:51+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjfog9/arizona_racers_proved_lawn_mowers_could_do_more/",
-      "image": "https://external-preview.redd.it/RBQDOCSjhhNJKQkg9d8be7HZ22bI66WbtV492v5YcS4.jpeg?width=640&crop=smart&auto=webp&s=8572d4671689e43353eba6ba6c580ba1cbedb396",
       "imageCredit": "Image via original publisher"
     }
   ]
