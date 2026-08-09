@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-09T11:46:28+00:00",
+  "generatedAt": "2026-08-09T12:50:06+00:00",
   "items": [
+    {
+      "id": "latest_71b2c5d7966f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "dek": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "body": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T12:27:26+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af04/live/d5346d20-93e6-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_6e0f12b732f6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "dek": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "body": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T12:12:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8e8f81d9a107",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-09T10:02:52+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f91811d4b1e0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’: ‘Ewan McGregor Was Excellent With Treats’",
-      "dek": "submitted by /u/grmayshark [link] [comments]",
-      "body": "submitted by /u/grmayshark [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T07:10:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjj4dc/warner_bros_uses_ai_dog_podcast_to_promote_the/",
-      "image": "https://external-preview.redd.it/GbPGICYjESWw7BVLwODllm1r4Krn8hSJ5sGUp2oZqi0.jpeg?width=640&crop=smart&auto=webp&s=d222e60146e616eee9592df2ff40a2041683954c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9c51281315e4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Perez Hilton faces long recovery after self-harm livestream",
-      "dek": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "body": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T04:32:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
