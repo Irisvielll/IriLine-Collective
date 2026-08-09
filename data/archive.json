@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6e0f12b732f6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "dek": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "body": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T12:12:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8e8f81d9a107",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-03T02:43:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d1865ac92d38",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Malaysian boy on trial for allegedly murdering girl in school",
-      "dek": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-      "body": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T01:43:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc15/live/0e256bc0-8c03-11f1-9dc7-8f4fc2aa9fe5.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-09T14:34:00+00:00",
+  "generatedAt": "2026-08-09T15:11:54+00:00",
   "items": [
+    {
+      "id": "meme_5908284d0d79",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "In Tupac murder trial, the defendant is also the prosecution’s star witness",
+      "dek": "submitted by /u/wds1 [link] [comments]",
+      "body": "submitted by /u/wds1 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T14:56:27+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjryrq/in_tupac_murder_trial_the_defendant_is_also_the/",
+      "image": "https://external-preview.redd.it/KkpYCkS_cOIAhYzzv5PXucvLY03MPQtpwtNiZA3d5Dc.jpeg?width=640&crop=smart&auto=webp&s=d006c9d2bfb861f22e739d94d52003decfc4ad46",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6a23f4e826ff",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-09T12:27:26+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af04/live/d5346d20-93e6-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6e0f12b732f6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "dek": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "body": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T12:12:10+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
