@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-09T04:00:47+00:00",
+  "generatedAt": "2026-08-09T05:17:51+00:00",
   "items": [
+    {
+      "id": "latest_9c51281315e4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Perez Hilton faces long recovery after self-harm livestream",
+      "dek": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "body": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T04:32:06+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3db4117cbbd1",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjfl6f/ghanas_trey_haun_manboora_wins_silver_at_unicycle/",
       "image": "https://external-preview.redd.it/ucjYtzEPwPxoPk5-cAmCNiL6cZ30BIcvTfzKMbl3EI0.jpeg?width=640&crop=smart&auto=webp&s=1b2922b7de0da5e622d256ea7ad60317e515ed5d",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_fa5b53cdb416",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Grassley mourns Beth, a vintage vacuum that starred in his posts",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T02:58:52+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjeiv1/grassley_mourns_beth_a_vintage_vacuum_that/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_fa5b53cdb416",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
