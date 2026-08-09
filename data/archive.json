@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_cd34ac806958",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Puerto Rico rations water supplies due to intense drought",
+      "dek": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+      "body": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T16:43:23+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_88d93f7c4f32",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "dek": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "body": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T16:18:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_0b1c85a57be9",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-03T10:29:24+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_90da53d4f935",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "dek": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-      "body": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T08:40:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5c9/live/2e88e180-8f0f-11f1-be24-a9d46d021d98.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_97b183ed23d4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "dek": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
-      "body": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T07:49:33+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0fe/live/77f3d980-8d91-11f1-800e-433295bded5e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
