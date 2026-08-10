@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-10T01:48:53+00:00",
+  "generatedAt": "2026-08-10T03:55:16+00:00",
   "items": [
+    {
+      "id": "meme_56733a45dab5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Flight Is Canceled After a Child Refuses to Be Seated",
+      "dek": "submitted by /u/mRIGHTstuff [link] [comments]",
+      "body": "submitted by /u/mRIGHTstuff [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T03:20:39+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vk9kef/flight_is_canceled_after_a_child_refuses_to_be/",
+      "image": "https://external-preview.redd.it/ZqZI2JjFp81RZU6_kYy8PEnfLADFXkYe0apTlH7eqR0.jpeg?width=640&crop=smart&auto=webp&s=5a0cb0683e112153ea1eae0b3143c7c035e599bc",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_936651becea2",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-10T01:22:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vk746e/human_biology_was_never_intended_to_handle/",
       "image": "https://external-preview.redd.it/DCl3EmXcYx4BYJBppVROD3BgFyWS1v5daAm3NfE7wXg.jpeg?width=640&crop=smart&auto=webp&s=4be36d30b92ed2691f7cfbb2a17782e765d2abec",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_dd0516463971",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "dek": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-      "body": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T23:05:29+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

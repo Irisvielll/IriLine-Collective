@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_dd0516463971",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "dek": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "body": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-09T23:05:29+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e993f9a4c834",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-03T16:04:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vehnjf/new_zealand_has_a_new_official_language_english/",
       "image": "https://external-preview.redd.it/s8z9XHoGfpmumU0iCQY_G6Xpl96vInw3cYnBoMcyD0Q.jpeg?width=640&crop=smart&auto=webp&s=11da4bf1269e974407300daed5dee7472f10dd17",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d8a8a14363b8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "dek": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "body": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-03T15:57:27+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
