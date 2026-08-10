@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_80e6f8862c44",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Farmer trusted AI after it gave good advice, then it helped wipe out 25 acres of his crops",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T20:30:54+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkwfmx/farmer_trusted_ai_after_it_gave_good_advice_then/",
+      "image": "https://external-preview.redd.it/XIj-fRlAgHEbdasvF9c0BtkEJl2sjOMvHZHjnOFXSbQ.jpeg?width=640&crop=smart&auto=webp&s=b236b6081c1d8d40a6e2941b105c37a996ac0b42",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_7c1d08a3a9fa",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-04T09:18:03+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472c/live/87867150-8fdf-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_496efad462df",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What will happen when a SpaceX rocket collides with the Moon?",
-      "dek": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-      "body": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T09:13:37+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd55/live/3fa78630-8f5d-11f1-9c32-a3e1fce5018b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
