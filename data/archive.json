@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_7c1d08a3a9fa",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "dek": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "body": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T20:16:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5647/live/b36560e0-94f5-11f1-9181-85140b8ce01b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e361761c4c42",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-04T09:13:37+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd55/live/3fa78630-8f5d-11f1-9c32-a3e1fce5018b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c5ddbe178447",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Israeli court halts crocodile transfer to Palestinian prison over animal welfare concerns",
-      "dek": "submitted by /u/Queeroshima [link] [comments]",
-      "body": "submitted by /u/Queeroshima [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T07:55:47+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vf3uma/israeli_court_halts_crocodile_transfer_to/",
-      "image": "https://external-preview.redd.it/l5lkSAQCFgCdl_4U32rAGGupGohk3Q8V_pnefs3EBUg.jpeg?width=640&crop=smart&auto=webp&s=5545aaceb91eb44461d120bcb790cc8e501fe7e1",
       "imageCredit": "Image via original publisher"
     }
   ]

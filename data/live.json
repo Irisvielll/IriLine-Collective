@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-10T21:59:25+00:00",
+  "generatedAt": "2026-08-10T22:48:58+00:00",
   "items": [
+    {
+      "id": "meme_29d1e3f2ce75",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "‘Gooning’ incidents targeting women in Dollar Tree stores reported across country",
+      "dek": "submitted by /u/rmuktader [link] [comments]",
+      "body": "submitted by /u/rmuktader [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T22:12:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkz2y6/gooning_incidents_targeting_women_in_dollar_tree/",
+      "image": "https://external-preview.redd.it/gQkJyh7lT7PuT7qpF2T3NOO6i-lAEhsl6lDu_DAhDxI.jpeg?width=640&crop=smart&auto=webp&s=61522425fd992bdd0394191c9ac7cb236810ba47",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_47a810991ee5",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-10T20:30:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkwfmx/farmer_trusted_ai_after_it_gave_good_advice_then/",
       "image": "https://external-preview.redd.it/XIj-fRlAgHEbdasvF9c0BtkEJl2sjOMvHZHjnOFXSbQ.jpeg?width=640&crop=smart&auto=webp&s=b236b6081c1d8d40a6e2941b105c37a996ac0b42",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7c1d08a3a9fa",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "dek": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "body": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T20:16:34+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5647/live/b36560e0-94f5-11f1-9181-85140b8ce01b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
