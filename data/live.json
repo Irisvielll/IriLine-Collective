@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-10T15:42:09+00:00",
+  "generatedAt": "2026-08-10T16:34:08+00:00",
   "items": [
+    {
+      "id": "latest_48ce89dc66b4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+      "dek": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
+      "body": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T16:10:56+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e29/live/23508ac0-94d2-11f1-8a9a-13c674e4e5fe.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a729e110127c",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkn9pg/a_meta_employee_asked_for_more_time_off_cto/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_43cced972e68",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_517b8ebb91ae",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Harry Potter fans force cable diversion of multimillion pipeline project to protect Dobby’s ‘grave’",
-      "dek": "submitted by /u/PauloPatricio [link] [comments]",
-      "body": "submitted by /u/PauloPatricio [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T14:55:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkn4op/harry_potter_fans_force_cable_diversion_of/",
-      "image": "https://external-preview.redd.it/4WsK9GhV0c8r24JDTwtetKqZOQoF5oI00s-GbwAGBGI.jpeg?width=640&crop=smart&auto=webp&s=2769cbc8787c148d2344c7b8fe45d0e5f55d403e",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
