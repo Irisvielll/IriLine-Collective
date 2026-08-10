@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_e361761c4c42",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Baltimore officer faked traffic stops to avoid calls, prosecutors say",
+      "dek": "submitted by /u/AquaIsNOTUseless [link] [comments]",
+      "body": "submitted by /u/AquaIsNOTUseless [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T20:01:52+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkvmuk/baltimore_officer_faked_traffic_stops_to_avoid/",
+      "image": "https://external-preview.redd.it/ijVLTa1ShSrKOkuK3LLY7X_xoW48k2PtKOpQaNyoHjc.jpeg?width=640&crop=smart&auto=webp&s=6fb26b4a16f55982cb0482c6871956dbd6cc28cf",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_57cef729d7b5",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-04T07:55:47+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vf3uma/israeli_court_halts_crocodile_transfer_to/",
       "image": "https://external-preview.redd.it/l5lkSAQCFgCdl_4U32rAGGupGohk3Q8V_pnefs3EBUg.jpeg?width=640&crop=smart&auto=webp&s=5545aaceb91eb44461d120bcb790cc8e501fe7e1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e454c2ca3de2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
-      "dek": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
-      "body": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T07:13:40+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ce/live/ad84a9a0-8fd3-11f1-a999-eb18d79411a9.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
