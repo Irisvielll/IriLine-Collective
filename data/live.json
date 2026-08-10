@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-10T09:57:49+00:00",
+  "generatedAt": "2026-08-10T11:13:44+00:00",
   "items": [
+    {
+      "id": "latest_3318c3c4c0c7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "dek": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "body": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T09:51:07+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8278/live/f3d353e0-949f-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_91024385e6ab",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkefm6/the_royal_navys_new_spy_drones_were_quietly/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_f5a3d407daa8",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_dff43803b2df",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "dek": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "body": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T07:23:54+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
