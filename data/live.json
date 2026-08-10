@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-10T08:26:06+00:00",
+  "generatedAt": "2026-08-10T09:57:49+00:00",
   "items": [
+    {
+      "id": "latest_91024385e6ab",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
+      "dek": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "body": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T08:50:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc11/live/b8002050-9495-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f5a3d407daa8",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
-      "id": "meme_ee274f2f9c77",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "New App Warns Berliners of Ticket Inspectors; BVG Not Amused",
-      "dek": "A new app called Freifahren lets Berlin commuters dodge ticket inspectors, prompting criticism from the BVG, who say it lacks \"solidarity\" https://www.heistberl",
-      "body": "A new app called Freifahren lets Berlin commuters dodge ticket inspectors, prompting criticism from the BVG, who say it lacks \"solidarity\" https://www.heistberlin.com/news/freifahren-app-warns-berliners-of-ticket-inspectors-bvg-statement-solidarity/ submitted by /u/way2manytabs [link] [comments]",
+      "id": "latest_dff43803b2df",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "dek": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "body": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T06:40:14+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkd7zp/new_app_warns_berliners_of_ticket_inspectors_bvg/",
-      "image": "https://external-preview.redd.it/HtTu5ycT7i0sbn2KfKbF6r61o0CtuNVPrd5K9uaXMlg.png?width=640&crop=smart&auto=webp&s=5b6bbeb83102fac8619595f73eacba42d6acc215",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_b1154240193d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Warner Bros. Uses AI Dog Podcast to Promote ‘The End of Oak Street’",
-      "dek": "submitted by /u/candyman106 [link] [comments]",
-      "body": "submitted by /u/candyman106 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T05:42:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkc8b0/warner_bros_uses_ai_dog_podcast_to_promote_the/",
-      "image": "https://external-preview.redd.it/GbPGICYjESWw7BVLwODllm1r4Krn8hSJ5sGUp2oZqi0.jpeg?width=640&crop=smart&auto=webp&s=d222e60146e616eee9592df2ff40a2041683954c",
+      "publishedAt": "2026-08-10T07:23:54+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
