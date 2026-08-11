@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_47a810991ee5",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "dek": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "body": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-10T21:06:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca08/live/f3ccb1a0-94f6-11f1-9181-85140b8ce01b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_80e6f8862c44",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-04T09:23:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe4/live/f011b0d0-8fe5-11f1-9b57-e74b317a0f23.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d72fa88fe8cc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
-      "dek": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
-      "body": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-04T09:18:03+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472c/live/87867150-8fdf-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
