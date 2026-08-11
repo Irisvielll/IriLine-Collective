@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-11T20:42:54+00:00",
+  "generatedAt": "2026-08-11T21:29:21+00:00",
   "items": [
+    {
+      "id": "latest_c79c0ee4842c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "dek": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "body": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-11T20:39:42+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c31/live/13972cd0-95c0-11f1-a556-013790f38050.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f08a25c3acfe",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-11T20:04:11+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2554/live/747b0460-95be-11f1-a556-013790f38050.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_57feedab0407",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Private eyes report surge in men’s mistresses investigating their wives",
-      "dek": "submitted by /u/Melodic-Slice-3826 [link] [comments]",
-      "body": "submitted by /u/Melodic-Slice-3826 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T19:53:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vls31i/private_eyes_report_surge_in_mens_mistresses/",
-      "image": "https://external-preview.redd.it/xERoZK0MDRunZ4t4npMFLnkOx0BYyoxmf3TQbKXuFi0.jpeg?width=640&crop=smart&auto=webp&s=fefebb6b2fa87657fdf63755f3c5fb2868b88c70",
       "imageCredit": "Image via original publisher"
     }
   ]
