@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-11T16:36:01+00:00",
+  "generatedAt": "2026-08-11T17:41:05+00:00",
   "items": [
+    {
+      "id": "meme_e0fc8fed3155",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Middle school students allegedly plotted armed robbery with homemade guns, explosives",
+      "dek": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "body": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-11T17:34:07+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vlo671/middle_school_students_allegedly_plotted_armed/",
+      "image": "https://external-preview.redd.it/nZAydwyWOlm7N_BYQwiW_M4274QpiurmwaNHe91_YQE.jpeg?width=640&crop=smart&auto=webp&s=bf67d0ff658e5f4f1c5b120c52ce0e3953a8baac",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_bb38aa357e3d",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-11T16:08:04+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vllrhz/reform_uk_tells_its_activists_dont_drink_and/",
       "image": "https://external-preview.redd.it/BfOgMB27v7WSIifcjYf-F04ryBSihC8x-xGrgSSIeEk.jpeg?width=320&crop=smart&auto=webp&s=c4caeac7eb2d308f912526f27e484c2d49f046a2",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8884f6153bf2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-      "dek": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
-      "body": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T15:53:53+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa2/live/44d9ea70-958f-11f1-870d-5d08c49babb2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
