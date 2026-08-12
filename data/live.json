@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-12T17:42:31+00:00",
+  "generatedAt": "2026-08-12T18:37:59+00:00",
   "items": [
+    {
+      "id": "meme_b2ad249a06d1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Ohio city declares beaver historic symbol amid Bucees trademark lawsuit",
+      "dek": "submitted by /u/Disastrous_Award_789 [link] [comments]",
+      "body": "submitted by /u/Disastrous_Award_789 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T18:09:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmlw6f/ohio_city_declares_beaver_historic_symbol_amid/",
+      "image": "https://external-preview.redd.it/WSD0kld3B5TG_NJd6c-jdFp9a6q3W_S_oDJOqxOk9U0.png?width=640&crop=smart&auto=webp&s=ddcd3c7a10cc58d24479c1aac404a1346e01b725",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e8201d357c5f",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmjm0g/google_search_falsely_declared_sam_altman_dead/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_383fe31a4163",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_65e2c412d5cd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "dek": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "body": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T16:35:52+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aed/live/6188d850-9659-11f1-ad58-9debde8148f5.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
