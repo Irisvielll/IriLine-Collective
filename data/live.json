@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-12T07:43:50+00:00",
+  "generatedAt": "2026-08-12T08:52:40+00:00",
   "items": [
+    {
+      "id": "latest_0f7e486f6a60",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "dek": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+      "body": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T07:44:44+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d93/live/417bbe50-961e-11f1-adec-3f90c109009f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ee295099557e",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-12T03:26:32+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8101/live/a7391c20-95f5-11f1-870d-5d08c49babb2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_630d1bd9fdc8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Travis Barker and Tom DeLonge Got So High with Cypress Hill That They Wanted to Go Home",
-      "dek": "submitted by /u/JackFunk [link] [comments]",
-      "body": "submitted by /u/JackFunk [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T03:19:30+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vm2ngy/travis_barker_and_tom_delonge_got_so_high_with/",
-      "image": "https://external-preview.redd.it/za0KDyfvhgzD0aEyDPFVUiOTcK3Gi58kJYWGSdotJcs.jpeg?width=640&crop=smart&auto=webp&s=d5749389a6717be77f093349e247b733a525cde8",
       "imageCredit": "Image via original publisher"
     }
   ]

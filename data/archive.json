@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_630d1bd9fdc8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Travis Barker and Tom DeLonge Got So High with Cypress Hill That They Wanted to Go Home",
+      "dek": "submitted by /u/JackFunk [link] [comments]",
+      "body": "submitted by /u/JackFunk [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T03:19:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vm2ngy/travis_barker_and_tom_delonge_got_so_high_with/",
+      "image": "https://external-preview.redd.it/za0KDyfvhgzD0aEyDPFVUiOTcK3Gi58kJYWGSdotJcs.jpeg?width=640&crop=smart&auto=webp&s=d5749389a6717be77f093349e247b733a525cde8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_4d0f9672859d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-05T15:05:30+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffa0/live/6343d230-90dc-11f1-b8ee-9b3c26ad07bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fae5d29e8524",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
-      "dek": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
-      "body": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-05T14:58:41+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f8b/live/b3c65640-90bb-11f1-b8f3-bf6a2c059a9b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
