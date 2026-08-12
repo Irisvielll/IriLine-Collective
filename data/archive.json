@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_d4578d08ad87",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "dek": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "body": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T20:16:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5edf/live/54d0fdd0-9687-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_ef66bfe2e8f8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Fox News anchor Jesse Watters vows to leave U.S. for Europe if AOC becomes president",
+      "dek": "submitted by /u/Baronvond [link] [comments]",
+      "body": "submitted by /u/Baronvond [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T19:59:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmovi4/fox_news_anchor_jesse_watters_vows_to_leave_us/",
+      "image": "https://external-preview.redd.it/Per_ib9BldDizI2uBtpS68_KXTCJXDaihY-JCHuCGAo.jpeg?width=640&crop=smart&auto=webp&s=aee3051d62d0dc6eae12bae55b40593f5f3b5895",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d57c9f789078",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vgu0rc/man_attempts_to_drop_drugs_into_utah_state_prison/",
       "image": "https://external-preview.redd.it/XKAOL6PaYP5xeQnn603kCqnShR94xsXGLFJ6A8FkBUk.png?width=640&crop=smart&auto=webp&s=2b7f3770374a015459a4ae6d03ad9ebef74309ce",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ab3ebeac46d0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Plan to guard notorious Israeli prison with crocodiles stalled over animal welfare concerns",
-      "dek": "submitted by /u/Suspicious_Peak_1173 [link] [comments]",
-      "body": "submitted by /u/Suspicious_Peak_1173 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-06T03:40:04+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vgt3pg/plan_to_guard_notorious_israeli_prison_with/",
-      "image": "https://external-preview.redd.it/fJg8kUOAhnG51Vi3CFwEkT9nI00VUwgAPOMmDKLoaFs.jpeg?width=640&crop=smart&auto=webp&s=756fef5668ac88f031250ec78ebe326e1f53d0cc",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_cb775833c033",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "DNR Closes Additional Areas of Cunningham Falls State Park Following Second Beaver Attack",
-      "dek": "submitted by /u/Desperate_Bite_7538 [link] [comments]",
-      "body": "submitted by /u/Desperate_Bite_7538 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-06T03:31:40+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vgsxq8/dnr_closes_additional_areas_of_cunningham_falls/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_cb775833c033",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
