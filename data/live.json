@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-12T14:36:27+00:00",
+  "generatedAt": "2026-08-12T15:38:24+00:00",
   "items": [
+    {
+      "id": "latest_5853ee8f1836",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "dek": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
+      "body": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T15:34:47+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ce/live/3ac23d60-9659-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2d81d8e7470e",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-12T13:13:21+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ac405acb69fb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Missouri lawmakers' proposed AI rules were written by AI, metadata shows",
-      "dek": "submitted by /u/Togapi77 [link] [comments]",
-      "body": "submitted by /u/Togapi77 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T13:10:05+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmdpyu/missouri_lawmakers_proposed_ai_rules_were_written/",
-      "image": "https://external-preview.redd.it/LxBH3HxKJesFKDnAc-rTHrHYX8gZGTy73jTHdaF7LdA.jpeg?width=640&crop=smart&auto=webp&s=b2933e4f60f0bc43a3f9aa1b4b75bb8097e37841",
       "imageCredit": "Image via original publisher"
     }
   ]
