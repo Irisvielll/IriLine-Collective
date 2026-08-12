@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-12T05:59:06+00:00",
+  "generatedAt": "2026-08-12T07:43:50+00:00",
   "items": [
+    {
+      "id": "latest_ee295099557e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
+      "dek": "The vessel is said to have overturned after being hit by strong waves.",
+      "body": "The vessel is said to have overturned after being hit by strong waves.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T07:16:44+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ae/live/552e0070-960f-11f1-9e5b-d5848bb02f11.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_78279328099e",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-12T03:19:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vm2ngy/travis_barker_and_tom_delonge_got_so_high_with/",
       "image": "https://external-preview.redd.it/za0KDyfvhgzD0aEyDPFVUiOTcK3Gi58kJYWGSdotJcs.jpeg?width=640&crop=smart&auto=webp&s=d5749389a6717be77f093349e247b733a525cde8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4d0f9672859d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Bondi Beach shooting hero's assault charges dropped by police",
-      "dek": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
-      "body": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T02:59:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239c/live/1d9de0b0-95f8-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
