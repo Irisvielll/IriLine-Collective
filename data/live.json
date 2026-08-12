@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-12T18:37:59+00:00",
+  "generatedAt": "2026-08-12T19:48:07+00:00",
   "items": [
+    {
+      "id": "meme_d57c9f789078",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Bumble scraps signature rule and now allows men to make first move on dating app",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T19:40:35+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmodnl/bumble_scraps_signature_rule_and_now_allows_men/",
+      "image": "https://external-preview.redd.it/O4uLe5eJZChy1I2VJwONTehzEjJbbFiONSK0otSm4y4.jpeg?width=640&crop=smart&auto=webp&s=1ad3f4389ad0110e702ace67b7a823e8bda59877",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_8f279dfc29bc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "dek": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+      "body": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T19:21:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc9e/live/5a173db0-9662-11f1-a654-971f565de941.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_b2ad249a06d1",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmlw6f/ohio_city_declares_beaver_historic_symbol_amid/",
       "image": "https://external-preview.redd.it/WSD0kld3B5TG_NJd6c-jdFp9a6q3W_S_oDJOqxOk9U0.png?width=640&crop=smart&auto=webp&s=ddcd3c7a10cc58d24479c1aac404a1346e01b725",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e8201d357c5f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
-      "dek": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "body": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T17:20:03+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3190/live/fb878e50-966e-11f1-870d-5d08c49babb2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_383fe31a4163",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Google Search falsely declared Sam Altman dead, but Google says nobody did it manually",
-      "dek": "submitted by /u/kazu_qt [link] [comments]",
-      "body": "submitted by /u/kazu_qt [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T16:49:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmjm0g/google_search_falsely_declared_sam_altman_dead/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_383fe31a4163",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
