@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-13T17:11:57+00:00",
+  "generatedAt": "2026-08-13T18:08:19+00:00",
   "items": [
+    {
+      "id": "meme_56972de91160",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "A boat operator used a foghorn to wake a sleeping polar bear. They were fined over $5,000.",
+      "dek": "submitted by /u/SheepCartel [link] [comments]",
+      "body": "submitted by /u/SheepCartel [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T17:47:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vnhulf/a_boat_operator_used_a_foghorn_to_wake_a_sleeping/",
+      "image": "https://external-preview.redd.it/kk_EetpoEDlXwX-vYIVOrFroVC8P_-ioYzr2uJOr-QQ.jpeg?width=640&crop=smart&auto=webp&s=3fd49b37bd2057ddbc4a70e6823ada6e3bcaa363",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_89555754a07f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-13T16:59:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vngi1u/580_million_undersea_cable_rerouted_to_avoid_the/",
       "image": "https://external-preview.redd.it/9nzQ5SRDg5NM0-qSg3xA-RMyOkbEa0wwNYNKN7gMP-s.png?width=640&crop=smart&auto=webp&s=b6a4aed1aa3963be6500262c848cb60ca51e13e6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0758efa7f4b2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Air India to test all pilots for banned substances",
-      "dek": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-      "body": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T16:52:15+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc16/live/c940eb70-9732-11f1-bdbf-1b7b2a4a87a1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
