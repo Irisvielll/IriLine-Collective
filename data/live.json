@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-13T13:47:32+00:00",
+  "generatedAt": "2026-08-13T14:56:55+00:00",
   "items": [
+    {
+      "id": "meme_5aeaa2b1edb5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Baby goats found inside trunk of stolen car after officers hear suspicious noise",
+      "dek": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "body": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T14:02:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vnblq9/baby_goats_found_inside_trunk_of_stolen_car_after/",
+      "image": "https://external-preview.redd.it/TSOt2ccm06aIviSMyNlAG8jAgwYGoFTDIuWuwNfLm_s.jpeg?width=640&crop=smart&auto=webp&s=a054bb377d91bee119b21cdb5da64794fc0abebd",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_02ab800b23ee",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-13T11:50:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vn8i7t/adult_device_shuts_down_rush_hour_traffic_in_dc/",
       "image": "https://external-preview.redd.it/0PE8kCM4UsI9Wfvrfoid_cRS-cMrXRGrn0YYH4gjrJU.jpeg?width=640&crop=smart&auto=webp&s=92f57131db39a2c3291b63ca9e0eae3c28aebcc8",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_968854cc8303",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "dek": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-      "body": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T11:10:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
