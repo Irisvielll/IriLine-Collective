@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1ee5a1141e1a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "dek": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "body": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T09:52:30+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5b5cc81dcc1d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-06T18:37:12+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/189f/live/7dfa7080-91bc-11f1-bab9-173de0e7d358.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_34a84dbb44eb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘We can see your washing’: NZ politician joins meeting from bathroom",
-      "dek": "submitted by /u/AudibleNod [link] [comments]",
-      "body": "submitted by /u/AudibleNod [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-06T18:29:42+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vhcj45/we_can_see_your_washing_nz_politician_joins/",
-      "image": "https://external-preview.redd.it/HHxu8AgMzFCKXysZE1iwf5zRXUyqMQ8R9FQxdSrj0ok.jpeg?width=640&crop=smart&auto=webp&s=9fa593c13327f4f62a5d64376ad1a987cb0dce3f",
       "imageCredit": "Image via original publisher"
     }
   ]

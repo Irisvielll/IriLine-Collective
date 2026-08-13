@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-13T11:22:29+00:00",
+  "generatedAt": "2026-08-13T12:09:00+00:00",
   "items": [
+    {
+      "id": "meme_72e0643aec5b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Adult device shuts down rush hour traffic in DC",
+      "dek": "submitted by /u/its_a_bear_dance [link] [comments]",
+      "body": "submitted by /u/its_a_bear_dance [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T11:50:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vn8i7t/adult_device_shuts_down_rush_hour_traffic_in_dc/",
+      "image": "https://external-preview.redd.it/0PE8kCM4UsI9Wfvrfoid_cRS-cMrXRGrn0YYH4gjrJU.jpeg?width=640&crop=smart&auto=webp&s=92f57131db39a2c3291b63ca9e0eae3c28aebcc8",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_968854cc8303",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-13T10:51:35+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb25/live/2035d580-96fc-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1ee5a1141e1a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "dek": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "body": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T09:52:30+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
       "imageCredit": "Image via original publisher"
     }
   ]
