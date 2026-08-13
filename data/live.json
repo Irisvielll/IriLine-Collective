@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-13T12:09:00+00:00",
+  "generatedAt": "2026-08-13T13:47:32+00:00",
   "items": [
+    {
+      "id": "meme_02ab800b23ee",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Police in Ecuador seize 1,000 pounds of cocaine bearing the face of soccer star Erling Haaland; woman arrested",
+      "dek": "submitted by /u/Senior_Fig7845 [link] [comments]",
+      "body": "submitted by /u/Senior_Fig7845 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T13:15:18+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vnaetk/police_in_ecuador_seize_1000_pounds_of_cocaine/",
+      "image": "https://external-preview.redd.it/1dn3y70P7X00RsR2oRL5lLbpUWpP3UrSUGvN6nXix8w.jpeg?width=640&crop=smart&auto=webp&s=4c7ef009ebf9d167a4016f82f65e078a99cfd0af",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_72e0643aec5b",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-13T11:10:31+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_e9f2b0724217",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Zambians voting as president bids for second term",
-      "dek": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "body": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T10:51:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb25/live/2035d580-96fc-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
