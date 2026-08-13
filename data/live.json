@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-13T07:45:28+00:00",
+  "generatedAt": "2026-08-13T09:11:51+00:00",
   "items": [
+    {
+      "id": "latest_09443cca3ddd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "dek": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "body": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T08:12:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4e2294b4c13e",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-13T07:05:35+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3069/live/d93ce580-96e5-11f1-9b96-77d3dc534330.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_71b6f39bd776",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Japan protests against Putin visit to disputed islands",
-      "dek": "The Russian leader visited the Kuril islands for the first time, according to state media.",
-      "body": "The Russian leader visited the Kuril islands for the first time, according to state media.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T05:34:04+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eea/live/2530ea50-96d1-11f1-bb55-dd2c6c96a19d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
