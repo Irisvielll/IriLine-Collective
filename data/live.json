@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-13T10:28:40+00:00",
+  "generatedAt": "2026-08-13T11:22:29+00:00",
   "items": [
+    {
+      "id": "latest_968854cc8303",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "dek": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "body": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T11:10:31+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_e9f2b0724217",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zambians voting as president bids for second term",
+      "dek": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
+      "body": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T10:51:35+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb25/live/2035d580-96fc-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_1ee5a1141e1a",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-13T09:52:30+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_09443cca3ddd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "dek": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-      "body": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T08:12:53+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4e2294b4c13e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Conor McGregor announces he is ending his sobriety. And Brad Pitt inspired him to drink again: ‘Take it easy, Brad!’",
-      "dek": "submitted by /u/hutch_man0 [link] [comments]",
-      "body": "submitted by /u/hutch_man0 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T07:26:20+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vn3ttx/conor_mcgregor_announces_he_is_ending_his/",
-      "image": "https://external-preview.redd.it/NbzX0aSMm_-33b1coTn6hr4Q9Cby03D2uWTBmnxp7LI.jpeg?width=640&crop=smart&auto=webp&s=16595a06840f9ed7b67a073cdb2401d32ecb2b26",
       "imageCredit": "Image via original publisher"
     }
   ]
