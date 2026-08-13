@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-13T09:11:51+00:00",
+  "generatedAt": "2026-08-13T10:28:40+00:00",
   "items": [
+    {
+      "id": "latest_1ee5a1141e1a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "dek": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "body": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T09:52:30+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_09443cca3ddd",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-13T07:26:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vn3ttx/conor_mcgregor_announces_he_is_ending_his/",
       "image": "https://external-preview.redd.it/NbzX0aSMm_-33b1coTn6hr4Q9Cby03D2uWTBmnxp7LI.jpeg?width=640&crop=smart&auto=webp&s=16595a06840f9ed7b67a073cdb2401d32ecb2b26",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b2fff949ec00",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "dek": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
-      "body": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T07:05:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3069/live/d93ce580-96e5-11f1-9b96-77d3dc534330.png",
       "imageCredit": "Image via original publisher"
     }
   ]
