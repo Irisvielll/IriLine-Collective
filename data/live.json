@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-13T04:26:49+00:00",
+  "generatedAt": "2026-08-13T05:58:30+00:00",
   "items": [
+    {
+      "id": "latest_71b6f39bd776",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Japan protests against Putin visit to disputed islands",
+      "dek": "The Russian leader visited the Kuril islands for the first time, according to state media.",
+      "body": "The Russian leader visited the Kuril islands for the first time, according to state media.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T05:34:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eea/live/2530ea50-96d1-11f1-bb55-dd2c6c96a19d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3742c192c5e3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "dek": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in",
+      "body": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T04:55:58+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f364a9e037e2",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-13T04:09:12+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dcd0523d0bc6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "New Study Shows Hiking With an Engineer Has No Effect on Daily Enjoyment",
-      "dek": "submitted by /u/ihate282 [link] [comments]",
-      "body": "submitted by /u/ihate282 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T03:46:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmzsfb/new_study_shows_hiking_with_an_engineer_has_no/",
-      "image": "https://external-preview.redd.it/JlThDnw7kC9SG80CfjwgqPqCTShYmbxniocrmU9XNVs.png?width=640&crop=smart&auto=webp&s=13c418f768ae4006ecd1f8a7b377e8026f240c8f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ef815f7174c8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Portland bus riders got a big surprise when these two furry commuters climbed aboard",
-      "dek": "submitted by /u/oregonian [link] [comments]",
-      "body": "submitted by /u/oregonian [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T02:47:46+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmylpa/portland_bus_riders_got_a_big_surprise_when_these/",
-      "image": "https://external-preview.redd.it/Bn9wx0zD86ARR18LU1zh0fYC6Z0ME3s3pTqqDpTAH6Y.jpeg?width=640&crop=smart&auto=webp&s=92818e5b5cee5596c8f131125ff6c1da8de1049f",
       "imageCredit": "Image via original publisher"
     }
   ]
