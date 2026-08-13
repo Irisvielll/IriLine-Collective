@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-12T23:57:30+00:00",
+  "generatedAt": "2026-08-13T02:29:49+00:00",
   "items": [
+    {
+      "id": "latest_4abd3982ef9b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "dek": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+      "body": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-13T01:31:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e0/live/2fd6c2d0-96a5-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_6ed70e84073a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Goats gone wild: Loose pygmy goats caught boarding TriMet bus in Portland",
+      "dek": "submitted by /u/voxadam [link] [comments]",
+      "body": "submitted by /u/voxadam [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-12T23:49:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmunoq/goats_gone_wild_loose_pygmy_goats_caught_boarding/",
+      "image": "https://external-preview.redd.it/Y8e2y1qe39ZXUYK_wp94HsEWqrbYwzADia9l-SgQOBQ.jpeg?width=640&crop=smart&auto=webp&s=f82c4effb0ee6b4e5e0f2f375c7bd3b73afb0d34",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_78ff4fec1301",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-12T23:26:21+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd7d/live/e8bc0e50-95af-11f1-969e-eb6036cb8925.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c2c89581e313",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-      "dek": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-      "body": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T23:19:28+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb5/live/5b6616a0-9577-11f1-870d-5d08c49babb2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_75a9a8c6b579",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why Japanese firms are being so slow to use AI",
-      "dek": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-      "body": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T23:00:47+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
