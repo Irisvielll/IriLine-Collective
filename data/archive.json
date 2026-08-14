@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_a98dafd0eaf1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Spirit Halloween’s parent company to acquire Hot Topic",
+      "dek": "submitted by /u/bluffcitynews [link] [comments]",
+      "body": "submitted by /u/bluffcitynews [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-14T18:37:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vofl16/spirit_halloweens_parent_company_to_acquire_hot/",
+      "image": "https://external-preview.redd.it/98ajutDSoPeLbNroSvHBroRjp3LfUbpUgYH5Kt4rtJg.jpeg?width=640&crop=smart&auto=webp&s=02740ff24244aea798e88f45898cffadb5df1074",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_7d85fee523da",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-07T21:19:27+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_baf47c1de51a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What is birthright citizenship and how common is birth tourism in the US?",
-      "dek": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-      "body": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-07T21:09:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a4/live/42c552d0-9290-11f1-9e22-67b4720e20ea.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
