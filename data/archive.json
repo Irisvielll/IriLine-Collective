@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_7fc8d379d668",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "US Health Secretary Son Conor Kennedy Arrested in Absentia by Russia Over Fighting for Ukraine",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-14T20:35:17+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1voir6e/us_health_secretary_son_conor_kennedy_arrested_in/",
+      "image": "https://external-preview.redd.it/sPalVKiFzkjEv40nwYHJMBB5IidYN-gZ29ccj9Ca2Tg.jpeg?width=640&crop=smart&auto=webp&s=5222a3394d7ce2db022198c4a5afaa412cc4f0f9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fd0dcfb3e1cf",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-08T00:29:27+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f81/live/c4f72410-9261-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8c0d4f65df2c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "dek": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "body": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T00:02:49+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db46/live/2ce17130-927f-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
