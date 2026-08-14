@@ -46,6 +46,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_1a815948b42a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "dek": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "body": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-14T19:20:43+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_d851212c388b",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -103,6 +118,21 @@
       "publishedAt": "2026-08-14T18:25:38+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_39944a5a51fd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "dek": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "body": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-14T17:36:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-08T01:44:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vij2iu/child_standing_in_seat_and_refusing_a_seatbelt/",
       "image": "https://external-preview.redd.it/QP1AXrQNCacZwuN6-y6NL8QMDf4XYBbIjiMYBN9hFDA.jpeg?width=640&crop=smart&auto=webp&s=6fd7f8fae4548784dfaea138f4154c66c40a4b34",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b6d6eae1830c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Scale of devastation shocks US city's fire-seasoned residents",
-      "dek": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-      "body": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T00:51:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4d/live/41f52500-92a5-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7d2ba5b03b27",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-      "dek": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-      "body": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T00:29:27+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f81/live/c4f72410-9261-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
