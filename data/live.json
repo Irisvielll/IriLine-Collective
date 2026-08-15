@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T11:19:44+00:00",
+  "generatedAt": "2026-08-15T11:45:00+00:00",
   "items": [
+    {
+      "id": "latest_8890d3817dfd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "dek": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+      "body": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T11:24:24+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_719d8a5d9f93",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T09:35:23+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b674d75b96c2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
-      "dek": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
-      "body": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T09:29:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c90/live/e1739b60-987d-11f1-a43c-2dc5e6bd5d94.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
