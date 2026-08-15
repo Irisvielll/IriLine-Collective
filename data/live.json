@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T14:48:14+00:00",
+  "generatedAt": "2026-08-15T15:19:52+00:00",
   "items": [
+    {
+      "id": "meme_1987eb629c55",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Nigel Farage wins election in which his main rival was a trash can",
+      "dek": "submitted by /u/CuriousEgg19 [link] [comments]",
+      "body": "submitted by /u/CuriousEgg19 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T15:12:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp5c80/nigel_farage_wins_election_in_which_his_main/",
+      "image": "https://external-preview.redd.it/Le7pzDH4NpKQHQAy3-Wb1kfJs-f0_sFYrGd9Uy-6kjo.jpeg?width=640&crop=smart&auto=webp&s=7d8f06659fa63e5f6deefa97860297c641cd5ce0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_a596e2302c0c",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T14:14:34+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp3ytu/american_creator_justin_ho_enters_delhi_call/",
       "image": "https://external-preview.redd.it/HmYezswKOUPhfJsF_2EQzdaJwwz0iMV-97ItX6eUWig.jpeg?width=640&crop=smart&auto=webp&s=cc4d9a2cfaaf01fda3b7b9f6dabdd98b6e640cb0",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e30c284eb6c4",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing — demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text",
-      "dek": "submitted by /u/thieh [link] [comments]",
-      "body": "submitted by /u/thieh [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T13:49:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp3did/plaintiff_busted_trying_to_use_ai_prompt/",
-      "image": "https://external-preview.redd.it/RbPbizoy-3BuBCCzCQc5n2SYF4C9Doxu5OI9nLRMSO8.png?width=640&crop=smart&auto=webp&s=03d7039661fd1237247897179e58df596ddd6705",
       "imageCredit": "Image via original publisher"
     }
   ]
