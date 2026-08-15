@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T13:29:54+00:00",
+  "generatedAt": "2026-08-15T13:54:01+00:00",
   "items": [
+    {
+      "id": "meme_e30c284eb6c4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing — demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text",
+      "dek": "submitted by /u/thieh [link] [comments]",
+      "body": "submitted by /u/thieh [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T13:49:09+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp3did/plaintiff_busted_trying_to_use_ai_prompt/",
+      "image": "https://external-preview.redd.it/RbPbizoy-3BuBCCzCQc5n2SYF4C9Doxu5OI9nLRMSO8.png?width=640&crop=smart&auto=webp&s=03d7039661fd1237247897179e58df596ddd6705",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4b0711525247",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T11:24:24+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_719d8a5d9f93",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "dek": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-      "body": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T10:56:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
