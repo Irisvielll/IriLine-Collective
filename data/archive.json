@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_ba4b0eed2cb8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "British diplomats have had their allowances for working in Buenos Aires canceled",
+      "dek": "submitted by /u/Jessicas_skirt [link] [comments]",
+      "body": "submitted by /u/Jessicas_skirt [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T17:35:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp8wyd/british_diplomats_have_had_their_allowances_for/",
+      "image": "https://external-preview.redd.it/tzIoyFmD8VKBPAVwZRw7AMQih2K9PBIaYPnf3OeZzxw.jpeg?width=640&crop=smart&auto=webp&s=31570bca57048f5f1a9837f4e44d051462760158",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_1987eb629c55",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-08T23:59:23+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7503591c004d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "dek": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-      "body": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T23:43:44+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
