@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_1987eb629c55",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Nigel Farage wins election in which his main rival was a trash can",
+      "dek": "submitted by /u/CuriousEgg19 [link] [comments]",
+      "body": "submitted by /u/CuriousEgg19 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T15:12:41+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp5c80/nigel_farage_wins_election_in_which_his_main/",
+      "image": "https://external-preview.redd.it/Le7pzDH4NpKQHQAy3-Wb1kfJs-f0_sFYrGd9Uy-6kjo.jpeg?width=640&crop=smart&auto=webp&s=7d8f06659fa63e5f6deefa97860297c641cd5ce0",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a596e2302c0c",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-08T23:43:44+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2400185859da",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Fifa criticises campaign to oust president Infantino",
-      "dek": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
-      "body": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T22:06:44+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de50/live/00229450-937c-11f1-9df5-0122184ff6d7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
