@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_3668ede7fda8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "North Jersey bridges are reviewed like restaurants, apparently",
+      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T01:03:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vop04a/north_jersey_bridges_are_reviewed_like/",
+      "image": "https://external-preview.redd.it/kKYdS0bllm_HxdOIlhEO8O2My4luc1MoyE4FghB6eBA.jpeg?width=320&crop=smart&auto=webp&s=9dcd5052156d73f598132aa591a0a89238c4798d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_f1745950e5df",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-08T12:01:42+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6ff63d9b355f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
-      "dek": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
-      "body": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T10:19:46+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136a/live/52b81650-930d-11f1-a52f-31e1c3a4e20b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
