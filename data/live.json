@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T21:20:25+00:00",
+  "generatedAt": "2026-08-15T21:45:34+00:00",
   "items": [
+    {
+      "id": "latest_69f23561f997",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "dek": "New South Wales, where the attack took place, will offer gun-owners cash to give up their firearms.",
+      "body": "New South Wales, where the attack took place, will offer gun-owners cash to give up their firearms.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T21:41:43+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ca01092fef56",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T20:28:30+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3084e9956572",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "dek": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "body": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T19:41:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
