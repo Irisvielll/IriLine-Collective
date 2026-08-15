@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T13:54:01+00:00",
+  "generatedAt": "2026-08-15T14:22:05+00:00",
   "items": [
+    {
+      "id": "meme_f738288a3ffa",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "American Creator Justin Ho Enters Delhi Call Centre Dressed As SpongeBob",
+      "dek": "submitted by /u/Traditional-Song-245 [link] [comments]",
+      "body": "submitted by /u/Traditional-Song-245 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T14:14:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp3ytu/american_creator_justin_ho_enters_delhi_call/",
+      "image": "https://external-preview.redd.it/HmYezswKOUPhfJsF_2EQzdaJwwz0iMV-97ItX6eUWig.jpeg?width=640&crop=smart&auto=webp&s=cc4d9a2cfaaf01fda3b7b9f6dabdd98b6e640cb0",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e30c284eb6c4",
       "section": "meme",
@@ -17,33 +32,18 @@
       "imageCredit": "Image via original publisher"
     },
     {
-      "id": "meme_4b0711525247",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man arrested after dressing as Grim Reaper on hospital roof and staring at patients",
-      "dek": "submitted by /u/FitnessChamp777 [link] [comments]",
-      "body": "submitted by /u/FitnessChamp777 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T12:49:34+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp21w6/man_arrested_after_dressing_as_grim_reaper_on/",
-      "image": "https://external-preview.redd.it/JL4RsK1vm8cEveXXPNSWdDayUgJLfjhqChvqZAYMXss.jpeg?width=640&crop=smart&auto=webp&s=6d10c6406aad9b316e21a2d85ca91b6d80abf185",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8890d3817dfd",
+      "id": "latest_d6f10f9fd6b9",
       "section": "latest",
       "sectionLabel": "Latest",
       "type": "REAL",
       "category": "WORLD",
-      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
-      "dek": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
-      "body": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "dek": "The annual contest has been taking place in Santa Rosa, California.",
+      "body": "The annual contest has been taking place in Santa Rosa, California.",
       "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T11:24:24+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-08-15T13:41:08+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
