@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_d6f10f9fd6b9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "dek": "The annual contest has been taking place in Santa Rosa, California.",
+      "body": "The annual contest has been taking place in Santa Rosa, California.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T13:41:08+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_4b0711525247",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-08T20:10:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vj5sej/like_a_moody_punk_rocker_the_red_handfish_is/",
       "image": "https://external-preview.redd.it/VA3CGKzb4iHJaVoVoKmpp_-BVZbqM9XWJbpZvmNIQAA.jpeg?width=640&crop=smart&auto=webp&s=6db71c96597eb88569f0acf957f1041b74c45081",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_639e1a78a571",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "dek": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-      "body": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T19:18:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

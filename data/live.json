@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T14:22:05+00:00",
+  "generatedAt": "2026-08-15T14:48:14+00:00",
   "items": [
+    {
+      "id": "latest_a596e2302c0c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "dek": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "body": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T14:21:24+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0571/live/6894b170-98af-11f1-9a0b-ef36d15fc6b3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f738288a3ffa",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T13:49:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vp3did/plaintiff_busted_trying_to_use_ai_prompt/",
       "image": "https://external-preview.redd.it/RbPbizoy-3BuBCCzCQc5n2SYF4C9Doxu5OI9nLRMSO8.png?width=640&crop=smart&auto=webp&s=03d7039661fd1237247897179e58df596ddd6705",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d6f10f9fd6b9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "World's Ugliest Dog contest crowns 2026 winner",
-      "dek": "The annual contest has been taking place in Santa Rosa, California.",
-      "body": "The annual contest has been taking place in Santa Rosa, California.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T13:41:08+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
