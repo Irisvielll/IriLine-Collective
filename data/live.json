@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T04:46:23+00:00",
+  "generatedAt": "2026-08-15T05:23:54+00:00",
   "items": [
+    {
+      "id": "latest_91d493a28da1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "dek": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "body": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T05:01:13+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_2dd9bfa86b95",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T02:01:21+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1voq89g/two_women_chase_departing_plane_across_moscow/",
       "image": "https://external-preview.redd.it/MG-B-rnFq1YfEkVJKKbhQDsN5flEM4ydCmuaW54JqmA.jpeg?width=640&crop=smart&auto=webp&s=7f1ff8acce442c4b536a89a936bc0d07f3cff99d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a64c073e703c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Colorado brewery to release 'OnlyMarms' beer to benefit marmot research",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T01:12:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vop76l/colorado_brewery_to_release_onlymarms_beer_to/",
-      "image": "https://external-preview.redd.it/mAebBDOzg_nwiEh3P5m1W3pIBHpkpbbVs9sGtGsBBcA.jpeg?width=640&crop=smart&auto=webp&s=17bacd717105327204ee8b288406082ff3305ba3",
       "imageCredit": "Image via original publisher"
     }
   ]
