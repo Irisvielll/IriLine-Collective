@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T05:23:54+00:00",
+  "generatedAt": "2026-08-15T05:50:43+00:00",
   "items": [
     {
       "id": "latest_91d493a28da1",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_55f5b4c9bde3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "dek": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "body": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T04:12:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_2dd9bfa86b95",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T03:54:05+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vosht3/cubs_nationals_in_trademark_fight_with_wnba_over/",
       "image": "https://external-preview.redd.it/xNyFfD0v14gadR_pswnHrxPdo-0OPA4VonxURzoqGUo.jpeg?width=640&crop=smart&auto=webp&s=8e1fcf585f670da246488b95d7a7739225050d36",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_37472799b606",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Two Women Chase Departing Plane Across Moscow Airport Tarmac After Missing Flight",
-      "dek": "submitted by /u/ubcstaffer123 [link] [comments]",
-      "body": "submitted by /u/ubcstaffer123 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T02:01:21+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1voq89g/two_women_chase_departing_plane_across_moscow/",
-      "image": "https://external-preview.redd.it/MG-B-rnFq1YfEkVJKKbhQDsN5flEM4ydCmuaW54JqmA.jpeg?width=640&crop=smart&auto=webp&s=7f1ff8acce442c4b536a89a936bc0d07f3cff99d",
       "imageCredit": "Image via original publisher"
     }
   ]
