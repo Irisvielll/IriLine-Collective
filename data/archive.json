@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_55f5b4c9bde3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "dek": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "body": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T04:12:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_2dd9bfa86b95",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-08T17:22:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vj1o2a/man_living_inside_billboard_in_hollywood/",
       "image": "https://external-preview.redd.it/yxaEisIefxnN96l2hBso3_OF7x8A9jy0nW2IBN83Fmk.jpeg?width=640&crop=smart&auto=webp&s=c46d8eacf5a8b031c5d72980e75ec680b6d0d539",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e0b1d0814d1b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man dressed as 'Grim Reaper' stared at patients from roof of Welsh hospital",
-      "dek": "submitted by /u/ArthurPeabody [link] [comments]",
-      "body": "submitted by /u/ArthurPeabody [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-08T16:37:28+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vj0k56/man_dressed_as_grim_reaper_stared_at_patients/",
-      "image": "https://external-preview.redd.it/7dKV1y_45tOnkaGRg4Nupc78UKrLPceUz_0NrpJ16fs.jpeg?width=640&crop=smart&auto=webp&s=dd049baae313316c4b5462016bf425f9ae059fad",
       "imageCredit": "Image via original publisher"
     }
   ]
