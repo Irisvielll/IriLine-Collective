@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_69f23561f997",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "dek": "New South Wales, where the attack took place, will offer gun-owners cash to give up their firearms.",
+      "body": "New South Wales, where the attack took place, will offer gun-owners cash to give up their firearms.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T21:41:43+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ca01092fef56",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-09T04:32:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3db4117cbbd1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Arizona Racers Proved Lawn Mowers Could Do More Than Cut Grass",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T03:58:51+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjfog9/arizona_racers_proved_lawn_mowers_could_do_more/",
-      "image": "https://external-preview.redd.it/RBQDOCSjhhNJKQkg9d8be7HZ22bI66WbtV492v5YcS4.jpeg?width=640&crop=smart&auto=webp&s=8572d4671689e43353eba6ba6c580ba1cbedb396",
       "imageCredit": "Image via original publisher"
     }
   ]

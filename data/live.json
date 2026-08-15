@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-15T22:47:11+00:00",
+  "generatedAt": "2026-08-15T23:19:25+00:00",
   "items": [
+    {
+      "id": "meme_41e5d6747316",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Grab a beer at the dining facility: Fort Hood bistro begins alcohol sales",
+      "dek": "submitted by /u/UltimateLionsFan [link] [comments]",
+      "body": "submitted by /u/UltimateLionsFan [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T23:15:27+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vph1tr/grab_a_beer_at_the_dining_facility_fort_hood/",
+      "image": "https://external-preview.redd.it/gpYeWpEdgcLfpbFu86BEqtbmyFxawPdE0kcSKBuvhk4.jpeg?width=320&crop=smart&auto=webp&s=174a387ffd3790ca3167126b7ebdaae36e9a005c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_1e643aae9169",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T21:49:12+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_69f23561f997",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "dek": "New South Wales, where the attack took place, will offer gun-owners cash to give up their firearms.",
-      "body": "New South Wales, where the attack took place, will offer gun-owners cash to give up their firearms.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T21:41:43+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
