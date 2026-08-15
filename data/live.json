@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-15T21:45:34+00:00",
+  "generatedAt": "2026-08-15T22:20:42+00:00",
   "items": [
+    {
+      "id": "meme_1e643aae9169",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Tuberville says he likes to talk to ChatGPT on long drives",
+      "dek": "submitted by /u/Character-Bid-162 [link] [comments]",
+      "body": "submitted by /u/Character-Bid-162 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T22:19:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpftto/tuberville_says_he_likes_to_talk_to_chatgpt_on/",
+      "image": "https://external-preview.redd.it/uqaCkcDgWiJuej3D9aDQOkffgDS6WwoSv1kgxvTTUS0.jpeg?width=640&crop=smart&auto=webp&s=643253656b513ed02e114c79f015ed992931e99f",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3ad1c578f974",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "dek": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "body": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T21:49:12+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_69f23561f997",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-15T21:41:43+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ca01092fef56",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "dek": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "body": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T21:03:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_803a25ffb81d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "dek": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "body": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T20:28:30+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
