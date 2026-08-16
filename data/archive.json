@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_966b5f565a26",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "dek": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "body": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T12:18:09+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2df5fb95cbeb",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-09T17:45:06+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjw7ff/onlymarms_marmots_are_on_onlyfans_to_raise_money/",
       "image": "https://external-preview.redd.it/WS1QSAwwM48TivJoy4HZ7YlUEEHp3FRtfK77j00HEJk.jpeg?width=640&crop=smart&auto=webp&s=b323bb4a49e2b4f236d80d972dde775ec7eff09a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cd34ac806958",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Puerto Rico rations water supplies due to intense drought",
-      "dek": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
-      "body": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T16:43:23+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
