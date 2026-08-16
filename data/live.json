@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-16T19:02:28+00:00",
+  "generatedAt": "2026-08-16T19:33:10+00:00",
   "items": [
+    {
+      "id": "meme_94cb95ad3b54",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Senator bids farewell to Beth, his ‘faithful’ vacuum cleaner",
+      "dek": "submitted by /u/Efficient-Freedom517 [link] [comments]",
+      "body": "submitted by /u/Efficient-Freedom517 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T19:24:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vq62pc/senator_bids_farewell_to_beth_his_faithful_vacuum/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_94cb95ad3b54",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_d3c8d4b96bf7",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-16T16:14:26+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bdc/live/0a2927a0-9987-11f1-a4eb-59b79ff5ff4f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_36455e7e8f5f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Mayor puts NF under state of emergency",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T14:19:21+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpy9rx/mayor_puts_nf_under_state_of_emergency/",
-      "image": "https://external-preview.redd.it/Gb4fSJlakf0wqbmaxLkPvribNsBrhq4N27_DqIz74LU.jpeg?width=320&crop=smart&auto=webp&s=a1367419d13ddc27592ca5260749592440c676c1",
       "imageCredit": "Image via original publisher"
     }
   ]
