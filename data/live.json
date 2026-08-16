@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-16T21:58:17+00:00",
+  "generatedAt": "2026-08-16T22:29:06+00:00",
   "items": [
+    {
+      "id": "meme_8a9335b8f3cb",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Air France Closes Paris Lounge Sauna After Passengers Apparently Turned It Into A Sex Den",
+      "dek": "submitted by /u/its_a_bear_dance [link] [comments]",
+      "body": "submitted by /u/its_a_bear_dance [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T22:24:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqaizq/air_france_closes_paris_lounge_sauna_after/",
+      "image": "https://external-preview.redd.it/-m4D_MZn_-c52xYDBkhjDAYBAwBsnsSLGMGi2HxKrMQ.jpeg?width=640&crop=smart&auto=webp&s=18ffa4be84779957cc4832dfc97e470261f4582e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_9e5b066bfa87",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-16T21:27:42+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4559c202444f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "dek": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-      "body": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T21:04:27+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

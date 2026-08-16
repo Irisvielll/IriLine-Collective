@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_4559c202444f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "dek": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+      "body": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T21:04:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2d4b21839f92",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vk3l45/the_dark_underbelly_of_paw_patrol/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e993f9a4c834",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_ccf8625eec43",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Jeff Bezos says being lazy, not working hard, is the root of anxiety: ‘The stress goes away the second I take that first step’",
-      "dek": "submitted by /u/xtheresia [link] [comments]",
-      "body": "submitted by /u/xtheresia [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T21:42:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vk26kk/jeff_bezos_says_being_lazy_not_working_hard_is/",
-      "image": "https://external-preview.redd.it/tA6qQIeKIYPLaCtJVZVmIFgh39FnUuF9bcH4_Tb5KmU.jpeg?width=640&crop=smart&auto=webp&s=4c3765daa25f68596842b4c17cafa2e60f7d41d6",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
