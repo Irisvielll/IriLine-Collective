@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-16T11:59:58+00:00",
+  "generatedAt": "2026-08-16T12:54:46+00:00",
   "items": [
+    {
+      "id": "latest_966b5f565a26",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "dek": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "body": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T12:18:09+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_2df5fb95cbeb",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpu1zk/taliban_to_host_first_public_victory_day/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_542e4d7ceacd",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_20cfa26d02e6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-      "dek": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
-      "body": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T08:14:56+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
