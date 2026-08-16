@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-16T04:35:09+00:00",
+  "generatedAt": "2026-08-16T05:05:40+00:00",
   "items": [
+    {
+      "id": "meme_c5269455df40",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "More than 50 cats rescued from abandoned sailboat",
+      "dek": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "body": "submitted by /u/SmokeMaximum4140 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T05:00:44+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpnypl/more_than_50_cats_rescued_from_abandoned_sailboat/",
+      "image": "https://external-preview.redd.it/XwfW6HZ272dY3Mg_Ob11g_79Rg6K-7J6qLdvYJHAiPc.jpeg?width=640&crop=smart&auto=webp&s=d342804fd340fd27bede6824fc4d432e7a001762",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_41e5d6747316",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-15T22:19:21+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpftto/tuberville_says_he_likes_to_talk_to_chatgpt_on/",
       "image": "https://external-preview.redd.it/uqaCkcDgWiJuej3D9aDQOkffgDS6WwoSv1kgxvTTUS0.jpeg?width=640&crop=smart&auto=webp&s=643253656b513ed02e114c79f015ed992931e99f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3ad1c578f974",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "dek": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-      "body": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T21:49:12+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

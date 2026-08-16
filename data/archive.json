@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_3ad1c578f974",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "dek": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "body": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-15T21:49:12+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_69f23561f997",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-09T07:10:44+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjj4dc/warner_bros_uses_ai_dog_podcast_to_promote_the/",
       "image": "https://external-preview.redd.it/GbPGICYjESWw7BVLwODllm1r4Krn8hSJ5sGUp2oZqi0.jpeg?width=640&crop=smart&auto=webp&s=d222e60146e616eee9592df2ff40a2041683954c",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9c51281315e4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Perez Hilton faces long recovery after self-harm livestream",
-      "dek": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "body": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T04:32:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
