@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_d39bc91ddc0a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump says US will scale back military drills with South Korea",
+      "dek": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "body": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T21:27:42+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_4559c202444f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06b/live/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e993f9a4c834",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "The dark underbelly of “Paw Patrol”",
-      "dek": "Are the Paw Patrol enforcers for authoritarian capitalism? submitted by /u/My_hilarious_name [link] [comments]",
-      "body": "Are the Paw Patrol enforcers for authoritarian capitalism? submitted by /u/My_hilarious_name [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T22:41:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vk3l45/the_dark_underbelly_of_paw_patrol/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e993f9a4c834",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
