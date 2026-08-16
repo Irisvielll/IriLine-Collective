@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-16T19:54:58+00:00",
+  "generatedAt": "2026-08-16T20:21:21+00:00",
   "items": [
+    {
+      "id": "latest_2d4b21839f92",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "dek": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "body": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T19:58:14+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_94cb95ad3b54",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-16T18:11:23+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vq46m9/gunfire_strikes_nipsco_vehicle_as_crews_worked_to/",
       "image": "https://external-preview.redd.it/cAO9vPveLCBdNcPsUyjceXvLo9VmZy4RT8qL1MjWKMo.jpeg?width=640&crop=smart&auto=webp&s=854f1db5b00ae015d5881e9cb5bd4a127368f95e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5282a4741c3e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two dead and evacuation under way as fires break out on Greek island",
-      "dek": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
-      "body": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T16:14:26+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bdc/live/0a2927a0-9987-11f1-a4eb-59b79ff5ff4f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
