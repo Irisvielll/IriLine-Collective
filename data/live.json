@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-16T13:59:23+00:00",
+  "generatedAt": "2026-08-16T14:31:13+00:00",
   "items": [
+    {
+      "id": "meme_36455e7e8f5f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Mayor puts NF under state of emergency",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T14:19:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpy9rx/mayor_puts_nf_under_state_of_emergency/",
+      "image": "https://external-preview.redd.it/Gb4fSJlakf0wqbmaxLkPvribNsBrhq4N27_DqIz74LU.jpeg?width=320&crop=smart&auto=webp&s=a1367419d13ddc27592ca5260749592440c676c1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_8d0343a74756",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-16T12:18:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2df5fb95cbeb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "dek": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
-      "body": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T11:35:25+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

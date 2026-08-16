@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2df5fb95cbeb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "dek": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "body": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T11:35:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_542e4d7ceacd",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-09T16:43:23+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f6f/live/8f493ea0-9407-11f1-a3c4-b3ff07dc0ce9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_88d93f7c4f32",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "dek": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "body": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T16:18:10+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/9f71d840-940d-11f1-870d-5d08c49babb2.png",
       "imageCredit": "Image via original publisher"
     }
   ]
