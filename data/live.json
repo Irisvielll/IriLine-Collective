@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-16T17:59:05+00:00",
+  "generatedAt": "2026-08-16T18:39:40+00:00",
   "items": [
+    {
+      "id": "meme_d3c8d4b96bf7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Gunfire strikes NIPSCO vehicle as crews worked to restore power in Gary; storm restoration paused",
+      "dek": "The company says it will continue working to restore power in other parts of northwest Indiana, but has paused work in Gary. submitted by /u/aobe4138 [link] [co",
+      "body": "The company says it will continue working to restore power in other parts of northwest Indiana, but has paused work in Gary. submitted by /u/aobe4138 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T18:11:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vq46m9/gunfire_strikes_nipsco_vehicle_as_crews_worked_to/",
+      "image": "https://external-preview.redd.it/cAO9vPveLCBdNcPsUyjceXvLo9VmZy4RT8qL1MjWKMo.jpeg?width=640&crop=smart&auto=webp&s=854f1db5b00ae015d5881e9cb5bd4a127368f95e",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_5282a4741c3e",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-16T14:19:21+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpy9rx/mayor_puts_nf_under_state_of_emergency/",
       "image": "https://external-preview.redd.it/Gb4fSJlakf0wqbmaxLkPvribNsBrhq4N27_DqIz74LU.jpeg?width=320&crop=smart&auto=webp&s=a1367419d13ddc27592ca5260749592440c676c1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8d0343a74756",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "dek": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "body": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T13:34:38+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

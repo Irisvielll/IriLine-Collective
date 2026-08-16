@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8d0343a74756",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "dek": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "body": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T13:34:38+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_966b5f565a26",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-09T18:01:38+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjwmxw/woman_who_claims_to_own_the_sun_is_suing_ebay_for/",
       "image": "https://external-preview.redd.it/bmIzo6LhM-t7c30FTPpkaZFjLfpRHnxlabOvKdKlzLw.jpeg?width=640&crop=smart&auto=webp&s=bf7a90a00e23c8826792e555adf5283a55726c91",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_228d0066abae",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘OnlyMarms’: Marmots are on OnlyFans to raise money for research",
-      "dek": "submitted by /u/Wide-Read1449 [link] [comments]",
-      "body": "submitted by /u/Wide-Read1449 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-09T17:45:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vjw7ff/onlymarms_marmots_are_on_onlyfans_to_raise_money/",
-      "image": "https://external-preview.redd.it/WS1QSAwwM48TivJoy4HZ7YlUEEHp3FRtfK77j00HEJk.jpeg?width=640&crop=smart&auto=webp&s=b323bb4a49e2b4f236d80d972dde775ec7eff09a",
       "imageCredit": "Image via original publisher"
     }
   ]
