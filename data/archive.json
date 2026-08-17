@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_90ff630ab71c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russian teenager faces misdemeanour charge for listening to ‘extremist’ song",
+      "dek": "submitted by /u/duckanroll [link] [comments]",
+      "body": "submitted by /u/duckanroll [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T10:06:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqo3yk/russian_teenager_faces_misdemeanour_charge_for/",
+      "image": "https://external-preview.redd.it/8ZxepxJI-6nkbssG-LaXFscgXjL_znXJI3c8nUOVLls.png?width=640&crop=smart&auto=webp&s=a01e70e23a5efc9a806c042c818db66b515ead63",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_f7417463833f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-10T12:32:26+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e48c/live/bb9b7b40-94b0-11f1-afe9-fb1a837ec5d9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bfa7e669ab4b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "dek": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "body": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T12:23:21+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29af/live/fe349030-949d-11f1-9ade-bb7c8a2b6bc0.png",
       "imageCredit": "Image via original publisher"
     }
   ]
