@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_50ec5c221130",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Andy Burnham duped by impostor impersonating Susie Wiles",
+      "dek": "submitted by /u/Efficient-Freedom517 [link] [comments]",
+      "body": "submitted by /u/Efficient-Freedom517 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T18:46:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vr11a5/andy_burnham_duped_by_impostor_impersonating/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_50ec5c221130",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_66339816d714",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-10T17:58:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vks8ue/us_hires_over_2000_video_gamers_as_air_traffic/",
       "image": "https://external-preview.redd.it/MFIAAuhxNLpiIQxbkff5wsi4w5kH0LwCUN-HUyWTx4w.jpeg?width=640&crop=smart&auto=webp&s=67c543a0106b82c8dfec7131dd63e50e7d0da3c9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f7358b3b76b0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "dek": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-      "body": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T17:50:29+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4fc/live/e95d8e40-94da-11f1-8a7b-e7300179227e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
