@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1614ac48b589",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "dek": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "body": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T07:31:36+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5875d121b935",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-10T12:18:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkj8me/more_than_half_the_homes_in_east_omaha_have/",
       "image": "https://external-preview.redd.it/m86L_5GlVWCRSYKQQLDJ8zeTcpzgYWsghL9JpI7apNA.jpeg?width=640&crop=smart&auto=webp&s=5bfc3d2b078fe404f97cf52eb343cb9e793d6d29",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a65739d019c6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Council apologises after 'Dead End' sign placed next to cemetery",
-      "dek": "submitted by /u/RickyOzzy [link] [comments]",
-      "body": "submitted by /u/RickyOzzy [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T11:58:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vkis3m/council_apologises_after_dead_end_sign_placed/",
-      "image": "https://external-preview.redd.it/pTUuUxPHcx9CiI3TTDIdkWmRkRG2E3f04JXIFwQTdVQ.jpeg?width=640&crop=smart&auto=webp&s=bfcf7d23edc68f6ebdebf99edb3f05460811a523",
       "imageCredit": "Image via original publisher"
     }
   ]

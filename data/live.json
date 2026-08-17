@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-17T09:57:05+00:00",
+  "generatedAt": "2026-08-17T10:36:27+00:00",
   "items": [
+    {
+      "id": "meme_90ff630ab71c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Russian teenager faces misdemeanour charge for listening to ‘extremist’ song",
+      "dek": "submitted by /u/duckanroll [link] [comments]",
+      "body": "submitted by /u/duckanroll [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T10:06:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqo3yk/russian_teenager_faces_misdemeanour_charge_for/",
+      "image": "https://external-preview.redd.it/8ZxepxJI-6nkbssG-LaXFscgXjL_znXJI3c8nUOVLls.png?width=640&crop=smart&auto=webp&s=a01e70e23a5efc9a806c042c818db66b515ead63",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f7417463833f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-17T08:35:07+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e236/live/6f76c6e0-9a12-11f1-a05c-fdd5e0ed226e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1614ac48b589",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "dek": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-      "body": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T07:31:36+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
