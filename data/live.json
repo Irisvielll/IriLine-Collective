@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-17T16:56:11+00:00",
+  "generatedAt": "2026-08-17T17:28:32+00:00",
   "items": [
+    {
+      "id": "latest_b09712b568b1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "dek": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "body": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T16:17:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_402f56ab13b1",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-17T14:36:44+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cbd/live/ce084930-9a40-11f1-a86b-519b4d19bbee.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_63ea90d58497",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "What is the \"flock sock?\" The viral cover aimed at surveillance cameras",
-      "dek": "submitted by /u/EmperorOfTheSand [link] [comments]",
-      "body": "submitted by /u/EmperorOfTheSand [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T14:36:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqu4jk/what_is_the_flock_sock_the_viral_cover_aimed_at/",
-      "image": "https://external-preview.redd.it/7O1DSlyhbkeTabW1tjTDYAfyo0sDrL6l87DZKwPAFgw.png?width=640&crop=smart&auto=webp&s=0215d81a94ffcc5e142d850d53ee01347720a668",
       "imageCredit": "Image via original publisher"
     }
   ]
