@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-16T23:58:41+00:00",
+  "generatedAt": "2026-08-17T01:48:32+00:00",
   "items": [
+    {
+      "id": "meme_aaa4925c52a9",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "[ Removed by Reddit ]",
+      "dek": "[ Removed by Reddit on account of violating the content policy. ] submitted by /u/WeirdAFNewsPodcast [link] [comments]",
+      "body": "[ Removed by Reddit on account of violating the content policy. ] submitted by /u/WeirdAFNewsPodcast [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T00:08:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqcvbh/removed_by_reddit/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_aaa4925c52a9",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_b263562850c8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "In a first, AI boss sacks employee at San Francisco retail store for being late 17 out of 23 shifts",
+      "dek": "submitted by /u/WeirdAFNewsPodcast [link] [comments]",
+      "body": "submitted by /u/WeirdAFNewsPodcast [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T00:04:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqcscq/in_a_first_ai_boss_sacks_employee_at_san/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_b263562850c8",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "latest_276a20332623",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-16T23:09:39+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1340/live/14891440-97ec-11f1-a655-8fe1097dfbd0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_8a9335b8f3cb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Air France Closes Paris Lounge Sauna After Passengers Apparently Turned It Into A Sex Den",
-      "dek": "submitted by /u/its_a_bear_dance [link] [comments]",
-      "body": "submitted by /u/its_a_bear_dance [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T22:24:43+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqaizq/air_france_closes_paris_lounge_sauna_after/",
-      "image": "https://external-preview.redd.it/-m4D_MZn_-c52xYDBkhjDAYBAwBsnsSLGMGi2HxKrMQ.jpeg?width=640&crop=smart&auto=webp&s=18ffa4be84779957cc4832dfc97e470261f4582e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cc7e22f2951e",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Thailand has a gun problem - 10 million of them",
-      "dek": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "body": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T22:09:04+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57f1/live/f3882690-97bf-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
