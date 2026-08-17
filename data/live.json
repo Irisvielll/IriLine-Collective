@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-17T15:24:47+00:00",
+  "generatedAt": "2026-08-17T15:49:39+00:00",
   "items": [
+    {
+      "id": "latest_402f56ab13b1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll sex abuse case",
+      "dek": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "body": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-17T15:33:42+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_fddaa90f876f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-17T14:36:23+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqu4jk/what_is_the_flock_sock_the_viral_cover_aimed_at/",
       "image": "https://external-preview.redd.it/7O1DSlyhbkeTabW1tjTDYAfyo0sDrL6l87DZKwPAFgw.png?width=640&crop=smart&auto=webp&s=0215d81a94ffcc5e142d850d53ee01347720a668",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_dc1906a12015",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "U.S. Little League World Series Team Accused Of Cheating",
-      "dek": "submitted by /u/Windows_66 [link] [comments]",
-      "body": "submitted by /u/Windows_66 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T13:40:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqsnh2/us_little_league_world_series_team_accused_of/",
-      "image": "https://external-preview.redd.it/5OnREKhcRYK3FNu52kcsM72t1E9RvtTxaz1_CnT2spo.png?width=640&crop=smart&auto=webp&s=47bf6ecbe326b8d0741a6897e60f68892e2c8492",
       "imageCredit": "Image via original publisher"
     }
   ]
