@@ -106,6 +106,21 @@
       "imageCredit": "Photo via Unsplash (free to use)"
     },
     {
+      "id": "latest_ce70ff01297f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+      "dek": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
+      "body": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-16T23:21:37+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8072/live/541515d0-9811-11f1-a7ab-8b30adf0800a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_276a20332623",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-10T10:24:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c200/live/ff20a010-94ac-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3318c3c4c0c7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "dek": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
-      "body": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-10T09:51:07+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8278/live/f3d353e0-949f-11f1-9ade-bb7c8a2b6bc0.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
