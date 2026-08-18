@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_c333912f0e53",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What it's like to be on a warship like the USS Abraham Lincoln",
+      "dek": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
+      "body": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T05:07:06+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b0/live/ed5e7c30-983f-11f1-a1f9-67130a019877.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e00f54baa441",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vl6v0i/ucla_marmot_research_lab_turns_to_onlyfans_after/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_bbaa6233f007",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_9d70fc70d9ef",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Many Indonesians named after Japanese anime characters",
-      "dek": "submitted by /u/fjhforever [link] [comments]",
-      "body": "submitted by /u/fjhforever [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T03:56:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vl6qex/many_indonesians_named_after_japanese_anime/",
-      "image": "https://external-preview.redd.it/4CzT3g_JlGbeGlzXPXQikB4MGM3_k4eREXCQy5nDtcw.jpeg?width=640&crop=smart&auto=webp&s=33a299d3b76ae67adefd6556141581973327a8da",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

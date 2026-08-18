@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-18T05:56:57+00:00",
+  "generatedAt": "2026-08-18T06:50:57+00:00",
   "items": [
+    {
+      "id": "meme_a173332360b4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Suspect’s attempt to hide under a blanket from police backfires",
+      "dek": "submitted by /u/alfaromeo321 [link] [comments]",
+      "body": "submitted by /u/alfaromeo321 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T05:58:50+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrgnfb/suspects_attempt_to_hide_under_a_blanket_from/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a173332360b4",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_0ae30f32ea6c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-18T05:11:00+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrfrrj/ak_47_fired_during_student_protests_but_none/",
       "image": "https://external-preview.redd.it/JFPGhV_DZhM-Kexcr8mXyyqaKnmW70xNQMtlu4J6nKg.jpeg?width=640&crop=smart&auto=webp&s=1b9449bed1f25ac09cd575bb917f87b59dd2e85b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c333912f0e53",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What it's like to be on a warship like the USS Abraham Lincoln",
-      "dek": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-      "body": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T05:07:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b0/live/ed5e7c30-983f-11f1-a1f9-67130a019877.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
