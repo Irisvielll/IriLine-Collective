@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_01ccb878cd0c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "dek": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "body": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T08:44:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08e/live/b953e5a0-9ad9-11f1-b2f7-5d1639b20e22.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_18185c180534",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-11T13:35:57+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e16/live/08c4af60-9586-11f1-8636-978a48bd79b6.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3c04f12e3354",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Italy's $4.7 billion cheese economy is feeling the heat as climate change threatens its cheese banks that hold Parmigiano wheels as loan collateral",
-      "dek": "submitted by /u/bestestopinion [link] [comments]",
-      "body": "submitted by /u/bestestopinion [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T13:25:05+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vlhej3/italys_47_billion_cheese_economy_is_feeling_the/",
-      "image": "https://external-preview.redd.it/HTb8_TBlBblEr9rEXu2P_6iHAMagDMbPpjImPiPPr90.jpeg?width=640&crop=smart&auto=webp&s=5a59c7a93c3a328b220d12959d02f24dc3429396",
       "imageCredit": "Image via original publisher"
     }
   ]
