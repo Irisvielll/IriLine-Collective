@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-18T18:56:05+00:00",
+  "generatedAt": "2026-08-18T19:29:12+00:00",
   "items": [
+    {
+      "id": "meme_65111d2fdcf6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Ticket quotas? State Police Sergeant pushes troopers for “18 traffic stops” per day",
+      "dek": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "body": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T18:54:24+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrydkx/ticket_quotas_state_police_sergeant_pushes/",
+      "image": "https://external-preview.redd.it/bwMu_OAptxgip3UxG1zMb6pxM2fxTi7GO8Kpa34V-1w.png?width=640&crop=smart&auto=webp&s=1e36a66050c6a6fc97e2f960fa34c3fb9422624c",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_97acc0739574",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrwwlh/basildon_drug_dealer_jailed_again_after_bringing/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c6797c641ace",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_d52cc91dcb4a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US mother begged for help before her children's killings, mother-in-law testifies",
-      "dek": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "body": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T17:54:46+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
