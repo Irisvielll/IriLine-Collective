@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-18T06:50:57+00:00",
+  "generatedAt": "2026-08-18T07:37:21+00:00",
   "items": [
+    {
+      "id": "latest_ba66544e5586",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "dek": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "body": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T07:17:07+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d5d3143e87b9",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "dek": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
+      "body": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T06:53:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1b8/live/5e4457f0-9ac8-11f1-a74b-2f66a3b83590.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_a173332360b4",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrgnfb/suspects_attempt_to_hide_under_a_blanket_from/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a173332360b4",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_0ae30f32ea6c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Olymel brand Cooked Turkey Breast Roast Honey & Dijon recalled due to undeclared mustard",
-      "dek": "submitted by /u/Straight_Park74 [link] [comments]",
-      "body": "submitted by /u/Straight_Park74 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T05:24:48+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrg18a/olymel_brand_cooked_turkey_breast_roast_honey/",
-      "image": "https://external-preview.redd.it/WyQhsz9Fivx2mXxgSukHuUv0pyr2NcJVKwanj8TCoEw.png?width=640&crop=smart&auto=webp&s=7e78a974e3e80b5cb8a07a09cbc119c2bab4710d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_ed065ee7323f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "'AK 47 Fired During Student Protests But None Injured' : Bihar Govt Tells Supreme Court, Denies Using Excessive Force",
-      "dek": "submitted by /u/LiveLaw_India [link] [comments]",
-      "body": "submitted by /u/LiveLaw_India [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T05:11:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrfrrj/ak_47_fired_during_student_protests_but_none/",
-      "image": "https://external-preview.redd.it/JFPGhV_DZhM-Kexcr8mXyyqaKnmW70xNQMtlu4J6nKg.jpeg?width=640&crop=smart&auto=webp&s=1b9449bed1f25ac09cd575bb917f87b59dd2e85b",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
