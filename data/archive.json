@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_18185c180534",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zambia's president wins second term with 60% of the vote",
+      "dek": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+      "body": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T07:46:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3e/live/f65609d0-9ac3-11f1-8ebb-7f566bc6488f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_fa7863173477",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Indian student leader ends hunger strike after 16 days",
+      "dek": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+      "body": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T07:27:32+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52e/live/d70ab000-9ac6-11f1-a74b-2f66a3b83590.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ba66544e5586",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-11T13:25:05+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vlhej3/italys_47_billion_cheese_economy_is_feeling_the/",
       "image": "https://external-preview.redd.it/HTb8_TBlBblEr9rEXu2P_6iHAMagDMbPpjImPiPPr90.jpeg?width=640&crop=smart&auto=webp&s=5a59c7a93c3a328b220d12959d02f24dc3429396",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9c4ac1da8139",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Jellyfish force shutdown of three reactors at French nuclear plant",
-      "dek": "submitted by /u/pierrepaul [link] [comments]",
-      "body": "submitted by /u/pierrepaul [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T13:03:40+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vlgw31/jellyfish_force_shutdown_of_three_reactors_at/",
-      "image": "https://external-preview.redd.it/5oryUHs4mgfR2YFr74WKfGBgKYUKUqynyO5msNnx7LM.jpeg?width=640&crop=smart&auto=webp&s=bb48b99736c3d5840e87ab3aa8dfe585f8c766e9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0f965e278a60",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "US hires over 2,000 video gamers as air traffic controllers",
-      "dek": "submitted by /u/prestocoffee [link] [comments]",
-      "body": "submitted by /u/prestocoffee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T12:56:26+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vlgpi4/us_hires_over_2000_video_gamers_as_air_traffic/",
-      "image": "https://external-preview.redd.it/MFIAAuhxNLpiIQxbkff5wsi4w5kH0LwCUN-HUyWTx4w.jpeg?width=640&crop=smart&auto=webp&s=67c543a0106b82c8dfec7131dd63e50e7d0da3c9",
       "imageCredit": "Image via original publisher"
     }
   ]
