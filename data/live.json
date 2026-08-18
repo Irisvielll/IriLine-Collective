@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-18T07:37:21+00:00",
+  "generatedAt": "2026-08-18T08:14:28+00:00",
   "items": [
+    {
+      "id": "latest_18185c180534",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zambia's president wins second term with 60% of the vote",
+      "dek": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+      "body": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T07:46:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d3e/live/f65609d0-9ac3-11f1-8ebb-7f566bc6488f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ba66544e5586",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1b8/live/5e4457f0-9ac8-11f1-a74b-2f66a3b83590.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a173332360b4",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Suspect’s attempt to hide under a blanket from police backfires",
-      "dek": "submitted by /u/alfaromeo321 [link] [comments]",
-      "body": "submitted by /u/alfaromeo321 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T05:58:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrgnfb/suspects_attempt_to_hide_under_a_blanket_from/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_a173332360b4",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
