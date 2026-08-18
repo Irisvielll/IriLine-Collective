@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:21:32+00:00",
+  "generatedAt": "2026-08-18T23:47:01+00:00",
   "items": [
     {
       "id": "meme_8988825cb4d1",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_9b655fd72814",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "dek": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "body": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T22:25:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_85e51cb7b8d1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-18T22:18:50+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41f/live/7ce8e260-96ff-11f1-b72c-211ea4e0afc4.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_20564c93e8ea",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "dek": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-      "body": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T22:11:07+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
