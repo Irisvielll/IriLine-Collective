@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-18T22:23:12+00:00",
+  "generatedAt": "2026-08-18T22:50:48+00:00",
   "items": [
+    {
+      "id": "meme_c3f759ee64ef",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Kaia Gerber says she had an exorcism performed on her with a didgeridoo",
+      "dek": "submitted by /u/GladtobeVlad69 [link] [comments]",
+      "body": "submitted by /u/GladtobeVlad69 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T22:10:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vs3ona/kaia_gerber_says_she_had_an_exorcism_performed_on/",
+      "image": "https://external-preview.redd.it/1D3HuMOViRjX4HF3nsEDkCCIXq_shahFcKWe4po-k-s.jpeg?width=640&crop=smart&auto=webp&s=47c7fb9f81c87b0ff5337e9520132173ca7429f9",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_059d2cac32d8",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-18T21:03:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vs1y3e/penn_state_frat_pledges_forced_to_cut_and_bag/",
       "image": "https://external-preview.redd.it/6WU-zFeQ4m9twJXUxXtbL5Jyf6llE64wy9ZvDK7NTYo.jpeg?width=640&crop=smart&auto=webp&s=7978d6bb94c849cc6924a966c13a36ba42a0f270",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f9e315f00dbd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "dek": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-      "body": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T20:48:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/152b22c0-9b30-11f1-a291-b542ee92de7c.png",
       "imageCredit": "Image via original publisher"
     }
   ]
