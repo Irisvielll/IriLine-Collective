@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_69f4913067b1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Scientists determine the Great Lakes are nonrenewable",
+      "dek": "submitted by /u/AardvarkTits [link] [comments]",
+      "body": "submitted by /u/AardvarkTits [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T20:20:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vs0slr/scientists_determine_the_great_lakes_are/",
+      "image": "https://external-preview.redd.it/XkSeaLG0jahjj1LzPOdUhjZi3QCLIhIK_fJecTyQaFo.jpeg?width=640&crop=smart&auto=webp&s=5636335b8e973dbe4b88e65f7b8b92d7efcc8d14",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_af8f85dbb891",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "dek": "\"It was just weird, like some twisted game.\"",
+      "body": "\"It was just weird, like some twisted game.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T20:01:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d5/live/8979c270-9b3b-11f1-adfc-97cecc6f1ad1.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5c0ac9fb35f9",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-11T21:49:01+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac0/live/210d7380-95cd-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7e03ceb19183",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Arkansas high school football player finds deadly snake was in his helmet while he practiced for an hour",
-      "dek": "submitted by /u/jordan1978 [link] [comments]",
-      "body": "submitted by /u/jordan1978 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T21:41:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vluybq/arkansas_high_school_football_player_finds_deadly/",
-      "image": "https://external-preview.redd.it/LQSxBMP7AM0sgUCYyl6GNzG2MSz5sIxyaKq3_LR-y7c.jpeg?width=640&crop=smart&auto=webp&s=7f963c8250e01bb51289f1aabfea9821a78f9b7d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_183534eb18a9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
-      "dek": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
-      "body": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T21:34:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6f/live/e683cf90-95c5-11f1-870d-5d08c49babb2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
