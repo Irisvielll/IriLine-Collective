@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-19T10:56:19+00:00",
+  "generatedAt": "2026-08-19T11:27:41+00:00",
   "items": [
+    {
+      "id": "latest_7ddf8688bec3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "dek": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+      "body": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T10:47:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a86/live/9dc56780-9bb2-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_9073aed3b2d5",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-19T10:10:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/3828ee10-9bad-11f1-92e6-b1dfcecd4308.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fd9488fcfa19",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-      "dek": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
-      "body": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T09:48:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/725697b0-9ba6-11f1-a4e6-dfdb59e74cb0.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
