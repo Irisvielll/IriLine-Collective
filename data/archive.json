@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_a5c4c34722c1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Angélique Kidjo makes history for Africa with star on Hollywood Walk of Fame",
+      "dek": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
+      "body": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T14:36:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f28e/live/2e981260-9bb5-11f1-ae8a-8d57110c5ba6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e9e9838c2225",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -103,6 +118,21 @@
       "publishedAt": "2026-08-19T11:22:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b412/live/6bcce520-9b38-11f1-adfc-97cecc6f1ad1.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a8b809131ccd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: 'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
+      "dek": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as prosecutors and a key ",
+      "body": "Lawyers for Erin Patterson say her conviction was undermined by a \"catastrophic\" mix-up that led to the jury staying at the same hotel as prosecutors and a key witness.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T10:52:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2676/live/aeb15fe0-9bb2-11f1-aed2-8d6da8d75094.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e27/live/7fc0af60-968f-11f1-870d-5d08c49babb2.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e2f9a48c6840",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "AI will make people work more, but they’ll be happy about it, Sam Altman says",
-      "dek": "submitted by /u/rmuktader [link] [comments]",
-      "body": "submitted by /u/rmuktader [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T20:47:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmq5wt/ai_will_make_people_work_more_but_theyll_be_happy/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e2f9a48c6840",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_d833f2ef2ad6",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Animals at the Lisbon Zoo showed indifference to the eclipse",
-      "dek": "submitted by /u/PauloPatricio [link] [comments]",
-      "body": "submitted by /u/PauloPatricio [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T20:39:46+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmpybp/animals_at_the_lisbon_zoo_showed_indifference_to/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d833f2ef2ad6",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
