@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-19T17:02:43+00:00",
+  "generatedAt": "2026-08-19T17:39:58+00:00",
   "items": [
+    {
+      "id": "meme_862ca2913a5b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Asylum seekers warned not to make 'kissing sounds' at people in new guidance about living in UK",
+      "dek": "submitted by /u/asjonesy99 [link] [comments]",
+      "body": "submitted by /u/asjonesy99 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T17:32:55+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vst7na/asylum_seekers_warned_not_to_make_kissing_sounds/",
+      "image": "https://external-preview.redd.it/8SFIW1ljv6iFh9f2g9ItwuOs1vF6gk_nOQNMbGuP0S0.png?width=640&crop=smart&auto=webp&s=14f8864b67be1590fd3c22adb84975eb85fada29",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e68b1ace59d4",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-19T16:30:55+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e3/live/56feb170-91e0-11f1-9bc8-c9e5b4077192.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d74eabb71af7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two detained after French influencer's scorched body found in vineyard",
-      "dek": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
-      "body": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T16:04:39+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882a/live/c122a8a0-9bc6-11f1-98c6-93bfcdb08681.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
