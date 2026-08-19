@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-19T11:27:41+00:00",
+  "generatedAt": "2026-08-19T11:52:13+00:00",
   "items": [
+    {
+      "id": "latest_96f51d25cdbc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
+      "dek": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
+      "body": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T11:32:51+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c4/live/7984f380-9bb8-11f1-ae8a-8d57110c5ba6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7ddf8688bec3",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-19T10:35:37+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsipgu/omaha_public_schools_requests_sros_no_longer_be/",
       "image": "https://external-preview.redd.it/uNy-eWl5zbPasqgrH72VuN9PwbiBWWoIbr0e0rkJ_6g.jpeg?width=640&crop=smart&auto=webp&s=c397f659e2d9690d9a9e51b302102a44f70a09a1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cfd1451ad2e3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "dek": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-      "body": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T10:10:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/3828ee10-9bad-11f1-92e6-b1dfcecd4308.png",
       "imageCredit": "Image via original publisher"
     }
   ]

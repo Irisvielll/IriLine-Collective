@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_cfd1451ad2e3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "dek": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+      "body": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T10:10:09+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cf/live/3828ee10-9bad-11f1-92e6-b1dfcecd4308.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fd9488fcfa19",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmjm0g/google_search_falsely_declared_sam_altman_dead/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_383fe31a4163",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_65e2c412d5cd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "dek": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "body": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T16:35:52+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aed/live/6188d850-9659-11f1-ad58-9debde8148f5.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
