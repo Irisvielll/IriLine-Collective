@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_3be946d4d280",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Five Australian rules footy players suspended amid police investigation",
+      "dek": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
+      "body": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T03:36:59+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dd/live/5e641f40-9b68-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_c47111c525d6",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c016/live/64934810-962b-11f1-acde-358da1a6646b.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e4a4f590d4bb",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "ICE plans to spend $20 million on electric shock gloves",
-      "dek": "submitted by /u/Select-Blood-7896 [link] [comments]",
-      "body": "submitted by /u/Select-Blood-7896 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T09:27:12+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vm97v1/ice_plans_to_spend_20_million_on_electric_shock/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e4a4f590d4bb",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

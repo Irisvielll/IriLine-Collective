@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-19T04:51:54+00:00",
+  "generatedAt": "2026-08-19T05:29:55+00:00",
   "items": [
+    {
+      "id": "meme_a23aea9d899c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man arrested, suspected of planning to distribute drugs at Gathering of the Juggalos in Camden County",
+      "dek": "submitted by /u/whipprsnappr [link] [comments]",
+      "body": "submitted by /u/whipprsnappr [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T05:25:46+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsd8wz/man_arrested_suspected_of_planning_to_distribute/",
+      "image": "https://external-preview.redd.it/9g_PH3tIklSl_xwEfXCxeobXa2xSTRRIwNDYZ5Fe0IA.jpeg?width=640&crop=smart&auto=webp&s=29a52700b367153da3019d5c14582ae85b779636",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e2c62a172944",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-19T03:39:41+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3be946d4d280",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Five Australian rules footy players suspended amid police investigation",
-      "dek": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-      "body": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T03:36:59+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dd/live/5e641f40-9b68-11f1-a291-b542ee92de7c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
