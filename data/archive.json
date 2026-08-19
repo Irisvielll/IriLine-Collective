@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_213d593a03e1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Attorney General Mike Hilgers suing City of Omaha for requiring employers to pay youth $15 per hour",
+      "dek": "submitted by /u/Senior_Fig7845 [link] [comments]",
+      "body": "submitted by /u/Senior_Fig7845 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T18:08:43+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsu8rd/attorney_general_mike_hilgers_suing_city_of_omaha/",
+      "image": "https://external-preview.redd.it/st7uJomlPjTl4pBOw3LFwN_T5TyySM7O-zZSQ-zwY3M.jpeg?width=216&crop=smart&auto=webp&s=b81454fbf0b7aad18c6297a1381f93196c169667",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2642b6ed2d7f",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-13T02:32:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmya3h/when_a_professors_research_project_faced_funding/",
       "image": "https://external-preview.redd.it/o8jj975AQ-ixdLep0QMu0kwgvSdsTZHLVNo-MmIhaYY.jpeg?width=640&crop=smart&auto=webp&s=332eb0977cf384c9912d1e9c6037416c61d02b35",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_267befcf0e60",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "dek": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-      "body": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T02:23:39+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/605d/live/71de6600-96ba-11f1-977f-49a574135f6a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
