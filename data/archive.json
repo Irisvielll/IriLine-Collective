@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8645345fff65",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "dek": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "body": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T08:25:03+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_74133366680b",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-12T16:11:04+00:00",
       "sourceUrl": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4178d3f68f0d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Parents Horrified After Flock Cameras are Shown Facing Kids in Swimwear at Texas Splash Park: 'Who's Monitoring This?'",
-      "dek": "submitted by /u/AyamiSaito [link] [comments]",
-      "body": "submitted by /u/AyamiSaito [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T15:44:09+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vmhrr4/parents_horrified_after_flock_cameras_are_shown/",
-      "image": "https://external-preview.redd.it/BltNULmNjf7BY7sgTWRjCyyCv-iTz1z3G4dRfpW8vAE.jpeg?width=640&crop=smart&auto=webp&s=3c9d1c95593ea7d546b60a34cf3bb9aa06eb5bfb",
       "imageCredit": "Image via original publisher"
     }
   ]

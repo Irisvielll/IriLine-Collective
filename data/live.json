@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-19T10:28:17+00:00",
+  "generatedAt": "2026-08-19T10:56:19+00:00",
   "items": [
+    {
+      "id": "meme_9073aed3b2d5",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Omaha Public Schools requests SROs no longer be authorized to carry shock gloves on school grounds",
+      "dek": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "body": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T10:35:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsipgu/omaha_public_schools_requests_sros_no_longer_be/",
+      "image": "https://external-preview.redd.it/uNy-eWl5zbPasqgrH72VuN9PwbiBWWoIbr0e0rkJ_6g.jpeg?width=640&crop=smart&auto=webp&s=c397f659e2d9690d9a9e51b302102a44f70a09a1",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_cfd1451ad2e3",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-19T09:48:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f96/live/725697b0-9ba6-11f1-a4e6-dfdb59e74cb0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8645345fff65",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-      "dek": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-      "body": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T08:25:03+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
