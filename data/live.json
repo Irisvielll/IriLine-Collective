@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-19T12:46:28+00:00",
+  "generatedAt": "2026-08-19T13:43:08+00:00",
   "items": [
+    {
+      "id": "meme_e9e9838c2225",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Florida officer used Flock camera database 717 times to track estranged wife's vehicle, affidavit says",
+      "dek": "submitted by /u/JackFunk [link] [comments]",
+      "body": "submitted by /u/JackFunk [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T13:33:58+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsmlkl/florida_officer_used_flock_camera_database_717/",
+      "image": "https://external-preview.redd.it/xs_6Hp3BBGwt7GROeT8k0cdILdfziONSjCEyD5vQ5_k.jpeg?width=640&crop=smart&auto=webp&s=a91f2cb368b45e1c2fb17a4ecb67d3e0f4e2ec3a",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_471f54893275",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "dek": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+      "body": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T12:47:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f0db32b6db43",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-19T12:41:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_96f51d25cdbc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
-      "dek": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
-      "body": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T11:32:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c4/live/7984f380-9bb8-11f1-ae8a-8d57110c5ba6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_85d2032a60e9",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
-      "dek": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
-      "body": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T11:30:40+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce9f/live/c9fcf6d0-9bc4-11f1-aed2-8d6da8d75094.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
