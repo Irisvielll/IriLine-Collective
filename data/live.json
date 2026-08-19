@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-19T03:29:24+00:00",
+  "generatedAt": "2026-08-19T04:10:32+00:00",
   "items": [
+    {
+      "id": "latest_fe307da7bf3f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "South Korea shortens war games with US citing Washington request",
+      "dek": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "body": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T03:39:41+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3be946d4d280",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Five Australian rules footy players suspended amid police investigation",
+      "dek": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
+      "body": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T03:36:59+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dd/live/5e641f40-9b68-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_c47111c525d6",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-19T03:12:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cfa/live/3fef0100-9b46-11f1-bd52-f9704e8e5c82.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5da669512c28",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Store accused of making staff pay to work for it",
-      "dek": "submitted by /u/Intrinsic_Idiot_3076 [link] [comments]",
-      "body": "submitted by /u/Intrinsic_Idiot_3076 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T03:09:14+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsajcv/store_accused_of_making_staff_pay_to_work_for_it/",
-      "image": "https://external-preview.redd.it/VOEcpKNKkvuB0BhH-hNFosb7YOCb_SBPlu5kluUZvj4.jpeg?width=640&crop=smart&auto=webp&s=ade02ec1060d0003404909dd1d985b0b78c173c9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1312c5000a70",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Husband and mother-in-law charged over Indian bride's death",
-      "dek": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-      "body": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T03:04:07+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
