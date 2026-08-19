@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_9b655fd72814",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "dek": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "body": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T22:25:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_85e51cb7b8d1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "dek": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+      "body": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-18T22:18:50+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41f/live/7ce8e260-96ff-11f1-b72c-211ea4e0afc4.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_20564c93e8ea",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-12T00:09:12+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vlyjgf/universal_studios_has_a_new_plan_to_manage/",
       "image": "https://external-preview.redd.it/rrogFZaO-7rdLnvUyXztdE5elGaQeIWWCPQxeG6_f4A.jpeg?width=640&crop=smart&auto=webp&s=24807b831b8a3cf3ab187df261ac41a531636b87",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2f268ade5224",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "dek": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
-      "body": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-12T00:02:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5de/live/f44c8130-95c0-11f1-8ccf-29f879cbf253.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_3014ab75aa49",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Xbox CEO Asha Sharma Gushes About Elder Scrolls VI, Does Not Seem To Notice Giant Rat On Bethesda Office Lawn",
-      "dek": "submitted by /u/Clech959 [link] [comments]",
-      "body": "submitted by /u/Clech959 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-11T23:44:59+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vlxz2x/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
-      "image": "https://external-preview.redd.it/EzitY03kqS4vcNFO8ZODjWBU2NDlMmaHbqAfjmcrFwQ.jpeg?width=640&crop=smart&auto=webp&s=24fd494a9a63e6b34d0b218cd5c12322bd5eb974",
       "imageCredit": "Image via original publisher"
     }
   ]
