@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-19T04:10:32+00:00",
+  "generatedAt": "2026-08-19T04:51:54+00:00",
   "items": [
+    {
+      "id": "meme_e2c62a172944",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Watermelon Pictures To Provide Healthcare Workers Free Tickets To ‘American Doctor’ Screenings",
+      "dek": "submitted by /u/wakeupthebuddha [link] [comments]",
+      "body": "submitted by /u/wakeupthebuddha [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-19T04:42:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vscepv/watermelon_pictures_to_provide_healthcare_workers/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e2c62a172944",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "latest_fe307da7bf3f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-19T03:36:59+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73dd/live/5e641f40-9b68-11f1-a291-b542ee92de7c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c47111c525d6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-      "dek": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
-      "body": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T03:12:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cfa/live/3fef0100-9b46-11f1-bd52-f9704e8e5c82.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
