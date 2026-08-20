@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-20T21:54:32+00:00",
+  "generatedAt": "2026-08-20T22:27:16+00:00",
   "items": [
+    {
+      "id": "meme_cec476e5729d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Don't Panic: California's Aftermarket Tire 'Ban' Explained",
+      "dek": "submitted by /u/DonkeyFuel [link] [comments]",
+      "body": "submitted by /u/DonkeyFuel [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T22:01:24+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtxh9h/dont_panic_californias_aftermarket_tire_ban/",
+      "image": "https://external-preview.redd.it/st65RenwP3C4W94xc4zTltVMDQoWbEdO8CDT_5oDW6w.jpeg?width=640&crop=smart&auto=webp&s=4ab57effceae84c35236a27ee9d00c3609958b10",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ee9d4b0acde1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-20T20:41:31+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c19/live/afd9c7b0-9ccd-11f1-89bd-5bf7cf30291a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8fa036f59528",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "dek": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
-      "body": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T20:40:17+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
