@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-20T13:59:43+00:00",
+  "generatedAt": "2026-08-20T14:45:27+00:00",
   "items": [
+    {
+      "id": "latest_a1a3f0c4c104",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "At least 13 workers killed in landslide at Colombian gold mine",
+      "dek": "Four members of an indigenous family are among the dead, witnesses said.",
+      "body": "Four members of an indigenous family are among the dead, witnesses said.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T14:34:15+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8167/live/e00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d0782e4b4fd3",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-20T13:33:06+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtjnli/squidpocalypse_truck_overturns_spilling_tons_of/",
       "image": "https://external-preview.redd.it/xTZoTLjXRX7gX7eEJZRDdZ8krOyLutIO781b4TrZL3Q.jpeg?width=640&crop=smart&auto=webp&s=bd05a56f77b3cf1d3b21b44d3a56a3dfb3c7ee0e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_6b143d3ee2b9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Netanyahu: Palestinian Gave Hitler Idea to Exterminate Jews",
-      "dek": "submitted by /u/ManagerOfLove [link] [comments]",
-      "body": "submitted by /u/ManagerOfLove [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T13:32:52+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtjnez/netanyahu_palestinian_gave_hitler_idea_to/",
-      "image": "https://external-preview.redd.it/mkRn0ZYIkKbVlh7tobYaSYINjTuOC4kSxlW22DiEuy8.jpeg?width=640&crop=smart&auto=webp&s=734640bbe1251e5c68133a3185576e7c82fc5c8d",
       "imageCredit": "Image via original publisher"
     }
   ]
