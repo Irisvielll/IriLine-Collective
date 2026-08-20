@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6548cb7061c8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Four workers dead after being hit by train in Japan",
+      "dek": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "body": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T06:02:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75e/live/a3c7f8d0-9c59-11f1-ad5e-036c63448601.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_05f16e088e41",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-13T17:47:28+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vnhulf/a_boat_operator_used_a_foghorn_to_wake_a_sleeping/",
       "image": "https://external-preview.redd.it/kk_EetpoEDlXwX-vYIVOrFroVC8P_-ioYzr2uJOr-QQ.jpeg?width=640&crop=smart&auto=webp&s=3fd49b37bd2057ddbc4a70e6823ada6e3bcaa363",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_89555754a07f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "dek": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
-      "body": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T17:01:50+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

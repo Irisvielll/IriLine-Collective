@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-20T07:48:31+00:00",
+  "generatedAt": "2026-08-20T08:37:48+00:00",
   "items": [
+    {
+      "id": "meme_9ddc5740572d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "'Don't rape, sexually assault or make kissing noises', asylum seekers warned in guidance about living in UK",
+      "dek": "submitted by /u/plain_handle [link] [comments]",
+      "body": "submitted by /u/plain_handle [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T08:20:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtdfvx/dont_rape_sexually_assault_or_make_kissing_noises/",
+      "image": "https://external-preview.redd.it/8SFIW1ljv6iFh9f2g9ItwuOs1vF6gk_nOQNMbGuP0S0.png?width=640&crop=smart&auto=webp&s=14f8864b67be1590fd3c22adb84975eb85fada29",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_7f5d8fe9608e",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-20T06:17:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtbc5e/cannabis_facility_goes_up_in_smoke_near_high_river/",
       "image": "https://external-preview.redd.it/svdZqcmse7vQIP5YetaMVyCfYjI2iwmxicabpjzcNIQ.jpeg?width=640&crop=smart&auto=webp&s=f6d5122dcb5077b1e5eb2b9e51051e201d0c0038",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6548cb7061c8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Four workers dead after being hit by train in Japan",
-      "dek": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "body": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T06:02:10+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75e/live/a3c7f8d0-9c59-11f1-ad5e-036c63448601.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
