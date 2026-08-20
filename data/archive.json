@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_91b04f651ddf",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Comedian Dane Cook’s brother stole $12 million from him and hid it in pasta sauce, documentary reveals",
+      "dek": "submitted by /u/TheGoldenHoratio [link] [comments]",
+      "body": "submitted by /u/TheGoldenHoratio [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T18:40:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtrzjj/comedian_dane_cooks_brother_stole_12_million_from/",
+      "image": "https://external-preview.redd.it/5CeSfW13stYEr8Vhaei57z8tlTz39i5yxkksCs9BGiM.jpeg?width=640&crop=smart&auto=webp&s=24990be49419089fc69fa8ce0f15addb4a5965c5",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8b65c32ad1d8",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-14T05:11:55+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vny24w/gen_z_redirects_retirement_savings_into_sports/",
       "image": "https://external-preview.redd.it/u60h7T45JIcxzysuUsIsJBz0FDNyjdwZRaX9ZTS_LtY.jpeg?width=640&crop=smart&auto=webp&s=98ad520ee4e41e1f0dc3c9fa382c735c494087b1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3c023a579eff",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Unprecedented' rains in Japan kill four people",
-      "dek": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "body": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-14T04:54:13+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
