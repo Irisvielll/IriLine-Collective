@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-20T23:27:27+00:00",
+  "generatedAt": "2026-08-20T23:51:39+00:00",
   "items": [
+    {
+      "id": "meme_3f38387cb58f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Great Job, Internet!: Darth Vader, Galactic Empire support San Diego's Flock cameras",
+      "dek": "submitted by /u/B-Z_B-S [link] [comments]",
+      "body": "submitted by /u/B-Z_B-S [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T23:29:27+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtznnj/great_job_internet_darth_vader_galactic_empire/",
+      "image": "https://external-preview.redd.it/CRgKzNP7XmD1DM7ascRCKisrtF8LkrEA-GYcYnqKesw.jpeg?width=640&crop=smart&auto=webp&s=190a52e6d210f57bf594028e46e7f39c754e8582",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_cec476e5729d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-20T21:06:40+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtw384/detergent_instead_of_salt_36_students_fall_ill/",
       "image": "https://external-preview.redd.it/cqLZDg3ukqV-NCF9Tcp4YXGvDfDlrEyeLZ2J_o0qdas.jpeg?width=640&crop=smart&auto=webp&s=42fc93a7b30fc7ca27863b41c5a2436943790965",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5270533fc203",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: Fishermen rescued after five days adrift in cool box",
-      "dek": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-      "body": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T20:41:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c19/live/afd9c7b0-9ccd-11f1-89bd-5bf7cf30291a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
