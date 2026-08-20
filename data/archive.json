@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_3e1f712b26cd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "dek": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "body": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T10:14:47+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_b00681b9d5d4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ex-Zambian minister killed in security raid on opposition",
+      "dek": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "body": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T10:07:48+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feda/live/20a4f320-9c6f-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9ddc5740572d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-13T20:37:14+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcf/live/070284b0-9741-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_bd5631d5261a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Goats gone wild: Loose pygmy goats caught boarding TriMet bus in Portland",
-      "dek": "submitted by /u/gl0bals0j0urner [link] [comments]",
-      "body": "submitted by /u/gl0bals0j0urner [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T20:21:36+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vnm6a4/goats_gone_wild_loose_pygmy_goats_caught_boarding/",
-      "image": "https://external-preview.redd.it/Y8e2y1qe39ZXUYK_wp94HsEWqrbYwzADia9l-SgQOBQ.jpeg?width=640&crop=smart&auto=webp&s=f82c4effb0ee6b4e5e0f2f375c7bd3b73afb0d34",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_0bdbb398cd63",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russia to test AI models against “traditional values” for national status",
-      "dek": "submitted by /u/Dizzy_Response1485 [link] [comments]",
-      "body": "submitted by /u/Dizzy_Response1485 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T20:15:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vnlzpg/russia_to_test_ai_models_against_traditional/",
-      "image": "https://external-preview.redd.it/ljeC0aoOE4BWozp69RpdA5x88nuxTWU5CHLSCl3IuE4.jpeg?width=640&crop=smart&auto=webp&s=7e59c70c455d41fa84c6d1abdc7191d627a15e23",
       "imageCredit": "Image via original publisher"
     }
   ]
