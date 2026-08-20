@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_9c263f36442b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "dek": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homela",
+      "body": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T05:01:24+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_fb91bc4f663d",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-13T16:45:46+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vng45r/mysterious_rouge_street_restriping_in_lawrence/",
       "image": "https://external-preview.redd.it/qZ3gYfgAKKlTlEwudt_5_MA1kuSE-jAGIjmJrDhGBiU.jpeg?width=640&crop=smart&auto=webp&s=bca31a1248ce63febfdb47a69ed544b6e58342d1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_34a2437c4cfe",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "dek": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
-      "body": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-13T16:45:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0854/live/f4140030-972d-11f1-bbb3-ebc49f706d46.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
