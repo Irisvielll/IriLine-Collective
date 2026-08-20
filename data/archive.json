@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8b65c32ad1d8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "dek": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "body": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T16:53:20+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_47790fd72934",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-14T04:54:13+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_426dd640a7d7",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Arkansas high school football player practiced with venomous snake in his helmet",
-      "dek": "submitted by /u/Presently_Naked [link] [comments]",
-      "body": "submitted by /u/Presently_Naked [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-14T04:20:17+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vnx2zf/arkansas_high_school_football_player_practiced/",
-      "image": "https://external-preview.redd.it/8is6fOcaT_X6l7RcIDzr3rUdhXjRLjfiIRITvLWdNOA.jpeg?width=640&crop=smart&auto=webp&s=154c91987a4ae535f0f63a5f1987d486778bee52",
       "imageCredit": "Image via original publisher"
     }
   ]

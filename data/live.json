@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-20T18:50:50+00:00",
+  "generatedAt": "2026-08-20T19:30:48+00:00",
   "items": [
+    {
+      "id": "latest_e28573af70a1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "dek": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "body": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T18:55:14+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_910d737212cb",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-20T18:40:10+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtrzjj/comedian_dane_cooks_brother_stole_12_million_from/",
       "image": "https://external-preview.redd.it/5CeSfW13stYEr8Vhaei57z8tlTz39i5yxkksCs9BGiM.jpeg?width=640&crop=smart&auto=webp&s=24990be49419089fc69fa8ce0f15addb4a5965c5",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8b65c32ad1d8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
-      "dek": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
-      "body": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T16:53:20+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
