@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-20T16:04:11+00:00",
+  "generatedAt": "2026-08-20T16:50:09+00:00",
   "items": [
+    {
+      "id": "meme_47790fd72934",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Israel marks Palestinian detainees with numbers, reviving memories of Nazi camps",
+      "dek": "submitted by /u/paulwesterberg [link] [comments]",
+      "body": "submitted by /u/paulwesterberg [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T16:34:58+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtohxv/israel_marks_palestinian_detainees_with_numbers/",
+      "image": "https://external-preview.redd.it/mYaCQRr8UN_Pz09u8QlNHQcdIfHzvKMbhwrBq4Fj4eM.png?width=640&crop=smart&auto=webp&s=65cce6c5beed8d8897a09ac32092505e3ec76a74",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e2e26d2d776c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-20T15:27:18+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vtmmq6/women_in_pink_rally_in_support_of_lindsay_clancy/",
       "image": "https://external-preview.redd.it/txYXidfkfARYmGJTQGM99B98kYmc8N9RQo5FjDlxYL0.jpeg?width=640&crop=smart&auto=webp&s=f9dfae0e172e756ec7bb79f66e0f21c7119f6f48",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8f49a6d3db3b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Togo charges two French journalists over incorrect documents, rights group says",
-      "dek": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-      "body": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T15:16:44+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a6/live/2b090e70-9c95-11f1-a38b-8bb91d2ef80e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

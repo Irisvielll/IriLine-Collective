@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8f49a6d3db3b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Togo charges two French journalists over incorrect documents, rights group says",
+      "dek": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "body": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-20T15:16:44+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a6/live/2b090e70-9c95-11f1-a38b-8bb91d2ef80e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a1a3f0c4c104",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-14T02:13:27+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5f12afdca5d3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: What happens if Luigi Mangione pleads guilty?",
-      "dek": "Mangione is accused of killing UnitedHealthcare CEO Brian Thompson in New York - but any plea deal in his federal case could impact a separate state trial.",
-      "body": "Mangione is accused of killing UnitedHealthcare CEO Brian Thompson in New York - but any plea deal in his federal case could impact a separate state trial.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-14T01:19:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/687cc7b0-9772-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
