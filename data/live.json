@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-21T09:51:58+00:00",
+  "generatedAt": "2026-08-21T10:30:05+00:00",
   "items": [
+    {
+      "id": "latest_ad45360f8db8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "dek": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
+      "body": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T10:03:17+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/6dea4cb0-9d42-11f1-801c-1fffda40756a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2815645c2b3f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "dek": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+      "body": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T09:53:47+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c1/live/024497b0-9d45-11f1-a137-179a8d1c790b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d7bb6adc5408",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vu9ayt/detroit_schools_to_continue_100_weekly_perfect/",
       "image": "https://external-preview.redd.it/1-VdmyFqVCajvxj9EFRfUFgKmC1PsYw5cspJimbalkc.jpeg?width=320&crop=smart&auto=webp&s=3eb61071e848c68148638bed4c348eb8128063a6",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2a0ec9cf2c93",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Five missing after fire in Swiss Alpine town",
-      "dek": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "body": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-21T07:06:16+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b130/live/8dbc0170-9d27-11f1-889e-c901b814ac6c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7fcfe1293fe7",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "LSU under fire after students seen dragging Black baby doll with rope around neck in viral video",
-      "dek": "submitted by /u/Select-Blood-7896 [link] [comments]",
-      "body": "submitted by /u/Select-Blood-7896 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-21T06:56:07+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vu8tke/lsu_under_fire_after_students_seen_dragging_black/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_7fcfe1293fe7",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
