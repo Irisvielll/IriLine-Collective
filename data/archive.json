@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_dff87b19f497",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "dek": "One suspect is in custody, but police have not disclosed a possible motive.",
+      "body": "One suspect is in custody, but police have not disclosed a possible motive.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T18:27:15+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_c5b059bb2811",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-15T18:50:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpatqo/convicted_quadruple_murderer_sues_district/",
       "image": "https://external-preview.redd.it/Kr8s31Mlugiee-PiHIaTd6ut4vj2j6thEbxhMoCAr5c.jpeg?width=640&crop=smart&auto=webp&s=47fa160844f345f20f9446af064522ada69ac21d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_da37b3adb8c1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why is Australia's mushroom killer back in court this week?",
-      "dek": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
-      "body": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T18:02:30+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ccf/live/24e92cb0-97b2-11f1-a7ab-8b30adf0800a.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
