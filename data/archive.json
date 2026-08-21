@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1ca6cd8b7314",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "dek": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "body": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T11:31:51+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22de/live/459c41e0-9d57-11f1-aed2-8d6da8d75094.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ca1d4de2aeb3",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-15T01:03:00+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vop04a/north_jersey_bridges_are_reviewed_like/",
       "image": "https://external-preview.redd.it/kKYdS0bllm_HxdOIlhEO8O2My4luc1MoyE4FghB6eBA.jpeg?width=320&crop=smart&auto=webp&s=9dcd5052156d73f598132aa591a0a89238c4798d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_f1745950e5df",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "In Russia, an occupier who beat a colleague to death with a dildo was convicted",
-      "dek": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "body": "submitted by /u/Miles_the_AuDHDer [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T00:27:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1voo9d3/in_russia_an_occupier_who_beat_a_colleague_to/",
-      "image": "https://external-preview.redd.it/xf-LXTSeCLXrviuh8XKoCBcnX_187aF6l3X8r2S2IE0.jpeg?width=640&crop=smart&auto=webp&s=dbfac354dcb412c859be7ff41bc7daaa592c5723",
       "imageCredit": "Image via original publisher"
     }
   ]

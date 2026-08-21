@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-21T13:10:16+00:00",
+  "generatedAt": "2026-08-21T13:57:54+00:00",
   "items": [
+    {
+      "id": "meme_5a437b0f470d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man dressed as Darth Vader defends surveillance cameras at San Diego City Council meeting",
+      "dek": "submitted by /u/powdersleaf [link] [comments]",
+      "body": "submitted by /u/powdersleaf [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T13:42:12+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vugqp2/man_dressed_as_darth_vader_defends_surveillance/",
+      "image": "https://external-preview.redd.it/bo7Nt_Zo4YT1gjEbDuo231BcXgAJz3iLLq8hw-HDq10.jpeg?width=640&crop=smart&auto=webp&s=52d34e1904d75a98c3b8e04779b453403f8ce35d",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_853ff23d835a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-21T11:57:37+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b41/live/f09bde00-9d4f-11f1-b109-879e35c24276.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1ca6cd8b7314",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "dek": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "body": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-21T11:31:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22de/live/459c41e0-9d57-11f1-aed2-8d6da8d75094.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
