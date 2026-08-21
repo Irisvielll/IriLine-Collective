@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_39ac0c455580",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+      "dek": "submitted by /u/justalazygamer [link] [comments]",
+      "body": "submitted by /u/justalazygamer [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T21:14:08+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vusv9v/fcc_abolishes_gigabit_speed_goal_suggesting_it_is/",
+      "image": "https://external-preview.redd.it/UT4LFWoo2K00sSNj-wyDSVIfPjCcXkaSQ9g2rfTkVVQ.jpeg?width=640&crop=smart&auto=webp&s=c89e01594f861a422293de804a67afba90256e0b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_eadcfc47efae",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-15T21:03:57+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_803a25ffb81d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "dek": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "body": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T20:28:30+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
