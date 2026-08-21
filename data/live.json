@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T17:08:37+00:00",
+  "generatedAt": "2026-08-21T17:44:51+00:00",
   "items": [
     {
       "id": "meme_e500b083252b",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_46106b64e46b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "dek": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+      "body": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T16:26:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_5d00886ff982",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-21T16:20:55+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d199/live/3b807760-9d77-11f1-b109-879e35c24276.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4236175af0b2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Former NFL player says he lost his entire life savings in scam targeting professional athletes",
-      "dek": "submitted by /u/SmokeMaximum4140 [link] [comments]",
-      "body": "submitted by /u/SmokeMaximum4140 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-21T15:46:06+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vuk0no/former_nfl_player_says_he_lost_his_entire_life/",
-      "image": "https://external-preview.redd.it/YT7hnzZ0gi13lWvtN312ajG9tbjMJCI6ZelMRU-sjQI.jpeg?width=640&crop=smart&auto=webp&s=8f7296b31f0b92d29022e7d69925d63a335f8a86",
       "imageCredit": "Image via original publisher"
     }
   ]
