@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:30:07+00:00",
+  "generatedAt": "2026-08-21T20:53:18+00:00",
   "items": [
     {
       "id": "meme_eadcfc47efae",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_ef2dae3154dc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "dek": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "body": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T19:31:47+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fcfb10d2b5d4",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-21T18:51:43+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a5b4aa367a12",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
-      "dek": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
-      "body": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-21T18:29:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
