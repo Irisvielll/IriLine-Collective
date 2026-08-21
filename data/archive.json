@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_66bf3019a4e4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Japan executes man who killed five in Pachinko parlour fire",
+      "dek": "This is the first time since June 2025 that the country has enacted capital punishment.",
+      "body": "This is the first time since June 2025 that the country has enacted capital punishment.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T02:49:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472a/live/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_9c3702b3b7cb",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -73,6 +88,21 @@
       "publishedAt": "2026-08-21T00:33:21+00:00",
       "sourceUrl": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_61126644e594",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
+      "dek": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+      "body": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T00:04:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29dd/live/4a1da930-9c84-11f1-98a7-0f0ed51e02be.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_39944a5a51fd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "dek": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "body": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-14T17:36:27+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_60fb2a6f14a8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Taliban to host first public ‘Victory Day’ reception in India",
-      "dek": "submitted by /u/MrRoaldDahl [link] [comments]",
-      "body": "submitted by /u/MrRoaldDahl [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-14T17:20:24+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vodgar/taliban_to_host_first_public_victory_day/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_60fb2a6f14a8",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
