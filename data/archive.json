@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_ef2dae3154dc",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "dek": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "body": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T19:31:47+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_fcfb10d2b5d4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "dek": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+      "body": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T18:51:43+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_a5b4aa367a12",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-15T19:41:57+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_24de7e2006a1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
-      "dek": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "body": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T19:16:40+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_64758a20218d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Man sues for $10 million after being shot while breaking into an Oregon business",
-      "dek": "submitted by /u/nvd20 [link] [comments]",
-      "body": "submitted by /u/nvd20 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T19:13:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vpbdtj/man_sues_for_10_million_after_being_shot_while/",
-      "image": "https://external-preview.redd.it/vKmLEZV86L_l2Agytt623IKW2QF_ES6-536DD1bbFg0.png?width=640&crop=smart&auto=webp&s=a4deaf763956ba27976989ac2afe1422c380ffc0",
       "imageCredit": "Image via original publisher"
     }
   ]
