@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_eadcfc47efae",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Invited media and military members held at gunpoint at Space Force base in California",
+      "dek": "submitted by /u/Naurgul [link] [comments]",
+      "body": "submitted by /u/Naurgul [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T19:52:18+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vuqr1a/invited_media_and_military_members_held_at/",
+      "image": "https://external-preview.redd.it/qrpM25NrU58XIL1M_wK6KN6CVsibw77fZTL51FaXTMw.jpeg?width=640&crop=smart&auto=webp&s=2f14885b073bd501e51784f02a38f645f0afbc00",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ef2dae3154dc",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-15T20:28:30+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3084e9956572",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "dek": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "body": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-15T19:41:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
