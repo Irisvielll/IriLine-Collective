@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_0bf763ff54a2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "'Right to race' laws aim to protect racetracks from noise complaints",
+      "dek": "submitted by /u/bat_in_the_stacks [link] [comments]",
+      "body": "submitted by /u/bat_in_the_stacks [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T02:50:32+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vu44eq/right_to_race_laws_aim_to_protect_racetracks_from/",
+      "image": "https://external-preview.redd.it/nVG-NY_oU8zBn-g6ZFxbnFGjCMCWyhxftt3FciU4nHs.jpeg?width=640&crop=smart&auto=webp&s=8aa135ed2895706d7d68e73aa3d50f9b762509da",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_66bf3019a4e4",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-14T18:37:16+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vofl16/spirit_halloweens_parent_company_to_acquire_hot/",
       "image": "https://external-preview.redd.it/98ajutDSoPeLbNroSvHBroRjp3LfUbpUgYH5Kt4rtJg.jpeg?width=640&crop=smart&auto=webp&s=02740ff24244aea798e88f45898cffadb5df1074",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7d85fee523da",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "dek": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "body": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-14T18:25:38+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
