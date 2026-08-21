@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-21T13:57:54+00:00",
+  "generatedAt": "2026-08-21T14:42:01+00:00",
   "items": [
+    {
+      "id": "meme_5da5115458f4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Move over bears. Fat Marmot Week puts a spotlight on the alpine rodents",
+      "dek": "submitted by /u/wds1 [link] [comments]",
+      "body": "submitted by /u/wds1 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-21T14:17:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vuhn6n/move_over_bears_fat_marmot_week_puts_a_spotlight/",
+      "image": "https://external-preview.redd.it/GiTvqwXFiCEeIF2VUqfKhdGV_udQB6Qtak8GcYICUcU.jpeg?width=640&crop=smart&auto=webp&s=fcf413bab8da7ab0a748102bf607728150eb1c42",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5a437b0f470d",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-21T12:16:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vueq5d/russian_orthodox_cleric_urges_russians_to/",
       "image": "https://external-preview.redd.it/CJlpCD37WjiHMokAWTeJoZrsJhvTdKqVySiuY3fiKH8.jpeg?width=640&crop=smart&auto=webp&s=c8f02759e5b745169a0d62b9037f1e44348465ec",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_589324ddd3e5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "dek": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
-      "body": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-21T11:57:37+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b41/live/f09bde00-9d4f-11f1-b109-879e35c24276.png",
       "imageCredit": "Image via original publisher"
     }
   ]
