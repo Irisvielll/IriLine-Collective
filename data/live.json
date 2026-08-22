@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-22T13:18:39+00:00",
+  "generatedAt": "2026-08-22T13:51:45+00:00",
   "items": [
+    {
+      "id": "latest_347841731a2a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "dek": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+      "body": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T13:48:06+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6b4b2ef259ca",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-22T12:37:31+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvbcf0/nigeria_orders_investigation_into_second_fake/",
       "image": "https://external-preview.redd.it/435gSZt5oyLEcRMkFra-gXvLhoGJwoZV6Ag47dx4G9c.jpeg?width=640&crop=smart&auto=webp&s=b41f56ff2baa9a9dfbbffc114b820a7d87ba0676",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_4011036cc7ac",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-      "dek": "submitted by /u/simnie69 [link] [comments]",
-      "body": "submitted by /u/simnie69 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T12:07:28+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvaq2k/dismantling_the_roadless_rule_threatens_to/",
-      "image": "https://external-preview.redd.it/MGJbvQ_sgRNQzo-64ZqmsQtFbV699uKT3XpiZl-SIcY.jpeg?width=640&crop=smart&auto=webp&s=73662f1a256313f809a63ede42aaf97a5ef86310",
       "imageCredit": "Image via original publisher"
     }
   ]

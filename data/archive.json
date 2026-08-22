@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_4011036cc7ac",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "dek": "submitted by /u/simnie69 [link] [comments]",
+      "body": "submitted by /u/simnie69 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T12:07:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvaq2k/dismantling_the_roadless_rule_threatens_to/",
+      "image": "https://external-preview.redd.it/MGJbvQ_sgRNQzo-64ZqmsQtFbV699uKT3XpiZl-SIcY.jpeg?width=640&crop=smart&auto=webp&s=73662f1a256313f809a63ede42aaf97a5ef86310",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_80986c44377c",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqcscq/in_a_first_ai_boss_sacks_employee_at_san/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_b263562850c8",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_ce70ff01297f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
-      "dek": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
-      "body": "The BBC's Shaimaa Khalil sat down with Mopreme Shakur ahead of the trial for his brother and late rapper's 1996 murder.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T23:21:37+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8072/live/541515d0-9811-11f1-a7ab-8b30adf0800a.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
