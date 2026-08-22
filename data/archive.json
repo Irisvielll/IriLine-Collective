@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_e07785f45baa",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
+      "dek": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
+      "body": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T14:10:05+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_a4052bcfa2c8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-17T04:27:11+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14bb/live/a28c5570-99f1-11f1-828b-990ef72ac649.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_7324dc8024f2",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Pearl District neighbors worried they’ll get ‘flavor blasted with asbestos’ from Centennial Mills demolition",
-      "dek": "submitted by /u/Spacewok [link] [comments]",
-      "body": "submitted by /u/Spacewok [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T04:27:00+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqi7mt/pearl_district_neighbors_worried_theyll_get/",
-      "image": "https://external-preview.redd.it/vkCLSZ3OHSp6GaRmQkVW4zCo1sTmTdwIi5rs49eY3QI.jpeg?width=640&crop=smart&auto=webp&s=d7d633593b2dd6499314bbc400500c0c2d8aa78f",
       "imageCredit": "Image via original publisher"
     }
   ]
