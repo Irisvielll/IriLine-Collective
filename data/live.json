@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-22T19:56:08+00:00",
+  "generatedAt": "2026-08-22T20:25:27+00:00",
   "items": [
+    {
+      "id": "meme_b5d2ce936cf8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Disney celebrates blockbuster 2026 by kicking employees' spouses off healthcare plans",
+      "dek": "submitted by /u/B-Z_B-S [link] [comments]",
+      "body": "submitted by /u/B-Z_B-S [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T20:00:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvmbb1/disney_celebrates_blockbuster_2026_by_kicking/",
+      "image": "https://external-preview.redd.it/vzNMiQdNIxZVtu3a6jVMBPhrClopzr6ArgCMk-tt3kE.jpeg?width=640&crop=smart&auto=webp&s=0022e11c458a9cf1f4c97883849afb6443235531",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_b571f62e5e08",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-22T19:40:16+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvltbc/georgia_man_allegedly_picks_up_30_from_the_ground/",
       "image": "https://external-preview.redd.it/Gyv9gbH7GwfZxuU-5VrLtEe00JdESziCg6R6WScgEpQ.jpeg?width=640&crop=smart&auto=webp&s=d8df837b42eb2dec815a78030dc8f7d0110f6eab",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_524958d33aa6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "dek": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "body": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T16:57:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8464/live/2b4c9540-9e44-11f1-a291-b542ee92de7c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
