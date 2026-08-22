@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_47b46dfdfc59",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "dek": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "body": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T08:40:49+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ab57fdba55ae",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-16T21:04:27+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2d4b21839f92",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "dek": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "body": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T19:58:14+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

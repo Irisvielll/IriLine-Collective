@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-22T10:32:14+00:00",
+  "generatedAt": "2026-08-22T10:59:13+00:00",
   "items": [
+    {
+      "id": "meme_b92d54d75022",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Major Canadian grocery chains accused of negligence for selling diluted maple syrup",
+      "dek": "submitted by /u/SplashTarget [link] [comments]",
+      "body": "submitted by /u/SplashTarget [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T10:30:28+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vv8ur4/major_canadian_grocery_chains_accused_of/",
+      "image": "https://external-preview.redd.it/L9spB-Yk9T92lAI4uai75t15OyzkdisU3ndLU8_W38E.jpeg?width=640&crop=smart&auto=webp&s=c156af367a732ea6c4f28913b5596995338ede27",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_6b8f56a65633",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-22T09:28:04+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vv7rhg/sugar_price_hike_everyone_has_diabetes_so_rising/",
       "image": "https://external-preview.redd.it/7211lK9O7yQ9ObEljphrw78RnsKTIiaklHmqdxE9g6I.jpeg?width=320&crop=smart&auto=webp&s=b04d4772984a5f65f1bee56940f1d7d5e99c4d06",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_47b46dfdfc59",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "dek": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "body": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T08:40:49+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
