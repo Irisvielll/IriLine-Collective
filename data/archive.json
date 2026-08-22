@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_89ff0094d190",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
+      "dek": "submitted by /u/ry-yo [link] [comments]",
+      "body": "submitted by /u/ry-yo [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T16:54:58+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvhjg4/chinese_humanoid_robots_smash_human_records_in/",
+      "image": "https://external-preview.redd.it/SDHKdQLu0wrFxkB4luHbippixWYooZSObKbLUigKTmg.jpeg?width=640&crop=smart&auto=webp&s=b8adcb647efa7e057940e95303389c732d44101b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_f4c36d47d3dd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "dek": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "body": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T16:05:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_ee7207a76fa7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-17T07:31:36+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_5875d121b935",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "dek": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "body": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T05:06:23+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f375ef9e5c91",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "dek": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
-      "body": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T04:41:31+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
