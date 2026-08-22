@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-22T09:34:50+00:00",
+  "generatedAt": "2026-08-22T09:59:17+00:00",
   "items": [
+    {
+      "id": "meme_6b8f56a65633",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Green Dildo Thrown Onto WNBA Court During Game, Angel Reese Catches Perpetrator in the Act",
+      "dek": "submitted by /u/kleudorian [link] [comments]",
+      "body": "submitted by /u/kleudorian [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T09:35:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vv7vxj/green_dildo_thrown_onto_wnba_court_during_game/",
+      "image": "https://external-preview.redd.it/R_lcFcI7LOb3IRM5CVXa6JI8yCRsmfmspVmOClZcR6o.png?width=640&crop=smart&auto=webp&s=bdc240b874e19350396a20d8a0a2d6319e810c91",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7750c5969b57",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-22T08:40:49+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ab57fdba55ae",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "dek": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "body": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T07:53:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ab57fdba55ae",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "dek": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "body": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T07:53:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_10c0a3aac654",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_94cb95ad3b54",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Senator bids farewell to Beth, his ‘faithful’ vacuum cleaner",
-      "dek": "submitted by /u/Efficient-Freedom517 [link] [comments]",
-      "body": "submitted by /u/Efficient-Freedom517 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T19:24:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vq62pc/senator_bids_farewell_to_beth_his_faithful_vacuum/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_94cb95ad3b54",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
