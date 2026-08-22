@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-22T15:20:17+00:00",
+  "generatedAt": "2026-08-22T15:46:06+00:00",
   "items": [
+    {
+      "id": "meme_ee7207a76fa7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Nebraska's largest school district asks police to stop using electric shock gloves on students",
+      "dek": "submitted by /u/Silvestron [link] [comments]",
+      "body": "submitted by /u/Silvestron [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T15:19:10+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvf4z8/nebraskas_largest_school_district_asks_police_to/",
+      "image": "https://external-preview.redd.it/1rLLdlkaZx0SblJB0TUVNQ2AMX7m6zAsN3bauSlBWlY.jpeg?width=640&crop=smart&auto=webp&s=2558b571fab93bc8b11208284d48d35fd42cda21",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_5fd4de93df4f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "dek": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "body": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T15:00:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_e07785f45baa",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-22T14:10:05+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a4052bcfa2c8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Dallas residents express relief after fire destroys longtime 'eyesore' house",
-      "dek": "submitted by /u/BearNecessitee [link] [comments]",
-      "body": "submitted by /u/BearNecessitee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T13:58:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvd5yt/dallas_residents_express_relief_after_fire/",
-      "image": "https://external-preview.redd.it/AjSujKQITOMKCynxSbQmvAugJt7Gu78-eeHgchLU7ss.jpeg?width=640&crop=smart&auto=webp&s=cb8a164cc8998c2ab50298c94ed5fe027b386b32",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_347841731a2a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "dek": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "body": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T13:48:06+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
