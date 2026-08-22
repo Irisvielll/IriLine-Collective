@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_b5d2ce936cf8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Disney celebrates blockbuster 2026 by kicking employees' spouses off healthcare plans",
+      "dek": "submitted by /u/B-Z_B-S [link] [comments]",
+      "body": "submitted by /u/B-Z_B-S [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T20:00:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvmbb1/disney_celebrates_blockbuster_2026_by_kicking/",
+      "image": "https://external-preview.redd.it/vzNMiQdNIxZVtu3a6jVMBPhrClopzr6ArgCMk-tt3kE.jpeg?width=640&crop=smart&auto=webp&s=0022e11c458a9cf1f4c97883849afb6443235531",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_b571f62e5e08",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Tree trimmer was playing shadow puppets when he crushed coworker's head in Apple Valley, charges say",
+      "dek": "submitted by /u/jordan1978 [link] [comments]",
+      "body": "submitted by /u/jordan1978 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T19:42:25+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvlv9r/tree_trimmer_was_playing_shadow_puppets_when_he/",
+      "image": "https://external-preview.redd.it/R_DGc3hXyHLvJTWEOm7ZdgWuRaoPJqpDSGOumyRj-pk.jpeg?width=640&crop=smart&auto=webp&s=d92468256be9c9711bbb4198a104b81ca155d2c6",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c205513c3308",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqp9t1/whos_watching_who_otters_may_find_humans/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_f368898013e7",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_90ff630ab71c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Russian teenager faces misdemeanour charge for listening to ‘extremist’ song",
-      "dek": "submitted by /u/duckanroll [link] [comments]",
-      "body": "submitted by /u/duckanroll [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T10:06:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqo3yk/russian_teenager_faces_misdemeanour_charge_for/",
-      "image": "https://external-preview.redd.it/8ZxepxJI-6nkbssG-LaXFscgXjL_znXJI3c8nUOVLls.png?width=640&crop=smart&auto=webp&s=a01e70e23a5efc9a806c042c818db66b515ead63",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f7417463833f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "dek": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "body": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T08:38:41+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/4086a540-9a16-11f1-b0ec-399275ee28cb.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
