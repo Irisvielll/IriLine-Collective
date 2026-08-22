@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_7750c5969b57",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Sugar Price Hike : 'Everyone Has Diabetes, So Rising Sugar Prices Won’t Make a Difference'",
+      "dek": "submitted by /u/Fan387 [link] [comments]",
+      "body": "submitted by /u/Fan387 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T09:28:04+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vv7rhg/sugar_price_hike_everyone_has_diabetes_so_rising/",
+      "image": "https://external-preview.redd.it/7211lK9O7yQ9ObEljphrw78RnsKTIiaklHmqdxE9g6I.jpeg?width=320&crop=smart&auto=webp&s=b04d4772984a5f65f1bee56940f1d7d5e99c4d06",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_47b46dfdfc59",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-16T21:27:42+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43fc/live/4a1c1570-99b9-11f1-870d-5d08c49babb2.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4559c202444f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "dek": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-      "body": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-16T21:04:27+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
