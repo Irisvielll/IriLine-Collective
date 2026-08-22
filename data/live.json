@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:20:31+00:00",
+  "generatedAt": "2026-08-22T14:47:59+00:00",
   "items": [
     {
       "id": "latest_e07785f45baa",
@@ -17,6 +17,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "meme_a4052bcfa2c8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Dallas residents express relief after fire destroys longtime 'eyesore' house",
+      "dek": "submitted by /u/BearNecessitee [link] [comments]",
+      "body": "submitted by /u/BearNecessitee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T13:58:18+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvd5yt/dallas_residents_express_relief_after_fire/",
+      "image": "https://external-preview.redd.it/AjSujKQITOMKCynxSbQmvAugJt7Gu78-eeHgchLU7ss.jpeg?width=640&crop=smart&auto=webp&s=cb8a164cc8998c2ab50298c94ed5fe027b386b32",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_347841731a2a",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-22T13:48:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_6b4b2ef259ca",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Media, military members invited to Space Force event were detained at gunpoint",
-      "dek": "submitted by /u/Flat_Sprinkles4342 [link] [comments]",
-      "body": "submitted by /u/Flat_Sprinkles4342 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T12:57:23+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvbrjr/media_military_members_invited_to_space_force/",
-      "image": "https://external-preview.redd.it/JmcWdwmFKWm4EwOfLnD6Bss6bQb-Asir2DSYvbRYSRk.jpeg?width=640&crop=smart&auto=webp&s=77620050be9e9727e0b6a117399efcf262ea28d0",
       "imageCredit": "Image via original publisher"
     }
   ]
