@@ -31,6 +31,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_a53bddc97566",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "dek": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "body": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T23:22:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5663/live/1c0143c0-9cb3-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e31109fac929",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -358,6 +373,21 @@
       "publishedAt": "2026-08-22T10:30:28+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vv8ur4/major_canadian_grocery_chains_accused_of/",
       "image": "https://external-preview.redd.it/L9spB-Yk9T92lAI4uai75t15OyzkdisU3ndLU8_W38E.jpeg?width=640&crop=smart&auto=webp&s=c156af367a732ea6c4f28913b5596995338ede27",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_bf9c66c8c379",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Laptop catches fire on US flight, with passenger treated at airport",
+      "dek": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+      "body": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T10:27:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85e/live/8f3dc3c0-9e09-11f1-95e0-53a570c83624.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqz9j1/dave_roberts_says_struggling_dodgers_need_to/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_ed8450931f7a",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_a1cbdef46064",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "American killed by lightning while climbing Italian volcano",
-      "dek": "Not mentioned in the title, there was a thunderstorm happening at the same time. submitted by /u/SelectiveSanity [link] [comments]",
-      "body": "Not mentioned in the title, there was a thunderstorm happening at the same time. submitted by /u/SelectiveSanity [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T17:38:38+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqz2pe/american_killed_by_lightning_while_climbing/",
-      "image": "https://external-preview.redd.it/P77LegFa5NiwlzixEHWukSK6OlJjjw68SHX1dX-mxys.jpeg?width=640&crop=smart&auto=webp&s=f8a08a64b3db74e2601def02cd9f0efa8800ad61",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b09712b568b1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "dek": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "body": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T16:17:34+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
