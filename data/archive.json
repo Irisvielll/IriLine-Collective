@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_3d16eb20a2b6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Thai queen Suthida undergoes advanced Gripen fighter flight training",
+      "dek": "submitted by /u/ManagerOfLove [link] [comments]",
+      "body": "submitted by /u/ManagerOfLove [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T17:38:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vwdk06/thai_queen_suthida_undergoes_advanced_gripen/",
+      "image": "https://external-preview.redd.it/9xl_uQ8dGoN4mMVprEW44Q56BmqoLE00Apw5n-XVsM0.jpeg?width=640&crop=smart&auto=webp&s=61b77f352682df60a847d8a37745853acdf3d283",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_205682e3e19c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "dek": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "body": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T16:57:05+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/d2a173a0-9f12-11f1-b2a2-8945a27a2843.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e5434a8f45b0",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-18T05:00:04+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603b/live/6eb43020-9180-11f1-b8ee-9b3c26ad07bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a683b78cbbe3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why Indian law students don't want top judge at their graduation ceremony",
-      "dek": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
-      "body": "Students from two premier law universities say they don't want Chief Justice Surya Kant to attend their convocations.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T04:16:42+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/0e6ba550-9a21-11f1-9a44-e568b7279c37.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b394a7fe179c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: What we learned from opening statements in Tupac murder trial",
-      "dek": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
-      "body": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T04:05:05+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f3/live/af2297f0-9aa4-11f1-aed2-8d6da8d75094.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
