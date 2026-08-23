@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-23T17:45:37+00:00",
+  "generatedAt": "2026-08-23T18:29:13+00:00",
   "items": [
+    {
+      "id": "latest_c3bfba41d611",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "dek": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "body": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T18:17:37+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_3d16eb20a2b6",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-23T16:57:05+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/d2a173a0-9f12-11f1-b2a2-8945a27a2843.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_e5434a8f45b0",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "The Daily Mail Followed and Photographed the Wrong Woman While Trying to Find Meg White",
-      "dek": "submitted by /u/holyfruits [link] [comments]",
-      "body": "submitted by /u/holyfruits [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-23T16:09:54+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vwb8fi/the_daily_mail_followed_and_photographed_the/",
-      "image": "https://external-preview.redd.it/hJ8dUvD3w8aIloAJAFi4YBI8-hhjXmfiBaM7BLSOMac.jpeg?width=640&crop=smart&auto=webp&s=d3f58f7a94b3d21d290f0c0a3be07a9316938f9a",
       "imageCredit": "Image via original publisher"
     }
   ]
