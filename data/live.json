@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-23T04:22:05+00:00",
+  "generatedAt": "2026-08-23T05:01:29+00:00",
   "items": [
+    {
+      "id": "latest_2f30b2d39716",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "dek": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "body": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T03:44:19+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_17e0980264f1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-23T02:15:25+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvur1x/nebraskas_largest_school_district_asks_police_to/",
       "image": "https://external-preview.redd.it/xkyUWzy3tkHovkzAXqzi8x0kzfQXo4nGFyIkM80FsXA.jpeg?width=640&crop=smart&auto=webp&s=73f3080910fb2425c3822499621e6c1865220e9e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_91f9a2d4a4bb",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Swedish sword attack victim was 17-year-old girl, police say",
-      "dek": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
-      "body": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-23T01:34:15+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
