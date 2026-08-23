@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2f30b2d39716",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "dek": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "body": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T03:44:19+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_17e0980264f1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-17T18:04:11+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqztbt/police_called_on_trans_men_using_womens_restroom/",
       "image": "https://external-preview.redd.it/X31mnwwDJ4-mkPYgqDAaJO1wy_i3q2bUQ8XZD-VFz1g.jpeg?width=640&crop=smart&auto=webp&s=e10c9c9b28b2c7be3146fcf36a51fa63736de2ab",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d39202e067c4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "dek": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "body": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T18:03:23+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
