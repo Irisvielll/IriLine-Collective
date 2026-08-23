@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_4c1d293e04f1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "National Guardsman Pleads 'No Contest' to Using a Military Chopper to Grab Elk Sheds from Montana Ranch",
+      "dek": "submitted by /u/previousinnovation [link] [comments]",
+      "body": "submitted by /u/previousinnovation [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T05:50:02+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvytd1/national_guardsman_pleads_no_contest_to_using_a/",
+      "image": "https://external-preview.redd.it/12yY3XNSjdN-I1YprcoVK-FP7ILaDvSNVCUwWmLqOB4.jpeg?width=640&crop=smart&auto=webp&s=2c846dfb91a109340e1f8d90ee481a7835f205e5",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_2f30b2d39716",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vr11a5/andy_burnham_duped_by_impostor_impersonating/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_50ec5c221130",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_66339816d714",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Police Called on Trans Men Using Women's Restroom As Required By Kansas Law",
-      "dek": "submitted by /u/Hayateh [link] [comments]",
-      "body": "submitted by /u/Hayateh [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T18:04:11+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vqztbt/police_called_on_trans_men_using_womens_restroom/",
-      "image": "https://external-preview.redd.it/X31mnwwDJ4-mkPYgqDAaJO1wy_i3q2bUQ8XZD-VFz1g.jpeg?width=640&crop=smart&auto=webp&s=e10c9c9b28b2c7be3146fcf36a51fa63736de2ab",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
