@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_17e0980264f1",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Sydney marathon unveils medal with wrong stadium",
+      "dek": "submitted by /u/Outrageous-Score7936 [link] [comments]",
+      "body": "submitted by /u/Outrageous-Score7936 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T03:21:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvw266/sydney_marathon_unveils_medal_with_wrong_stadium/",
+      "image": "https://external-preview.redd.it/3v9gPSR6T0C7HBJ901ipb2QD5ipsx0tmoV4S_8ItxiE.jpeg?width=640&crop=smart&auto=webp&s=3c1696c130ae5b0ab596a4d6bfbef4db4218ff3d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_f02801f5a0b8",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-17T18:03:23+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_c0862d3e6d6c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "French PM heckled over wildfire response as blazes continue across Europe",
-      "dek": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "body": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T18:00:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eda/live/2bab6b50-9a58-11f1-ba0a-a16da249d30e.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

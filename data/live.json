@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-23T07:46:57+00:00",
+  "generatedAt": "2026-08-23T08:29:49+00:00",
   "items": [
+    {
+      "id": "latest_c85614423c82",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "dek": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "body": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T08:02:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_4c1d293e04f1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-23T03:44:19+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_17e0980264f1",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sydney marathon unveils medal with wrong stadium",
-      "dek": "submitted by /u/Outrageous-Score7936 [link] [comments]",
-      "body": "submitted by /u/Outrageous-Score7936 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-23T03:21:34+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvw266/sydney_marathon_unveils_medal_with_wrong_stadium/",
-      "image": "https://external-preview.redd.it/3v9gPSR6T0C7HBJ901ipb2QD5ipsx0tmoV4S_8ItxiE.jpeg?width=640&crop=smart&auto=webp&s=3c1696c130ae5b0ab596a4d6bfbef4db4218ff3d",
       "imageCredit": "Image via original publisher"
     }
   ]
