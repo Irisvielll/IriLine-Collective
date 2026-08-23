@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_b11fa1f9ca0d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "dek": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "body": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T15:54:32+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92c/live/de9d69e0-9e70-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9fc2f1e09a02",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-18T03:43:53+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c1/live/3d7aeed0-9ab9-11f1-9287-3d05ae90d9de.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_93c88a5d4212",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Mass recalls of Turkey Breast Roast Honey & Dijon due to undeclared mustard",
-      "dek": "submitted by /u/StewieRayVaughan [link] [comments]",
-      "body": "submitted by /u/StewieRayVaughan [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T03:35:15+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrdwwo/mass_recalls_of_turkey_breast_roast_honey_dijon/",
-      "image": "https://external-preview.redd.it/WyQhsz9Fivx2mXxgSukHuUv0pyr2NcJVKwanj8TCoEw.png?width=640&crop=smart&auto=webp&s=7e78a974e3e80b5cb8a07a09cbc119c2bab4710d",
       "imageCredit": "Image via original publisher"
     }
   ]

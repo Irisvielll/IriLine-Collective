@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-23T17:19:44+00:00",
+  "generatedAt": "2026-08-23T17:45:37+00:00",
   "items": [
+    {
+      "id": "meme_3d16eb20a2b6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Thai queen Suthida undergoes advanced Gripen fighter flight training",
+      "dek": "submitted by /u/ManagerOfLove [link] [comments]",
+      "body": "submitted by /u/ManagerOfLove [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T17:38:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vwdk06/thai_queen_suthida_undergoes_advanced_gripen/",
+      "image": "https://external-preview.redd.it/9xl_uQ8dGoN4mMVprEW44Q56BmqoLE00Apw5n-XVsM0.jpeg?width=640&crop=smart&auto=webp&s=61b77f352682df60a847d8a37745853acdf3d283",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_205682e3e19c",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-23T16:09:54+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vwb8fi/the_daily_mail_followed_and_photographed_the/",
       "image": "https://external-preview.redd.it/hJ8dUvD3w8aIloAJAFi4YBI8-hhjXmfiBaM7BLSOMac.jpeg?width=640&crop=smart&auto=webp&s=d3f58f7a94b3d21d290f0c0a3be07a9316938f9a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b11fa1f9ca0d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
-      "dek": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "body": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-23T15:54:32+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92c/live/de9d69e0-9e70-11f1-a291-b542ee92de7c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
