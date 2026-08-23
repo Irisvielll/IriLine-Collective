@@ -151,6 +151,21 @@
       "imageCredit": "Image via original publisher"
     },
     {
+      "id": "latest_77d1dae941f3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "dek": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "body": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T06:01:16+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5080/live/9458f1d0-9bbc-11f1-9cab-ed9e722cbe4c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_4c1d293e04f1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-18T02:06:04+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b73/live/79965b50-9a89-11f1-b792-a710e56a11dc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_73549710cf66",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "dek": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "body": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T01:16:41+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
