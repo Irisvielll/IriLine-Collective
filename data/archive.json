@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_c85614423c82",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "dek": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "body": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T08:02:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_4c1d293e04f1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -88,6 +103,21 @@
       "publishedAt": "2026-08-23T00:16:25+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvsad8/boy_7_reportedly_left_alone_on_mount_fuji_while/",
       "image": "https://external-preview.redd.it/msUiVoQy0o-x_sdPA_bENMdJeCiqsftq8q9e5WCL9VU.jpeg?width=640&crop=smart&auto=webp&s=b56d23f2fdf7967942f5862bbf1a1883f9b9928b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_d09170bb8620",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "dek": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "body": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-22T23:45:01+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/289b/live/3ae595f0-9d82-11f1-b109-879e35c24276.png",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vr1uin/600_students_flee_maharashtra_hostel_amid/",
       "image": "https://external-preview.redd.it/ztn4XSe0KI43qROwWcV55tar0ocpmPacNNe_rFneOKo.jpeg?width=640&crop=smart&auto=webp&s=39aaf6cee67fc7fe44a81a500ccdc8ff8e7bd736",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_1ad43da72846",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "The CEO who fired 900 people on Zoom just before Christmas wants his job back",
-      "dek": "submitted by /u/CircumspectCapybara [link] [comments]",
-      "body": "submitted by /u/CircumspectCapybara [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T18:56:59+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vr1bpb/the_ceo_who_fired_900_people_on_zoom_just_before/",
-      "image": "https://external-preview.redd.it/TD08-ZfUwbf-bWo0KcM0eTIE3hWQ9JT0b2N9FRj4ovA.jpeg?width=640&crop=smart&auto=webp&s=36e68de3984ccd003952a395df10b46dc3bffd6a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_50ec5c221130",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Andy Burnham duped by impostor impersonating Susie Wiles",
-      "dek": "submitted by /u/Efficient-Freedom517 [link] [comments]",
-      "body": "submitted by /u/Efficient-Freedom517 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-17T18:46:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vr11a5/andy_burnham_duped_by_impostor_impersonating/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_50ec5c221130",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

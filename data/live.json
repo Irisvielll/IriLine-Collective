@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-23T09:35:52+00:00",
+  "generatedAt": "2026-08-23T09:59:55+00:00",
   "items": [
+    {
+      "id": "latest_0ddadb7cee88",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "dek": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "body": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T09:42:05+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7317/live/a6132ae0-9ed6-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_65fc79aa1d66",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vw1z77/denise_bizsavvyconcept_on_threads/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_714903f8a8f8",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_c85614423c82",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "dek": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "body": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-23T08:02:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
