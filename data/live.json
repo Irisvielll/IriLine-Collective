@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-23T16:51:41+00:00",
+  "generatedAt": "2026-08-23T17:19:44+00:00",
   "items": [
+    {
+      "id": "latest_205682e3e19c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "dek": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "body": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-23T16:57:05+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/d2a173a0-9f12-11f1-b2a2-8945a27a2843.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e5434a8f45b0",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-23T15:54:32+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92c/live/de9d69e0-9e70-11f1-a291-b542ee92de7c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9fc2f1e09a02",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Shanghai’s ‘Heartthrob’ Foreign Teacher Turns Out to Be Fugitive for Child Sexual Assault and Wife’s Murder",
-      "dek": "submitted by /u/CSachen [link] [comments]",
-      "body": "submitted by /u/CSachen [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-23T15:48:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vwao11/shanghais_heartthrob_foreign_teacher_turns_out_to/",
-      "image": "https://external-preview.redd.it/ZyM2d1eG_bCsQqyzJRXG5VCg_Rb6TetfDW8LW5XHjmo.jpeg?width=640&crop=smart&auto=webp&s=b4f0aa9da84f8c5a4616dd904d973fe7e286826f",
       "imageCredit": "Image via original publisher"
     }
   ]
