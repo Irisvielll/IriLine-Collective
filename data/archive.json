@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_f631750f0918",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "dek": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "body": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T12:17:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_3a7e4db0591f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Four arrested over suspected poisoning of elephants in Kenya",
+      "dek": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+      "body": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T11:08:27+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff1/live/98213ac0-9fa9-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_529f520e70b1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-18T18:13:45+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrx7z2/hundreds_of_witnesses_to_charlie_kirks_death_have/",
       "image": "https://external-preview.redd.it/19CVvpl4QU1mbu_9DWD-IXNaABCMYSKdUrxSciT0bbk.jpeg?width=640&crop=smart&auto=webp&s=80dc52c2570e087b1c3b5a6d41b2be97d846edb9",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c6797c641ace",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Basildon: Drug dealer jailed again after bringing firearm to probation appointment",
-      "dek": "submitted by /u/Ochib [link] [comments]",
-      "body": "submitted by /u/Ochib [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T18:02:44+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrwwlh/basildon_drug_dealer_jailed_again_after_bringing/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c6797c641ace",
-      "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_d52cc91dcb4a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US mother begged for help before her children's killings, mother-in-law testifies",
-      "dek": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "body": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T17:54:46+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
