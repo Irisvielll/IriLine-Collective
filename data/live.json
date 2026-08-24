@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T12:54:42+00:00",
+  "generatedAt": "2026-08-24T13:51:19+00:00",
   "items": [
+    {
+      "id": "latest_2ef879858d12",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "dek": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "body": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T13:14:10+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_f631750f0918",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-24T11:08:27+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff1/live/98213ac0-9fa9-11f1-b109-879e35c24276.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_529f520e70b1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "dek": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "body": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T10:40:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
