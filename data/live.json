@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T02:45:06+00:00",
+  "generatedAt": "2026-08-24T03:39:25+00:00",
   "items": [
+    {
+      "id": "latest_398564c7de84",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "dek": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "body": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T03:27:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e9349234e819",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-24T02:10:09+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vwpwvl/man_took_customer_hostage_inside_grocery_store/",
       "image": "https://external-preview.redd.it/cbMX7ZCGGNY689DTwiwaNxuRgaGzOXhDxjqGLqbv3tg.png?width=640&crop=smart&auto=webp&s=3245c27c1fe2ba3526af3922a6aa1e1ad75545b6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_85e9c42f131d",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Kacey Musgraves Launches Sex Lube, Hangs from Giant Disco Balls at Tour Kickoff",
-      "dek": "submitted by /u/kleudorian [link] [comments]",
-      "body": "submitted by /u/kleudorian [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T01:13:38+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vwopua/kacey_musgraves_launches_sex_lube_hangs_from/",
-      "image": "https://external-preview.redd.it/_Q71oYDN9rao0gffDRlWzzdBztrA66jEVyQHa-br-6s.jpeg?width=640&crop=smart&auto=webp&s=8a939326a25be5575f10507135e20e2e8776f832",
       "imageCredit": "Image via original publisher"
     }
   ]
