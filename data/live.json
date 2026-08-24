@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T16:54:53+00:00",
+  "generatedAt": "2026-08-24T17:30:13+00:00",
   "items": [
+    {
+      "id": "latest_ba3ce8b56ee1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Outrage in Nepal over rape and murder of 3-year-old girl",
+      "dek": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "body": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T17:24:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_c4a1b3ef36a3",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-24T15:14:14+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_17c895d87a4e",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Youth Activist Booked for Showing Dilapidated State of UP Primary School in Facebook Video",
-      "dek": "submitted by /u/golubeerji [link] [comments]",
-      "body": "submitted by /u/golubeerji [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T15:11:25+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vx5jrh/youth_activist_booked_for_showing_dilapidated/",
-      "image": "https://external-preview.redd.it/8DexM_gehYOXWCMABtHG3eJcmKEXyDybyhnW-E18IMc.png?width=640&crop=smart&auto=webp&s=4439c57a6a116af53e387ec47e79887a2f663b5d",
       "imageCredit": "Image via original publisher"
     }
   ]
