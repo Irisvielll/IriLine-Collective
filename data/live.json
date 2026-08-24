@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T11:56:10+00:00",
+  "generatedAt": "2026-08-24T12:54:42+00:00",
   "items": [
+    {
+      "id": "latest_f631750f0918",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "dek": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "body": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T12:17:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_3a7e4db0591f",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-24T10:40:22+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_6655729cdf12",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "dek": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "body": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T10:39:23+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

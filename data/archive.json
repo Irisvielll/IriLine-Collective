@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_6655729cdf12",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "dek": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "body": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T10:39:23+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_38634757472b",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-18T17:40:09+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8e7e394a8fad",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "dek": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-      "body": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T17:15:39+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
