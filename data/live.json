@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T18:59:13+00:00",
+  "generatedAt": "2026-08-24T19:36:02+00:00",
   "items": [
+    {
+      "id": "meme_029175c3165d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Italian scientists bet on octopus to fight crab invasion",
+      "dek": "submitted by /u/rentalanimal [link] [comments]",
+      "body": "submitted by /u/rentalanimal [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T19:24:27+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vxcq4w/italian_scientists_bet_on_octopus_to_fight_crab/",
+      "image": "https://external-preview.redd.it/1C7Usqtat3mNUudTm4FfgvQ4Ez-MUXZgRIqdaQyYN2Y.jpeg?width=640&crop=smart&auto=webp&s=9c84b749d8cb73aff080e742c710213f17b771f4",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_e03aae067305",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-24T17:48:16+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vx9xpc/man_returns_30_after_police_seek_help_identifying/",
       "image": "https://external-preview.redd.it/GVsFPl0T_km5sImxH1QbUKO205zIzOBwMp8BWMDTFHU.jpeg?width=640&crop=smart&auto=webp&s=5de824e44241c90514a2f32618d1862e39189052",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ba3ce8b56ee1",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Outrage in Nepal over rape and murder of 3-year-old girl",
-      "dek": "There have been protests since the girl was found dead last week, three days after she went missing.",
-      "body": "There have been protests since the girl was found dead last week, three days after she went missing.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T17:24:25+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

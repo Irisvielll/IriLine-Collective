@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_ba3ce8b56ee1",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Outrage in Nepal over rape and murder of 3-year-old girl",
+      "dek": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "body": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T17:24:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c4a1b3ef36a3",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-18T21:45:17+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ac/live/08b5c2c0-9b4e-11f1-a291-b542ee92de7c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c4665790151c",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Penn State frat pledges forced to cut and bag cocaine for college drug ring, authorities say",
-      "dek": "submitted by /u/RoachedCoach [link] [comments]",
-      "body": "submitted by /u/RoachedCoach [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T21:03:13+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vs1y3e/penn_state_frat_pledges_forced_to_cut_and_bag/",
-      "image": "https://external-preview.redd.it/6WU-zFeQ4m9twJXUxXtbL5Jyf6llE64wy9ZvDK7NTYo.jpeg?width=640&crop=smart&auto=webp&s=7978d6bb94c849cc6924a966c13a36ba42a0f270",
       "imageCredit": "Image via original publisher"
     }
   ]
