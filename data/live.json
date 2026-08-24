@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T18:03:38+00:00",
+  "generatedAt": "2026-08-24T18:59:13+00:00",
   "items": [
+    {
+      "id": "meme_e03aae067305",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Startup wants to use autonomous drone swarms to clear clouds and boost solar farm output",
+      "dek": "submitted by /u/prestocoffee [link] [comments]",
+      "body": "submitted by /u/prestocoffee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T18:56:48+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vxbwz3/startup_wants_to_use_autonomous_drone_swarms_to/",
+      "image": "https://external-preview.redd.it/n1MvYqojpGMCi7HHfGhB6cQBfgD7BVThn7a9r9mbcTg.jpeg?width=640&crop=smart&auto=webp&s=30c24165dc30d402493a5571f61fa7fa15b5c1f4",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_f510175f688e",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_c4a1b3ef36a3",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Hugging Face Exploring Sale at $13 Billion Valuation",
-      "dek": "submitted by /u/codeagencyblog [link] [comments]",
-      "body": "submitted by /u/codeagencyblog [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T15:23:20+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vx5vag/hugging_face_exploring_sale_at_13_billion/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c4a1b3ef36a3",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }

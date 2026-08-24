@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_c4a1b3ef36a3",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Hugging Face Exploring Sale at $13 Billion Valuation",
+      "dek": "submitted by /u/codeagencyblog [link] [comments]",
+      "body": "submitted by /u/codeagencyblog [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T15:23:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vx5vag/hugging_face_exploring_sale_at_13_billion/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c4a1b3ef36a3",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_2b2eabcd9602",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-18T21:03:13+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vs1y3e/penn_state_frat_pledges_forced_to_cut_and_bag/",
       "image": "https://external-preview.redd.it/6WU-zFeQ4m9twJXUxXtbL5Jyf6llE64wy9ZvDK7NTYo.jpeg?width=640&crop=smart&auto=webp&s=7978d6bb94c849cc6924a966c13a36ba42a0f270",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f9e315f00dbd",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "dek": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-      "body": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T20:48:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/152b22c0-9b30-11f1-a291-b542ee92de7c.png",
       "imageCredit": "Image via original publisher"
     }
   ]
