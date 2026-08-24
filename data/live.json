@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T17:30:13+00:00",
+  "generatedAt": "2026-08-24T18:03:38+00:00",
   "items": [
+    {
+      "id": "meme_f510175f688e",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man returns $30 after police seek help identifying Walmart shopper",
+      "dek": "submitted by /u/shield_x [link] [comments]",
+      "body": "submitted by /u/shield_x [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T17:48:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vx9xpc/man_returns_30_after_police_seek_help_identifying/",
+      "image": "https://external-preview.redd.it/GVsFPl0T_km5sImxH1QbUKO205zIzOBwMp8BWMDTFHU.jpeg?width=640&crop=smart&auto=webp&s=5de824e44241c90514a2f32618d1862e39189052",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_ba3ce8b56ee1",
       "section": "latest",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vx5vag/hugging_face_exploring_sale_at_13_billion/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_c4a1b3ef36a3",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_2b2eabcd9602",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-      "dek": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
-      "body": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T15:14:14+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
