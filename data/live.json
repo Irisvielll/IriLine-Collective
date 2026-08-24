@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-24T04:28:25+00:00",
+  "generatedAt": "2026-08-24T05:20:24+00:00",
   "items": [
+    {
+      "id": "latest_b4a6fbb627d7",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "dek": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "body": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T05:00:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d35d/live/8a564f50-9d76-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_35848d4d8d30",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-24T03:57:26+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vws3d2/comanchero_bikie_refused_bail_for_playing/",
       "image": "https://external-preview.redd.it/fngxyqk2FX8B6M0hvZw6bKYyEe7YRwnHhd6--O3DjeQ.jpeg?width=640&crop=smart&auto=webp&s=4f157ad56f7bea10d4f4b62444552be7038f6d17",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_398564c7de84",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "dek": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "body": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-24T03:27:11+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
