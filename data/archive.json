@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_cbd15a41a10c",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "King of Norway's health has worsened, palace says",
+      "dek": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "body": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-24T08:31:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/3388cd30-9f8b-11f1-9fae-bbc7231f436d.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_35e497cb07d7",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-18T14:07:40+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vrq7qw/hit_it_with_a_hammer_toyotas_actual_official/",
       "image": "https://external-preview.redd.it/e-RSZLJDxv5nxx4KJChl7_97xieOXd_PCg3SLiU3dZE.jpeg?width=640&crop=smart&auto=webp&s=57d881d786495dd6f0fd708cde0c8bdae9d34d22",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_bdb8a8744e47",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "dek": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "body": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-18T13:13:54+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
