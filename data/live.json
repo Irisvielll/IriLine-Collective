@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-25T16:54:58+00:00",
+  "generatedAt": "2026-08-25T17:31:07+00:00",
   "items": [
+    {
+      "id": "meme_17fdee354274",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Putin adviser claims Ukraine planned to invade Russia on 8 March 2022, so Russia attacked first",
+      "dek": "submitted by /u/Practical-Pea-1205 [link] [comments]",
+      "body": "submitted by /u/Practical-Pea-1205 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T17:06:46+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy5rzu/putin_adviser_claims_ukraine_planned_to_invade/",
+      "image": "https://external-preview.redd.it/djXbx-ig7l7gyzuA5Cdduafg3gtbm6uEz1baw0Q_whg.jpeg?width=640&crop=smart&auto=webp&s=9ab79bbb818aa9ba3f71c13aa3579d9739911b8d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_0b7182e171dc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Sony reminds players they don't actually own the PlayStation games they purchased",
+      "dek": "submitted by /u/BearNecessitee [link] [comments]",
+      "body": "submitted by /u/BearNecessitee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T16:55:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy5g2m/sony_reminds_players_they_dont_actually_own_the/",
+      "image": "https://external-preview.redd.it/GmMAjez2LuJV-3dkr6vivq-VlcLB5bTz6JLEnp0mDdc.jpeg?width=640&crop=smart&auto=webp&s=a32cddcced15ff995660422829427ceeacb8ac3d",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_155a74b13787",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy4zif/dead_fish_with_herpes_giving_eskom_a_major/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_155a74b13787",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_2d2e5874251a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Harvard built AI clones of its faculty. They are now teaching an online course",
-      "dek": "submitted by /u/No-Fisherman6800 [link] [comments]",
-      "body": "submitted by /u/No-Fisherman6800 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-25T16:05:34+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy42di/harvard_built_ai_clones_of_its_faculty_they_are/",
-      "image": "https://external-preview.redd.it/ypHjF0gX61UolCYXOU4ypiYggxRFTVBu7w-cnOY9WD8.jpeg?width=640&crop=smart&auto=webp&s=1f22337bc93721d7bf71df0587aa9a989ebccab7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_de20a447217a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "dek": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "body": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-25T15:58:20+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cce/live/a7101170-a097-11f1-8a1f-314a01485cf4.png",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }

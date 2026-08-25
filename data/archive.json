@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_2d2e5874251a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Harvard built AI clones of its faculty. They are now teaching an online course",
+      "dek": "submitted by /u/No-Fisherman6800 [link] [comments]",
+      "body": "submitted by /u/No-Fisherman6800 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T16:05:34+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy42di/harvard_built_ai_clones_of_its_faculty_they_are/",
+      "image": "https://external-preview.redd.it/ypHjF0gX61UolCYXOU4ypiYggxRFTVBu7w-cnOY9WD8.jpeg?width=640&crop=smart&auto=webp&s=1f22337bc93721d7bf71df0587aa9a989ebccab7",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_de20a447217a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "dek": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "body": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T15:58:20+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cce/live/a7101170-a097-11f1-8a1f-314a01485cf4.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_89c4e17188b2",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-19T12:41:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_98593790642b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "dek": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-      "body": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T12:25:30+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a986/live/d6173c80-9bbc-11f1-ae8a-8d57110c5ba6.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_96f51d25cdbc",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
-      "dek": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
-      "body": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T11:32:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c4/live/7984f380-9bb8-11f1-ae8a-8d57110c5ba6.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
