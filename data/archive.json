@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_7315283bdbcc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Germany plans sugar tax that includes sugar free drinks",
+      "dek": "submitted by /u/GO_99 [link] [comments]",
+      "body": "submitted by /u/GO_99 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T20:49:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vyc4a8/germany_plans_sugar_tax_that_includes_sugar_free/",
+      "image": "https://external-preview.redd.it/xwTzwrW6zIVD02X39pPUWYy9izdgEfRYLSJQYgn-lOg.jpeg?width=640&crop=smart&auto=webp&s=7328c904c99fef89a6c82f8b7372a5ee8a9903d9",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_8a33f55feeca",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-19T15:38:38+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cab/live/644e3cd0-9bde-11f1-a291-b542ee92de7c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3c312068a620",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
-      "dek": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
-      "body": "Chidimma Adetshina is challenging efforts to have her deported from South Africa, which she says is her home.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T15:12:41+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj364xxr5ngo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/607a/live/9c344460-9bab-11f1-92e6-b1dfcecd4308.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
