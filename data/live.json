@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-08-25T11:04:24+00:00",
+  "generatedAt": "2026-08-25T11:43:30+00:00",
   "items": [
+    {
+      "id": "meme_3f6321bb66b0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Delicious cookies made from recycled plastic bottles",
+      "dek": "submitted by /u/whomda [link] [comments]",
+      "body": "submitted by /u/whomda [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T11:18:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vxwx8j/delicious_cookies_made_from_recycled_plastic/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_3f6321bb66b0",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
+      "id": "meme_81a598c31e59",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+      "dek": "submitted by /u/CellRevolutionary665 [link] [comments]",
+      "body": "submitted by /u/CellRevolutionary665 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T11:15:47+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vxwvmq/he_was_waiting_for_his_son_to_return_from_the_uss/",
+      "image": "https://external-preview.redd.it/D5gj6UTueiOBIOJJ8RUv-RKeNvMZb5DUoDECeaBS1Do.jpeg?width=640&crop=smart&auto=webp&s=b7126568b2632a5f86c55b99226fbb4d3ea82a17",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_62bd4787a022",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-08-25T10:56:03+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f82e/live/1be2fd20-a073-11f1-958e-e3912aa2af08.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7a518d23a489",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "dek": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "body": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-25T09:01:35+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1b/live/bc727130-a05f-11f1-a8b2-73da9d854f1b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f641d9105f7c",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-      "dek": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-      "body": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-25T08:52:17+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
