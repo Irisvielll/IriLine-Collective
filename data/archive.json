@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_0b7182e171dc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Sony reminds players they don't actually own the PlayStation games they purchased",
+      "dek": "submitted by /u/BearNecessitee [link] [comments]",
+      "body": "submitted by /u/BearNecessitee [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T16:55:14+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy5g2m/sony_reminds_players_they_dont_actually_own_the/",
+      "image": "https://external-preview.redd.it/GmMAjez2LuJV-3dkr6vivq-VlcLB5bTz6JLEnp0mDdc.jpeg?width=640&crop=smart&auto=webp&s=a32cddcced15ff995660422829427ceeacb8ac3d",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_155a74b13787",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-19T13:33:58+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsmlkl/florida_officer_used_flock_camera_database_717/",
       "image": "https://external-preview.redd.it/xs_6Hp3BBGwt7GROeT8k0cdILdfziONSjCEyD5vQ5_k.jpeg?width=640&crop=smart&auto=webp&s=a91f2cb368b45e1c2fb17a4ecb67d3e0f4e2ec3a",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_471f54893275",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "dek": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-      "body": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T12:47:53+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
