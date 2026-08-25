@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-25T19:33:35+00:00",
+  "generatedAt": "2026-08-25T20:00:53+00:00",
   "items": [
+    {
+      "id": "latest_8a33f55feeca",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "dek": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+      "body": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T19:30:37+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/ffb85360-a0b9-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_b3daa6e1bda1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-25T17:54:03+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_17fdee354274",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Putin adviser claims Ukraine planned to invade Russia on 8 March 2022, so Russia attacked first",
-      "dek": "submitted by /u/Practical-Pea-1205 [link] [comments]",
-      "body": "submitted by /u/Practical-Pea-1205 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-25T17:06:46+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy5rzu/putin_adviser_claims_ukraine_planned_to_invade/",
-      "image": "https://external-preview.redd.it/djXbx-ig7l7gyzuA5Cdduafg3gtbm6uEz1baw0Q_whg.jpeg?width=640&crop=smart&auto=webp&s=9ab79bbb818aa9ba3f71c13aa3579d9739911b8d",
       "imageCredit": "Image via original publisher"
     }
   ]
