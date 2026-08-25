@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_e052c0ac7293",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "dek": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "body": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T14:54:34+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a64/live/340bd9d0-a091-11f1-b11c-1bea5fc925f5.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_f552648bc07b",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Professor who claimed ancient Malays could fly loses university post",
+      "dek": "submitted by /u/Odd-Carpenter-4390 [link] [comments]",
+      "body": "submitted by /u/Odd-Carpenter-4390 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T14:41:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy1rzm/professor_who_claimed_ancient_malays_could_fly/",
+      "image": "https://external-preview.redd.it/w3iXMqFDL8NsO_6w_6g4jZNQ23wN2MM-h-cqtvHaZAw.jpeg?width=640&crop=smart&auto=webp&s=2b15451f72fc7de8bac4208eea325218527f786e",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_e8e3a868fabc",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-19T10:52:46+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2676/live/aeb15fe0-9bb2-11f1-aed2-8d6da8d75094.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7ddf8688bec3",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-      "dek": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
-      "body": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T10:47:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a86/live/9dc56780-9bb2-11f1-a291-b542ee92de7c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_9073aed3b2d5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Omaha Public Schools requests SROs no longer be authorized to carry shock gloves on school grounds",
-      "dek": "submitted by /u/NicolasCageFan492 [link] [comments]",
-      "body": "submitted by /u/NicolasCageFan492 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T10:35:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vsipgu/omaha_public_schools_requests_sros_no_longer_be/",
-      "image": "https://external-preview.redd.it/uNy-eWl5zbPasqgrH72VuN9PwbiBWWoIbr0e0rkJ_6g.jpeg?width=640&crop=smart&auto=webp&s=c397f659e2d9690d9a9e51b302102a44f70a09a1",
       "imageCredit": "Image via original publisher"
     }
   ]
