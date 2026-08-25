@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-25T18:03:17+00:00",
+  "generatedAt": "2026-08-25T18:56:09+00:00",
   "items": [
+    {
+      "id": "latest_94a6ef56b551",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "dek": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "body": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-25T17:54:03+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e708/live/0a3afb60-a0ad-11f1-a54e-272d756c341e.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_17fdee354274",
       "section": "meme",
@@ -30,21 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy5g2m/sony_reminds_players_they_dont_actually_own_the/",
       "image": "https://external-preview.redd.it/GmMAjez2LuJV-3dkr6vivq-VlcLB5bTz6JLEnp0mDdc.jpeg?width=640&crop=smart&auto=webp&s=a32cddcced15ff995660422829427ceeacb8ac3d",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_155a74b13787",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Dead fish with herpes giving Eskom a major headache",
-      "dek": "submitted by /u/Sus-iety [link] [comments]",
-      "body": "submitted by /u/Sus-iety [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-25T16:38:55+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vy4zif/dead_fish_with_herpes_giving_eskom_a_major/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_155a74b13787",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
