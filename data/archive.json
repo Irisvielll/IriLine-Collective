@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_c6eb9d72ae79",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
+      "dek": "It is thought to be part of efforts to consolidate the former coup leader's control.",
+      "body": "It is thought to be part of efforts to consolidate the former coup leader's control.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-26T13:49:55+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/672e/live/fdadf340-a14f-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_5846e2201e8d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Flock Camera CEO Asks Americans To “Compromise” on Privacy",
+      "dek": "submitted by /u/Select-Blood-7896 [link] [comments]",
+      "body": "submitted by /u/Select-Blood-7896 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-26T13:40:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vyxfl3/flock_camera_ceo_asks_americans_to_compromise_on/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_5846e2201e8d",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "meme_c9c5219a999a",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4469,36 +4499,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
       "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2c99652c82b7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Former Liberian vice president charged in drug-trafficking probe",
-      "dek": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
-      "body": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T03:09:24+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1198/live/e20af280-9c24-11f1-8f4f-835961d63624.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_35ba11e945bc",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "‘It wasn’t me’: Weed use in Allegheny County jury room forces homicide mistrial",
-      "dek": "submitted by /u/grs1985 [link] [comments]",
-      "body": "submitted by /u/grs1985 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T02:32:10+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vt6y52/it_wasnt_me_weed_use_in_allegheny_county_jury/",
-      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_35ba11e945bc",
-      "imageCredit": "Photo via Unsplash (free to use)"
     }
   ]
 }
