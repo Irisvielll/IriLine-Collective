@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_a18b467556b8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Florida police used a fake Flock camera in a sting, then charged a man with three felonies for destroying it",
+      "dek": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "body": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-26T14:25:01+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vyykzy/florida_police_used_a_fake_flock_camera_in_a/",
+      "image": "https://external-preview.redd.it/muFk-Nl3AsC7kc8e5TDK0yx4_OfkBndVzGUO_KYJmzc.jpeg?width=640&crop=smart&auto=webp&s=3de8c14888a6223174e66e5529ed82be7be17a9b",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_c6eb9d72ae79",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-20T04:32:30+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vt9f70/invited_media_and_military_members_held_at/",
       "image": "https://external-preview.redd.it/qrpM25NrU58XIL1M_wK6KN6CVsibw77fZTL51FaXTMw.jpeg?width=640&crop=smart&auto=webp&s=2f14885b073bd501e51784f02a38f645f0afbc00",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_35560161c067",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "dek": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
-      "body": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-20T03:16:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
