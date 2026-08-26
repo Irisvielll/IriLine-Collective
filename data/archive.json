@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_4ae933f66555",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Backlash After Hakeem Jeffries Holds Private Meeting With Jared Kushner Ahead of Midterms",
+      "dek": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "body": "submitted by /u/NicolasCageFan492 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-26T01:05:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vyieo5/backlash_after_hakeem_jeffries_holds_private/",
+      "image": "https://external-preview.redd.it/1K8CUMCtn_JQ-mTUoqjDfLyHp14ZbYiCWXaZL40vcyw.jpeg?width=640&crop=smart&auto=webp&s=aab0914cd23f97ff5cce5c9c68344dc878fbbfb1",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_9963d08571be",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vss6ph/monzo_deploys_backup_bank_in_face_of_outage/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e68b1ace59d4",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_bf624da0c030",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Lindsay Clancy's trial puts postpartum psychosis on the map",
-      "dek": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
-      "body": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-19T16:30:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e3/live/56feb170-91e0-11f1-9bc8-c9e5b4077192.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
