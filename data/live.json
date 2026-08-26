@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-26T11:44:34+00:00",
+  "generatedAt": "2026-08-26T12:17:29+00:00",
   "items": [
+    {
+      "id": "latest_fd7e67b0b86a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "dek": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "body": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-26T11:55:05+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226e/live/30231dc0-a11c-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_3808efb7fc22",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-26T11:28:19+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vyue7v/conservative_gay_rights_group_ends_support_for/",
       "image": "https://external-preview.redd.it/_JhFmKp5B3gPwRo4uzGGEmTr8pCiqhP4pbyShE8554k.png?width=640&crop=smart&auto=webp&s=6e6b4e33639ccba7368503aa02f5aee12497427b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_554e787c5832",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "dek": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-      "body": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-26T11:02:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
