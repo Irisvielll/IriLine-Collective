@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_7b3d3d9a0a50",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "dek": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "body": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-29T19:44:54+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/e3ac7010-a3d0-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_7e5fed92d201",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-22T14:10:05+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_a4052bcfa2c8",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Dallas residents express relief after fire destroys longtime 'eyesore' house",
-      "dek": "submitted by /u/BearNecessitee [link] [comments]",
-      "body": "submitted by /u/BearNecessitee [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-22T13:58:18+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvd5yt/dallas_residents_express_relief_after_fire/",
-      "image": "https://external-preview.redd.it/AjSujKQITOMKCynxSbQmvAugJt7Gu78-eeHgchLU7ss.jpeg?width=640&crop=smart&auto=webp&s=cb8a164cc8998c2ab50298c94ed5fe027b386b32",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-08-29T23:23:48+00:00",
+  "generatedAt": "2026-08-30T01:28:16+00:00",
   "items": [
+    {
+      "id": "latest_4dcd5aa8edee",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "dek": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "body": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-30T00:17:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_478f9f054b02",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-08-29T19:50:28+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1w1w5pe/meta_makes_ai_glasses_slightly_less_creepy_with/",
       "image": "https://external-preview.redd.it/GgLWlqVZCtgruaDFYizn4Kzdu_klwAc-X0enlyrtqAk.jpeg?width=640&crop=smart&auto=webp&s=dbd82fffaf8a0eda46337b296390a9a9e3b72657",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7b3d3d9a0a50",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Former Ecuadorian president imprisoned for corruption",
-      "dek": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-      "body": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-29T19:44:54+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/e3ac7010-a3d0-11f1-b109-879e35c24276.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
