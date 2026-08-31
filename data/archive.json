@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_77c755dad93a",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "dek": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "body": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-08-30T21:15:42+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_82e2afc4f7dc",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-23T05:50:02+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vvytd1/national_guardsman_pleads_no_contest_to_using_a/",
       "image": "https://external-preview.redd.it/12yY3XNSjdN-I1YprcoVK-FP7ILaDvSNVCUwWmLqOB4.jpeg?width=640&crop=smart&auto=webp&s=2c846dfb91a109340e1f8d90ee481a7835f205e5",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2f30b2d39716",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "dek": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "body": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-23T03:44:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
