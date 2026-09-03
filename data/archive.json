@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_4a05777e1551",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "North Carolina mother says family exposed to rabid goats at petting zoo",
+      "dek": "submitted by /u/powdersleaf [link] [comments]",
+      "body": "submitted by /u/powdersleaf [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-02T20:56:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1w5mxe7/north_carolina_mother_says_family_exposed_to/",
+      "image": "https://external-preview.redd.it/EyMIyI7ZzbbYuDJDXB2Gy0BJ4BBcl_KcFMGpBVqvoi0.jpeg?width=640&crop=smart&auto=webp&s=c0932e51e14505b403bc8e5c13828303b550d076",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_ccedae1703cd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "dek": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+      "body": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-02T20:21:04+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c3/live/d18d2af0-a709-11f1-aed2-8d6da8d75094.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_cd5bad42290d",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-08-26T10:47:33+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1vytlgh/college_student_fatally_shot_by_pennsylvania/",
       "image": "https://external-preview.redd.it/aTzEdnBqqtt3ac0DQ677cpK9FXeBi6Bc0Q37RhI_sQI.jpeg?width=640&crop=smart&auto=webp&s=2b94aaa7fa7454dbe19274c4a019f7685d9a6ba7",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f320dfe7e427",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "dek": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-      "body": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-26T10:29:36+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737e/live/628a85a0-a135-11f1-9311-09d4e1fc9016.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2a2c18d4bbf4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Canada's retaliation tests the limit of American power under Trump",
-      "dek": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-      "body": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-26T08:47:18+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239d/live/98ae3c90-a12a-11f1-8c37-3f30331ac537.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
