@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_24fd29acb2ee",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "What different world maps get right - and what they get wrong",
+      "dek": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "body": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-05T13:46:02+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_c6f7d95799e3",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-08-29T18:25:22+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1w1tyzr/north_carolina_niece_and_uncle_charged_after/",
       "image": "https://external-preview.redd.it/9ijSC1YGh-KqzM8vZGCqX5_QNspqPm8ko1v67fseIJ8.jpeg?width=640&crop=smart&auto=webp&s=e40def5496d5b7514676c6a0e6002f33fb44dba6",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_627c6dfa54ca",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "dek": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "body": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-08-29T17:52:42+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
