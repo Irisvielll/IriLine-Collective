@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-07T16:04:33+00:00",
+  "generatedAt": "2026-09-07T19:57:59+00:00",
   "items": [
+    {
+      "id": "meme_b0398835e4e2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Snoop Dogg wants to pay someone US$10K a month to taste ice cream",
+      "dek": "submitted by /u/biograf_ [link] [comments]",
+      "body": "submitted by /u/biograf_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-07T19:56:22+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wa2mmx/snoop_dogg_wants_to_pay_someone_us10k_a_month_to/",
+      "image": "https://external-preview.redd.it/4dw-iIP_szKaNXDtHG5SYeshMIN71OeV31k0_hwvRA0.jpeg?width=640&crop=smart&auto=webp&s=cb924e8a43b7b251de73bdd7cbaf338e152da8f7",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_615743774397",
       "section": "latest",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-09-07T14:57:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e096/live/fde524f0-aac8-11f1-9ffe-379165646670.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a67d14f4bf15",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Tanzanian President Samia's husband dies in hospital",
-      "dek": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
-      "body": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-07T12:03:56+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ec3/live/f08c3e30-aaa3-11f1-9eba-7de947fa7cd1.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
