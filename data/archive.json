@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_62fa068020d2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
+      "dek": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
+      "body": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-08T17:24:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee9/live/5c9c31a0-0277-11f1-b5e2-dd58fc65f0f6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_0a098c22936e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
+      "dek": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
+      "body": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-08T16:45:32+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/794d/live/60f7daa0-ab9c-11f1-aed2-8d6da8d75094.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_88d1d02e9eb3",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-09-01T15:51:40+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5638/live/ebb6d900-a61c-11f1-9ca2-a3e18de91b7b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_103f43806b2f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sacramento school board members consider their own pay raises amid budget crisis",
-      "dek": "submitted by /u/ChocolateTsar [link] [comments]",
-      "body": "submitted by /u/ChocolateTsar [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-01T15:31:02+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1w4fcej/sacramento_school_board_members_consider_their/",
-      "image": "https://external-preview.redd.it/GFdKlZHbX7OQDvhHvhetkexF72ytRJOeRkHqo6xk-qg.jpeg?width=640&crop=smart&auto=webp&s=9adc0d208b8870f439acb29ae725fff504447fdd",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_3085ae0d22c0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "France targets Shein and Temu with fast fashion fees",
-      "dek": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
-      "body": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-01T15:15:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df5c/live/544eaf90-a60b-11f1-83fc-0df57e6b3866.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
