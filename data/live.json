@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-10T21:38:03+00:00",
+  "generatedAt": "2026-09-10T23:24:33+00:00",
   "items": [
+    {
+      "id": "meme_9398314499e0",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "New Data Suggests Long Waits of over 18 months Between Seasons Are Hurting Viewership on Netflix Hits",
+      "dek": "submitted by /u/ye_roustabouts [link] [comments]",
+      "body": "submitted by /u/ye_roustabouts [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-10T22:39:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wcy8fo/new_data_suggests_long_waits_of_over_18_months/",
+      "image": "https://external-preview.redd.it/1IFoUrZi7QTnsTR5eQbriAJN4UvbG-wN5coIxpwMIjM.jpeg?width=640&crop=smart&auto=webp&s=769e3fe256e0ad47bfd3e0db0df951cde83742a7",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_5d9eb888db7a",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-09-10T20:44:51+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_f38856212535",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Man jailed after threatening to kill son's teacher in French village",
-      "dek": "The father had threatened to behead a female primary school teacher near Toulouse.",
-      "body": "The father had threatened to behead a female primary school teacher near Toulouse.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-10T20:10:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb0/live/7f4afc60-ad47-11f1-ae59-91d2b63bf2a3.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

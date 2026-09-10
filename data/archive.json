@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_f38856212535",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "dek": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "body": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-10T20:10:51+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb0/live/7f4afc60-ad47-11f1-ae59-91d2b63bf2a3.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_3de97531ba45",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-09-03T14:52:45+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1w69nob/michele_bachmann_says_the_biggest_problem_in_gaza/",
       "image": "https://external-preview.redd.it/b3P2s95hKpbO3loQyMZVDNx19AaSZVWoNldYCuTVUWI.jpeg?width=640&crop=smart&auto=webp&s=0cc5718b99361a7e745c748fec93bc58b59200f1",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5683dfd87b98",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "MP Shocker: Man Survives Tree Fall, Dies Hours Later In Hospital Lift Mishap",
-      "dek": "submitted by /u/Real_Suntan_Superman [link] [comments]",
-      "body": "submitted by /u/Real_Suntan_Superman [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-03T14:44:01+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1w69exs/mp_shocker_man_survives_tree_fall_dies_hours/",
-      "image": "https://external-preview.redd.it/K0TT0217yNCJTSUro3lG5L8VtQcMD0cy4jTqcaOguSg.jpeg?width=640&crop=smart&auto=webp&s=8dca0d627745688c9a8fe21279c7c71da8275039",
       "imageCredit": "Image via original publisher"
     }
   ]
