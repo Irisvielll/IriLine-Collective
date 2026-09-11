@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_24d251fe761d",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Coach crash kills several people in Swiss Alps",
+      "dek": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
+      "body": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-10T20:44:51+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_f38856212535",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-09-03T15:05:57+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_fb3759dd396f",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Michele Bachmann Says The Biggest Problem In Gaza Today Is Obesity From Too Much Food",
-      "dek": "submitted by /u/Future_Arrival_5395 [link] [comments]",
-      "body": "submitted by /u/Future_Arrival_5395 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-03T14:52:45+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1w69nob/michele_bachmann_says_the_biggest_problem_in_gaza/",
-      "image": "https://external-preview.redd.it/b3P2s95hKpbO3loQyMZVDNx19AaSZVWoNldYCuTVUWI.jpeg?width=640&crop=smart&auto=webp&s=0cc5718b99361a7e745c748fec93bc58b59200f1",
       "imageCredit": "Image via original publisher"
     }
   ]

@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-10T23:24:33+00:00",
+  "generatedAt": "2026-09-11T01:20:53+00:00",
   "items": [
+    {
+      "id": "meme_7c2bae6ad40f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Driver whose car was impounded for excessive speed on Sea to Sky then loses taxi for same reason",
+      "dek": "submitted by /u/whiskey06 [link] [comments]",
+      "body": "submitted by /u/whiskey06 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-11T00:47:45+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wd19gn/driver_whose_car_was_impounded_for_excessive/",
+      "image": "https://external-preview.redd.it/GbjthaQrKug9Eq_BcOgwutajNDy0SluyVPDYpgqeh_Q.jpeg?width=640&crop=smart&auto=webp&s=dfebd207c9d874c170a58353b5ecf4568ceef4b2",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_9398314499e0",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-09-10T21:22:41+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wcwarr/lg_strongly_denies_tv_spying_claims_says_tracking/",
       "image": "https://external-preview.redd.it/5NFERdPhwIjV8U1TJzsCtwwYyKvoPGxxzAvRP2_oH0Y.jpeg?width=640&crop=smart&auto=webp&s=b81a9f66f042a715486c78ed8826e03cf036e35f",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_24d251fe761d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Coach crash kills several people in Swiss Alps",
-      "dek": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
-      "body": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-10T20:44:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79c/live/94f7da60-ad56-11f1-8128-99eda56e535a.png",
       "imageCredit": "Image via original publisher"
     }
   ]
