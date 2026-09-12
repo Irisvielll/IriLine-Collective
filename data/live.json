@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-11T23:29:01+00:00",
+  "generatedAt": "2026-09-12T01:27:44+00:00",
   "items": [
+    {
+      "id": "meme_48e9e56726b2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Vehicle with ‘FAT CHICKS ONLY’ text sought in investigation",
+      "dek": "submitted by /u/Background_Spirit7 [link] [comments]",
+      "body": "submitted by /u/Background_Spirit7 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-12T00:21:03+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wdxgp5/vehicle_with_fat_chicks_only_text_sought_in/",
+      "image": "https://external-preview.redd.it/2YHYKEsaGnZRZnjZ3YLG50P7wfW_qakx2fTOSVF64Ko.jpeg?width=640&crop=smart&auto=webp&s=c06c10859242bdc526b8fdf6cbf8107f62d09945",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_b7f96cdce24f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-09-11T22:57:42+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a95a11f55bd8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "dek": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "body": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-11T21:25:32+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
