@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-14T18:52:50+00:00",
+  "generatedAt": "2026-09-14T22:17:06+00:00",
   "items": [
+    {
+      "id": "latest_83a9e10d42b8",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "dek": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "body": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-14T21:29:12+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_f722cc327bf2",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Even Sam Ness didn't know about his own recently released single",
+      "dek": "submitted by /u/Oralitical [link] [comments]",
+      "body": "submitted by /u/Oralitical [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-14T21:26:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wggo2j/even_sam_ness_didnt_know_about_his_own_recently/",
+      "image": "https://external-preview.redd.it/_4mLX5XQsVic367CT7bU7yESArdnqzuzjr1c1GqMZ30.png?width=640&crop=smart&auto=webp&s=770e12ccb9af94236923650a9a0f7fd4f8ebde28",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_18386f9bb5d4",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-09-14T18:49:20+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wgcb9i/lawyer_cites_fake_witnesses_in_murder_case_and/",
       "image": "https://external-preview.redd.it/tsNGRF4YIVXUQo2iUxsAvdkrRU5mfyjuXxNfvRatyEU.jpeg?width=640&crop=smart&auto=webp&s=db9e2cc21675810ab7f7f74232471141726f2121",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_5b32d4f91e65",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Cuban dance teacher ordered EU sabotage attacks from Russia",
-      "dek": "submitted by /u/the-player-of-games [link] [comments]",
-      "body": "submitted by /u/the-player-of-games [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-14T18:20:17+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wgbh7m/cuban_dance_teacher_ordered_eu_sabotage_attacks/",
-      "image": "https://external-preview.redd.it/6Af-dW2C_o0M5N8PGjXav1tTHIa5m9Q7d6Vr7XzKZnM.jpeg?width=640&crop=smart&auto=webp&s=b64511dea01a2797534ce55bf5cef77e1d06aa4e",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_8a024c0022a7",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Woman throws bucket of poop on neighbor for sleeping with her husband, deputies say",
-      "dek": "submitted by /u/Princess_Coldheart [link] [comments]",
-      "body": "submitted by /u/Princess_Coldheart [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-14T18:18:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wgbfhr/woman_throws_bucket_of_poop_on_neighbor_for/",
-      "image": "https://external-preview.redd.it/NFChbSb0P3vUf5y87jOWDW_sB1tg3xXVQyWR2VbJ35o.jpeg?width=640&crop=smart&auto=webp&s=6a49bb5c115f7b6ece4dba802247f8ce22b44b26",
       "imageCredit": "Image via original publisher"
     }
   ]
