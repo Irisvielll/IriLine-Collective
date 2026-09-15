@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_18386f9bb5d4",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Lawyer cites fake witnesses in murder case and blames ChatGPT",
+      "dek": "submitted by /u/CzarDM [link] [comments]",
+      "body": "submitted by /u/CzarDM [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-14T18:49:20+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wgcb9i/lawyer_cites_fake_witnesses_in_murder_case_and/",
+      "image": "https://external-preview.redd.it/tsNGRF4YIVXUQo2iUxsAvdkrRU5mfyjuXxNfvRatyEU.jpeg?width=640&crop=smart&auto=webp&s=db9e2cc21675810ab7f7f74232471141726f2121",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_5b32d4f91e65",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-09-07T08:04:12+00:00",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/b13ef080-a853-11f1-80f8-c33181935c5a.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a13a5e8a23f7",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "dek": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "body": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-07T07:03:44+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b166/live/63ecaa80-a884-11f1-824a-0fc4c5d895ae.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
