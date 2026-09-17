@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "latest_f5b6dac208dd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US interest rates raised for first time in three years",
+      "dek": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
+      "body": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-16T21:02:11+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_13e550dbed7d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Use of untested ‘Wolverine’ peptide on the rise, U.S. study finds",
+      "dek": "submitted by /u/AudibleNod [link] [comments]",
+      "body": "submitted by /u/AudibleNod [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-16T20:47:46+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wi9cxx/use_of_untested_wolverine_peptide_on_the_rise_us/",
+      "image": "https://external-preview.redd.it/xqoXxE4l_0FGDbmvRmc7nL5uLuQTfoFmBN8v1M0qbEQ.jpeg?width=640&crop=smart&auto=webp&s=897955ce99df9ed2898a002692f999670608901c",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_3fa3005b12c1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-09-09T17:42:29+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wbsjiq/google_mapped_a_flys_nervous_system_and/",
       "image": "https://external-preview.redd.it/rde82i4rGHvrhsdlWjfbtztVEZwcgPIjwCijtefmGgk.jpeg?width=640&crop=smart&auto=webp&s=d0a0655b7abe2c923873959493931e98ea690511",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_cd9b6cc47ed0",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "dek": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-      "body": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-09T17:06:48+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_2b25b532d4e9",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Teen arrested in West Indian Day Parade shooting was out on bail for separate shooting",
-      "dek": "submitted by /u/4DollarsALB [link] [comments]",
-      "body": "submitted by /u/4DollarsALB [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-09T16:44:08+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wbqw5w/teen_arrested_in_west_indian_day_parade_shooting/",
-      "image": "https://external-preview.redd.it/Z22kL0OhEzsdv_GG38INlWhBgb-Spznx_HnR5O6sqGw.jpeg?width=640&crop=smart&auto=webp&s=cc4c9ed46b3ce24877c416cb12d73c26d1c8cbb7",
       "imageCredit": "Image via original publisher"
     }
   ]
