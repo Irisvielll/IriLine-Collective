@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-09-20T14:53:17+00:00",
+  "generatedAt": "2026-09-20T18:00:54+00:00",
   "items": [
+    {
+      "id": "latest_c346ef593f3e",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "dek": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "body": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-20T17:46:57+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_e2d40776804a",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Golden retriever brings toys to the intruder who breaks into his house",
+      "dek": "submitted by /u/Famous-Register-2814 [link] [comments]",
+      "body": "submitted by /u/Famous-Register-2814 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-20T15:46:26+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wlkhjs/golden_retriever_brings_toys_to_the_intruder_who/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e2d40776804a",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "latest_9b7cadaecbe9",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-09-20T13:50:51+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_67340ba7289a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Putin casts online vote using unlicensed Windows on an American Dell PC — 'Activate Windows' watermark visible in official Kremlin clip, uses foreign Dell PC despite Russian tech mandate",
-      "dek": "submitted by /u/TheCancerMan [link] [comments]",
-      "body": "submitted by /u/TheCancerMan [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-20T13:17:27+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wlgvas/putin_casts_online_vote_using_unlicensed_windows/",
-      "image": "https://external-preview.redd.it/VUBmLcGDNq4hrCaGgbskI9OQOnurYmqFd5_xxQuJ82c.jpeg?width=640&crop=smart&auto=webp&s=d755824eaae6d7e241758c0e80e213e5d01d420d",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_52c5f58da5ee",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Afrikaner ‘refugee’ family who came back to SA for healthcare can’t return to US",
-      "dek": "submitted by /u/av34as [link] [comments]",
-      "body": "submitted by /u/av34as [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-20T10:47:41+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wlduj9/afrikaner_refugee_family_who_came_back_to_sa_for/",
-      "image": "https://external-preview.redd.it/YQTPPpFWBEDgOJO6dq1svNe3ascMwO3dUEF1WX8NIO4.jpeg?width=640&crop=smart&auto=webp&s=c95fb826c48852bf0ee65301bc5e78455d784237",
       "imageCredit": "Image via original publisher"
     }
   ]
