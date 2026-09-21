@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2ba89fba34ef",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "dek": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "body": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-20T21:17:22+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_6082c7c9f5d4",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-09-13T03:41:18+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wewuwm/pilots_of_aa1779_reported_a_passenger_in_seat_9d/",
       "image": "https://external-preview.redd.it/ipVnYiuHhT1ZspB5XodNGb8pNG5XM-7lNE69kWqKLbo.jpeg?width=640&crop=smart&auto=webp&s=0ecc992e5ea4d47ebd2310cff15f05e44f388484",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ad59eb6e9bc6",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris",
-      "dek": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "body": "The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-13T02:41:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7767/live/2b484690-aefa-11f1-a52c-d92eb1a832de.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

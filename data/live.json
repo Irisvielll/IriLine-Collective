@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-09-20T23:01:58+00:00",
+  "generatedAt": "2026-09-21T01:05:32+00:00",
   "items": [
+    {
+      "id": "meme_8d7766e8e9bc",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Man accused of trying to rob bank in Beltsville with stolen cat",
+      "dek": "submitted by /u/matthieuC [link] [comments]",
+      "body": "submitted by /u/matthieuC [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-20T23:56:21+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wlwyeb/man_accused_of_trying_to_rob_bank_in_beltsville/",
+      "image": "https://external-preview.redd.it/SSbLRfpQIocv8vjTyhNsf8SzYxAwrHUmG-Y-cpiPhhA.jpeg?width=640&crop=smart&auto=webp&s=88ce1d0d311e8853c8b4eeafc000fc36bf68776d",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_be1ec8a7f76f",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-09-20T22:11:11+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wlujno/shopify_ceo_says_employees_slop_grenades_are/",
       "image": "https://external-preview.redd.it/Nj1Ms6BIwjnPw1NHFVO6JxbKvek3IIYLWkuPaJTqfiQ.jpeg?width=640&crop=smart&auto=webp&s=281a197ef6c9b7ffec5228471de95fe8600ab531",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_2ba89fba34ef",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
-      "dek": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
-      "body": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-20T21:17:22+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
