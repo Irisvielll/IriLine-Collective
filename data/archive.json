@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "meme_da8decb1d1e8",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "2 Michigan Supreme Court candidates lack valid law licenses, state bar records show",
+      "dek": "How they're able to run for state Supreme Court seats is beyond my understanding. submitted by /u/UltimateLionsFan [link] [comments]",
+      "body": "How they're able to run for state Supreme Court seats is beyond my understanding. submitted by /u/UltimateLionsFan [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-24T00:31:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1won3of/2_michigan_supreme_court_candidates_lack_valid/",
+      "image": "https://external-preview.redd.it/JiiewCRmjhtXigj7idNvszjkbaiFtcFJK3WG2X6h4G0.png?width=640&crop=smart&auto=webp&s=02b668333a70259e805f3086de7a125d3ba912d7",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_a23f76d1ffbb",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "dek": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "body": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-24T00:28:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_aeb6982cb7d2",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
+      "dek": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+      "body": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-24T00:15:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b31/live/276fdbc0-b768-11f1-a7b2-f3bdba1cd194.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fee0261949c1",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-09-16T18:36:16+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_61b04544599a",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Bad News: New Study Suggests Water Will Make Large Moon Colonies Impossible",
-      "dek": "submitted by /u/ach0z3n [link] [comments]",
-      "body": "submitted by /u/ach0z3n [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-16T17:35:37+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wi40cq/bad_news_new_study_suggests_water_will_make_large/",
-      "image": "https://external-preview.redd.it/We7ig986Uk-WoziQZkjcfKD-qQHbo_iyyjFjY5J2wu4.jpeg?width=640&crop=smart&auto=webp&s=69b2114bd1a0547cd45c53af5aac850cb728b97b",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_9aac3f7f2734",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-      "dek": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
-      "body": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-16T15:48:50+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da9/live/3fc77b90-b1de-11f1-ac01-a9af2f94b2cc.png",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_961889ab294a",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-      "dek": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
-      "body": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-16T15:33:19+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9261/live/abd1c520-b1e3-11f1-ac01-a9af2f94b2cc.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
