@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_c91cab7f8cf6",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "dek": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "body": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-09-26T19:59:00+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_211bcaba5cc7",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-09-19T10:27:37+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86e4/live/a768b9c0-b414-11f1-8366-ad72a16d0f7c.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_02ae60e4945b",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "English soccer club sorry for launching 'United 93' clothing range around 9/11 anniversary",
-      "dek": "submitted by /u/Radiant97 [link] [comments]",
-      "body": "submitted by /u/Radiant97 [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-09-19T10:01:50+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wki6yy/english_soccer_club_sorry_for_launching_united_93/",
-      "image": "https://external-preview.redd.it/jKJF7R6Ght6g2httx3J1jkZyW1eOpSw9Sf7nEyae8q8.png?width=640&crop=smart&auto=webp&s=54afd751269ce11a7923740bcab2e340402a00e9",
       "imageCredit": "Image via original publisher"
     }
   ]
