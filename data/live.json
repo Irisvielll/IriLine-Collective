@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-03T01:50:52+00:00",
+  "generatedAt": "2026-10-03T07:41:00+00:00",
   "items": [
+    {
+      "id": "latest_5f92289cd5a4",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "dek": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "body": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-03T07:25:09+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_029fe5a4e43c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "FBI has commissioned a classified and internal ‘Patel Report’ about times when it ‘fell short’",
+      "dek": "submitted by /u/bluffcitynews [link] [comments]",
+      "body": "submitted by /u/bluffcitynews [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-03T03:07:23+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wwcmuv/fbi_has_commissioned_a_classified_and_internal/",
+      "image": "https://external-preview.redd.it/VaLxPkYVDdHqxkJEa4qDmM2f32D2KtSNch-8m1pnn4w.jpeg?width=640&crop=smart&auto=webp&s=3a4dd7414a80570bee422dc61a0a9f6a596fc2b3",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_d8425a547b0a",
       "section": "meme",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-10-03T01:23:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wwapc7/iran_urges_france_to_respect_human_rights_in/",
       "image": "https://external-preview.redd.it/7BrmpCcUNfS6jIpbpC9iZvWKHU4fW9Le3kyXjJvtwN8.jpeg?width=640&crop=smart&auto=webp&s=889394b3cb388463e45227e9680b7693f6e5feaf",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "meme_54454a5bb427",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "Sterling Heights police arrest woman accused of lighting DTE utility poles on fire",
-      "dek": "When you get angry at DTE because the power is expensive or because the power always go out after a storm. So you go out and set utility poles on fire which cau",
-      "body": "When you get angry at DTE because the power is expensive or because the power always go out after a storm. So you go out and set utility poles on fire which causes more outages... submitted by /u/UltimateLionsFan [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-03T01:21:30+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1wwansw/sterling_heights_police_arrest_woman_accused_of/",
-      "image": "https://external-preview.redd.it/bt1GsjY9En4yl6ZgO4ZJ_I6RAX3iG3KFVvDxgut3wi8.jpeg?width=640&crop=smart&auto=webp&s=f7063be0309f67af38b2fcb3d654af6a8965c220",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a8e2ed0e177d",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
-      "dek": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
-      "body": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-02T23:56:21+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8afb/live/fab26a80-be6f-11f1-8a45-cd59664d243b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
