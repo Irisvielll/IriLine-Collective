@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_525dfb5a3537",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Rick Tocchet says Flyers defensemen are ‘too horny’ on the ice",
+      "dek": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "body": "submitted by /u/AlwaysBlaze_ [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-14T20:50:59+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1x62qez/rick_tocchet_says_flyers_defensemen_are_too_horny/",
+      "image": "https://external-preview.redd.it/KoTSlRP-KOCWBIvQ2ldwEgXKt9YkG1H4qpg3Q-jOW8Y.jpeg?width=640&crop=smart&auto=webp&s=c6762f0c8f6224c1eddda380ad9a0cd443b1d463",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ff4c841e83bf",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-10-08T05:10:40+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edc3/live/6ef2dd00-c2e7-11f1-a64c-550be9e3c66b.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1d4d72e564ee",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "dek": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
-      "body": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-08T05:06:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d71/live/8af61620-c233-11f1-a64c-550be9e3c66b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
