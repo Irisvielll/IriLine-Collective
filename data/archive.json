@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_1e7b8d336d6b",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "dek": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at ",
+      "body": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-19T23:08:25+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_65511d913502",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-10-13T04:27:22+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/97243030-c684-11f1-bc2e-018d645d8d21.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fc9ba88f88a5",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-      "dek": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-      "body": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-13T04:04:57+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce6/live/a4d5ae80-c6ba-11f1-9a39-31b474234113.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

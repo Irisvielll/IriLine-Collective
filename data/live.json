@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-19T23:42:17+00:00",
+  "generatedAt": "2026-10-20T02:07:12+00:00",
   "items": [
+    {
+      "id": "meme_378d822d12e7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Florida Gambling Helpline Director Jailed for Embezzlement to Fund Gambling Addiction",
+      "dek": "submitted by /u/____okay [link] [comments]",
+      "body": "submitted by /u/____okay [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-20T01:04:00+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xaekzk/florida_gambling_helpline_director_jailed_for/",
+      "image": "https://external-preview.redd.it/XJEAy6LSmqcSpxHWbXCQo7uQP1LjHwQtzy-1-68dOAo.jpeg?width=640&crop=smart&auto=webp&s=2dfb6ae3ddcf58d005655ce0a3902e0019d23e74",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_55e872f07cc6",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-10-19T23:30:03+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a92/live/3903b230-cbc7-11f1-bc2e-018d645d8d21.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_1e7b8d336d6b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "dek": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at ",
-      "body": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-19T23:08:25+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
