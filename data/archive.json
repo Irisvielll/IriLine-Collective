@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_8ce09548c28f",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "dek": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+      "body": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-23T20:59:39+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_e30bbbd76536",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-10-16T23:14:39+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1x7uzjd/pair_used_booster_bags_to_swipe_costumes_props/",
       "image": "https://external-preview.redd.it/Td1VFRtK4nqvU6bJlekhxuRes5sbV5W3uy-T0MEjdG8.jpeg?width=640&crop=smart&auto=webp&s=eb17d1ffe390fc40932b3e2afbc4acf132cadd94",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8d691fdb102f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "dek": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "body": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-16T23:07:38+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]

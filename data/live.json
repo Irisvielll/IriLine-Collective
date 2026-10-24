@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-23T23:08:28+00:00",
+  "generatedAt": "2026-10-24T01:35:15+00:00",
   "items": [
+    {
+      "id": "meme_59d038281d74",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Former Texas Tech professor sentenced to 40 years for making, selling fentanyl including ‘pink flamingo’",
+      "dek": "submitted by /u/laybs1 [link] [comments]",
+      "body": "submitted by /u/laybs1 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-24T00:05:42+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xdu6c7/former_texas_tech_professor_sentenced_to_40_years/",
+      "image": "https://external-preview.redd.it/olj_lxGyqfmlmEvZTt8ojUUnDiZUlPnmG4NhBlkrGto.jpeg?width=640&crop=smart&auto=webp&s=3b3bdfc5719d5d13743f3e64bef736559744fce6",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_912c03abdd42",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-10-23T21:00:57+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xdpyc1/scottish_museum_removes_mummies_over_lack_of/",
       "image": "https://external-preview.redd.it/-tDMjUEXM3mgJKju1VO2fVvRVKplmxTb6tdezUDShg4.png?width=640&crop=smart&auto=webp&s=d2ca17b7d871a46544e71f860c242a17e1804e56",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_8ce09548c28f",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Argentina drops investigation into President Milei over crypto fraud",
-      "dek": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
-      "body": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-23T20:59:39+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
