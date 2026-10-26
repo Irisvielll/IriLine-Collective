@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-25T22:45:27+00:00",
+  "generatedAt": "2026-10-26T00:59:49+00:00",
   "items": [
+    {
+      "id": "meme_e2270f730771",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Major Ken Paxton donor endorses James Talarico in Texas",
+      "dek": "submitted by /u/shield_x [link] [comments]",
+      "body": "submitted by /u/shield_x [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-26T00:35:40+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xfils2/major_ken_paxton_donor_endorses_james_talarico_in/",
+      "image": "https://external-preview.redd.it/rnyVqpyl9ihDg82tg-ywKgRCe7iO3FLlmoPXk6NsRqM.jpeg?width=640&crop=smart&auto=webp&s=343735e29ac2da5e4ac8e8a753b4a66bb112a229",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7576e7a277a1",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-10-25T22:11:13+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_81bc7b0e59c4",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "dek": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "body": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-25T22:06:26+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79e5/live/ec88c6f0-d0b9-11f1-93e1-3b657b665bcf.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
