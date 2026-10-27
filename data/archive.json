@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "id": "meme_4a329003977f",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "North Carolina political candidate arrested after standoff with police following social media threats",
+      "dek": "submitted by /u/Fragrant-Upstairs932 [link] [comments]",
+      "body": "submitted by /u/Fragrant-Upstairs932 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-26T21:45:16+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xga7gz/north_carolina_political_candidate_arrested_after/",
+      "image": "https://external-preview.redd.it/KENFuqwUwkYWZCu2lc9eJL_K_s1GW_m5i5ftVdMMMqA.png?width=640&crop=smart&auto=webp&s=6ddbda40b21bdd41188d9ca60818cb8f396b23e8",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_5fa4fb5dedfd",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "dek": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "body": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-26T21:31:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03d/live/90fce170-d165-11f1-87df-afb7a168a1f2.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_240a0c55c5db",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4468,36 +4498,6 @@
       "publishedAt": "2026-10-19T21:30:08+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6193/live/d6797140-cc02-11f1-bc2e-018d645d8d21.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7604d8c4829b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "dek": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "body": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-19T21:14:53+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d92/live/581e2ba0-cbfe-11f1-a0c1-e5a096ec3cfb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_d7144f84d686",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US Church on frontline of battle against drug known as 'tranq'",
-      "dek": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-      "body": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-19T21:05:54+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483d/live/f2db5f30-cbdd-11f1-9a39-31b474234113.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
