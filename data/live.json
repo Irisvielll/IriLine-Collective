@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-10-29T00:18:40+00:00",
+  "generatedAt": "2026-10-29T06:13:51+00:00",
   "items": [
+    {
+      "id": "meme_9cf7a98bae6c",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "North Vancouver grad cruise ends with hovercraft voyage after party boat runs aground",
+      "dek": "submitted by /u/ubcstaffer123 [link] [comments]",
+      "body": "submitted by /u/ubcstaffer123 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-10-29T01:33:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xi6w2g/north_vancouver_grad_cruise_ends_with_hovercraft/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_9cf7a98bae6c",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
     {
       "id": "meme_a69a642f661c",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-10-28T22:55:36+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xi3a98/ca_deputy_dressed_as_a_traffic_cone_and_crossed/",
       "image": "https://external-preview.redd.it/rGuC_wYW6FxftoInsevIWJzo3qT_6ZPBBGqPZzGBKJU.jpeg?width=640&crop=smart&auto=webp&s=d67225665cae017e1203683dbcbafa0011bbf8c5",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_55fdc1c59946",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Girl seriously injured in wolf attack at German wildlife park",
-      "dek": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "body": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-28T22:08:52+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad45/live/27f788a0-d30f-11f1-ad4f-5d2bbacf0caf.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
