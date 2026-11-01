@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "meme_e547f44c4048",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Is there a presidential election in Arizona this year? Some think so",
+      "dek": "The Facebook page of the person at the helm of the Yavapai County Elections Recorder & Registration blasted out a post, advising concerned voters that this is n",
+      "body": "The Facebook page of the person at the helm of the Yavapai County Elections Recorder & Registration blasted out a post, advising concerned voters that this is not a presidential election. \"ATTENTION VOTERS: The President is NOT on the ballot. We are receiving a lot of questions from voters who think we forgot to put that race on the ballot,\" read an Oct. 30, Facebook post by Yavapai County Recorder Michelle Burchill. submitted by /u/Collie_Opterous [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-01T05:57:06+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xkvhv8/is_there_a_presidential_election_in_arizona_this/",
+      "image": "https://source.unsplash.com/1600x900/?news&sig=meme_e547f44c4048",
+      "imageCredit": "Photo via Unsplash (free to use)"
+    },
+    {
       "id": "latest_63401d823736",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -73,6 +88,36 @@
       "publishedAt": "2026-11-01T00:55:06+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_faf1874beb29",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "dek": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "body": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-01T00:41:24+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_2ead0d65cc28",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "dek": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "body": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-01T00:27:33+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg",
       "imageCredit": "Image via original publisher"
     },
     {
@@ -4453,51 +4498,6 @@
       "publishedAt": "2026-10-24T23:24:43+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xemxhe/minnesota_sex_offender_29_fails_high_school/",
       "image": "https://external-preview.redd.it/u_yaj1jAnoPTeESl1rNvdBT6-s5MuAZzbZXlixY9XAE.jpeg?width=640&crop=smart&auto=webp&s=502a3b5911d6723566f74353304d9c9d6df55593",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7b01f4c96719",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "The bitter row over military service that could shape Israel's future",
-      "dek": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-      "body": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-24T23:03:21+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e2/live/495ec3b0-ced1-11f1-b441-2b33b063138f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_ca3fbe9d3288",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "dek": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-      "body": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-24T23:03:09+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/d973bcb0-cefb-11f1-accf-3309656ad0bb.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_b3bfe36f76a2",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "dek": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
-      "body": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-24T23:02:51+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png",
       "imageCredit": "Image via original publisher"
     }
   ]
