@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-04T18:45:21+00:00",
+  "generatedAt": "2026-11-05T00:10:38+00:00",
   "items": [
+    {
+      "id": "meme_ce66c94484f6",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Jury awards $200K to tourist in ‘fart police’ translation mixup",
+      "dek": "submitted by /u/wakeupthebuddha [link] [comments]",
+      "body": "submitted by /u/wakeupthebuddha [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-04T20:06:29+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xnye9f/jury_awards_200k_to_tourist_in_fart_police/",
+      "image": "https://external-preview.redd.it/9IONPvwJg9Qp4BI1ma9E3EGdYp6ZcKPJf7uFGdVdUtI.png?width=640&crop=smart&auto=webp&s=83b85e6605aa47325361ae6cd61b01346756e6ba",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_fdb5a796bcb9",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-11-04T18:01:31+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c3/live/16cca880-d85f-11f1-b441-2b33b063138f.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_7bb8998eca36",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "dek": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "body": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-11-04T17:45:58+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png",
       "imageCredit": "Image via original publisher"
     }
   ]

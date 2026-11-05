@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_7bb8998eca36",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "dek": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "body": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-04T17:45:58+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6512/live/e94a10e0-d873-11f1-a364-a1fce50dd192.png",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "meme_3af6635d7ba1",
       "section": "meme",
       "sectionLabel": "Not-So-Serious",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-10-27T22:17:45+00:00",
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xh6mpw/tennessee_senator_admits_to_sending_unsolicited/",
       "image": "https://external-preview.redd.it/XhbeEXc8uVPOEWYSMfHsOnt2WtIpIJEcjiw3p9LfanE.jpeg?width=640&crop=smart&auto=webp&s=9b1b8036ac6fedc0623e071344f410cb86911cbe",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_4ce40386cade",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "dek": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "body": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-27T22:11:08+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
