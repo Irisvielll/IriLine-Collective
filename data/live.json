@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-07T18:58:37+00:00",
+  "generatedAt": "2026-11-07T22:38:22+00:00",
   "items": [
+    {
+      "id": "meme_8eaec29eeca7",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "West Hollywood expands legal rights for polyamorous relationships",
+      "dek": "submitted by /u/Ok-Moose-992 [link] [comments]",
+      "body": "submitted by /u/Ok-Moose-992 [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-07T22:35:37+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xqiw4m/west_hollywood_expands_legal_rights_for/",
+      "image": "https://external-preview.redd.it/KnZNTnWC_SU5mHqXRS-1ndTS_5W2gKLhALjySC4CFgI.jpeg?width=640&crop=smart&auto=webp&s=a8503dce0fb0d1335022bca77c451c600aaa9212",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "meme_a0c6863dc48d",
+      "section": "meme",
+      "sectionLabel": "Not-So-Serious",
+      "type": "MEME",
+      "category": "WEIRD",
+      "title": "Melbourne hoons hire camera crews to film dangerous stunts on major freeways.",
+      "dek": "submitted by /u/Bighty [link] [comments]",
+      "body": "submitted by /u/Bighty [link] [comments]",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-07T21:02:30+00:00",
+      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xqgulo/melbourne_hoons_hire_camera_crews_to_film/",
+      "image": "https://external-preview.redd.it/3aDqbcFhf0VQ97KRUAYO0VuZpmMP5TYxEiDJTNwIETI.jpeg?width=640&crop=smart&auto=webp&s=e9f8e71a35a97ad7b0cb53c36b8bbcc75aa5b802",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_ef9ebda96264",
       "section": "meme",
@@ -15,36 +45,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xqdwlh/us_air_traffic_control_enters_the_21st_century/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_ef9ebda96264",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "latest_10a11a207755",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "What we know about Krakow mass shooting so far",
-      "dek": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "body": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-11-07T18:22:11+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_a190c1df0327",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "dek": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "body": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-11-07T18:14:38+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
