@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-08T19:58:12+00:00",
+  "generatedAt": "2026-11-08T23:36:34+00:00",
   "items": [
+    {
+      "id": "latest_a06a85a61818",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "dek": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "body": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-08T22:05:12+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fc/live/a92bdf90-dbbe-11f1-b441-2b33b063138f.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "meme_7317a54bac36",
       "section": "meme",
@@ -29,21 +44,6 @@
       "publishedAt": "2026-11-08T18:22:53+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_fd082421c347",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "dek": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "body": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-11-08T17:35:13+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
