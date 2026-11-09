@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_97b1a1785af3",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "dek": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "body": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-08T18:22:53+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_fd082421c347",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4483,21 +4498,6 @@
       "publishedAt": "2026-10-31T05:44:21+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_27b50d1672c8",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "dek": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-      "body": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-10-31T04:32:07+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/5a0952f0-d487-11f1-80bc-6d398902272f.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
