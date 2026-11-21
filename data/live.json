@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-21T11:34:48+00:00",
+  "generatedAt": "2026-11-21T18:12:56+00:00",
   "items": [
+    {
+      "id": "latest_88af422b0866",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "dek": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "body": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-21T13:17:38+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
+      "id": "latest_48f549e40ad0",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "dek": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "body": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-21T13:15:21+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+      "imageCredit": "Image via original publisher"
+    },
     {
       "id": "latest_040c95d5f039",
       "section": "latest",
@@ -14,36 +44,6 @@
       "publishedAt": "2026-11-21T09:52:11+00:00",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_0c6a9c176423",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "dek": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "body": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-11-21T09:40:55+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
-      "imageCredit": "Image via original publisher"
-    },
-    {
-      "id": "latest_45201d2fd35b",
-      "section": "latest",
-      "sectionLabel": "Latest",
-      "type": "REAL",
-      "category": "WORLD",
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "dek": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "body": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-11-21T09:34:20+00:00",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
       "imageCredit": "Image via original publisher"
     }
   ]
