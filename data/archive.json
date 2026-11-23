@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "latest_2b5f9ee63996",
+      "section": "latest",
+      "sectionLabel": "Latest",
+      "type": "REAL",
+      "category": "WORLD",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "dek": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "body": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "author": "IriLine Desk",
+      "publishedAt": "2026-11-22T18:29:46+00:00",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+      "imageCredit": "Image via original publisher"
+    },
+    {
       "id": "latest_ca50e2792063",
       "section": "latest",
       "sectionLabel": "Latest",
@@ -4484,21 +4499,6 @@
       "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xx7whf/nus_medicine_dayone_and_cortical_labs_unveil/",
       "image": "https://source.unsplash.com/1600x900/?news&sig=meme_d65d451873aa",
       "imageCredit": "Photo via Unsplash (free to use)"
-    },
-    {
-      "id": "meme_bc5e3af3d7f5",
-      "section": "meme",
-      "sectionLabel": "Not-So-Serious",
-      "type": "MEME",
-      "category": "WEIRD",
-      "title": "NFL Network: Lions' Aidan Hutchinson feared to have suffered significant knee injury on sack celebration",
-      "dek": "submitted by /u/cogneuro [link] [comments]",
-      "body": "submitted by /u/cogneuro [link] [comments]",
-      "author": "IriLine Desk",
-      "publishedAt": "2026-11-15T21:34:39+00:00",
-      "sourceUrl": "https://www.reddit.com/r/nottheonion/comments/1xx7fre/nfl_network_lions_aidan_hutchinson_feared_to_have/",
-      "image": "https://external-preview.redd.it/wAoGxO82xTkkC1Iq166ODAtLtsKiyqVj9JkKXbCOrcA.jpeg?width=640&crop=smart&auto=webp&s=0620233c86f301cdb5aca72e932e9f50fda6171d",
-      "imageCredit": "Image via original publisher"
     }
   ]
 }
